@@ -4,9 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/static/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <title>Startsida</title>
 </head>
 <body>
-
+    <div class="header">
+        <h1>Arbetskompassen</h1>
+    </div>
+        <div class="lang-scroll">
+            <div class="lang-container">
+                {% for lang in languages %}
+                    <button class="lang-btn">
+                        <div class="lang-bg">
+                            <span class="lang-text">{{ lang["name"] }}</span>
+                        </div>
+                    </button>
+                {% endfor %}
+            </div>
+        </div>
+    <script src="/static/index.js"></script>
 </body>
 </html>

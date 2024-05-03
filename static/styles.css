@@ -3,10 +3,96 @@
     width: 100vw;
     height: 100vh;
     margin: 0;
+    font-family: "Bitter", serif;
 }
 
 body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
+
+h1 {
+    font-size: 24px;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    height: 72px;
+    display: flex;
+    text-align: center;
+    padding: 24px;
+    pointer-events: none;
+}
+
+.lang-scroll {
+    margin-top: 72px;
+    overflow-y: auto; /* Enables vertical scrolling */
+}
+
+.lang-container {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.lang-btn {
+    height: 34px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 0;
+    text-align: start;
+    cursor: pointer;
+    padding: 0px;
+    display: auto;
+    max-width: 400px;
+}
+
+.lang-bg {
+    background-color: rgba(90, 0, 255, 1);
+    width: 0px;
+    height: 100%;
+    display: flex;
+    transition: 0.1s;
+    text-wrap: nowrap;
+}
+
+.lang-text {
+    transition-property: margin, color;
+    font-weight: 500;
+    transition-duration: 0.1s, 0.1s;
+    pointer-events: none;
+    font-size: 18px;
+    padding: 0;
+    line-height: 200%;
+    margin-left: 10px;
+}
+
+.lang-btn:hover .lang-text {
+    margin-left: 16px;
+}
+
+.lang-btn:hover .lang-bg {
+    width: 2px;
+}
+
+.lang-btn.on .lang-bg {
+    width: 100%;
+    color: white;
+}
+
+/* Additional styles for tablets and up */
+@media (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
+  
+  /* Additional styles for desktops */
+  @media (min-width: 992px) {
+    .lang-btn {
+        padding-left: 20px;
+    }
+  }
+  
