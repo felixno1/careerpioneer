@@ -17,6 +17,10 @@ h1 {
     font-size: 24px;
 }
 
+form {
+    height: min-content;
+}
+
 .header {
     position: fixed;
     top: 0;
@@ -24,37 +28,122 @@ h1 {
     display: flex;
     text-align: center;
     padding: 24px;
-    pointer-events: none;
 }
 
-.lang-scroll {
+.footer {
+    position: fixed;
+    bottom: 0;
+    height: 72px;
+    display: flex;
+    text-align: center;
+    padding: 24px;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-window {
     margin-top: 72px;
-    overflow-y: auto; /* Enables vertical scrolling */
+    margin-bottom: 72px;
+    width: calc(100% - 24px);
+    height: calc(100% - 72px - 72px);
+    position: fixed;
+
+}
+
+#confirm-lang {
+    background-color: rgba(90, 0, 255, 1);
+    border: 0px;
+    height: 40px;
+    width: 80px;
+    color: white;
+    font-size: 20px;
+    position: sticky;
+    margin-top: 24px;
+    left: 24px;
+    bottom: 24px;
+    transform: translateX(-128px);
+    transition: 0.13s;
+    pointer-events: none;
+
+}
+
+#confirm-lang.show:hover {
+    transform: scale(110%);
+}
+
+#confirm-lang.show {
+    opacity: 1;
+    pointer-events: all;
+    cursor: pointer;
+    transform: translateY(0px);
+}
+
+#lang-bar {
+    margin-top: 72px;
+    width: 360px;
+    align-self: flex-start;
+    transform: translateX(-360px);
+    transition-property: transform;
+    transition-duration: 0.2s;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    background-color: rgb(255, 255, 255);
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    padding: 10px;
+}
+
+#lang-bar::-webkit-scrollbar {
+    display: none; /* Chrome, safari, opera */
+}
+
+#lang-picker {
+    width: min-content;
+    height: min-content;
+    position: absolute;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#lang-icon {
+    width: 32px;
+    height: 32px;
+    transition: 0.1s;
+}
+
+#lang-picker:hover #lang-icon {
+    transform: scale(110%);
+}
+
+#lang-bar.show {
+    transform: translateX(0px);
 }
 
 .lang-container {
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
+    max-width: 300px;
 }
 
 .lang-btn {
     height: 34px;
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0);
     border: 0;
     text-align: start;
     cursor: pointer;
     padding: 0px;
     display: auto;
-    max-width: 400px;
+    width: 320px;
 }
 
 .lang-bg {
-    background-color: rgba(90, 0, 255, 1);
-    width: 0px;
+    background-color: rgba(89, 0, 255, 0);
+    width: 2px;
     height: 100%;
     display: flex;
-    transition: 0.1s;
+    transition-duration: 0.2s, 0s;
+    transition-property: width, background-color;
     text-wrap: nowrap;
 }
 
@@ -67,6 +156,7 @@ h1 {
     padding: 0;
     line-height: 200%;
     margin-left: 10px;
+    height: 100%;
 }
 
 .lang-btn:hover .lang-text {
@@ -74,13 +164,15 @@ h1 {
 }
 
 .lang-btn:hover .lang-bg {
-    width: 2px;
+    background-color: rgba(90, 0, 255, 1);
 }
 
 .lang-btn.on .lang-bg {
-    width: 100%;
+    width: 320px;
     color: white;
+    background-color: rgba(90, 0, 255, 1);
 }
+
 
 /* Additional styles for tablets and up */
 @media (min-width: 768px) {
@@ -92,7 +184,7 @@ h1 {
   /* Additional styles for desktops */
   @media (min-width: 992px) {
     .lang-btn {
-        padding-left: 20px;
+        padding-left: 14px;
     }
   }
   

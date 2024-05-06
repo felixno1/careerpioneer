@@ -1,0 +1,11 @@
+{
+    "title": "Arbetskompassen",
+    "welcome": "Välkommen",
+    "common_questions": {
+        "header": "Vanliga frågor",
+        "1" : {
+            "q": "",
+            "a": ""
+        }
+    }
+}
