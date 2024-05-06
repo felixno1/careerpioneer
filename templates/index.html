@@ -7,23 +7,29 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    <title>Startsida</title>
+    <title>{{ translations['welcome'] }}</title>
 </head>
 <body>
+    
     <div class="header">
-        <h1>Arbetskompassen</h1>
+        <button id="lang-picker" class="show"><img id="lang-icon" src="{{ url_for('static', filename='/assets/lang.svg') }}"></button>
+        <h1>{{ translations['title'] }}</h1>
     </div>
-        <div class="lang-scroll">
-            <div class="lang-container">
-                {% for lang in languages %}
-                    <button class="lang-btn">
-                        <div class="lang-bg">
-                            <span class="lang-text">{{ lang["name"] }}</span>
-                        </div>
-                    </button>
-                {% endfor %}
-            </div>
-        </div>
+    <div class="main-window">{{ "translations['common_questions']['header']" }}</div>
+    <div id="lang-bar">
+        <form class="lang-container" action="/" method="post">
+            {% for lang in languages %}
+            <button class="lang-btn" type="button" name="language" value="{{ lang['code'] }}">
+                <div class="lang-bg">
+                    <span class="lang-text">{{ lang["name"] }}</span>
+                </div>
+            </button>
+            {% endfor %}
+            <input type="hidden" name="language" id="selected-language">
+            <button id="confirm-lang" type="submit">OK</button>
+        </form>
+    </div>
     <script src="/static/index.js"></script>
 </body>
 </html>
+
