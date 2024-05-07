@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const buttons = document.querySelectorAll('.lang-btn');
+    const langBtns = document.querySelectorAll('.lang-btn');
     const selectedLanguageInput = document.getElementById('selected-language');
-    const confirmLangButton = document.getElementById('confirm-lang');
+    const confirmLangBtn = document.getElementById('confirm-lang');
     const pickLangBtn = document.getElementById('lang-picker');
     const langBar = document.getElementById('lang-bar');
 
@@ -18,25 +18,25 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log("Preferred Language from Cookie:", preferredLanguage); // Debug: Check cookie value
 
     // Set the 'on' class for the preferred language, if it exists
-    buttons.forEach(button => {
-        if (button.value === preferredLanguage) {
-            button.classList.add('on');
-            selectedLanguageInput.value = button.value; // Ensure the pre-selected language is captured
+    langBtns.forEach(btn => {
+        if (btn.value === preferredLanguage) {
+            btn.classList.add('on');
+            selectedLanguageInput.value = btn.value; // Ensure the pre-selected language is captured
         }
     });
 
-    // Add click event listener to each language button
-    buttons.forEach(button => {
-        button.addEventListener('click', function() {
-            buttons.forEach(b => b.classList.remove('on'));
-            button.classList.add('on');
-            selectedLanguageInput.value = button.value; // Update selected language on click
-            console.log("Selected Language:", button.value); // Debug: Check button value
+    // Add click event listener to each language btn
+    langBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+            langBtns.forEach(b => b.classList.remove('on'));
+            btn.classList.add('on');
+            selectedLanguageInput.value = btn.value; // Update selected language on click
+            console.log("Selected Language:", btn.value); // Debug: Check btn value
 
             // Check if selected language is different from preferred language
-            if (button.value !== preferredLanguage) {
-                confirmLangButton.classList.add('show');
-                console.log("Show confirm button"); // Debug: Condition met
+            if (btn.value !== preferredLanguage) {
+                confirmLangBtn.classList.add('show');
+                console.log("Show confirm btn"); // Debug: Condition met
             }
         });
     });
@@ -47,7 +47,22 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Additional logic might be needed here to handle form submission, if necessary.
-    confirmLangButton.addEventListener('click', function() {
+    confirmLangBtn.addEventListener('click', function() {
         // The form will be submitted with the hidden input which now contains the selected language
     });
+
+    // Get all b.uttons with the class 'list-btn'
+    var listBtns = document.querySelectorAll('.list-btn');
+
+    // Add click event listener to each btn
+    listBtns.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            // Get the next sibling element, which is the .list-explanation div
+            var explanation = this.nextElementSibling;
+
+            // Toggle the 'show' class on the explanation div
+            explanation.classList.toggle('show');
+        });
+    });
+
 });
