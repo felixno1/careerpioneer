@@ -15,7 +15,30 @@
         <button id="lang-picker" class="show"><img id="lang-icon" src="{{ url_for('static', filename='/assets/lang.svg') }}"></button>
         <h1>{{ translations['title'] }}</h1>
     </div>
-    <div class="main-window">{{ "translations['common_questions']['header']" }}</div>
+    <div class="main-window">
+        <div class="column words">
+            <h2>{{ translations['terminology']['header'] }}</h2>
+            {% for term in translations['terminology']['content'] %}
+                <div class="list-item">
+                    <button class="list-btn">• {{ term['title'] }}</button>
+                    <div class="list-explanation">{{ term['description'] }}</div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="column legal">
+            <h2>{{ translations['legal']['header'] }}</h2>
+            {% for term in translations['legal']['content'] %}
+                <div class="list-item">
+                    <button class="list-btn">• {{ term['title'] }}</button>
+                    <div class="list-explanation">{{ term['description'] }}</div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="column ai">
+            <div class="compass-link">Find your career path</div>
+            <div class="chat">Ask other questions</div>
+        </div>
+    </div>
     <div id="lang-bar">
         <form class="lang-container" action="/" method="post">
             {% for lang in languages %}

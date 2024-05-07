@@ -1,11 +1,31 @@
 {
     "title": "Arbetskompassen",
     "welcome": "Välkommen",
-    "common_questions": {
-        "header": "Vanliga frågor",
-        "1" : {
-            "q": "",
-            "a": ""
-        }
+    "terminology": {
+        "header": "Common terminology",
+        "content" : [
+            {
+               "title": "Kollektivavtal",
+               "description": "Kollektivavtal är när alla får lika betalt :) TestTestTest TestTestTestTest TestTest TestTestTestTestTe stTestTestTe stTestTestTest "
+            },
+            {
+               "title": "Föräldraledighet",
+                "description": "När man är ledig för man har kids"
+            }
+        ]
+    },
+    "legal": {
+        "header": "Legal & regulations",
+        "content" : [
+            {
+               "title": "Anställningsskydd",
+               "description": "Anställningskydd är blablablabla"
+            },
+            {
+               "title": "Bajslagen",
+                "description": "När skiter ner sig"
+            }
+        ]
     }
+
 }
