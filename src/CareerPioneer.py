@@ -3,15 +3,15 @@ from tensorflow.keras.models import load_model
 import numpy as np
 
 # Load LabelEncoder
-with open('src/job_predict_model/assets/label_encoder.pkl', 'rb') as f:
+with open('src/cp_ai_model/assets/label_encoder.pkl', 'rb') as f:
     label_encoder = pickle.load(f)
 
 # Load TfidfVectorizer
-with open('src/job_predict_model/assets/vectorizer.pkl', 'rb') as f:
+with open('src/cp_ai_model/assets/vectorizer.pkl', 'rb') as f:
     vectorizer = pickle.load(f)
 
 # Load the trained model
-loaded_model = load_model('src/job_predict_model')
+loaded_model = load_model('src/cp_ai_model')
 
 def predict_top_n_classes(text, model, vectorizer, label_encoder, n=5):
     text_vector = vectorizer.transform([text]).toarray()

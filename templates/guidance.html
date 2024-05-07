@@ -16,22 +16,36 @@
         <h1>{{ translations['title-left'] }}<span class="left">{{ translations['title-right'] }}</span></h1>
     </div>
     <div class="main-window">
-        <div class="redirect-container">
-            <h2>Vad behöver du hjälp med?</h2>
-            <form class="redirect" action="{{ url_for('guidance') }}"><button>
-                <img class="redirect-icon" src="{{ url_for('static', filename='/assets/guidance.svg') }}">
-                Allmän vägledning kring den svenska arbetsmarknaden
-                <img class="redirect arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
-            </button></form>
-            <form class="redirect" action="{{ url_for('careersearch') }}"><button>
-                <img class="redirect-icon" src="{{ url_for('static', filename='/assets/careersearch.svg') }}">
-                Hitta ett yrke baserat på dina personliga kompetenser
-                <img class="redirect arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
-            </button></form>
+        <div class="column words">
+            <h2>{{ translations['terminology']['header'] }}</h2>
+            {% for term in translations['terminology']['content'] %}
+                <div class="list-item">
+                    <button class="list-btn">• {{ term['title'] }}</button>
+                    <div class="list-explanation">{{ term['description'] }}</div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="column legal">
+            <h2>{{ translations['legal']['header'] }}</h2>
+            {% for term in translations['legal']['content'] %}
+                <div class="list-item">
+                    <button class="list-btn">• {{ term['title'] }}</button>
+                    <div class="list-explanation">{{ term['description'] }}</div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="column ai">
+            <form class="compass-link" action="{{ url_for('careersearch') }}">
+                <button id="compass-btn">
+                    Find a job based on your personal skills
+                        <img class="compass arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
+                </button>
+            </form>
+            <div class="chat">Ask other questions</div>
         </div>
     </div>
     <div id="lang-bar">
-        <form class="lang-container" action="/" method="post">
+        <form class="lang-container" action="/guidance" method="post">
             {% for lang in languages %}
             <button class="lang-btn" type="button" name="language" value="{{ lang['code'] }}">
                 <div class="lang-bg">
@@ -43,6 +57,7 @@
             <button id="confirm-lang" type="submit">OK</button>
         </form>
     </div>
+    <script src="/static/guidance.js"></script>
     <script src="/static/global.js"></script>
 </body>
 </html>

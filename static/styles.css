@@ -3,7 +3,7 @@
     width: 100vw;
     height: 100vh;
     margin: 0;
-    font-family: "Bitter", serif;
+    font-family: "Comfortaa", sans-serif;
 }
 
 body {
@@ -14,11 +14,26 @@ body {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+h1 .left {
+    color: rgba(90, 0, 255, 1);
 }
 
 form {
     height: min-content;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+}
+
+img {
+    margin: 0;
+    padding: 0;
 }
 
 .header {
@@ -28,6 +43,8 @@ form {
     display: flex;
     text-align: center;
     padding: 24px;
+    z-index: 10;
+    pointer-events: none;
 }
 
 .footer {
@@ -52,6 +69,73 @@ form {
     justify-content: center;
 }
 
+.redirect-container {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 80%;
+    background-color: rgba(90, 0, 255, 0.1);
+    border-radius: 6px;
+    font-size: 24px;
+    padding-bottom: 48px;
+}
+
+.redirect-container h2 {
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.redirect {
+    width: 512px;
+    height: 176px;
+    margin: 10px;
+    border-radius: 6px;
+}
+
+.redirect button {
+    border-radius: 6px;
+    border: 0;
+    background-color: rgba(90, 0, 255, 0.1);
+    box-shadow: 0 -45px 65px 0 inset rgba(90, 0, 255, 0.1);
+    transition: 0.2s;
+    cursor: pointer;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    padding-left: 72px;
+    
+}
+
+.redirect:hover button {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 5px 10px 0 rgba(90, 0, 255, 0.1);;
+    transform: scale(101%);
+}
+
+.redirect-icon {
+    width: 48px;
+    height: 48px;
+}
+
+.arrow {
+    height: 72px;
+    width: 72px;
+    transition: 0.2s;
+    transform: translateX(72px);
+}
+
+.redirect:hover .arrow {
+    transform: translateX(0px);
+}
+
 .column {
     padding: 10px;
     margin: 10px;
@@ -62,10 +146,11 @@ form {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     height: min-content;
-    margin-bottom: 10px;
+    padding: 5px;
+    margin-bottom: 15px;
     color: rgba(90, 0, 255, 1);
 }
 
@@ -79,9 +164,8 @@ h2 {
 .list-btn {
     margin-top: 10px;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     height: min-content;
-    width: 100%;
     text-align: start;
     padding: 0px;
     border: 0;
@@ -110,21 +194,58 @@ h2 {
 }
 
 .legal {
-    background-color: rgba(89, 0, 255, 0.2);
+    background-color: rgba(90, 0, 255, 0.1);
 }
 
 .ai {
-    background-color: rgba(90, 0, 255, 0.05);
+    background-color: rgba(90, 0, 255, 0.1);
     display: flex;
     flex-direction: column;
 }
 
 .compass-link {
     width: 100%;
-    height: 256px;
+    height: 142px;
+}
+
+#compass-btn {
+    border: 0;
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
+    overflow: hidden;
     background-color: rgba(90, 0, 255, 0.1);
     border-radius: 6px;
-    padding: 10px
+    transition: 0.2s;
+    cursor: pointer;
+    font-size: 20px;
+    text-wrap: balance;
+    display: flex;
+    align-items: center;
+    padding-left: 72px;
+    box-shadow: 0 -50px 40px 0 inset rgba(90, 0, 255, 0.1);;
+    animation: wiggle 1s ease forwards;
+}
+
+#compass-btn:hover {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 5px 10px 0 rgba(90, 0, 255, 0.1);;
+    transform: scale(101%);
+}
+
+#compass-btn:hover .compass.arrow {
+    transform: translateX(0px);
+}
+
+@keyframes wiggle {
+    25% {
+        transform: rotate(0deg);
+    } 50% {
+        transform: rotate(2deg);
+    } 75% {
+        transform: rotate(-2deg);
+    } 100% {
+        transform: rotate(0deg);
+    }
 }
 
 .chat {
@@ -133,14 +254,6 @@ h2 {
     margin-top: 10px;
     padding: 10px;
     border-radius: 6px;
-}
-
-.sidebar {
-    background-color: rgb(208, 208, 208);
-    width: 256px;
-    height: min-content;
-    padding: 14px;
-    border-radius: 10px;
 }
 
 #confirm-lang {
@@ -174,8 +287,7 @@ h2 {
 
 #lang-bar {
     backdrop-filter: blur(10px);
-    margin-top: 60px;
-    padding-top: 12px;
+    padding-top: 76px;
     padding-left: 10px;
     width: 360px;
     align-self: flex-start;
@@ -185,9 +297,10 @@ h2 {
     display: flex;
     flex-direction: column;
     overflow-y: scroll;
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.3);
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+    box-shadow: 10px 20px 20px rgba(0, 0, 0, 0.036);
 }
 
 #lang-bar::-webkit-scrollbar {
@@ -202,6 +315,7 @@ h2 {
     background-color: rgba(255, 255, 255, 0);
     border-radius: 10px;
     cursor: pointer;
+    pointer-events: all;
 }
 
 #lang-icon {
