@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, make_response, redirect, url_for
 import json
-from lib.lang import languages
+from src.lang import languages
+
+
 
 
 app = Flask(__name__)
