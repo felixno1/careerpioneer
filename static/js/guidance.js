@@ -26,12 +26,27 @@ document.addEventListener('DOMContentLoaded', function() {
         event.preventDefault();
         this.form.submit();
     });
-});
 
-function autoGrow(element) {
-    element.style.height = 'auto'; // Reset the height to shrink to content
-    const maxLines = 4; // Maximum lines you want to allow
-    const lineHeight = parseInt(window.getComputedStyle(element).lineHeight);
-    const maxHeight = lineHeight * maxLines; // Calculate maximum height
-    element.style.height = Math.min(element.scrollHeight, maxHeight) + 'px'; // Set height, not exceeding max
-}
+    // Code for textarea input handling to enable/disable the send button
+    var textarea = document.getElementById('message-area'); // Replace 'your-textarea-id' with your actual textarea's ID
+    var sendBtn = document.getElementById('send-btn');
+
+    // Event listener to handle input events on the textarea
+    textarea.addEventListener('input', function() {
+        // Check if the textarea is empty
+        if (textarea.value.trim() !== '') {
+            sendBtn.removeAttribute('disabled'); // Remove disabled attribute if textarea is not empty
+        } else {
+            sendBtn.setAttribute('disabled', 'disabled'); // Set disabled attribute if textarea is empty
+        }
+    });
+
+    function autoGrow(element) {
+        element.style.height = 'auto'; // Reset the height to shrink to content
+        const maxLines = 4; // Maximum lines you want to allow
+        const lineHeight = parseInt(window.getComputedStyle(element).lineHeight);
+        const maxHeight = lineHeight * maxLines; // Calculate maximum height
+        element.style.height = Math.min(element.scrollHeight, maxHeight) + 'px'; // Set height, not exceeding max
+    }
+
+});

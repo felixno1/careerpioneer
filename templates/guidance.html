@@ -51,8 +51,9 @@
                     
                 </div>
                 <div id="message-field">
-                    <textarea id="message" name="message" placeholder="Type your message..." required oninput="autoGrow(this)"></textarea>
-                    <button type="submit">Send</button>
+                    <textarea id="message-area" name="message" placeholder="Type your message..." required oninput="autoGrow(this)"></textarea>
+                    <button id="send-btn" type="submit" disabled><img id="send-icon" src="{{ url_for('static', filename='/assets/send.svg') }}">
+                    </button>
                 </div>
             </form>
         </div>

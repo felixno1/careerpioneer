@@ -160,9 +160,9 @@
     bottom: 0px;
 }
 
-#chat textarea {
+#message-area {
     height: auto;
-    width: 100%;         
+    width: 100%;
     padding: 8px;
     box-sizing: border-box;
     line-height: 1.5em;  
@@ -171,15 +171,28 @@
     overflow-y: auto;
     outline: none; 
     border-top-left-radius: 6px;
-    border-bottom-left-radius: 6px;
-    
+    border-bottom-left-radius: 6px;   
 }
 
-#chat button {
+#send-btn {
     width: 48px;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
     height:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(90, 0, 255);
+    transition: 0.2s;
+}
+
+#send-btn:disabled {
+    opacity: 0.5;
+}
+
+#send-icon {
+    width: 24px;
+    height: 24px;
 }
 
 
