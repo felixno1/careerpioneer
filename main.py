@@ -1,8 +1,14 @@
 from flask import Flask, render_template, request, make_response, redirect, url_for
 import json
 from src.lang import languages
+from src.skills import skills, weighted_shuffle
+from src.CareerPioneer import predict_jobs
 
-app = Flask(__name__)        
+
+app = Flask(__name__)    
+
+class sesh:
+    recommendations = {}
 
 def handle_cookie(request, endpoint_name):
     print("Endpoint Name:", endpoint_name)  # Debug print
@@ -48,7 +54,38 @@ def careersearch():
         return handle_cookie(request, 'careersearch')
     else:
         preferred_language, translations = get_lang()
-        return render_template('careersearch.html', languages=languages, preferred_language=preferred_language, translations=translations)
+
+        shuffled_skills = weighted_shuffle(skills)
+        return render_template('careersearch/start.html', languages=languages, preferred_language=preferred_language, translations=translations, skills=shuffled_skills)
+
+
+
+@app.route('/update-skills', methods=['POST'])
+def update_skills():
+    selected_skills = request.json
+    for skill in skills:
+        if skill.name in selected_skills:
+            skill.bool = True
+
+    #GPT
+    sesh.recommendations = predict_jobs(selected_skills, 5)
+    #Collect Data
+    #if Config.Data.ENABLE:
+    #    api.sheets.collect_data(selected_skills)
+    return redirect(url_for('show_recommendations'))
+
+@app.route('/show-recommendations', methods=['GET', 'POST'])
+def show_recommendations():
+    if request.method == 'POST':
+        return handle_cookie(request, 'careersearch')
+    else:
+        preferred_language, translations = get_lang()
+        recommendations = sesh.recommendations
+        print(recommendations)
+        if len(recommendations) > 0:
+            return render_template('careersearch/recommendations.html', languages=languages, preferred_language=preferred_language, translations=translations, recommendations=recommendations)
+        else:
+            return "No recommendations available"
 
 
 if __name__ == '__main__':

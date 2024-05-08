@@ -1,0 +1,116 @@
+.job-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+
+.job-container h2 {
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    margin-block: 16px;
+    justify-self: center;
+    width: 100%;
+    margin-left: 32px;
+}
+
+.job-btn-container {
+    width: 512px;
+}
+
+.job-box {
+    width: 100%;
+    height: 50px;
+    display: grid;
+    transition: 0.2s;
+}
+
+.job-btn {
+    height: 50px;
+    background-color: rgba(0, 255, 255, 0);
+    padding-inline: 0;
+    padding-block: 5px;
+    text-wrap: nowrap;
+    text-align: start;
+    font-size: 20px;
+    cursor: s-resize;
+}
+
+.job-bg {
+    width: 2px;
+    height: 100%;
+    background-color: rgb(90, 0, 255);
+    transition: 0.2s;
+    border-radius: 6px;
+    align-content: center;
+}
+
+.job-text {
+    font-weight: 400;
+    margin-left: 10px;
+    transition: 0.1s;
+}
+
+.job-percent {
+    font-weight: 500;
+    color: rgb(90, 0, 255);
+    transition: 0.2s;
+
+}
+
+.job-btn:hover .job-bg {
+    width: 100%;
+}
+
+.job-btn:hover .job-text {
+    margin-left: 20px;
+    color: white;
+}
+
+.job-btn:hover .job-percent {
+    color: white;
+}
+
+
+.job-box.on {
+    height: 500px;
+    margin-bottom: 10px;
+    background-color: rgba(90, 0, 255, 0.1);
+    border-radius: 6px;
+}
+  
+  .job-box.on .job-bg {
+    width: 100%;
+}
+
+  .job-box.on .job-btn {
+    cursor: n-resize;
+}
+  
+  .job-box.on .job-text {
+    color: white
+}
+  
+  .job-box.on .job-percent {
+    color: white;
+}
+
+  /* Additional styles for tablets and up */
+@media (min-width: 768px) {
+    .main-window {
+
+    }
+    
+    .column {
+
+    }
+
+  }
+  
+  /* Additional styles for desktops */
+  @media (min-width: 992px) {
+    .lang-btn {
+        padding-left: 14px;
+    }
+  }

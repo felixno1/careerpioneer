@@ -1,0 +1,208 @@
+.column {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.list-item {
+    width: 100%;
+    height: min-content;
+    margin-bottom: 5px;
+    box-shadow: 2px 0 0 0 rgba(90, 0, 255, 0) inset;
+}
+
+.list-btn {
+    height: 34px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    text-align: start;
+    cursor: pointer;
+    padding: 0px;
+    display: auto;
+    width: 320px;
+}
+
+.list-bg {
+    background-color: rgba(90, 0, 255, 0);
+    width: 2px;
+    height: 100%;
+    display: flex;
+    transition-duration: 0.2s, 0s;
+    transition-property: width, background-color;
+    text-wrap: nowrap;
+    border-radius: 6px;
+}
+
+.list-text {
+    transition-property: margin, color;
+    font-weight: 500;
+    transition-duration: 0.1s, 0.1s;
+    pointer-events: none;
+    font-size: 18px;
+    padding: 0;
+    line-height: 200%;
+    margin-left: 10px;
+    height: 100%;
+}
+
+.list-item:hover {
+    box-shadow: 2px 0 0 0 rgb(90, 0, 255) inset;
+}
+
+.list-item:focus-within {
+    box-shadow: 2px 0 0 0 rgb(90, 0, 255) inset;
+}
+
+
+.list-btn:hover .list-text {
+    margin-left: 16px;
+}
+
+.list-explanation {
+    font-size: 16px;
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+    padding-inline: 16px;
+    font-weight: 400;
+
+}
+
+.list-explanation.show {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: min-content;
+}
+
+.words {
+    background-color: rgba(90, 0, 255, 0.1);
+}
+
+.legal {
+    background-color: rgba(90, 0, 255, 0.1);
+}
+
+.ai {
+    background-color: rgba(90, 0, 255, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.compass-link {
+    width: 100%;
+    height: 128px;
+}
+
+
+#compass-btn {
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
+    overflow: hidden;
+    background-color: rgba(90, 0, 255, 0.1);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 20px;
+    text-wrap: balance;
+    display: flex;
+    align-items: center;
+    padding-left: 72px;
+    box-shadow: 0 -50px 40px 0 inset rgba(90, 0, 255, 0.1);
+    animation: wiggle 1s ease forwards;
+    transition: 0.2s;
+}
+
+#compass-btn:hover {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 5px 10px 0 rgba(90, 0, 255, 0.1);;
+    transform: scale(101%);
+}
+
+#compass-btn:hover .compass.arrow {
+    transform: translateX(0px);
+}
+
+@keyframes wiggle {
+    25% {
+        transform: rotate(0deg);
+    } 50% {
+        transform: rotate(2deg);
+    } 75% {
+        transform: rotate(-2deg);
+    } 100% {
+        transform: rotate(0deg);
+    }
+}
+
+#chat {
+    width: 100%;
+    background-color: rgba(90, 0, 255, 0.1);
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+#convo-field {
+    width: 100%;
+    height: 100%;
+}
+
+#message-field {
+    display: flex;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+}
+
+#chat textarea {
+    height: auto;
+    width: 100%;         
+    padding: 8px;
+    box-sizing: border-box;
+    line-height: 1.5em;  
+    border: 0;
+    resize: none;     
+    overflow-y: auto;
+    outline: none; 
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    
+}
+
+#chat button {
+    width: 48px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    height:auto;
+}
+
+
+
+/* Additional styles for tablets and up */
+@media (min-width: 768px) {
+    .main-window {
+        position: fixed;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    
+    .column {
+        width: 31%;
+    }
+
+  }
+  
+  /* Additional styles for desktops */
+  @media (min-width: 992px) {
+    .lang-btn {
+        padding-left: 14px;
+    }
+  }
+  

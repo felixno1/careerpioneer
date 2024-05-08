@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="/static/css/guidance.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
@@ -20,7 +21,9 @@
             <h2>{{ translations['terminology']['header'] }}</h2>
             {% for term in translations['terminology']['content'] %}
                 <div class="list-item">
-                    <button class="list-btn">• {{ term['title'] }}</button>
+                    <button class="list-btn">
+                        <span class="list-text">{{ term['title'] }}</span>
+                    </button>
                     <div class="list-explanation">{{ term['description'] }}</div>
                 </div>
             {% endfor %}
@@ -29,7 +32,9 @@
             <h2>{{ translations['legal']['header'] }}</h2>
             {% for term in translations['legal']['content'] %}
                 <div class="list-item">
-                    <button class="list-btn">• {{ term['title'] }}</button>
+                    <button class="list-btn">
+                        <span class="list-text">{{ term['title'] }}</span>
+                    </button>
                     <div class="list-explanation">{{ term['description'] }}</div>
                 </div>
             {% endfor %}
@@ -41,7 +46,15 @@
                         <img class="compass arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
                 </button>
             </form>
-            <div class="chat">Ask other questions</div>
+            <form id="chat">Ask other questions
+                <div id="convo-field">
+                    
+                </div>
+                <div id="message-field">
+                    <textarea id="message" name="message" placeholder="Type your message..." required oninput="autoGrow(this)"></textarea>
+                    <button type="submit">Send</button>
+                </div>
+            </form>
         </div>
     </div>
     <div id="lang-bar">
@@ -57,8 +70,8 @@
             <button id="confirm-lang" type="submit">OK</button>
         </form>
     </div>
-    <script src="/static/guidance.js"></script>
-    <script src="/static/global.js"></script>
+    <script src="/static/js/guidance.js"></script>
+    <script src="/static/js/script.js"></script>
 </body>
 </html>
 
