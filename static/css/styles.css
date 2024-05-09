@@ -214,6 +214,34 @@ h2 {
     background-color: rgba(90, 0, 255, 1);
 }
 
+#home-link {
+    width: min-content;
+    height: min-content;
+}
+
+#home-btn {
+    width: min-content;
+    height: min-content;
+    position: absolute;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 10px;
+    cursor: pointer;
+    pointer-events: all;
+    margin-left: 48px;
+}
+
+#home-icon {
+    width: 32px;
+    height: 32px;
+    transition: 0.1s;
+}
+
+
+#home-btn:hover #home-icon {
+    transform: scale(110%);
+}
+
 
 /* Additional styles for tablets and up */
 @media (min-width: 768px) {

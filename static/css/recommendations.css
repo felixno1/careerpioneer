@@ -21,20 +21,20 @@
 
 .job-box {
     width: 100%;
-    height: 50px;
+    height: 64px;
     display: grid;
     transition: 0.2s;
 }
 
 .job-btn {
-    height: 50px;
+    height: 64px;
     background-color: rgba(0, 255, 255, 0);
     padding-inline: 0;
-    padding-block: 5px;
+    padding-bottom: 10px;
     text-wrap: nowrap;
     text-align: start;
     font-size: 20px;
-    cursor: s-resize;
+    cursor: pointer;
 }
 
 .job-bg {
@@ -84,9 +84,6 @@
     width: 100%;
 }
 
-  .job-box.on .job-btn {
-    cursor: n-resize;
-}
   
   .job-box.on .job-text {
     color: white

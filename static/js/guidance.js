@@ -84,7 +84,13 @@ function displayUserMessage(message) {
     responseDiv.className = 'msg gpt';
     responseDiv.textContent = ' • • • ';
     messagesDiv.appendChild(responseDiv);
+    
+    if (messagesDiv.lastElementChild) {
+        messagesDiv.lastElementChild.scrollIntoView({ behavior: 'smooth' });
+        messagesDiv.lastElementChild.classList.remove('old')
+    }
 }
+
 
 function sendMessage(message) {
     displayUserMessage(message);

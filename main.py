@@ -79,7 +79,6 @@ def elaborate():
     answer = {'gpt':explain(description, prompt)}
     sesh.chat_logs.append(message)
     sesh.chat_logs.append(answer)
-    print(answer)
     return jsonify(sesh.chat_logs)
 
 
