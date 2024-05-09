@@ -2,6 +2,8 @@
     "title-left": "KARRIÄRS",
     "title-right": "PIONIÄREN",
     "welcome": "Välkommen",
+    "tell_me_more": "Berätta mer",
+    "elaborate": "Berätta mer om",
     "terminology": {
         "header": "Common terminology",
         "content" : [
@@ -28,5 +30,4 @@
             }
         ]
     }
-
 }

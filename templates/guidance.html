@@ -24,18 +24,26 @@
                     <button class="list-btn">
                         <span class="list-text">{{ term['title'] }}</span>
                     </button>
-                    <div class="list-explanation">{{ term['description'] }}</div>
+                    <div class="list-explanation">
+                        {{ term['description'] }}
+                        <button class="explain-btn" 
+                                data-description="{{ term['description'] }}"
+                                data-title="{{ term['title'] }}"
+                                data-elaborate="{{ translations['elaborate'] }}">
+                            {{ translations['tell_me_more'] }}
+                        </button>
+                    </div>
                 </div>
             {% endfor %}
-        </div>
+        </div>        
         <div class="column legal">
             <h2>{{ translations['legal']['header'] }}</h2>
-            {% for term in translations['legal']['content'] %}
+            {% for law in translations['legal']['content'] %}
                 <div class="list-item">
                     <button class="list-btn">
-                        <span class="list-text">{{ term['title'] }}</span>
+                        <span class="list-text">{{ law['title'] }}</span>
                     </button>
-                    <div class="list-explanation">{{ term['description'] }}</div>
+                    <div class="list-explanation">{{ law['description'] }}</div>
                 </div>
             {% endfor %}
         </div>
@@ -46,16 +54,20 @@
                         <img class="compass arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
                 </button>
             </form>
-            <form id="chat">Ask other questions
+            <div id="chat">Ask other questions
                 <div id="convo-field">
-                    
+                    {% for log in chat_logs %}
+                        {% for key in log.keys() %}
+                            <div class="msg {{ key }}">{{ log[key] }}</div>
+                        {% endfor %}
+                    {% endfor %}
                 </div>
                 <div id="message-field">
-                    <textarea id="message-area" name="message" placeholder="Type your message..." required oninput="autoGrow(this)"></textarea>
-                    <button id="send-btn" type="submit" disabled><img id="send-icon" src="{{ url_for('static', filename='/assets/send.svg') }}">
+                    <textarea id="message-area" placeholder="Type your message..." oninput="autoGrow(this)"></textarea>
+                    <button id="send-btn" disabled><img id="send-icon" src="{{ url_for('static', filename='/assets/send.svg') }}">
                     </button>
                 </div>
-            </form>
+            </div>
         </div>
     </div>
     <div id="lang-bar">

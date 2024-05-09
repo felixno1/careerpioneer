@@ -1,52 +1,155 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Get all buttons with the class 'list-btn'
-    var listBtns = document.querySelectorAll('.list-btn');
+    // Initialize UI components
+    initializeListButtons();
+    initializeSendButton();
+    initializeMessageArea();
+    initializeCompassButton();
+    initializeExplainButtons();
+});
 
-    // Add click event listener to each button
-    listBtns.forEach(function(btn) {
+function initializeListButtons() {
+    const listBtns = document.querySelectorAll('.list-btn');
+    listBtns.forEach(btn => {
         btn.addEventListener('click', function() {
-            // Get the next sibling element, which is the .list-explanation div
-            var explanation = this.nextElementSibling;
-
-            // First, remove the 'show' class from all explanations except the current one
-            var allExplanations = document.querySelectorAll('.list-explanation');
-            allExplanations.forEach(function(ex) {
+            const explanation = this.nextElementSibling;
+            const allExplanations = document.querySelectorAll('.list-explanation');
+            allExplanations.forEach(ex => {
                 if (ex !== explanation) {
                     ex.classList.remove('show');
                 }
             });
-
-            // Then, toggle the 'show' class on the clicked element's explanation
             explanation.classList.toggle('show');
         });
     });
+}
 
-    // Existing code for the compass button
-    document.getElementById('compass-btn').addEventListener('click', function(event) {
+function initializeSendButton() {
+    const messageArea = document.getElementById('message-area');
+    const sendBtn = document.getElementById('send-btn');
+    sendBtn.addEventListener('click', function(event) {
+        event.preventDefault();
+        const message = messageArea.value;
+        const messagesDiv = document.getElementById('convo-field');
+        if (message.trim() !== '') {
+            messageArea.value = '';
+            sendMessage(message);
+        }
+        if (messagesDiv.lastElementChild) {
+            messagesDiv.lastElementChild.scrollIntoView({ behavior: 'smooth' });
+        }
+    });
+}
+
+function initializeMessageArea() {
+    const messageArea = document.getElementById('message-area');
+    const sendBtn = document.getElementById('send-btn');
+    messageArea.addEventListener('input', function() {
+        sendBtn.disabled = messageArea.value.trim() === '';
+    });
+}
+
+function initializeCompassButton() {
+    const compassBtn = document.getElementById('compass-btn');
+    compassBtn.addEventListener('click', function(event) {
         event.preventDefault();
         this.form.submit();
     });
+}
 
-    // Code for textarea input handling to enable/disable the send button
-    var textarea = document.getElementById('message-area'); // Replace 'your-textarea-id' with your actual textarea's ID
-    var sendBtn = document.getElementById('send-btn');
+function initializeExplainButtons() {
+    const explainBtns = document.querySelectorAll('.explain-btn');
+    explainBtns.forEach(btn => {
+        btn.addEventListener('click', function(event) {
+            event.preventDefault();
+            const description = this.getAttribute('data-description');
+            const title = this.getAttribute('data-title');
+            const elaborate = this.getAttribute('data-elaborate');
+            sendDescription(description, title, elaborate)
+                .then(chatLogs => {
+                    console.log('Chat logs updated:', chatLogs);
+                    updateMessages(chatLogs);
+                })
+                .catch(error => console.error('Failed to send description or update messages:', error));
+        });
+    });
+}
 
-    // Event listener to handle input events on the textarea
-    textarea.addEventListener('input', function() {
-        // Check if the textarea is empty
-        if (textarea.value.trim() !== '') {
-            sendBtn.removeAttribute('disabled'); // Remove disabled attribute if textarea is not empty
-        } else {
-            sendBtn.setAttribute('disabled', 'disabled'); // Set disabled attribute if textarea is empty
+function displayUserMessage(message) {
+    const messagesDiv = document.getElementById('convo-field');
+    const messageDiv = document.createElement('div');
+    messageDiv.className = 'msg user';
+    messageDiv.textContent = message;
+    messagesDiv.appendChild(messageDiv);
+    const responseDiv = document.createElement('div');
+    responseDiv.className = 'msg gpt';
+    responseDiv.textContent = ' • • • ';
+    messagesDiv.appendChild(responseDiv);
+}
+
+function sendMessage(message) {
+    displayUserMessage(message);
+
+    fetch('/send-message', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ user: message })
+    })
+    .then(response => response.json())
+    .then(chatLogs => updateMessages(chatLogs))
+    .catch(error => console.error('Error:', error));
+}
+
+function sendDescription(description, title, elaborate) {
+    displayUserMessage(`${elaborate} ${title}`);
+
+    return fetch('/explain', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ description: description, title: title, elaborate: elaborate })
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not OK');
+        }
+        return response.json();
+    })
+    .catch((error) => {
+        console.error('Error:', error);
+        throw error; // Rethrow after logging to ensure downstream .catch handles it
+    });
+}
+
+function updateMessages(chatLogs) {
+    const messagesDiv = document.getElementById('convo-field');
+    messagesDiv.innerHTML = '';
+    chatLogs.forEach(log => {
+        if (log.user) {
+            const newUserMessage = document.createElement('div');
+            newUserMessage.className = 'msg user old';
+            newUserMessage.textContent = log.user;
+            messagesDiv.appendChild(newUserMessage);
+        }
+        if (log.gpt) {
+            const newGptMessage = document.createElement('div');
+            newGptMessage.className = 'msg gpt old';
+            newGptMessage.textContent = log.gpt;
+            messagesDiv.appendChild(newGptMessage);
         }
     });
-
-    function autoGrow(element) {
-        element.style.height = 'auto'; // Reset the height to shrink to content
-        const maxLines = 4; // Maximum lines you want to allow
-        const lineHeight = parseInt(window.getComputedStyle(element).lineHeight);
-        const maxHeight = lineHeight * maxLines; // Calculate maximum height
-        element.style.height = Math.min(element.scrollHeight, maxHeight) + 'px'; // Set height, not exceeding max
+    if (messagesDiv.lastElementChild) {
+        messagesDiv.lastElementChild.scrollIntoView({ behavior: 'smooth' });
+        messagesDiv.lastElementChild.classList.remove('old')
     }
+}
 
-});
+function autoGrow(element) {
+    element.style.height = 'auto';
+    const maxLines = 4;
+    const lineHeight = parseInt(window.getComputedStyle(element).lineHeight);
+    const maxHeight = lineHeight * maxLines;
+    element.style.height = Math.min(element.scrollHeight, maxHeight) + 'px';
+}
