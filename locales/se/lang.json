@@ -1,16 +1,19 @@
 {
-    "title": "Arbetskompassen",
+    "title-left": "KARRIÄRS",
+    "title-right": "PIONIÄREN",
     "welcome": "Välkommen",
+    "tell_me_more": "Berätta mer",
+    "elaborate": "Berätta mer om",
     "terminology": {
         "header": "Common terminology",
         "content" : [
             {
                "title": "Kollektivavtal",
-               "description": "Kollektivavtal är när alla får lika betalt :) TestTestTest TestTestTestTest TestTest TestTestTestTestTe stTestTestTe stTestTestTest "
+               "description": "Ett kollektivavtal i Sverige är ett avtal som görs mellan arbetsgivare och grupper av arbetstagare, oftast genom en fackförening. Det här avtalet bestämmer saker som hur mycket du ska få betalt, hur många timmar du får jobba, och vilka förmåner du har som till exempel semester. \nAtt ha ett kollektivavtal betyder att både arbetsgivare och arbetstagare har kommit överens om arbetsvillkoren, vilket gör jobbmiljön mer stabil och säker. Om en arbetsplats har ett kollektivavtal kan de anställda känna sig tryggare eftersom de vet vad de kan förvänta sig när det gäller lön och andra arbetsförhållanden.\nKollektivavtal hjälper också till att undvika konflikter på jobbet, eftersom de innehåller regler för hur problem ska lösas."
             },
             {
                "title": "Föräldraledighet",
-                "description": "När man är ledig för man har kids"
+                "description": "Föräldraledighet i Sverige är en tid då föräldrar kan vara lediga från jobbet för att ta hand om sitt barn. Det här systemet är till för att göra det möjligt för föräldrar att spendera tid med sina barn utan att förlora sin inkomst.\nNär du är föräldraledig får du pengar från staten, som kallas föräldrapenning. Du kan vara ledig från jobbet från och med att barnet föds och fortsätta vara det tills barnet är ungefär 1,5 år gammal. Totalt har du rätt till 480 dagar föräldraledighet för varje barn, och dessa dagar kan delas mellan föräldrarna.\nSystemet är flexibelt, vilket betyder att du kan välja hur du vill ta ut dessa dagar. Du kan till exempel vara helt ledig en period eller arbeta färre timmar per dag.\nFöräldraledigheten i Sverige är ett sätt att stödja familjer så att både mammor och pappor kan ta hand om sina barn och samtidigt känna ekonomisk trygghet."
             }
         ]
     },
@@ -27,5 +30,4 @@
             }
         ]
     }
-
 }

@@ -3,7 +3,7 @@
     width: 100vw;
     height: 100vh;
     margin: 0;
-    font-family: "Bitter", serif;
+    font-family: "Comfortaa", sans-serif;
 }
 
 body {
@@ -14,11 +14,27 @@ body {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+h1 .left {
+    color: rgba(90, 0, 255, 1);
 }
 
 form {
     height: min-content;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+img {
+    margin: 0;
+    padding: 0;
 }
 
 .header {
@@ -28,6 +44,8 @@ form {
     display: flex;
     text-align: center;
     padding: 24px;
+    z-index: 10;
+    pointer-events: none;
 }
 
 .footer {
@@ -52,95 +70,20 @@ form {
     justify-content: center;
 }
 
-.column {
-    padding: 10px;
-    margin: 10px;
-    border-radius: 6px;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
+.arrow {
+    height: 72px;
+    width: 72px;
+    transition: 0.2s;
+    transform: translateX(72px);
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     height: min-content;
-    margin-bottom: 10px;
+    padding: 5px;
+    margin-bottom: 15px;
     color: rgba(90, 0, 255, 1);
-}
-
-.list-item {
-    width: 100%;
-    height: min-content;
-    margin-bottom: 5px;
-    box-shadow: 0 1px 0 0 rgba(90, 0, 255, 1) inset;
-}
-
-.list-btn {
-    margin-top: 10px;
-    font-size: 16px;
-    font-weight: 600;
-    height: min-content;
-    width: 100%;
-    text-align: start;
-    padding: 0px;
-    border: 0;
-    background-color: rgba(255, 255, 255, 0);
-    cursor: pointer;
-}
-
-.list-explanation {
-    font-size: 16px;
-    height: 0;
-    width: 100%;
-    overflow: hidden;
-    padding-left: 10px;
-    font-weight: 400;
-
-}
-
-.list-explanation.show {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    height: min-content;
-}
-
-.words {
-    background-color: rgba(90, 0, 255, 0.1);
-}
-
-.legal {
-    background-color: rgba(89, 0, 255, 0.2);
-}
-
-.ai {
-    background-color: rgba(90, 0, 255, 0.05);
-    display: flex;
-    flex-direction: column;
-}
-
-.compass-link {
-    width: 100%;
-    height: 256px;
-    background-color: rgba(90, 0, 255, 0.1);
-    border-radius: 6px;
-    padding: 10px
-}
-
-.chat {
-    width: 100%;
-    background-color: rgba(90, 0, 255, 0.488);
-    margin-top: 10px;
-    padding: 10px;
-    border-radius: 6px;
-}
-
-.sidebar {
-    background-color: rgb(208, 208, 208);
-    width: 256px;
-    height: min-content;
-    padding: 14px;
-    border-radius: 10px;
 }
 
 #confirm-lang {
@@ -174,8 +117,7 @@ h2 {
 
 #lang-bar {
     backdrop-filter: blur(10px);
-    margin-top: 60px;
-    padding-top: 12px;
+    padding-top: 76px;
     padding-left: 10px;
     width: 360px;
     align-self: flex-start;
@@ -185,9 +127,10 @@ h2 {
     display: flex;
     flex-direction: column;
     overflow-y: scroll;
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.3);
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+    box-shadow: 10px 20px 20px rgba(0, 0, 0, 0.036);
 }
 
 #lang-bar::-webkit-scrollbar {
@@ -202,6 +145,7 @@ h2 {
     background-color: rgba(255, 255, 255, 0);
     border-radius: 10px;
     cursor: pointer;
+    pointer-events: all;
 }
 
 #lang-icon {

@@ -4,35 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/static/css/styles.css">
-    <link rel="stylesheet" href="/static/css/index.css">
+    <link rel="stylesheet" href="/static/css/recommendations.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
-    <title>{{ translations['welcome'] }}</title>
+    <title>Button Example</title>
 </head>
 <body>
-    
     <div class="header">
         <button id="lang-picker" class="show"><img id="lang-icon" src="{{ url_for('static', filename='/assets/lang.svg') }}"></button>
         <h1>{{ translations['title-left'] }}<span class="left">{{ translations['title-right'] }}</span></h1>
     </div>
     <div class="main-window">
-        <div class="redirect-container">
-            <h2>Vad behöver du hjälp med?</h2>
-            <form class="redirect" action="{{ url_for('guidance') }}"><button>
-                <img class="redirect-icon" src="{{ url_for('static', filename='/assets/guidance.svg') }}">
-                Allmän vägledning kring den svenska arbetsmarknaden
-                <img class="redirect arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
-            </button></form>
-            <form class="redirect" action="{{ url_for('careersearch') }}"><button>
-                <img class="redirect-icon" src="{{ url_for('static', filename='/assets/careersearch.svg') }}">
-                Hitta ett yrke baserat på dina personliga kompetenser
-                <img class="redirect arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
-            </button></form>
+        <div class="job-container">
+            <h2>Rekommenderade jobb</h2>
+            <div class="job-btn-container">
+                {% for key, value in recommendations.items() %}
+                <div class="job-box">
+                    <button class="job-btn">
+                        <div class="job-bg"><span class="job-text">{{ key }} - <span class="job-percent">{{ value }}%</span></span></div>
+                    </button>
+                </div>
+                {% endfor %}
+            </div>
         </div>
     </div>
     <div id="lang-bar">
-        <form class="lang-container" action="/" method="post">
+        <form class="lang-container" action="/careersearch" method="post">
             {% for lang in languages %}
             <button class="lang-btn" type="button" name="language" value="{{ lang['code'] }}">
                 <div class="lang-bg">
@@ -45,6 +43,6 @@
         </form>
     </div>
     <script src="/static/js/script.js"></script>
-</body>
+    <script src="/static/js/recommendations.js"></script></body>
 </html>
 

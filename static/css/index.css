@@ -1,0 +1,92 @@
+
+
+.redirect-container {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 80%;
+    background-color: rgba(90, 0, 255, 0.1);
+    border-radius: 6px;
+    font-size: 24px;
+    padding-bottom: 48px;
+}
+
+.redirect-container h2 {
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.redirect {
+    width: 512px;
+    height: 176px;
+    margin: 10px;
+    border-radius: 6px;
+}
+
+.redirect button {
+    border-radius: 6px;
+    background-color: rgba(90, 0, 255, 0.1);
+    box-shadow: 0 -45px 65px 0 inset rgba(90, 0, 255, 0.1);
+    transition: 0.2s;
+    cursor: pointer;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    padding-left: 72px;
+    
+}
+
+.redirect:hover button {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 5px 10px 0 rgba(90, 0, 255, 0.1);;
+    transform: scale(101%);
+}
+
+.redirect-icon {
+    width: 48px;
+    height: 48px;
+}
+
+.arrow {
+    height: 72px;
+    width: 72px;
+    transition: 0.2s;
+    transform: translateX(72px);
+}
+
+.redirect:hover .arrow {
+    transform: translateX(0px);
+}
+
+
+
+/* Additional styles for tablets and up */
+@media (min-width: 768px) {
+    .main-window {
+        position: fixed;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    
+    .column {
+        width: 31%;
+    }
+
+  }
+  
+  /* Additional styles for desktops */
+  @media (min-width: 992px) {
+    .lang-btn {
+        padding-left: 14px;
+    }
+  }
+  

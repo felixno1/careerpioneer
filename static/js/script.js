@@ -40,29 +40,30 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-
+    
     // Toggle the language selection bar visibility
     pickLangBtn.addEventListener('click', function() {
         langBar.classList.toggle('show');
+        event.stopPropagation();
+
+    });
+
+    // Prevent clicks within the langBar from closing it only when it has the 'show' class
+    langBar.addEventListener('click', function(event) {
+        if (langBar.classList.contains('show')) {
+            event.stopPropagation();
+        }
+    });
+
+    // Close the langBar if clicking outside of it
+    document.addEventListener('click', function(event) {
+        if (langBar.classList.contains('show')) {
+            langBar.classList.remove('show');
+        }
     });
 
     // Additional logic might be needed here to handle form submission, if necessary.
     confirmLangBtn.addEventListener('click', function() {
         // The form will be submitted with the hidden input which now contains the selected language
     });
-
-    // Get all b.uttons with the class 'list-btn'
-    var listBtns = document.querySelectorAll('.list-btn');
-
-    // Add click event listener to each btn
-    listBtns.forEach(function(btn) {
-        btn.addEventListener('click', function() {
-            // Get the next sibling element, which is the .list-explanation div
-            var explanation = this.nextElementSibling;
-
-            // Toggle the 'show' class on the explanation div
-            explanation.classList.toggle('show');
-        });
-    });
-
 });
