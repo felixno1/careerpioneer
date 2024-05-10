@@ -1,4 +1,32 @@
 {
-    "title": "Qiblada Shaqada",
-    "welcome": "Soo dhowow"
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "Ku soo dhawow",
+    "what_do_you_need_help_with": "Maxaad caawimo uga baahan tahay?",
+    "guidance": "Hagid guud oo ku saabsan suuqa shaqada ee Iswiidhan",
+    "job_finder": "Raadi shaqo ku saleysan xirfadahaaga",
+    "tell_me_more": "Ii sheeg wax badan",
+    "elaborate": "Faahfaahi wax dheeraad ah oo ku saabsan",
+    "ask_ai": "Weydii AI...",
+    "what_skills": "Waa maxay xirfadahaaga?",
+    "search_job": "Raadi shaqo!",
+    "ai_loading": "AI waxay soo saareysaa xirfado...",
+    "recommended_jobs": "Shaqooyinka lagu taliyay",
+    "n_of_ads_1": "Hadda waxaa jira",
+    "n_of_ads_2": "xayeysiis oo loogu talagalay xirfaddan",
+    "terminology": {
+        "header": "Ereybixinta caamka ah",
+        "content" : [
+
+        ]
+    },
+    "legal": {
+        "header": "Shuruucda & Xeerarka",
+        "content" : [
+        
+        ]
+    }
 }
+
+

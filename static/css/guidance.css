@@ -1,6 +1,7 @@
 #column-container {
     margin: 0px;
-    padding: 0px;
+    padding-block: 0px;
+    padding-inline: 10px;
     height: 100%;
     position: absolute;
     display: flex;

@@ -1,7 +1,32 @@
 {
-    "title": "Boussole professionnelle",
-    "welcome": "Bienvenue"
-}
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "Bienvenue",
+    "what_do_you_need_help_with": "De quoi avez-vous besoin d'aide ?",
+    "guidance": "Orientation générale concernant le marché du travail suédois",
+    "job_finder": "Trouvez un emploi basé sur vos compétences",
+    "tell_me_more": "Dites-en plus",
+    "elaborate": "Dites-en plus sur",
+    "ask_ai": "Demander à l'IA...",
+    "what_skills": "Quelles compétences possédez-vous ?",
+    "search_job": "Trouver des emplois !",
+    "ai_loading": "L'IA génère des professions...",
+    "recommended_jobs": "Emplois recommandés",
+    "n_of_ads_1": "Il y a actuellement",
+    "n_of_ads_2": "annonces pour la profession",
+    "terminology": {
+        "header": "Terminologie commune",
+        "content" : [
 
+        ]
+    },
+    "legal": {
+        "header": "Lois & Règlements",
+        "content" : [
+        
+        ]
+    }
+}
 
 

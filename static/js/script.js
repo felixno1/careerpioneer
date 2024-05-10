@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function applySemiticClass(language) {
-        const semiticLanguages = ['ar', 'da', 'pe'];
+        const semiticLanguages = ['ar', 'da', 'pe', 'yi'];
         if (semiticLanguages.includes(language)) {
             document.querySelectorAll('body *').forEach(element => {
                 element.classList.add('semitic');
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Check for cookie and apply class only on page load
     const languageCookie = getCookie('preferred_language');
-    if (languageCookie && (languageCookie === 'ar' || languageCookie === 'da' || languageCookie === 'pe')) {
+    if (languageCookie && (languageCookie === 'ar' || languageCookie === 'da' || languageCookie === 'pe' || languageCookie === 'yi')) {
         applySemiticClass(languageCookie);
     }
 

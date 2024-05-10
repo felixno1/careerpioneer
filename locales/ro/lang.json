@@ -1,5 +1,32 @@
 {
-    "title": "Busola profesională",
-    "welcome": "Bine ați venit"
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "Aćhailen",
+    "what_do_you_need_help_with": "So si manglal te keres?",
+    "guidance": "Amalipe taj upre pala i svako bućarno piaća",
+    "job_finder": "Rodarel job andar tiri kompetentsii",
+    "tell_me_more": "Katar ektar dikh",
+    "elaborate": "Dikh ektar so bi",
+    "ask_ai": "Phućhal le AI...",
+    "what_skills": "Savena kompetentsii hin tiri?",
+    "search_job": "Rodarel job!",
+    "ai_loading": "AI si te kerel profesie...",
+    "recommended_jobs": "Sarane joburi",
+    "n_of_ads_1": "Si akana",
+    "n_of_ads_2": "obiavuri pe i profesia",
+    "terminology": {
+        "header": "Terminologie comună",
+        "content" : [
+
+        ]
+    },
+    "legal": {
+        "header": "Legi și Regulamente",
+        "content" : [
+        
+        ]
+    }
 }
+
 

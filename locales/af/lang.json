@@ -1,4 +1,32 @@
 {
-    "title": "Werkkompas",
-    "welcome": "Welkom"
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "Welkom",
+    "what_do_you_need_help_with": "Waarmee het jy hulp nodig?",
+    "guidance": "Algemene leiding oor die Sweedse arbeidsmark",
+    "job_finder": "Vind 'n werk gebaseer op jou vaardighede",
+    "tell_me_more": "Vertel my meer",
+    "elaborate": "Vertel meer oor",
+    "ask_ai": "Vra AI...",
+    "what_skills": "Watter vaardighede het jy?",
+    "search_job": "Soek werk!",
+    "ai_loading": "AI vind beroepe...",
+    "recommended_jobs": "Aanbevole werk",
+    "n_of_ads_1": "Daar is tans",
+    "n_of_ads_2": "advertensies vir die beroep",
+    "terminology": {
+        "header": "Algemene terminologie",
+        "content" : [
+
+        ]
+    },
+    "legal": {
+        "header": "Wette & Regulasies",
+        "content" : [
+        
+        ]
+    }
 }
+
+

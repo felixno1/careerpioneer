@@ -86,13 +86,28 @@
 }
 
   
-  .job-box.on .job-text {
-    color: white
+.job-box.on .job-text {
+color: white
 }
   
-  .job-box.on .job-percent {
+.job-box.on .job-percent {
     color: white;
 }
+
+
+.job-box.semitic {
+    direction: rtl;
+}
+
+.job-percent.semitic {
+    margin-right: 10px
+}
+
+.job-btn.semitic:hover .job-percent {
+    margin-right: 20px
+}
+
+
 
 /*Phones*/
 @media (max-width: 768px) {

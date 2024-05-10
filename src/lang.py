@@ -8,7 +8,6 @@ languages = [
     {"name":"French (Français)","code": "fr"},
     {"name":"Hindi (हिन्दी)","code": "hi"},
     {"name":"Japanese (日本語)","code": "ja"},
-    {"name":"Jiddisch (ייִדיש)","code": "ji"},
     {"name":"Korean (한국어)","code": "ko"},
     {"name":"Mandarin (普通话)","code": "ma"},
     {"name":"Persian (فارسی)","code": "pe"},
@@ -18,6 +17,7 @@ languages = [
     {"name":"Russian (Русский)","code": "ru"},
     {"name":"Somali (Soomaali)","code": "so"},
     {"name":"Thai (ไทย)","code": "th"},
-    {"name":"Turkish (Türkçe)","code": "tu"}
+    {"name":"Turkish (Türkçe)","code": "tu"},
+    {"name":"Yiddish (ייִדיש)","code": "yi"}
 ]
 
