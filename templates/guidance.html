@@ -60,7 +60,7 @@
             <div class="column ai">
                 <form id="compass-link" action="{{ url_for('careersearch') }}">
                     <button id="compass-btn">
-                        {{ translations['job_finder'] }}
+                        <div id="compass-txt">{{ translations['job_finder'] }}</div>
                             <img class="compass arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
                     </button>
                 </form>
