@@ -32,9 +32,9 @@
                         <button class="skill-btn" data-count="{{ skill.count}} " data-id="{{ skill.top_id }}" data-name="{{ skill.name }}">{{ skill.name }}</button>
                     {% endfor %}
                 </div>
-                <button id="confirm-btn" disabled>
-                    Sök Jobb
-                </button>
+                    <button id="confirm-btn" disabled>
+                        {{ translations['search_job'] }}
+                    </button>
                 <div id="progress-bar"></div>
             </div>
             <div id="loading-container">

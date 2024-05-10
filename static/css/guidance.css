@@ -1,3 +1,13 @@
+#column-container {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 .column {
     padding: 10px;
     margin: 10px;
@@ -283,25 +293,46 @@
     }
 }
 
-/* Additional styles for tablets and up */
-@media (min-width: 768px) {
+/*Phones*/
+@media (max-width: 768px) {
+
     .main-window {
-        position: fixed;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-    }
-    
-    .column {
-        width: 31%;
+        overflow: scroll;
+        margin: 0px;
+        height: calc(100% - 72px);
+        padding-top: 32px;
     }
 
-  }
-  
-  /* Additional styles for desktops */
-  @media (min-width: 992px) {
-    .lang-btn {
-        padding-left: 14px;
+    #column-container {
+        overflow-x: hidden;
+        overflow-y: scroll;
+        flex-direction: column;
+        height: fit-content;
+        width: 100%;
     }
-  }
+
+
+    .column {
+        margin-inline: 0px;
+        width: 100%;
+        height: fit-content;
+    }
+
+    .list-text {
+        font-size: 16px;
+    }
+
+    .list-explanation {
+        font-size: 14px;
+    }
+
+    #chat {
+        height: 80vh;
+    }
+}
+  
+/*Tablets*/
+@media (max-width: 992px) {
+
+}
   

@@ -24,6 +24,7 @@
     height: 64px;
     display: grid;
     transition: 0.2s;
+    overflow: hidden;
 }
 
 .job-btn {
@@ -74,7 +75,7 @@
 
 
 .job-box.on {
-    height: 500px;
+    height: 200px;
     margin-bottom: 10px;
     background-color: rgba(90, 0, 255, 0.1);
     border-radius: 6px;
@@ -93,21 +94,15 @@
     color: white;
 }
 
-  /* Additional styles for tablets and up */
-@media (min-width: 768px) {
-    .main-window {
-
+/*Phones*/
+@media (max-width: 768px) {
+    .job-btn-container {
+        width: 100%;
     }
-    
-    .column {
-
-    }
-
-  }
+}
   
-  /* Additional styles for desktops */
-  @media (min-width: 992px) {
-    .lang-btn {
-        padding-left: 14px;
-    }
-  }
+/*Tablets*/
+@media (max-width: 992px) {
+
+}
+  

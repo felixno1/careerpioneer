@@ -245,22 +245,43 @@
 }
 
 
-/* Additional styles for tablets and up */
-@media (min-width: 768px) {
-    .main-window {
 
+/*Phones*/
+@media (max-width: 768px) {
+    
+    .refresh-container {
+        margin: 0;
+    }
+
+    .refresh-container h2 {
+        font-size: 18px;
+    }
+
+    #skill-container {
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        
     }
     
-    .column {
-
+    .skill-btn {
+        font-size: 12px;
+        margin: 3px;
+        padding: 8px;
     }
 
-  }
+    #confirm-btn {
+        width: min-content;
+        height: min-content;
+        padding: 8px;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+}
   
-  /* Additional styles for desktops */
-  @media (min-width: 992px) {
-    .lang-btn {
-        padding-left: 14px;
-    }
-  }
+/*Tablets*/
+@media (max-width: 992px) {
+
+}
   

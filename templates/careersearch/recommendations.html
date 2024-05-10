@@ -20,11 +20,12 @@
         <div class="job-container">
             <h2>{{ translations['recommended_jobs'] }}</h2>
             <div class="job-btn-container">
-                {% for key, value in recommendations.items() %}
+                {% for job in recommendations %}
                 <div class="job-box">
                     <button class="job-btn">
-                        <div class="job-bg"><span class="job-text">{{ key }} - <span class="job-percent">{{ value }}%</span></span></div>
+                        <div class="job-bg"><span class="job-text">{{ job['title'] }} - <span class="job-percent">{{ job['percentage'] }}%</span></span></div>
                     </button>
+                    Det finns just nu {{ job['ads'] }} aktiva annonser för {{ job['title'] }}
                 </div>
                 {% endfor %}
             </div>

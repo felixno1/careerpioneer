@@ -11,11 +11,11 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    overflow: hidden;
 }
 
 h1 {
     font-size: 30px;
-    font-weight: 700;
 }
 
 h1 .left {
@@ -66,7 +66,7 @@ img {
     height: calc(100% - 72px - 72px);
     position: absolute;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
 }
 
@@ -243,8 +243,31 @@ h2 {
 }
 
 
-/* Additional styles for tablets and up */
-@media (min-width: 768px) {
+/*Phones*/
+@media (max-width: 768px) {
+
+    h1 {
+        font-size: 16px;
+    }
+
+    .header {
+        background-color: white;
+    }
+    
+    #lang-icon {
+        width: 20px;
+        height: 20px;
+    }
+
+    #home-btn {
+        margin-left: 32px;
+    }
+
+    #home-icon {
+        width: 20px;
+        height:20px;
+    }
+
     .main-window {
         position: fixed;
         display: flex;
@@ -258,8 +281,8 @@ h2 {
 
   }
   
-  /* Additional styles for desktops */
-  @media (min-width: 992px) {
+/*Tablets*/
+  @media (max-width: 992px) {
     .lang-btn {
         padding-left: 14px;
     }
