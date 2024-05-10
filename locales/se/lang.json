@@ -46,7 +46,7 @@
                     "description": "Fackliga föreningar, eller fackföreningar, är organisationer som representerar arbetstagarnas intressen på arbetsplatsen. De förhandlar om löner och arbetsvillkor, erbjuder stöd och rådgivning till medlemmar och arbetar för bättre arbetsförhållanden."
                 },
                 {
-                    "title": "Uppsägningstid/reglement",
+                    "title": "Uppsägningstid",
                     "description": "Uppsägningstid är den tid som måste passera från det att en anställning sägs upp tills den upphör. Längden på uppsägningstiden kan variera beroende på vad som anges i kollektivavtalet eller anställningsavtalet och varierar ofta beroende på anställningstidens längd."
                 },
                 {
@@ -73,16 +73,32 @@
         },
         
     "legal": {
-        "header": "Legal & regulations",
+        "header": "Laws & regulations",
         "content" : [
             {
-               "title": "Anställningsskydd",
-               "description": "Anställningskydd är blablablabla"
+               "title": "Arbetsmiljölagen",
+               "description": "Arbetsmiljölagen i Sverige reglerar arbetsmiljön och syftar till att förebygga ohälsa och olyckor på arbetsplatsen. Arbetsgivaren ansvarar för att följa lagens krav, inklusive att skapa en arbetsmiljöpolicy, följa regler och ge utbildning. Arbetstagarna har rätt till medverkan och inflytande genom skyddsombud och arbetsmiljöutskott. \nSammantaget syftar lagen till att skydda både arbetstagare och arbetsgivare och främja en trygg arbetsplats."
             },
             {
-               "title": "Hittepålagen",
-                "description": "Hej HEj hej"
-            }
+               "title": "Arbetstidslagen",
+               "description": "Arbetstidslagen reglerar arbetsgivares och arbetstagares rättigheter och skyldigheter gällande arbetstider och vilotider i Sverige. Lagen fastställer bland annat hur många timmar en arbetstagare får arbeta per dag och vecka, vilka rättigheter som gäller för raster och vilotid, samt hur övertidsarbete och ledighet ska hanteras. Syftet är att skydda arbetstagare från överarbete och säkerställa en balans mellan arbete och fritid."
+            },
+            {
+               "title": "Lagen om anställningsskydd",
+               "description": "Lagen om anställningsskydd är en lag som reglerar arbetsgivares och arbetstagares rättigheter och skyldigheter vid anställning. Lagen fastställer bland annat regler för uppsägning av anställning, varsel vid uppsägning, och regler kring anställningens form och längd. \nSyftet med lagen om anställningsskydd är att skydda arbetstagare från godtyckliga och orättvisa uppsägningar samt att främja trygghet och stabilitet på arbetsmarknaden."
+            },
+            {
+               "title": "Diskrimineringslagen",
+               "description": "Diskrimineringslagen syftar till att förhindra och motverka diskriminering i samhället. Den förbjuder diskriminering på grund av kön, könsidentitet eller könsuttryck, etnisk tillhörighet, religion eller annan trosuppfattning, funktionsnedsättning, sexuell läggning samt ålder. \nLagen gäller inom många områden, inklusive arbetsliv, utbildning, och offentlig service. Dess syfte är att säkerställa lika rättigheter och möjligheter för alla människor och främja ett samhälle fritt från diskriminering."
+            },
+            {
+               "title": "Lagen om medbestämmande i arbetslivet",
+               "description": "Lagen om medbestämmande i arbetslivet är en lag som reglerar relationen mellan arbetsgivare och arbetstagare genom att ge arbetstagare medbestämmanderätt i olika frågor som rör arbetsplatsen, förutsatt att arbetsplatsen har kollektivavtal. Lagen fastställer bland annat regler för facklig organisering och förhandlingar mellan arbetsgivare och fackföreningar. \nSyftet med denna lag är att främja ett gott samarbete mellan arbetsgivare och arbetstagare samt att säkerställa arbetstagarnas inflytande och delaktighet i arbetslivet."
+            },
+            {
+                "title": "Lönegarantilagen",
+                 "description": "Lönegarantilagen är en lag som träder i kraft vid en arbetsgivares konkurs eller likvidation. Syftet med lagen är att säkerställa att anställda får ut sina lönefordringar och andra ekonomiska anspråk trots arbetsgivarens insolvens. Enligt lagen ska anställda ges ersättning från en statlig lönegarantifond för obetalda löner, semesterersättning, och andra ekonomiska fordringar som härstammar från anställningen. Detta bidrar till att skydda arbetstagare mot ekonomisk förlust vid arbetsgivarens konkurs."
+             }
         ]
     }
 }
