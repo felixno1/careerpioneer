@@ -25,7 +25,7 @@
                     <button class="job-btn">
                         <div class="job-bg"><span class="job-text">{{ job['title'] }} - <span class="job-percent">{{ job['percentage'] }}%</span></span></div>
                     </button>
-                    Det finns just nu {{ job['ads'] }} aktiva annonser för {{ job['title'] }}
+                    {{ translations['n_of_ads_1'] }} {{ job['ads'] }} {{ translations['n_of_ads_2'] }} {{ job['title'] }}
                 </div>
                 {% endfor %}
             </div>
