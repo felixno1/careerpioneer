@@ -8,64 +8,75 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
-    <title>{{ translations['welcome'] }}</title>
+    <title>{{ translations['careerpioneer'] }}</title>
 </head>
 <body>
     
     <div class="header">
         <button id="lang-picker" class="show"><img id="lang-icon" src="{{ url_for('static', filename='/assets/lang.svg') }}"></button>
+        <form id="home-link" action="{{ url_for('index') }}"><button id="home-btn"><img id="home-icon" src="{{ url_for('static', filename='/assets/home.svg') }}"></button></form>
         <h1>{{ translations['title-left'] }}<span class="left">{{ translations['title-right'] }}</span></h1>
     </div>
     <div class="main-window">
-        <div class="column words">
-            <h2>{{ translations['terminology']['header'] }}</h2>
-            {% for term in translations['terminology']['content'] %}
-                <div class="list-item">
-                    <button class="list-btn">
-                        <span class="list-text">{{ term['title'] }}</span>
+        <div id="column-container">
+            <div class="column words">
+                <h2>{{ translations['terminology']['header'] }}</h2>
+                {% for term in translations['terminology']['content'] %}
+                    <div class="list-item">
+                        <button class="list-btn">
+                            <span class="list-text">{{ term['title'] }}</span>
+                        </button>
+                        <div class="list-explanation">
+                            {{ term['description'] }}
+                            <button class="explain-btn" 
+                                    data-description="{{ term['description'] }}"
+                                    data-title="{{ term['title'] }}"
+                                    data-elaborate="{{ translations['elaborate'] }}">
+                                {{ translations['tell_me_more'] }}
+                            </button>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>        
+            <div class="column words">
+                <h2>{{ translations['legal']['header'] }}</h2>
+                {% for law in translations['legal']['content'] %}
+                    <div class="list-item">
+                        <button class="list-btn">
+                            <span class="list-text">{{ law['title'] }}</span>
+                        </button>
+                        <div class="list-explanation">
+                            {{ law['description'] }}
+                            <button class="explain-btn" 
+                                    data-description="{{ law['description'] }}"
+                                    data-title="{{ law['title'] }}"
+                                    data-elaborate="{{ translations['elaborate'] }}">
+                                {{ translations['tell_me_more'] }}
+                            </button>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>        
+            <div class="column ai">
+                <form id="compass-link" action="{{ url_for('careersearch') }}">
+                    <button id="compass-btn">
+                        {{ translations['job_finder'] }}
+                            <img class="compass arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
                     </button>
-                    <div class="list-explanation">
-                        {{ term['description'] }}
-                        <button class="explain-btn" 
-                                data-description="{{ term['description'] }}"
-                                data-title="{{ term['title'] }}"
-                                data-elaborate="{{ translations['elaborate'] }}">
-                            {{ translations['tell_me_more'] }}
+                </form>
+                <div id="chat">
+                    <div id="convo-field">
+                        {% for log in chat_logs %}
+                            {% for key in log.keys() %}
+                                <div class="msg {{ key }}">{{ log[key] }}</div>
+                            {% endfor %}
+                        {% endfor %}
+                    </div>
+                    <div id="message-field">
+                        <textarea id="message-area" placeholder="{{ translations['ask_ai'] }}" oninput="autoGrow(this)"></textarea>
+                        <button id="send-btn" disabled><img id="send-icon" src="{{ url_for('static', filename='/assets/send.svg') }}">
                         </button>
                     </div>
-                </div>
-            {% endfor %}
-        </div>        
-        <div class="column legal">
-            <h2>{{ translations['legal']['header'] }}</h2>
-            {% for law in translations['legal']['content'] %}
-                <div class="list-item">
-                    <button class="list-btn">
-                        <span class="list-text">{{ law['title'] }}</span>
-                    </button>
-                    <div class="list-explanation">{{ law['description'] }}</div>
-                </div>
-            {% endfor %}
-        </div>
-        <div class="column ai">
-            <form class="compass-link" action="{{ url_for('careersearch') }}">
-                <button id="compass-btn">
-                    Find a job based on your personal skills
-                        <img class="compass arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
-                </button>
-            </form>
-            <div id="chat">Ask other questions
-                <div id="convo-field">
-                    {% for log in chat_logs %}
-                        {% for key in log.keys() %}
-                            <div class="msg {{ key }}">{{ log[key] }}</div>
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-                <div id="message-field">
-                    <textarea id="message-area" placeholder="Type your message..." oninput="autoGrow(this)"></textarea>
-                    <button id="send-btn" disabled><img id="send-icon" src="{{ url_for('static', filename='/assets/send.svg') }}">
-                    </button>
                 </div>
             </div>
         </div>

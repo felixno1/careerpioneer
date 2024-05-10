@@ -21,12 +21,12 @@
             <h2>Vad behöver du hjälp med?</h2>
             <form class="redirect" action="{{ url_for('guidance') }}"><button>
                 <img class="redirect-icon" src="{{ url_for('static', filename='/assets/guidance.svg') }}">
-                Allmän vägledning kring den svenska arbetsmarknaden
+                {{ translations['guidance'] }}
                 <img class="redirect arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
             </button></form>
             <form class="redirect" action="{{ url_for('careersearch') }}"><button>
                 <img class="redirect-icon" src="{{ url_for('static', filename='/assets/careersearch.svg') }}">
-                Hitta ett yrke baserat på dina personliga kompetenser
+                {{ translations['job_finder'] }}
                 <img class="redirect arrow" src="{{ url_for('static', filename='/assets/arrow.svg') }}">
             </button></form>
         </div>

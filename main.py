@@ -4,6 +4,7 @@ from src.lang import languages
 from src.skills import skills, weighted_shuffle
 from src.CareerPioneer import predict_jobs
 from src.gpt import chat, explain
+from src.jobsearch import search_number_of_hits
 
 
 app = Flask(__name__)    
@@ -59,6 +60,22 @@ def careersearch():
         return render_template('careersearch/start.html', languages=languages, preferred_language=preferred_language, translations=translations, skills=shuffled_skills)
 
 
+@app.route('/show-recommendations', methods=['GET', 'POST'])
+def show_recommendations():
+    if request.method == 'POST':
+        return handle_cookie(request, 'careersearch')
+    else:
+        preferred_language, translations = get_lang()
+        recommendations = sesh.recommendations
+        for job in recommendations:
+            ads = search_number_of_hits(f"{job['title']}")
+            job['ads'] = int(ads)
+        if len(recommendations) > 0:
+            return render_template('careersearch/recommendations.html', languages=languages, preferred_language=preferred_language, translations=translations, recommendations=recommendations)
+        else:
+            return "No recommendations available"
+
+
 #route-functions:
 @app.route('/send-message', methods=['POST'])
 def send_message():
@@ -79,7 +96,6 @@ def elaborate():
     answer = {'gpt':explain(description, prompt)}
     sesh.chat_logs.append(message)
     sesh.chat_logs.append(answer)
-    print(answer)
     return jsonify(sesh.chat_logs)
 
 
@@ -96,20 +112,6 @@ def update_skills():
     #    api.sheets.collect_data(selected_skills)
     return redirect(url_for('show_recommendations'))
 
-@app.route('/show-recommendations', methods=['GET', 'POST'])
-def show_recommendations():
-    if request.method == 'POST':
-        return handle_cookie(request, 'careersearch')
-    else:
-        preferred_language, translations = get_lang()
-        recommendations = sesh.recommendations
-        print(recommendations)
-        if len(recommendations) > 0:
-            return render_template('careersearch/recommendations.html', languages=languages, preferred_language=preferred_language, translations=translations, recommendations=recommendations)
-        else:
-            return "No recommendations available"
-
-
 if __name__ == '__main__':
     app.run(debug=True)
 
@@ -123,3 +125,5 @@ def gpt_response(data, chat_logs):
     answer = {'gpt': chat(data, chat_logs)}
     chat_logs.append(answer)  # Update the session logs once the GPT response is received
     print(chat_logs)
+
+

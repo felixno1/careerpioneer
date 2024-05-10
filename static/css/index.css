@@ -68,25 +68,35 @@
 
 
 
-/* Additional styles for tablets and up */
-@media (min-width: 768px) {
-    .main-window {
-        position: fixed;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-    }
+/*Phones*/
+@media (max-width: 768px) {
     
-    .column {
-        width: 31%;
+    .redirect-container {
+        width: 100%;
+        height: 100%;
     }
 
-  }
-  
-  /* Additional styles for desktops */
-  @media (min-width: 992px) {
-    .lang-btn {
-        padding-left: 14px;
+    .redirect-container h2 {
+        font-size: 18px;
     }
-  }
+
+    .redirect {
+        width: 90%;
+    }
+
+    .redirect button {
+        padding: 32px;
+        font-size: 16px;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+}
+  
+/*Tablets*/
+@media (max-width: 992px) {
+
+}
   

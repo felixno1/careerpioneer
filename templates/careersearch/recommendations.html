@@ -8,22 +8,24 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
-    <title>Button Example</title>
+    <title>{{ translations['careerpioneer'] }}</title>
 </head>
 <body>
     <div class="header">
         <button id="lang-picker" class="show"><img id="lang-icon" src="{{ url_for('static', filename='/assets/lang.svg') }}"></button>
+        <form id="home-link" action="{{ url_for('index') }}"><button id="home-btn"><img id="home-icon" src="{{ url_for('static', filename='/assets/home.svg') }}"></button></form>
         <h1>{{ translations['title-left'] }}<span class="left">{{ translations['title-right'] }}</span></h1>
     </div>
     <div class="main-window">
         <div class="job-container">
-            <h2>Rekommenderade jobb</h2>
+            <h2>{{ translations['recommended_jobs'] }}</h2>
             <div class="job-btn-container">
-                {% for key, value in recommendations.items() %}
+                {% for job in recommendations %}
                 <div class="job-box">
                     <button class="job-btn">
-                        <div class="job-bg"><span class="job-text">{{ key }} - <span class="job-percent">{{ value }}%</span></span></div>
+                        <div class="job-bg"><span class="job-text">{{ job['title'] }} - <span class="job-percent">{{ job['percentage'] }}%</span></span></div>
                     </button>
+                    {{ translations['n_of_ads_1'] }} {{ job['ads'] }} {{ translations['n_of_ads_2'] }} {{ job['title'] }}
                 </div>
                 {% endfor %}
             </div>

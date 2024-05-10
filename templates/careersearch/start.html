@@ -8,12 +8,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
-    <title>{{ translations['welcome'] }}</title>
+    <title>{{ translations['careerpioneer'] }}</title>
 </head>
 <body>
     
     <div class="header">
         <button id="lang-picker" class="show"><img id="lang-icon" src="{{ url_for('static', filename='/assets/lang.svg') }}"></button>
+        <form id="home-link" action="{{ url_for('index') }}"><button id="home-btn"><img id="home-icon" src="{{ url_for('static', filename='/assets/home.svg') }}"></button></form>
         <h1>{{ translations['title-left'] }}<span class="left">{{ translations['title-right'] }}</span></h1>
     </div>
     <div class="main-window">
@@ -21,7 +22,7 @@
             <div id="skill-container">
                 <div class="btn-container">
                     <div class="refresh-container">
-                        <h2>Vilka kompetenser har du?</h2>
+                        <h2>{{ translations['what_skills'] }}</h2>
 
                         <button id="refresh-btn">
                             <img id="refresh-icon" src="{{ url_for('static', filename='/assets/refresh.svg') }}">
@@ -31,13 +32,13 @@
                         <button class="skill-btn" data-count="{{ skill.count}} " data-id="{{ skill.top_id }}" data-name="{{ skill.name }}">{{ skill.name }}</button>
                     {% endfor %}
                 </div>
-                <button id="confirm-btn" disabled>
-                    Sök Jobb
-                </button>
+                    <button id="confirm-btn" disabled>
+                        {{ translations['search_job'] }}
+                    </button>
                 <div id="progress-bar"></div>
             </div>
             <div id="loading-container">
-                <h1>AI tar fram yrken</h1>
+                <h1>{{ translations['ai_loading'] }}</h1>
                 <div class="wave-container">
                     <div class="wave"></div>
                     <div class="wave"></div>

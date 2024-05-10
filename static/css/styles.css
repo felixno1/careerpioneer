@@ -11,11 +11,11 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    overflow: hidden;
 }
 
 h1 {
     font-size: 30px;
-    font-weight: 700;
 }
 
 h1 .left {
@@ -66,7 +66,7 @@ img {
     height: calc(100% - 72px - 72px);
     position: absolute;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
 }
 
@@ -214,9 +214,60 @@ h2 {
     background-color: rgba(90, 0, 255, 1);
 }
 
+#home-link {
+    width: min-content;
+    height: min-content;
+}
 
-/* Additional styles for tablets and up */
-@media (min-width: 768px) {
+#home-btn {
+    width: min-content;
+    height: min-content;
+    position: absolute;
+    border: 0px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 10px;
+    cursor: pointer;
+    pointer-events: all;
+    margin-left: 48px;
+}
+
+#home-icon {
+    width: 32px;
+    height: 32px;
+    transition: 0.1s;
+}
+
+
+#home-btn:hover #home-icon {
+    transform: scale(110%);
+}
+
+
+/*Phones*/
+@media (max-width: 768px) {
+
+    h1 {
+        font-size: 16px;
+    }
+
+    .header {
+        background-color: white;
+    }
+    
+    #lang-icon {
+        width: 20px;
+        height: 20px;
+    }
+
+    #home-btn {
+        margin-left: 32px;
+    }
+
+    #home-icon {
+        width: 20px;
+        height:20px;
+    }
+
     .main-window {
         position: fixed;
         display: flex;
@@ -230,8 +281,8 @@ h2 {
 
   }
   
-  /* Additional styles for desktops */
-  @media (min-width: 992px) {
+/*Tablets*/
+  @media (max-width: 992px) {
     .lang-btn {
         padding-left: 14px;
     }
