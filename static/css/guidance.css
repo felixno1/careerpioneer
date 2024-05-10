@@ -31,14 +31,14 @@
 }
 
 .list-btn {
-    height: 34px;
+    height: min-content;
     background-color: rgba(0, 0, 0, 0);
     border: 0;
     text-align: start;
     cursor: pointer;
     padding: 0px;
     display: auto;
-    width: 320px;
+    width: 100%;
 }
 
 .list-bg {

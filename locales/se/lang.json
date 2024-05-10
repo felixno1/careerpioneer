@@ -46,54 +46,6 @@
                 "description": "Fackliga föreningar, eller fackföreningar, är organisationer som representerar arbetstagarnas intressen på arbetsplatsen. De förhandlar om löner och arbetsvillkor, erbjuder stöd och rådgivning till medlemmar och arbetar för bättre arbetsförhållanden."
             },
             {
-                "title": "Uppsägningstid",
-                "description": "Uppsägningstid är den tid som måste passera från det att en anställning sägs upp tills den upphör. Längden på uppsägningstiden kan variera beroende på vad som anges i kollektivavtalet eller anställningsavtalet och varierar ofta beroende på anställningstidens längd."
-            },
-            {
-                "title": "A-kassa",
-                "description": "A-kassa, eller arbetslöshetskassa, är en försäkring som ger ekonomiskt stöd till arbetstagare som blivit arbetslösa. För att få ersättning från a-kassan måste du uppfylla vissa villkor gällande tidigare arbete och medlemskap i en arbetslöshetskassa."
-            },
-            {
-                "title": "Friskvårdsbidrag/Förmåner",
-                "description": "Friskvårdsbidrag är en skattefri förmån som många arbetsgivare i Sverige erbjuder sina anställda. Det är avsett för aktiviteter som främjar hälsa och förebygger sjukdomar. Andra vanliga förmåner kan inkludera tjänstepension, försäkringar och flexibla arbetstider."
-            },
-            {
-                "title": "Anställningsavtal",
-                "description": "Ett anställningsavtal är ett juridiskt bindande dokument mellan en arbetsgivare och en arbetstagare som specificerar villkoren för anställningen, inklusive roll, lön, förmåner och arbetsvillkor."
-            },
-            {
-                "title": "HR (Human Resources)",
-                "description": "HR, eller personalavdelning, hanterar frågor relaterade till personalen inom en organisation. Detta inkluderar rekrytering, utbildning, konflikthantering, och säkerställande av att företagets policyer och lagar följs."
-            },
-            {
-                "title": "Övertid/Flex/Komp",
-                "description": "Övertid är de timmar du arbetar utöver din ordinarie arbetstid och för vilka det ofta betalas extra ersättning. Flex innebär flexibel arbetstid där du kan påverka dina arbetstider. Komp, eller kompensationstid, är ledig tid du får som ersättning för att du arbetat övertid."
-            }
-        ]
-            },
-                "description": "Föräldraledighet i Sverige är en tid då föräldrar kan vara lediga från jobbet för att ta hand om sitt barn. Det här systemet är till för att göra det möjligt för föräldrar att spendera tid med sina barn utan att förlora sin inkomst.\nNär du är föräldraledig får du pengar från staten, som kallas föräldrapenning. Du kan vara ledig från jobbet från och med att barnet föds och fortsätta vara det tills barnet är ungefär 1,5 år gammal. Totalt har du rätt till 480 dagar föräldraledighet för varje barn, och dessa dagar kan delas mellan föräldrarna.\nSystemet är flexibelt, vilket betyder att du kan välja hur du vill ta ut dessa dagar. Du kan till exempel vara helt ledig en period eller arbeta färre timmar per dag.\nFöräldraledigheten i Sverige är ett sätt att stödja familjer så att både mammor och pappor kan ta hand om sina barn och samtidigt känna ekonomisk trygghet."
-            },
-            {
-                "title": "Semesterersättning",
-                "description": "Semesterersättning i Sverige är den ersättning du får när du tar ut semester. Om du inte har hunnit tjäna upp full semester kan du få semesterersättning i pengar istället. Om du slutar en anställning innan du tagit ut all semester du har rätt till, ska du också få semesterersättning för de dagar du inte tagit ut."
-            },
-            {
-                "title": "Heltid",
-                "description": "En heltidsanställning i Sverige motsvarar vanligtvis en arbetsvecka på 40 timmar. Att arbeta heltid innebär att du är anställd för det fulla antalet arbetstimmar per vecka som definieras av arbetsgivaren."
-            },
-            {
-                "title": "Deltid",
-                "description": "En deltidstjänst innebär att du arbetar mindre än den fulla arbetsveckan. Detta kan variera beroende på arbetsplats och typ av arbete. Deltidsarbete kan vara ett flexibelt alternativ för dem som önskar balansera arbetslivet med andra åtaganden som studier eller familj."
-            },
-            {
-                "title": "Provanställning",
-                "description": "Provanställning är en initial anställningsform där arbetsgivaren och arbetstagaren har en chans att utvärdera anställningsförhållandet innan det övergår i en tillsvidareanställning. En provanställning får vara upp till sex månader enligt svensk lag, och kan avslutas med kortare varsel."
-            },
-            {
-                "title": "Fackliga föreningar",
-                "description": "Fackliga föreningar, eller fackföreningar, är organisationer som representerar arbetstagarnas intressen på arbetsplatsen. De förhandlar om löner och arbetsvillkor, erbjuder stöd och rådgivning till medlemmar och arbetar för bättre arbetsförhållanden."
-            },
-            {
                 "title": "Uppsägningstid/reglement",
                 "description": "Uppsägningstid är den tid som måste passera från det att en anställning sägs upp tills den upphör. Längden på uppsägningstiden kan variera beroende på vad som anges i kollektivavtalet eller anställningsavtalet och varierar ofta beroende på anställningstidens längd."
             },
