@@ -16,7 +16,11 @@
     display: flex;
     flex-direction: column;
     overflow-y: scroll;
-    overflow-x: hidden;
+}
+
+.column.semitic h2 {
+    width: 100%;
+    text-align: end;
 }
 
 .list-item {
@@ -60,6 +64,7 @@
     height: 100%;
 }
 
+
 .list-item:hover {
     box-shadow: 2px 0 0 0 rgb(90, 0, 255) inset;
 }
@@ -67,7 +72,6 @@
 .list-item:focus-within {
     box-shadow: 2px 0 0 0 rgb(90, 0, 255) inset;
 }
-
 
 .list-btn:hover .list-text {
     margin-left: 16px;
@@ -110,6 +114,33 @@
     transform: scale(105%);
 }
 
+.list-btn.semitic {
+    padding-right: 10px;
+    text-align: end;
+}
+
+.list-item.semitic {
+    text-align: end;
+}
+
+.list-item.semitic:hover {
+    box-shadow: -2px 0 0 0 rgb(90, 0, 255) inset;
+}
+
+.list-explanation.semitic {
+    align-items: end;
+}
+
+.list-item.semtic:hover {
+    box-shadow: -2px 0 0 0 rgb(90, 0, 255) inset;
+}
+
+.list-item.semitic:focus-within {
+    box-shadow: -2px 0 0 0 rgb(90, 0, 255) inset;
+}
+
+
+
 .words {
     background-color: rgba(90, 0, 255, 0.1);
 }
@@ -146,6 +177,12 @@
     animation: wiggle 1s ease forwards;
     transition: 0.2s;
 }
+
+#compass-txt {
+    width: 100%;
+    height: min-content;
+}
+
 
 #compass-btn:hover {
     background-color: rgb(255, 255, 255);
@@ -204,6 +241,10 @@
     border-bottom-left-radius: 6px;
 }
 
+#message-area.semitic {
+
+}
+
 #send-btn {
     width: 48px;
     border-top-right-radius: 6px;
@@ -260,6 +301,10 @@
     margin: 3px;
     font-size: 14px;
     animation: appear 0.4s forwards;
+}
+
+.msg.semitic {
+    text-align: end;
 }
 
 .msg.old {

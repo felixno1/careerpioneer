@@ -37,6 +37,10 @@ img {
     padding: 0;
 }
 
+textarea.semitic {
+    direction: rtl;
+}
+
 .header {
     position: fixed;
     top: 0;
@@ -267,6 +271,8 @@ h2 {
         width: 20px;
         height:20px;
     }
+
+
 
     .main-window {
         position: fixed;
