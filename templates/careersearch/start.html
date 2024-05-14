@@ -29,7 +29,7 @@
                         </button>
                     </div>
                     {% for skill in skills %}
-                        <button class="skill-btn" data-count="{{ skill.count}} " data-id="{{ skill.top_id }}" data-name="{{ skill.name }}">{{ skill.name }}</button>
+                        <button class="skill-btn" data-count="{{ skill.count}} " data-id="{{ skill.field_id }}" data-name="{{ skill.name }}">{{ skill.translation }}</button>
                     {% endfor %}
                 </div>
                     <button id="confirm-btn" disabled>

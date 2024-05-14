@@ -17,6 +17,7 @@
     display: flex;
     flex-direction: column;
     overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .column.semitic h2 {
@@ -355,6 +356,7 @@
         flex-direction: column;
         height: fit-content;
         width: 100%;
+        padding-inline: 0px;
     }
 
 

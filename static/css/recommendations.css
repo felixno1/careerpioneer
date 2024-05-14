@@ -49,11 +49,11 @@
 
 .job-text {
     font-weight: 400;
-    margin-left: 10px;
+    margin-inline: 10px;
     transition: 0.1s;
 }
 
-.job-percent {
+.job-number {
     font-weight: 500;
     color: rgb(90, 0, 255);
     transition: 0.2s;
@@ -65,11 +65,11 @@
 }
 
 .job-btn:hover .job-text {
-    margin-left: 20px;
+    margin-inline: 20px;
     color: white;
 }
 
-.job-btn:hover .job-percent {
+.job-btn:hover .job-number {
     color: white;
 }
 
@@ -81,7 +81,7 @@
     border-radius: 6px;
 }
   
-  .job-box.on .job-bg {
+.job-box.on .job-bg {
     width: 100%;
 }
 
@@ -90,20 +90,51 @@
 color: white
 }
   
-.job-box.on .job-percent {
+.job-box.on .job-number {
     color: white;
 }
 
+
+.job-ads {
+    margin: 20px;
+    width: calc(100% - 40px);
+    height: min-content
+}
+
+.show-ads-btn {
+    background-color: rgba(90, 0, 255, 0.1);
+    border-radius: 6px;
+    width: 256px;
+    height: min-content;
+    padding: 10px;
+    margin-inline: 10px;
+    margin-bottom: 10px;
+    justify-self: flex-end;
+    align-self: flex-end;
+    font-weight: 700;
+    box-shadow: 0 -10px 10px 0 inset rgba(90, 0, 255, 0.1);
+    transition: 0.2s;
+    cursor: pointer;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+.show-ads-btn:hover {
+    transform: scale(105%);
+    box-shadow: 0 0 5px 0 rgba(90, 0, 255, 0.1);
+    background-color: white;
+}
 
 .job-box.semitic {
     direction: rtl;
 }
 
-.job-percent.semitic {
+.job-number.semitic {
     margin-right: 10px
 }
 
-.job-btn.semitic:hover .job-percent {
+.job-btn.semitic:hover .job-number {
     margin-right: 20px
 }
 

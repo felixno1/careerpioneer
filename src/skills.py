@@ -1,13 +1,12 @@
-import csv
 import random
+import jsonlines
 
 class Skill:
-    """Represents a skill with its name, count, and top ID."""
-    def __init__(self, name, count, top_id):
+    def __init__(self, name, translation, count, field_id):
         self.name = name
+        self.translation = translation
         self.count = count
-        self.top_id = top_id
-
+        self.field_id = field_id
 
 def weighted_shuffle(input_list):
     # Create a copy of the input list
@@ -29,9 +28,10 @@ def weighted_shuffle(input_list):
 
     return shuffled_list
 
-# Load skills from CSV
-skills = []
-with open('assets/unique_skills_refined.csv', newline='', encoding='utf-8') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        skills.append(Skill(row['skill_name'], int(row['count']), row['most_common_occupation_id']))
+
+def load_skills(lang_code):
+    skills = []
+    with jsonlines.open(f'locales/{lang_code}/skills.jsonl') as reader:
+        for line in reader:
+            skills.append(Skill(line['skill'], line['translation'], line['count'], line['field_id']))
+    return skills
