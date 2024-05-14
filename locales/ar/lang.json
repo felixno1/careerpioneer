@@ -3,10 +3,11 @@
     "title-right": "PIONEER",
     "careerpioneer": "CareerPioneer",
     "welcome": "مرحبا",
+    "what_do_you_need_help_with": "بماذا تحتاج المساعدة؟",
     "guidance": "إرشادات عامة حول سوق العمل السويدي",
     "job_finder": "ابحث عن وظيفة بناءً على مهاراتك",
     "tell_me_more": "أخبرني أكثر",
-    "elaborate": "أخبرني أكثر عن",
+    "elaborate": "يرجى تقديم المزيد من المعلومات،",
     "ask_ai": "اسأل الذكاء الاصطناعي...",
     "what_skills": "ما هي مهاراتك؟",
     "search_job": "ابحث عن وظيفة!",
@@ -14,6 +15,7 @@
     "recommended_jobs": "الوظائف الموصى بها",
     "n_of_ads_1": "إعلانات للمهنة",
     "n_of_ads_2": "يوجد حالياً",
+    "show_ads": "إظهار الإعلانات",
     "terminology": {
         "header": "المصطلحات الشائعة",
         "content" : [

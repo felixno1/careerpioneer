@@ -1,0 +1,677 @@
+{"skill":"försäljning","count":549402,"field_id":5,"translation":"verkope"}
+{"skill":"arbetslivserfarenhet","count":364881,"field_id":1,"translation":"werkervaring"}
+{"skill":"barn","count":350870,"field_id":15,"translation":"kinders"}
+{"skill":"datorvana","count":309339,"field_id":8,"translation":"rekenaarvaardighede"}
+{"skill":"sjukvård","count":309193,"field_id":8,"translation":"gesondheidsorg"}
+{"skill":"microsoft office","count":262672,"field_id":1,"translation":"Microsoft Office"}
+{"skill":"teknik","count":255631,"field_id":3,"translation":"tegnologie"}
+{"skill":"ekonomi","count":253956,"field_id":1,"translation":"ekonomie"}
+{"skill":"kommunikation","count":243532,"field_id":5,"translation":"kommunikasie"}
+{"skill":"dokumentation","count":222709,"field_id":8,"translation":"dokumentasie"}
+{"skill":"administration","count":222073,"field_id":1,"translation":"administrasie"}
+{"skill":"undervisning","count":214354,"field_id":15,"translation":"onderrig"}
+{"skill":"miljö","count":203774,"field_id":1,"translation":"omgewing"}
+{"skill":"högskoleutbildning","count":202811,"field_id":1,"translation":"universiteitsopleiding"}
+{"skill":"gymnasieutbildning","count":194297,"field_id":1,"translation":"hoërskoolopleiding"}
+{"skill":"ledarskap","count":186367,"field_id":20,"translation":"leierskap"}
+{"skill":"data","count":165026,"field_id":3,"translation":"data"}
+{"skill":"truckkort","count":156465,"field_id":19,"translation":"vurkhyserlisensie"}
+{"skill":"rekrytering","count":147953,"field_id":1,"translation":"werwing"}
+{"skill":"excel","count":142120,"field_id":1,"translation":"Excel"}
+{"skill":"administrativa uppgifter","count":139421,"field_id":1,"translation":"administratiewe take"}
+{"skill":"energi","count":132339,"field_id":5,"translation":"energie"}
+{"skill":"förskola","count":130722,"field_id":15,"translation":"voorskool"}
+{"skill":"eftergymnasial utbildning","count":128164,"field_id":1,"translation":"naskoolse opleiding"}
+{"skill":"lager","count":126180,"field_id":19,"translation":"pakhuis"}
+{"skill":"kundservice","count":125861,"field_id":5,"translation":"kliëntediens"}
+{"skill":"omsorg","count":121949,"field_id":16,"translation":"sorg"}
+{"skill":"el","count":121639,"field_id":10,"translation":"elektrisiteit"}
+{"skill":"ungdomar","count":120337,"field_id":16,"translation":"jeug"}
+{"skill":"utvecklingsarbete","count":119532,"field_id":8,"translation":"ontwikkelingswerk"}
+{"skill":"material","count":119378,"field_id":9,"translation":"materiaal"}
+{"skill":"design","count":116389,"field_id":3,"translation":"ontwerp"}
+{"skill":"arbetsmiljö","count":115290,"field_id":20,"translation":"werksomgewing"}
+{"skill":"inköp","count":112755,"field_id":5,"translation":"aankope"}
+{"skill":"mat","count":112742,"field_id":7,"translation":"kos"}
+{"skill":"personalansvar","count":108580,"field_id":20,"translation":"personeelverantwoordelikheid"}
+{"skill":"handledning","count":105203,"field_id":8,"translation":"leiding"}
+{"skill":"industri","count":100013,"field_id":9,"translation":"nywerheid"}
+{"skill":"leverantörer","count":98028,"field_id":5,"translation":"verskaffers"}
+{"skill":"styrdokument","count":97249,"field_id":15,"translation":"beleidsdokumente"}
+{"skill":"hälsa","count":96522,"field_id":8,"translation":"gesondheid"}
+{"skill":"budget","count":94999,"field_id":20,"translation":"begroting"}
+{"skill":"reparation","count":94535,"field_id":10,"translation":"herstel"}
+{"skill":"projektledning","count":93753,"field_id":18,"translation":"projekbestuur"}
+{"skill":"felsökning","count":91975,"field_id":10,"translation":"foutopsporing"}
+{"skill":"butik","count":90491,"field_id":5,"translation":"winkel"}
+{"skill":"problemlösning","count":90224,"field_id":10,"translation":"probleemoplossing"}
+{"skill":"säkerhet","count":89660,"field_id":5,"translation":"veiligheid"}
+{"skill":"logistik","count":89449,"field_id":19,"translation":"logistiek"}
+{"skill":"forskning","count":87817,"field_id":15,"translation":"navorsing"}
+{"skill":"städning","count":85282,"field_id":12,"translation":"skoonmaak"}
+{"skill":"drifting","count":83980,"field_id":3,"translation":"bedryf"}
+{"skill":"kundrelationer","count":81316,"field_id":5,"translation":"kliënteverhoudinge"}
+{"skill":"analys","count":80201,"field_id":1,"translation":"analise"}
+{"skill":"behandling","count":78844,"field_id":8,"translation":"behandeling"}
+{"skill":"god fysik","count":78206,"field_id":19,"translation":"goeie fisika"}
+{"skill":"redovisning","count":77070,"field_id":1,"translation":"rekeningkunde"}
+{"skill":"rådgivning","count":76565,"field_id":5,"translation":"advies"}
+{"skill":"lärarlegitimation","count":73772,"field_id":15,"translation":"onderwyslisensie"}
+{"skill":"coachning","count":73610,"field_id":5,"translation":"afrigting"}
+{"skill":"matlagning","count":73300,"field_id":16,"translation":"kosmaak"}
+{"skill":"montering","count":72600,"field_id":9,"translation":"montering"}
+{"skill":"programmering","count":71778,"field_id":3,"translation":"programmering"}
+{"skill":"beställningar","count":71531,"field_id":5,"translation":"bestellings"}
+{"skill":"funktionsnedsättning","count":71521,"field_id":16,"translation":"funksionele gestremdheid"}
+{"skill":"fordon","count":69527,"field_id":10,"translation":"voertuie"}
+{"skill":"försäkring","count":69049,"field_id":1,"translation":"versekering"}
+{"skill":"transport","count":68987,"field_id":19,"translation":"vervoer"}
+{"skill":"förbättringsarbete","count":68935,"field_id":8,"translation":"verbeteringswerk"}
+{"skill":"rör","count":68923,"field_id":1,"translation":"pype"}
+{"skill":"psykiatri","count":68779,"field_id":8,"translation":"psigiatrie"}
+{"skill":"rapportering","count":66231,"field_id":1,"translation":"verslagdoening"}
+{"skill":"restaurang","count":65975,"field_id":7,"translation":"restaurant"}
+{"skill":"bilen","count":65831,"field_id":9,"translation":"die motor"}
+{"skill":"myndigheter","count":65752,"field_id":1,"translation":"owerhede"}
+{"skill":"installation","count":64737,"field_id":10,"translation":"installasie"}
+{"skill":"affärssystem","count":62823,"field_id":5,"translation":"besigheidstelsels"}
+{"skill":"marknadsföring","count":62734,"field_id":5,"translation":"bemarking"}
+{"skill":"träning","count":60413,"field_id":16,"translation":"opleiding"}
+{"skill":"matematik","count":60004,"field_id":15,"translation":"wiskunde"}
+{"skill":"hälsovård","count":59683,"field_id":8,"translation":"gesondheidsorg"}
+{"skill":"primärvård","count":59620,"field_id":8,"translation":"primêre sorg"}
+{"skill":"kompetensutveckling","count":58441,"field_id":8,"translation":"vaardigheidsontwikkeling"}
+{"skill":"automation","count":58030,"field_id":18,"translation":"outomatisering"}
+{"skill":"äldreomsorg","count":57310,"field_id":8,"translation":"oueromsorg"}
+{"skill":"upphandling","count":56947,"field_id":5,"translation":"verkryging"}
+{"skill":"innovation","count":56480,"field_id":3,"translation":"innovasie"}
+{"skill":"kundtjänst","count":54763,"field_id":5,"translation":"kliëntediens"}
+{"skill":"it-kunskaper","count":50507,"field_id":15,"translation":"IT-vaardighede"}
+{"skill":"förändringsarbete","count":50454,"field_id":20,"translation":"veranderingswerk"}
+{"skill":"mekanik","count":50425,"field_id":10,"translation":"meganika"}
+{"skill":"feedback","count":49643,"field_id":5,"translation":"terugvoer"}
+{"skill":"mottagning","count":49421,"field_id":8,"translation":"ontvangs"}
+{"skill":"specialistutbildning","count":46904,"field_id":8,"translation":"spesialisopleiding"}
+{"skill":"hemsjukvård","count":46891,"field_id":8,"translation":"tuisgesondheidsorg"}
+{"skill":"datorkunskaper","count":46488,"field_id":8,"translation":"rekenaarvaardighede"}
+{"skill":"fakturering","count":45065,"field_id":1,"translation":"fakturering"}
+{"skill":"handläggning","count":44716,"field_id":1,"translation":"hantering"}
+{"skill":"kvalitetsarbete","count":44128,"field_id":20,"translation":"kwaliteitswerk"}
+{"skill":"B2B","count":43950,"field_id":5,"translation":"van besigheid tot besigheid"}
+{"skill":"registrering","count":43629,"field_id":1,"translation":"registrasie"}
+{"skill":"kök","count":43335,"field_id":7,"translation":"kombuis"}
+{"skill":"event","count":43204,"field_id":5,"translation":"gebeurtenis"}
+{"skill":"registerkontroll","count":43151,"field_id":8,"translation":"registerkontrole"}
+{"skill":"verksamhetsutveckling","count":42471,"field_id":20,"translation":"besigheidsontwikkeling"}
+{"skill":"budgetansvar","count":41953,"field_id":20,"translation":"begrotingsverantwoordelikheid"}
+{"skill":"hemtjänst","count":41581,"field_id":8,"translation":"tuisdienste"}
+{"skill":"kassaarbete","count":41452,"field_id":5,"translation":"kassawerk"}
+{"skill":"finska","count":40861,"field_id":5,"translation":"Fins"}
+{"skill":"tunga lyft","count":40824,"field_id":19,"translation":"swaar hys"}
+{"skill":"java","count":40626,"field_id":3,"translation":"Java"}
+{"skill":"schemaläggning","count":40507,"field_id":20,"translation":"skedulering"}
+{"skill":"arbetsledning","count":40365,"field_id":20,"translation":"werkbestuur"}
+{"skill":"pedagogik","count":40289,"field_id":1,"translation":"pedagogiek"}
+{"skill":"teknisk utbildning","count":40155,"field_id":10,"translation":"tegniese opleiding"}
+{"skill":"akutsjukvård","count":39964,"field_id":8,"translation":"noodgesondheidsorg"}
+{"skill":"merförsäljning","count":39797,"field_id":5,"translation":"bykomende verkope"}
+{"skill":"byggbranschen","count":39544,"field_id":2,"translation":"boubedryf"}
+{"skill":"rehabilitering","count":39539,"field_id":8,"translation":"rehabilitasie"}
+{"skill":"fritidshem","count":39389,"field_id":15,"translation":"vryetydshuis"}
+{"skill":"journalsystem","count":39226,"field_id":8,"translation":"joernaalstelsel"}
+{"skill":"organisationer","count":39221,"field_id":1,"translation":"organisasies"}
+{"skill":"konstruktion","count":38350,"field_id":18,"translation":"konstruksie"}
+{"skill":"samordning","count":37997,"field_id":1,"translation":"koördinering"}
+{"skill":"varumärken","count":37995,"field_id":5,"translation":"handelsmerke"}
+{"skill":"tillverkning","count":37983,"field_id":9,"translation":"vervaardiging"}
+{"skill":"verksamhetsområden","count":37884,"field_id":20,"translation":"bedryfsareas"}
+{"skill":"regelverk","count":37824,"field_id":1,"translation":"regulasies"}
+{"skill":"socialtjänst","count":37680,"field_id":16,"translation":"sosiale dienste"}
+{"skill":"media","count":37628,"field_id":5,"translation":"media"}
+{"skill":"idrott","count":37447,"field_id":15,"translation":"sport"}
+{"skill":"juridik","count":37250,"field_id":1,"translation":"reg"}
+{"skill":"performance","count":36943,"field_id":3,"translation":"prestasie"}
+{"skill":"statistik","count":36708,"field_id":1,"translation":"statistiek"}
+{"skill":"utredning","count":36698,"field_id":8,"translation":"ondersoek"}
+{"skill":"research","count":35333,"field_id":3,"translation":"navorsing"}
+{"skill":"socialt arbete","count":35236,"field_id":16,"translation":"sosiale werk"}
+{"skill":"python","count":35104,"field_id":3,"translation":"Python"}
+{"skill":"servering","count":34847,"field_id":7,"translation":"bediening"}
+{"skill":"barnpassning","count":34679,"field_id":12,"translation":"kinderoppas"}
+{"skill":"javascript","count":34666,"field_id":3,"translation":"JavaScript"}
+{"skill":"konsultuppdrag","count":34659,"field_id":1,"translation":"konsultasie-opdrag"}
+{"skill":"C#","count":34495,"field_id":3,"translation":"C#"}
+{"skill":"rekryteringstjänster","count":34461,"field_id":8,"translation":"werwingsdienste"}
+{"skill":"lag","count":34403,"field_id":9,"translation":"wet"}
+{"skill":"autism","count":34191,"field_id":16,"translation":"outisme"}
+{"skill":"universitetsutbildning","count":34025,"field_id":1,"translation":"universiteitsopleiding"}
+{"skill":"personlig hygien","count":33602,"field_id":16,"translation":"persoonlike higiëne"}
+{"skill":"datorer","count":33600,"field_id":3,"translation":"rekenaars"}
+{"skill":"arbetsliv","count":33563,"field_id":5,"translation":"werklewe"}
+{"skill":"svenska som andraspråk","count":32984,"field_id":15,"translation":"Sweeds as tweede taal"}
+{"skill":"tvätt","count":32791,"field_id":8,"translation":"was"}
+{"skill":"jakt","count":32673,"field_id":8,"translation":"jag"}
+{"skill":"marketing","count":32609,"field_id":5,"translation":"bemarking"}
+{"skill":"microsoft windows","count":32575,"field_id":3,"translation":"Microsoft Windows"}
+{"skill":"integration","count":32432,"field_id":3,"translation":"integrasie"}
+{"skill":"bokslut","count":32090,"field_id":1,"translation":"finansiële state"}
+{"skill":"avstämningar","count":32073,"field_id":1,"translation":"versoenings"}
+{"skill":"infrastruktur","count":31870,"field_id":3,"translation":"infrastruktuur"}
+{"skill":"utvecklingsprojekt","count":31673,"field_id":18,"translation":"ontwikkelingsprojekte"}
+{"skill":"arbetsmiljöansvar","count":31617,"field_id":20,"translation":"werksomgewingverantwoordelikheid"}
+{"skill":"fastigheter","count":31609,"field_id":10,"translation":"eiendomme"}
+{"skill":"lärarexamen","count":31582,"field_id":15,"translation":"onderwysersdiploma"}
+{"skill":"it-system","count":31547,"field_id":3,"translation":"IT-stelsels"}
+{"skill":"kassa","count":31433,"field_id":5,"translation":"kas"}
+{"skill":"telefonrådgivning","count":31239,"field_id":8,"translation":"telefoonadvies"}
+{"skill":"styrning","count":31185,"field_id":20,"translation":"beheer"}
+{"skill":"bemanningsföretag","count":30984,"field_id":8,"translation":"personeelverskaffers"}
+{"skill":"teamarbete","count":30978,"field_id":8,"translation":"spanwerk"}
+{"skill":"verkstad","count":30836,"field_id":10,"translation":"werkswinkel"}
+{"skill":"kampanjer","count":30798,"field_id":5,"translation":"veldtogte"}
+{"skill":"teknisk support","count":30554,"field_id":5,"translation":"tegniese ondersteuning"}
+{"skill":"äldreboende","count":30546,"field_id":8,"translation":"ouetehuise"}
+{"skill":"digitalisering","count":30411,"field_id":1,"translation":"digitalisering"}
+{"skill":"tillgänglighet","count":30387,"field_id":5,"translation":"beskikbaarheid"}
+{"skill":"bank","count":30171,"field_id":1,"translation":"bank"}
+{"skill":"mjukvara","count":29976,"field_id":3,"translation":"sagteware"}
+{"skill":"leverantörsreskontra","count":29898,"field_id":1,"translation":"verskaffersrekening"}
+{"skill":"systemutveckling","count":29886,"field_id":3,"translation":"sisteemontwikkeling"}
+{"skill":"teknikintresse","count":29848,"field_id":10,"translation":"tegnologiebelangstelling"}
+{"skill":"vägledning","count":29844,"field_id":1,"translation":"leiding"}
+{"skill":"lokalvård","count":29826,"field_id":12,"translation":"lokale skoonmaak"}
+{"skill":"hotell","count":29789,"field_id":7,"translation":"hotel"}
+{"skill":"lastning","count":29727,"field_id":19,"translation":"laai"}
+{"skill":"tyska","count":29703,"field_id":5,"translation":"Duits"}
+{"skill":"svetsning","count":29571,"field_id":9,"translation":"las"}
+{"skill":"reception","count":29462,"field_id":1,"translation":"ontvangs"}
+{"skill":"tester","count":29456,"field_id":3,"translation":"toetse"}
+{"skill":"maskin","count":29430,"field_id":18,"translation":"masjien"}
+{"skill":"ritningar","count":28964,"field_id":9,"translation":"tekeninge"}
+{"skill":"word","count":28939,"field_id":1,"translation":"woord"}
+{"skill":".net","count":28851,"field_id":3,"translation":".net"}
+{"skill":"agile","count":28809,"field_id":3,"translation":"wendbaar"}
+{"skill":"c-körkort","count":28762,"field_id":19,"translation":"C-rybewys"}
+{"skill":"offerter","count":28634,"field_id":5,"translation":"kwotasies"}
+{"skill":"bokningar","count":28599,"field_id":5,"translation":"besprekings"}
+{"skill":"SQL","count":28450,"field_id":3,"translation":"SQL"}
+{"skill":"C++","count":28319,"field_id":3,"translation":"C++"}
+{"skill":"provtagning","count":28208,"field_id":8,"translation":"monsterneming"}
+{"skill":"ämneskunskaper","count":28156,"field_id":15,"translation":"vakgebiedkennis"}
+{"skill":"utredningsarbete","count":28124,"field_id":1,"translation":"ondersoekswerk"}
+{"skill":"mottagningsarbete","count":27955,"field_id":8,"translation":"ontvangswerk"}
+{"skill":"distribution","count":27774,"field_id":19,"translation":"verspreiding"}
+{"skill":"systemvana","count":27722,"field_id":1,"translation":"sisteemvaardigheid"}
+{"skill":"siffror","count":27564,"field_id":1,"translation":"cijfers"}
+{"skill":"sport","count":27553,"field_id":5,"translation":"sport"}
+{"skill":"hydraulik","count":27527,"field_id":10,"translation":"hidroulika"}
+{"skill":"funktionshinder","count":27133,"field_id":16,"translation":"funktionele gestremdhede"}
+{"skill":"serviceyrke","count":26912,"field_id":5,"translation":"diensberoep"}
+{"skill":"dryck","count":26647,"field_id":7,"translation":"drankie"}
+{"skill":"livsmedel","count":26635,"field_id":5,"translation":"voedsel"}
+{"skill":"specialistkompetens","count":26617,"field_id":8,"translation":"spesialisering"}
+{"skill":"kanaler","count":26590,"field_id":5,"translation":"kanale"}
+{"skill":"webbutveckling","count":26574,"field_id":3,"translation":"webontwikkeling"}
+{"skill":"sjukhus","count":26333,"field_id":8,"translation":"hospitale"}
+{"skill":"beredskap","count":26300,"field_id":15,"translation":"gereedskap"}
+{"skill":"företagshälsovård","count":25866,"field_id":8,"translation":"maatskappygesondheidsorg"}
+{"skill":"kvalitetssäkring","count":25764,"field_id":1,"translation":"kwaliteitsversekering"}
+{"skill":"vuxenutbildning","count":25719,"field_id":15,"translation":"volwasseopleiding"}
+{"skill":"traverskort","count":25545,"field_id":9,"translation":"traverskaart"}
+{"skill":"implementering","count":25464,"field_id":3,"translation":"implementering"}
+{"skill":"norska","count":25396,"field_id":5,"translation":"Noors"}
+{"skill":"brand","count":25273,"field_id":1,"translation":"handelsmerk"}
+{"skill":"CAD","count":25255,"field_id":18,"translation":"CAD"}
+{"skill":"övervakning","count":25137,"field_id":9,"translation":"toesig"}
+{"skill":"säkerhetsprövning","count":24888,"field_id":1,"translation":"sekuriteitskeuring"}
+{"skill":"grundskola","count":24864,"field_id":15,"translation":"grondskool"}
+{"skill":"kundreskontra","count":24826,"field_id":1,"translation":"klantrekonsiliasie"}
+{"skill":"arbetsredskap","count":24712,"field_id":5,"translation":"werkgereedskap"}
+{"skill":"löpande bokföring","count":24683,"field_id":1,"translation":"lopende boekhouding"}
+{"skill":"posthantering","count":24605,"field_id":1,"translation":"poshantering"}
+{"skill":"arbetsverktyg","count":24295,"field_id":5,"translation":"werkgereedskap"}
+{"skill":"modersmål","count":24282,"field_id":15,"translation":"moedertaal"}
+{"skill":"läkemedel","count":24197,"field_id":8,"translation":"medisyne"}
+{"skill":"projektering","count":24183,"field_id":2,"translation":"projektering"}
+{"skill":"lönsamhet","count":24030,"field_id":5,"translation":"winsgewendheid"}
+{"skill":"microsoft azure","count":23908,"field_id":3,"translation":"microsoft azure"}
+{"skill":"produktutveckling","count":23879,"field_id":18,"translation":"produkontwikkeling"}
+{"skill":"tekniska lösningar","count":23868,"field_id":3,"translation":"tegniese oplossings"}
+{"skill":"egenkontroll","count":23849,"field_id":7,"translation":"selfbeheer"}
+{"skill":"helhetsansvar","count":23798,"field_id":20,"translation":"totale verantwoordelikheid"}
+{"skill":"beteendevetenskap","count":23692,"field_id":1,"translation":"gedragswetenskap"}
+{"skill":"doktorsexamen","count":23678,"field_id":15,"translation":"doktorsgraad"}
+{"skill":"kirurgi","count":23571,"field_id":8,"translation":"chirurgie"}
+{"skill":"fakturahantering","count":23447,"field_id":1,"translation":"faktuurhantering"}
+{"skill":"hårdvara","count":23430,"field_id":3,"translation":"hardeware"}
+{"skill":"underhållsarbete","count":23325,"field_id":10,"translation":"onderhoudswerk"}
+{"skill":"beredning","count":23268,"field_id":7,"translation":"voorbereiding"}
+{"skill":"automotive","count":23210,"field_id":18,"translation":"motorvoertuig"}
+{"skill":"servicearbete","count":23008,"field_id":10,"translation":"dienswerk"}
+{"skill":"kundsupport","count":22994,"field_id":5,"translation":"kliëntondersteuning"}
+{"skill":"trygghetsförsäkring","count":22990,"field_id":5,"translation":"sekuriteitsversekering"}
+{"skill":"bokföring","count":22898,"field_id":1,"translation":"boekhouding"}
+{"skill":"arbetsgrupp","count":22856,"field_id":8,"translation":"werkgroep"}
+{"skill":"säljteam","count":22834,"field_id":5,"translation":"verkoopteam"}
+{"skill":"telefonsamtal","count":22731,"field_id":8,"translation":"telefoonoproep"}
+{"skill":"ärendehanteringssystem","count":22712,"field_id":3,"translation":"sakehanteringstelsel"}
+{"skill":"värme","count":22434,"field_id":10,"translation":"hitte"}
+{"skill":"packning","count":22423,"field_id":19,"translation":"verpakking"}
+{"skill":"film","count":22338,"field_id":16,"translation":"film"}
+{"skill":"linux","count":22326,"field_id":3,"translation":"linux"}
+{"skill":"lossning","count":22305,"field_id":19,"translation":"lossing"}
+{"skill":"kemi","count":22051,"field_id":18,"translation":"chemie"}
+{"skill":"it-support","count":22040,"field_id":3,"translation":"it-ondersteuning"}
+{"skill":"pedagogisk dokumentation","count":22016,"field_id":15,"translation":"pedagogiese dokumentasie"}
+{"skill":"back end","count":21987,"field_id":3,"translation":"agterkant"}
+{"skill":"däck","count":21897,"field_id":9,"translation":"bande"}
+{"skill":"slutenvård","count":21893,"field_id":8,"translation":"geslote sorg"}
+{"skill":"rekryteringsföretag","count":21879,"field_id":15,"translation":"werwingmaatskappy"}
+{"skill":"genomförandeplaner","count":21879,"field_id":16,"translation":"implementeringsplanne"}
+{"skill":"omvårdnadsarbete","count":21835,"field_id":8,"translation":"sorgwerk"}
+{"skill":"branscherfarenhet","count":21804,"field_id":5,"translation":"bedryfservaring"}
+{"skill":"operation","count":21759,"field_id":8,"translation":"operasie"}
+{"skill":"yrkesbevis","count":21602,"field_id":2,"translation":"beroepssertifikaat"}
+{"skill":"inventering","count":21512,"field_id":5,"translation":"inventarisering"}
+{"skill":"front end","count":21435,"field_id":3,"translation":"voorkant"}
+{"skill":"orderhantering","count":21423,"field_id":5,"translation":"bestellingshantering"}
+{"skill":"säljutbildning","count":21189,"field_id":5,"translation":"verkoopsopleiding"}
+{"skill":"fysik","count":21139,"field_id":15,"translation":"fisika"}
+{"skill":"kunskapsutveckling","count":21136,"field_id":15,"translation":"kennisontwikkeling"}
+{"skill":"vatten","count":21017,"field_id":2,"translation":"water"}
+{"skill":"resultatansvar","count":20866,"field_id":20,"translation":"resultaatverantwoordelikheid"}
+{"skill":"arkiv","count":20761,"field_id":1,"translation":"argief"}
+{"skill":"förebyggande underhåll","count":20687,"field_id":10,"translation":"voorkomende onderhoud"}
+{"skill":"cafeteria","count":20652,"field_id":7,"translation":"kafeteria"}
+{"skill":"monitor","count":20639,"field_id":5,"translation":"monitor"}
+{"skill":"årsredovisning","count":20576,"field_id":1,"translation":"jaarverslag"}
+{"skill":"yrkeshögskoleutbildning","count":20212,"field_id":1,"translation":"beroepsopleiding"}
+{"skill":"socialtjänstlagen","count":20174,"field_id":16,"translation":"sociale dienste wet"}
+{"skill":"sortiment","count":20147,"field_id":5,"translation":"assortiment"}
+{"skill":"religion","count":19985,"field_id":3,"translation":"godsdiens"}
+{"skill":"styrsystem","count":19923,"field_id":10,"translation":"beheerstelsel"}
+{"skill":"lärarutbildning","count":19832,"field_id":15,"translation":"onderwysersopleiding"}
+{"skill":"flöden","count":19830,"field_id":1,"translation":"vloeie"}
+{"skill":"fastighet","count":19806,"field_id":1,"translation":"eiendom"}
+{"skill":"danska","count":19775,"field_id":5,"translation":"Deens"}
+{"skill":"butiksarbete","count":19710,"field_id":5,"translation":"winkelwerk"}
+{"skill":"ventilation","count":19665,"field_id":10,"translation":"ventilasie"}
+{"skill":"kvalitetskontroll","count":19661,"field_id":9,"translation":"kwaliteitsbeheer"}
+{"skill":"servicebranschen","count":19646,"field_id":5,"translation":"diensbedryf"}
+{"skill":"mätning","count":19570,"field_id":9,"translation":"meting"}
+{"skill":"databaser","count":19564,"field_id":3,"translation":"databasisse"}
+{"skill":"mässor","count":19530,"field_id":5,"translation":"beurse"}
+{"skill":"offentlig förvaltning","count":19529,"field_id":1,"translation":"openbare administrasie"}
+{"skill":"arbetsrätt","count":19496,"field_id":1,"translation":"arbeidsreg"}
+{"skill":"omvärldsbevakning","count":19492,"field_id":1,"translation":"omgewingsbewaking"}
+{"skill":"arbetsmetoder","count":19452,"field_id":15,"translation":"werkmetodes"}
+{"skill":"fordonsbranschen","count":19272,"field_id":10,"translation":"voertuigbedryf"}
+{"skill":"reklamationer","count":19191,"field_id":5,"translation":"klagtes"}
+{"skill":"grundutbildning","count":19107,"field_id":8,"translation":"grondopleiding"}
+{"skill":"vidareutveckling","count":19054,"field_id":3,"translation":"verdere ontwikkeling"}
+{"skill":"undersköterskeutbildning","count":19051,"field_id":8,"translation":"onderverpleegkundige opleiding"}
+{"skill":"hälsoarbete","count":19019,"field_id":8,"translation":"gesondheidswerk"}
+{"skill":"certifikat","count":19003,"field_id":10,"translation":"sertifikaat"}
+{"skill":"hushållssysslor","count":19003,"field_id":16,"translation":"huishoudelike take"}
+{"skill":"testning","count":18990,"field_id":3,"translation":"toetsing"}
+{"skill":"CSS","count":18975,"field_id":3,"translation":"CSS"}
+{"skill":"inleveranser","count":18969,"field_id":19,"translation":"inlewering"}
+{"skill":"office 365","count":18828,"field_id":3,"translation":"kantoor 365"}
+{"skill":"exponering","count":18726,"field_id":5,"translation":"blootstelling"}
+{"skill":"sortering","count":18700,"field_id":19,"translation":"sortering"}
+{"skill":"yrkeshögskola","count":18677,"field_id":1,"translation":"beroepskollege"}
+{"skill":"körning","count":18666,"field_id":19,"translation":"bestuur"}
+{"skill":"vårdavdelning","count":18647,"field_id":8,"translation":"sorgafdeling"}
+{"skill":"scrum","count":18587,"field_id":3,"translation":"skrum"}
+{"skill":"handel","count":18546,"field_id":5,"translation":"handel"}
+{"skill":"årsbokslut","count":18529,"field_id":1,"translation":"jaarlikse balans"}
+{"skill":"chefserfarenhet","count":18483,"field_id":20,"translation":"bestuurservaring"}
+{"skill":"maskinteknik","count":18481,"field_id":18,"translation":"masjienbou"}
+{"skill":"spanska","count":18445,"field_id":15,"translation":"Spaans"}
+{"skill":"tidplaner","count":18439,"field_id":2,"translation":"tydsbeplanning"}
+{"skill":"cloud","count":18401,"field_id":3,"translation":"wolk"}
+{"skill":"restaurangbranschen","count":18360,"field_id":7,"translation":"restaurantbedryf"}
+{"skill":"instrument","count":18360,"field_id":18,"translation":"instrument"}
+{"skill":"react","count":18300,"field_id":3,"translation":"reageer"}
+{"skill":"öppenvård","count":18299,"field_id":8,"translation":"openbare sorg"}
+{"skill":"utvecklingsfrågor","count":18259,"field_id":20,"translation":"ontwikkelingskwessies"}
+{"skill":"verksamhetssystem","count":18214,"field_id":1,"translation":"besigheidstelsel"}
+{"skill":"skolutveckling","count":18213,"field_id":15,"translation":"skoolontwikkeling"}
+{"skill":"yrkesutbildning","count":18202,"field_id":9,"translation":"beroepsopleiding"}
+{"skill":"ekonomiarbete","count":18150,"field_id":1,"translation":"ekonomiese werk"}
+{"skill":"föreskrifter","count":18126,"field_id":1,"translation":"voorskrifte"}
+{"skill":"receptionsarbete","count":18120,"field_id":1,"translation":"ontvangswerk"}
+{"skill":"fastighetsbranschen","count":18075,"field_id":1,"translation":"vastgoedbedryf"}
+{"skill":"git","count":18074,"field_id":3,"translation":"git"}
+{"skill":"djur","count":18031,"field_id":16,"translation":"diere"}
+{"skill":"ekonomissystem","count":18014,"field_id":1,"translation":"ekonomiese stelsels"}
+{"skill":"säljteknik","count":17946,"field_id":5,"translation":"verkooptegniek"}
+{"skill":"svets","count":17832,"field_id":9,"translation":"las"}
+{"skill":"powerpoint","count":17807,"field_id":1,"translation":"kragpunt"}
+{"skill":"optimering","count":17794,"field_id":18,"translation":"optimering"}
+{"skill":"utleveranser","count":17762,"field_id":19,"translation":"aflewering"}
+{"skill":"web","count":17610,"field_id":3,"translation":"web"}
+{"skill":"delegering","count":17557,"field_id":8,"translation":"delegering"}
+{"skill":"kommunal verksamhet","count":17557,"field_id":16,"translation":"gemeentelike bedrywighede"}
+{"skill":"html","count":17535,"field_id":3,"translation":"html"}
+{"skill":"ortopedi","count":17532,"field_id":8,"translation":"ortopedie"}
+{"skill":"CRM","count":17465,"field_id":5,"translation":"CRM"}
+{"skill":"mjukvaruutveckling","count":17455,"field_id":3,"translation":"sagtwelontwikkeling"}
+{"skill":"behandlingsarbete","count":17402,"field_id":16,"translation":"behandelingswerk"}
+{"skill":"fritidsprogrammet","count":17338,"field_id":16,"translation":"vrytydsprogram"}
+{"skill":"kandidatexamen","count":17241,"field_id":1,"translation":"kandidaatgraad"}
+{"skill":"arabiska","count":17225,"field_id":1,"translation":"Arabies"}
+{"skill":"försäljningserfarenhet","count":17220,"field_id":5,"translation":"verkoopervaring"}
+{"skill":"påklädning","count":17217,"field_id":16,"translation":"aantrek"}
+{"skill":"kalkylering","count":17172,"field_id":18,"translation":"berekening"}
+{"skill":"cosmic","count":17090,"field_id":8,"translation":"kosmies"}
+{"skill":"månadsbokslut","count":17059,"field_id":1,"translation":"maandelikse balans"}
+{"skill":"examensbevis","count":16958,"field_id":1,"translation":"diploma"}
+{"skill":"reservdelar","count":16910,"field_id":10,"translation":"reservestukke"}
+{"skill":"social dokumentation","count":16895,"field_id":16,"translation":"sosiale dokumentasie"}
+{"skill":"särskilt boende","count":16833,"field_id":8,"translation":"spesiale verblyf"}
+{"skill":"geriatrik","count":16809,"field_id":8,"translation":"geriatrie"}
+{"skill":"arkitektur","count":16792,"field_id":3,"translation":"argitektuur"}
+{"skill":"e-handel","count":16686,"field_id":5,"translation":"e-handel"}
+{"skill":"adobe photoshop","count":16662,"field_id":5,"translation":"adobe photoshop"}
+{"skill":"budgetarbete","count":16647,"field_id":1,"translation":"begrotingswerk"}
+{"skill":"hållbarhet","count":16634,"field_id":1,"translation":"volhoubaarheid"}
+{"skill":"rengöring","count":16603,"field_id":12,"translation":"skoonmaak"}
+{"skill":"driftsättning","count":16503,"field_id":10,"translation":"implementering"}
+{"skill":"teknikområden","count":16463,"field_id":18,"translation":"tegnologievelde"}
+{"skill":"personaladministration","count":16439,"field_id":1,"translation":"personeeladministrasie"}
+{"skill":"GDPR","count":16416,"field_id":3,"translation":"GDPR"}
+{"skill":"datasystem","count":16276,"field_id":1,"translation":"datastelsel"}
+{"skill":"PLC","count":16263,"field_id":18,"translation":"PLC"}
+{"skill":"skollagen","count":16256,"field_id":15,"translation":"skoolwet"}
+{"skill":"embedded","count":16171,"field_id":3,"translation":"ingebed"}
+{"skill":"systemvetenskap","count":16157,"field_id":3,"translation":"sisteemwetenskap"}
+{"skill":"active directory","count":16142,"field_id":3,"translation":"aktiewe gids"}
+{"skill":"fortbildning","count":16067,"field_id":8,"translation":"bykomende opleiding"}
+{"skill":"entreprenadjuridik","count":15997,"field_id":2,"translation":"kontrakteursreg"}
+{"skill":"information technology","count":15984,"field_id":3,"translation":"inligtingstegnologie"}
+{"skill":"larm","count":15962,"field_id":10,"translation":"alarm"}
+{"skill":"ärendehantering","count":15939,"field_id":1,"translation":"sakehantering"}
+{"skill":"it-branschen","count":15937,"field_id":3,"translation":"it-bedryf"}
+{"skill":"affärsutveckling","count":15899,"field_id":5,"translation":"sake-ontwikkeling"}
+{"skill":"prognoser","count":15891,"field_id":1,"translation":"voorspellings"}
+{"skill":"storkök","count":15834,"field_id":7,"translation":"grootkombuis"}
+{"skill":"omsorgsarbete","count":15812,"field_id":8,"translation":"sorgwerk"}
+{"skill":"motviktstruck","count":15799,"field_id":19,"translation":"kontrawigvurk"}
+{"skill":"tillverkningsindustrin","count":15788,"field_id":9,"translation":"vervaardigingsbedryf"}
+{"skill":"utvecklingssamtal","count":15767,"field_id":15,"translation":"ontwikkelingsgesprekke"}
+{"skill":"kontinuerlig coachning","count":15749,"field_id":1,"translation":"deurlopende afrigting"}
+{"skill":"verksamhetsansvar","count":15601,"field_id":20,"translation":"bedryfsverantwoordelikheid"}
+{"skill":"barn och ungdom","count":15594,"field_id":8,"translation":"kinder en jeug"}
+{"skill":"tydliggörande pedagogik","count":15486,"field_id":16,"translation":"verduidelikende pedagogiek"}
+{"skill":"lönesättning","count":15473,"field_id":20,"translation":"salarisvasstelling"}
+{"skill":"compliance","count":15450,"field_id":1,"translation":"nalewing"}
+{"skill":"leverantörsfakturor","count":15446,"field_id":1,"translation":"verskaffersfakture"}
+{"skill":"uppsökande försäljning","count":15269,"field_id":5,"translation":"opsporing verkoop"}
+{"skill":"agresso","count":15222,"field_id":1,"translation":"agresso"}
+{"skill":"behörigheter","count":15217,"field_id":3,"translation":"bevoegdhede"}
+{"skill":"missbruk","count":15195,"field_id":16,"translation":"misbruik"}
+{"skill":"universitetsexamen","count":15142,"field_id":1,"translation":"universiteitsgraad"}
+{"skill":"projektarbete","count":15133,"field_id":1,"translation":"projekwerk"}
+{"skill":"barnomsorg","count":15120,"field_id":15,"translation":"kindersorg"}
+{"skill":"skolledning","count":15092,"field_id":15,"translation":"skoolleiding"}
+{"skill":"lärplattform","count":15065,"field_id":15,"translation":"leerplatform"}
+{"skill":"varuplock","count":14989,"field_id":5,"translation":"produktepluk"}
+{"skill":"ce-körkort","count":14959,"field_id":19,"translation":"ce-bestuurslisensie"}
+{"skill":"CNC","count":14916,"field_id":9,"translation":"CNC"}
+{"skill":"telefoni","count":14881,"field_id":5,"translation":"telefonie"}
+{"skill":"allmänmedicin","count":14865,"field_id":8,"translation":"algemene medisyne"}
+{"skill":"angularjs","count":14824,"field_id":3,"translation":"angularjs"}
+{"skill":"ordrar","count":14793,"field_id":19,"translation":"bestellings"}
+{"skill":"customer service","count":14789,"field_id":5,"translation":"klantediens"}
+{"skill":"telekommunikation","count":14783,"field_id":5,"translation":"telekommunikasie"}
+{"skill":"friskvård","count":14749,"field_id":16,"translation":"gesondheidsorg"}
+{"skill":"tillagning","count":14748,"field_id":7,"translation":"bereiding"}
+{"skill":"påfyllning","count":14723,"field_id":5,"translation":"aanvulling"}
+{"skill":"lastbilar","count":14718,"field_id":10,"translation":"vragmotors"}
+{"skill":"läxhjälp","count":14697,"field_id":12,"translation":"huiswerk hulp"}
+{"skill":"mode","count":14603,"field_id":5,"translation":"mode"}
+{"skill":"telefonförsäljning","count":14540,"field_id":5,"translation":"telefoonverkope"}
+{"skill":"nyheter","count":14540,"field_id":5,"translation":"nuus"}
+{"skill":"à la carte","count":14532,"field_id":7,"translation":"à la carte"}
+{"skill":"ledarskapsutbildning","count":14531,"field_id":20,"translation":"leierskapopleiding"}
+{"skill":"samiska","count":14531,"field_id":15,"translation":"samies"}
+{"skill":"läkemedelshantering","count":14529,"field_id":8,"translation":"medisynebestuur"}
+{"skill":"sjuksköterskeuppgifter","count":14426,"field_id":8,"translation":"verpleegkundige take"}
+{"skill":"specialkost","count":14407,"field_id":7,"translation":"spesiale kos"}
+{"skill":"kassavana","count":14339,"field_id":5,"translation":"kasvaardigheid"}
+{"skill":"löneadministration","count":14317,"field_id":1,"translation":"salarisadministrasie"}
+{"skill":"mötesbokning","count":14267,"field_id":5,"translation":"vergadering bespreking"}
+{"skill":"utvecklingsstörning","count":14212,"field_id":16,"translation":"ontwikkelingsversteuring"}
+{"skill":"kontaktuppgifter","count":14145,"field_id":9,"translation":"kontakbesonderhede"}
+{"skill":"barn & fritid","count":14079,"field_id":15,"translation":"kinders & vryetyd"}
+{"skill":"produktkunskap","count":14063,"field_id":5,"translation":"produkvaardigheid"}
+{"skill":"amazon web services","count":13995,"field_id":3,"translation":"amazon web services"}
+{"skill":"franska","count":13990,"field_id":15,"translation":"frans"}
+{"skill":"TV","count":13987,"field_id":5,"translation":"TV"}
+{"skill":"inredning","count":13874,"field_id":5,"translation":"versiering"}
+{"skill":"detaljhandel","count":13853,"field_id":5,"translation":"winkeldetailhandel"}
+{"skill":"fordonsindustrin","count":13806,"field_id":18,"translation":"voertuigindustrie"}
+{"skill":"demens","count":13765,"field_id":8,"translation":"dementie"}
+{"skill":"samhällsbyggnad","count":13754,"field_id":2,"translation":"gemeenskapsontwikkeling"}
+{"skill":"civilingenjörsexamen","count":13684,"field_id":18,"translation":"burgerlike ingenieursgraad"}
+{"skill":"autocad","count":13658,"field_id":18,"translation":"autocad"}
+{"skill":"uthyrning","count":13654,"field_id":18,"translation":"verhuring"}
+{"skill":"privatkunder","count":13564,"field_id":5,"translation":"privaatkliënte"}
+{"skill":"kundhantering","count":13562,"field_id":5,"translation":"kliëntbestuur"}
+{"skill":"medicinering","count":13554,"field_id":8,"translation":"medikasie"}
+{"skill":"mätteknik","count":13516,"field_id":9,"translation":"meettegniek"}
+{"skill":"elkraft","count":13420,"field_id":18,"translation":"elektriese krag"}
+{"skill":"lönehantering","count":13403,"field_id":1,"translation":"salarisbestuur"}
+{"skill":"diabetes","count":13401,"field_id":8,"translation":"diabetes"}
+{"skill":"elevhälsa","count":13387,"field_id":15,"translation":"leerlinggesondheid"}
+{"skill":"kundansvar","count":13350,"field_id":5,"translation":"klientverantwoordelikheid"}
+{"skill":"datavetenskap","count":13310,"field_id":3,"translation":"datawetenskap"}
+{"skill":"renhållning","count":13244,"field_id":7,"translation":"omgewingsbewaring"}
+{"skill":"förskollärarexamen","count":13243,"field_id":15,"translation":"kleuterskoolonderwysergraad"}
+{"skill":"lagarbete","count":13229,"field_id":5,"translation":"spanwerk"}
+{"skill":"client","count":13174,"field_id":3,"translation":"kliënt"}
+{"skill":"sjukvårdsinsatser","count":13170,"field_id":8,"translation":"mediese dienste"}
+{"skill":"förhandling","count":13170,"field_id":5,"translation":"onderhandeling"}
+{"skill":"microsoft access","count":13147,"field_id":3,"translation":"microsoft access"}
+{"skill":"internet","count":13116,"field_id":3,"translation":"internet"}
+{"skill":"intensivvård","count":13066,"field_id":8,"translation":"intensiewe sorg"}
+{"skill":"tekniska kunskaper","count":13054,"field_id":10,"translation":"tegniese vaardighede"}
+{"skill":"beslutsunderlag","count":13033,"field_id":1,"translation":"besluitnemingsgrondslag"}
+{"skill":"UX","count":13000,"field_id":3,"translation":"UX"}
+{"skill":"läsa ritningar","count":12959,"field_id":9,"translation":"tekeninglees"}
+{"skill":"sql-server","count":12956,"field_id":3,"translation":"sql-bediener"}
+{"skill":"processindustri","count":12919,"field_id":9,"translation":"prosesindustrie"}
+{"skill":"ingenjörsutbildning","count":12897,"field_id":18,"translation":"ingenieursopleiding"}
+{"skill":"introduktionsprogram","count":12889,"field_id":8,"translation":"inleidingsprogram"}
+{"skill":"ekonomifrågor","count":12885,"field_id":20,"translation":"ekonomiese aangeleenthede"}
+{"skill":"ekonomiskt ansvar","count":12871,"field_id":20,"translation":"ekonomiese verantwoordelikheid"}
+{"skill":"avklädning","count":12835,"field_id":16,"translation":"ontklading"}
+{"skill":"rekryteringssystem","count":12812,"field_id":15,"translation":"werwingstelsel"}
+{"skill":"behovsanalys","count":12785,"field_id":5,"translation":"behoeftesontleding"}
+{"skill":"forskningsprojekt","count":12752,"field_id":15,"translation":"navorsingsprojek"}
+{"skill":"reglerteknik","count":12724,"field_id":10,"translation":"reëltegniek"}
+{"skill":"melior","count":12696,"field_id":8,"translation":"melior"}
+{"skill":"snickeri","count":12677,"field_id":2,"translation":"houtwerk"}
+{"skill":"samhällsvetenskap","count":12637,"field_id":1,"translation":"gemeenskapswetenskap"}
+{"skill":"tandvård","count":12625,"field_id":8,"translation":"tandversorging"}
+{"skill":"ekonomisk uppföljning","count":12598,"field_id":1,"translation":"ekonomiese opvolging"}
+{"skill":"tunga fordon","count":12566,"field_id":10,"translation":"swaar voertuie"}
+{"skill":"verifiering","count":12533,"field_id":18,"translation":"verifikasie"}
+{"skill":"embedded system","count":12522,"field_id":3,"translation":"ingebedde stelsel"}
+{"skill":"psykiatrin","count":12522,"field_id":8,"translation":"psigiatrie"}
+{"skill":"riskanalys","count":12521,"field_id":18,"translation":"risikoanalise"}
+{"skill":"skinn","count":12508,"field_id":16,"translation":"leer"}
+{"skill":"gymnasieskola","count":12461,"field_id":15,"translation":"hoërskool"}
+{"skill":"outlook","count":12431,"field_id":1,"translation":"uitkyk"}
+{"skill":"kravställning","count":12414,"field_id":3,"translation":"vereistes"}
+{"skill":"pedagogisk verksamhet","count":12405,"field_id":15,"translation":"pedagogiese aktiwiteit"}
+{"skill":"good manufacturing practice","count":12383,"field_id":9,"translation":"goeie vervaardigingspraktyk"}
+{"skill":"prospektering","count":12373,"field_id":5,"translation":"prospektering"}
+{"skill":"fastighetsskötsel","count":12310,"field_id":10,"translation":"eiendomsbestuur"}
+{"skill":"abonnemang","count":12304,"field_id":5,"translation":"abonnement"}
+{"skill":"palliativ vård","count":12302,"field_id":8,"translation":"palliatiewe sorg"}
+{"skill":"REST","count":12297,"field_id":3,"translation":"REST"}
+{"skill":"adobe indesign","count":12237,"field_id":1,"translation":"adobe indesign"}
+{"skill":"släp","count":12222,"field_id":19,"translation":"sleepwa"}
+{"skill":"habilitering","count":12190,"field_id":8,"translation":"habilitering"}
+{"skill":"miljöfrågor","count":12188,"field_id":14,"translation":"omgewingskwessies"}
+{"skill":"service och underhåll","count":12155,"field_id":10,"translation":"diens en instandhouding"}
+{"skill":"patientsäkerhet","count":12136,"field_id":8,"translation":"pasientveiligheid"}
+{"skill":"administrativt stöd","count":12120,"field_id":1,"translation":"administratiewe ondersteuning"}
+{"skill":"kundvård","count":12114,"field_id":5,"translation":"klientversorging"}
+{"skill":"telefonintervju","count":12107,"field_id":5,"translation":"telefoononderhoud"}
+{"skill":"reflektion","count":12105,"field_id":15,"translation":"refleksie"}
+{"skill":"riskbedömningar","count":12095,"field_id":8,"translation":"risiko-evaluering"}
+{"skill":"dans","count":12075,"field_id":15,"translation":"dans"}
+{"skill":"bestämmelser","count":12072,"field_id":1,"translation":"voorskrifte"}
+{"skill":"beräkningar","count":12047,"field_id":18,"translation":"berekeninge"}
+{"skill":"biologi","count":12038,"field_id":15,"translation":"biologie"}
+{"skill":"möbler","count":11979,"field_id":19,"translation":"meubels"}
+{"skill":"personbilar","count":11969,"field_id":10,"translation":"persoonlike voertuie"}
+{"skill":"bevakning","count":11952,"field_id":1,"translation":"bewaking"}
+{"skill":"nykundsbearbetning","count":11880,"field_id":5,"translation":"nuwe kliente verwerking"}
+{"skill":"pneumatik","count":11859,"field_id":10,"translation":"pneumatika"}
+{"skill":"akutmottagning","count":11828,"field_id":8,"translation":"noodontvangs"}
+{"skill":"mobil","count":11796,"field_id":8,"translation":"mobiel"}
+{"skill":"effektivisering","count":11788,"field_id":1,"translation":"effektiewe"}
+{"skill":"yrkesvägledning","count":11760,"field_id":1,"translation":"beroepsvoorligting"}
+{"skill":"epilepsi","count":11750,"field_id":16,"translation":"epilepsie"}
+{"skill":"artificial intelligence","count":11746,"field_id":3,"translation":"kunsmatige intelligensie"}
+{"skill":"sjuksköterskeexamen","count":11732,"field_id":8,"translation":"verpleegkundige eksamen"}
+{"skill":"socionomutbildning","count":11719,"field_id":16,"translation":"sosiologiese opleiding"}
+{"skill":"försäljningsarbete","count":11686,"field_id":5,"translation":"verkope werk"}
+{"skill":"bokslutsarbete","count":11658,"field_id":1,"translation":"rekeningkundige werk"}
+{"skill":"paketering","count":11600,"field_id":19,"translation":"verpakking"}
+{"skill":"metodutveckling","count":11593,"field_id":18,"translation":"metode-ontwikkeling"}
+{"skill":"frukost","count":11592,"field_id":7,"translation":"ontbyt"}
+{"skill":"intellektuell funktionsnedsättning","count":11592,"field_id":16,"translation":"intellektuele gestremdheid"}
+{"skill":"studievägledning","count":11583,"field_id":1,"translation":"studievoorligting"}
+{"skill":"vårdplanering","count":11575,"field_id":8,"translation":"sorgplanne"}
+{"skill":"sharepoint","count":11396,"field_id":3,"translation":"aandeelplek"}
+{"skill":"it-säkerhet","count":11375,"field_id":3,"translation":"it-sekuriteit"}
+{"skill":"API","count":11349,"field_id":3,"translation":"API"}
+{"skill":"huvudansvar","count":11339,"field_id":1,"translation":"hoofverantwoordelikheid"}
+{"skill":"diarieföring","count":11309,"field_id":1,"translation":"dagboekhouding"}
+{"skill":"byggprojekt","count":11248,"field_id":2,"translation":"bouprojek"}
+{"skill":"spel","count":11236,"field_id":5,"translation":"speletjies"}
+{"skill":"informationssäkerhet","count":11228,"field_id":3,"translation":"inligting-sekuriteit"}
+{"skill":"processindustrin","count":11197,"field_id":18,"translation":"proses-industrie"}
+{"skill":"datateknik","count":11128,"field_id":3,"translation":"data-tegnologie"}
+{"skill":"android","count":11094,"field_id":3,"translation":"android"}
+{"skill":"kriminalvården","count":11052,"field_id":17,"translation":"kriminele sorg"}
+{"skill":"elinstallationer","count":11052,"field_id":10,"translation":"elektriese installasies"}
+{"skill":"b2b-försäljning","count":11029,"field_id":5,"translation":"b2b-verkope"}
+{"skill":"it-miljö","count":11019,"field_id":3,"translation":"it-omgewing"}
+{"skill":"dokumenthantering","count":10977,"field_id":1,"translation":"dokumenthantering"}
+{"skill":"video","count":10929,"field_id":3,"translation":"video"}
+{"skill":"crm-system","count":10929,"field_id":5,"translation":"crm-stelsel"}
+{"skill":"färg","count":10884,"field_id":5,"translation":"kleur"}
+{"skill":"medarbetarsamtal","count":10833,"field_id":20,"translation":"werknemer-gesprekke"}
+{"skill":"trädgård","count":10810,"field_id":13,"translation":"tuin"}
+{"skill":"hjullastare","count":10803,"field_id":2,"translation":"wiel-laaier"}
+{"skill":"energibranschen","count":10792,"field_id":18,"translation":"energie-industrie"}
+{"skill":"luftreningssystem","count":10690,"field_id":5,"translation":"lugtige-reinigingstelsel"}
+{"skill":"kravhantering","count":10684,"field_id":3,"translation":"vereiste-bestuur"}
+{"skill":"rekryteringsverktyg","count":10669,"field_id":15,"translation":"werwing-gereedskap"}
+{"skill":"magisterexamen","count":10632,"field_id":15,"translation":"magister-eksamen"}
+{"skill":"motiverande samtal","count":10602,"field_id":16,"translation":"motiverende-gesprekke"}
+{"skill":"sanering","count":10599,"field_id":5,"translation":"sanering"}
+{"skill":"hr-området","count":10591,"field_id":1,"translation":"hr-gebied"}
+{"skill":"utbetalningar","count":10586,"field_id":1,"translation":"uitbetalings"}
+{"skill":"hr-arbete","count":10545,"field_id":1,"translation":"hr-werk"}
+{"skill":"produktionsteknik","count":10544,"field_id":18,"translation":"produksie-tegnologie"}
+{"skill":"socialpsykiatri","count":10541,"field_id":16,"translation":"sosiale-psigiatrie"}
+{"skill":"it-vana","count":10535,"field_id":1,"translation":"it-gewoonte"}
+{"skill":"deployment","count":10492,"field_id":3,"translation":"implementering"}
+{"skill":"åtgärdsprogram","count":10416,"field_id":15,"translation":"aksieprogram"}
+{"skill":"utvecklingsprocesser","count":10413,"field_id":3,"translation":"ontwikkelingsprosesse"}
+{"skill":"validering","count":10413,"field_id":18,"translation":"validering"}
+{"skill":"hus","count":10392,"field_id":2,"translation":"huis"}
+{"skill":"tekniska frågor","count":10390,"field_id":5,"translation":"tegniese vrae"}
+{"skill":"säkerhetsarbete","count":10388,"field_id":17,"translation":"sekuriteitswerk"}
+{"skill":"kontorsmaterial","count":10359,"field_id":1,"translation":"kantoorbenodigdhede"}
+{"skill":"extraarbete","count":10347,"field_id":5,"translation":"ekstra werk"}
+{"skill":"geografiska informationssystem","count":10311,"field_id":18,"translation":"geografiese inligtingstelsels"}
+{"skill":"hemstädning","count":10298,"field_id":12,"translation":"huis skoonmaak"}
+{"skill":"manualer","count":10284,"field_id":10,"translation":"handleidings"}
+{"skill":"ekonomistyrning","count":10281,"field_id":1,"translation":"ekonomiese bestuur"}
+{"skill":"microsoft exchange","count":10270,"field_id":3,"translation":"microsoft uitruil"}
+{"skill":"servicedesk","count":10263,"field_id":3,"translation":"diensbalie"}
+{"skill":"revision","count":10258,"field_id":1,"translation":"hersiening"}
+{"skill":"utbildningsprogram","count":10243,"field_id":5,"translation":"opleidingsprogramme"}
+{"skill":"ERP","count":10178,"field_id":1,"translation":"ondernemingshulpbronbeplanning"}
+{"skill":"kemikalier","count":10172,"field_id":5,"translation":"chemikalieë"}
+{"skill":"barns lärande","count":10160,"field_id":15,"translation":"kinders se leerproses"}
+{"skill":"mission","count":10136,"field_id":18,"translation":"missie"}
+{"skill":"neurologi","count":10129,"field_id":8,"translation":"neurologie"}
+{"skill":"teckenspråk","count":10089,"field_id":16,"translation":"gebaretaal"}
+{"skill":"fiber","count":10073,"field_id":10,"translation":"veselstowwe"}
+{"skill":"kontrakt","count":10051,"field_id":5,"translation":"kontrakte"}
+{"skill":"kontering","count":10019,"field_id":1,"translation":"kontanting"}
+{"skill":"omvårdnadsutbildning","count":9994,"field_id":8,"translation":"sorgopleiding"}
+{"skill":"reparationsarbeten","count":9954,"field_id":10,"translation":"herstelwerk"}
+{"skill":"script","count":9946,"field_id":3,"translation":"skrip"}
+{"skill":"kompetensförsörjning","count":9890,"field_id":1,"translation":"vaardigheidsvoorsiening"}
+{"skill":"fotboll","count":9877,"field_id":16,"translation":"sokker"}
+{"skill":"analysarbete","count":9874,"field_id":1,"translation":"analise"}
+{"skill":"arbetsprocesser","count":9870,"field_id":1,"translation":"werkprosesse"}
+{"skill":"förändringsledning","count":9865,"field_id":20,"translation":"veranderingsbestuur"}
+{"skill":"kundärenden","count":9861,"field_id":5,"translation":"klientaangeleenthede"}
+{"skill":"byggnation","count":9853,"field_id":2,"translation":"bou"}
+{"skill":"programvara","count":9755,"field_id":3,"translation":"programmatuur"}
+{"skill":"certifieringar","count":9748,"field_id":3,"translation":"sertifisering"}
+{"skill":"telefonvana","count":9745,"field_id":5,"translation":"telefoonvaardigheid"}
+{"skill":"deklaration","count":9744,"field_id":1,"translation":"verklaring"}
+{"skill":"civilingenjörsutbildning","count":9742,"field_id":18,"translation":"burgerlike ingenieursopleiding"}
+{"skill":"windows server","count":9733,"field_id":3,"translation":"windows bediener"}
+{"skill":"vårdutbildning","count":9714,"field_id":16,"translation":"sorgopleiding"}
+{"skill":"forskarutbildning","count":9707,"field_id":15,"translation":"navorsingsopleiding"}
+{"skill":"förskrivning","count":9687,"field_id":8,"translation":"voorskrif"}
+{"skill":"remisshantering","count":9670,"field_id":1,"translation":"verwysingshantering"}
+{"skill":"gymnastik","count":9650,"field_id":15,"translation":"gimnastiek"}
+{"skill":"handlingsplaner","count":9644,"field_id":16,"translation":"handelingsplanne"}
+{"skill":"processutveckling","count":9619,"field_id":1,"translation":"prosesontwikkeling"}
+{"skill":"uppackning","count":9606,"field_id":5,"translation":"uitpakking"}
+{"skill":"anläggningsbranschen","count":9583,"field_id":2,"translation":"aanlegbedryf"}
+{"skill":"näringsliv","count":9569,"field_id":1,"translation":"besigheidswêreld"}
+{"skill":"budgetering","count":9554,"field_id":20,"translation":"begroting"}
+{"skill":"förskollärarlegitimation","count":9531,"field_id":15,"translation":"kleuteronderwyserlisensie"}
+{"skill":"ekonomiområdet","count":9527,"field_id":1,"translation":"ekonomiese gebied"}
+{"skill":"fakturafrågor","count":9515,"field_id":5,"translation":"faktuurvrae"}
+{"skill":"anestesi","count":9492,"field_id":8,"translation":"narkose"}
+{"skill":"node","count":9491,"field_id":3,"translation":"node"}
+{"skill":"docker","count":9466,"field_id":3,"translation":"docker"}
+{"skill":"allergi","count":9460,"field_id":16,"translation":"allergie"}
+{"skill":"prognosarbete","count":9454,"field_id":1,"translation":"voorspelling"}
+{"skill":"utvecklingsteam","count":9454,"field_id":3,"translation":"ontwikkelingsspan"}
+{"skill":"neuropsykiatriska funktionsnedsättningar","count":9406,"field_id":16,"translation":"neuropsigiatriese gestremdhede"}
+{"skill":"naturvetenskap","count":9340,"field_id":15,"translation":"natuurwetenskap"}
+{"skill":"växel","count":9331,"field_id":1,"translation":"skakel"}
+{"skill":"verkstadsarbete","count":9321,"field_id":9,"translation":"werkswinkel"}
+{"skill":"förstudier","count":9311,"field_id":18,"translation":"voorondersoek"}
+{"skill":"samhällsfrågor","count":9304,"field_id":1,"translation":"samelewingskwessies"}
+{"skill":"kollektivtrafik","count":9299,"field_id":16,"translation":"openbare vervoer"}
+{"skill":"automatisering","count":9263,"field_id":3,"translation":"outomatisering"}
+{"skill":"inbetalningar","count":9261,"field_id":1,"translation":"inbetalings"}
+{"skill":"rekryteringsbranschen","count":9251,"field_id":5,"translation":"werwingbedryf"}
+{"skill":"utbildningsförvaltningen","count":9247,"field_id":15,"translation":"opleidingsbestuur"}
+{"skill":"mekatronik","count":9219,"field_id":18,"translation":"mekatronika"}
+{"skill":"teknisk fysik","count":9215,"field_id":18,"translation":"tegniese fisika"}
+{"skill":"försäljningsprocessen","count":9210,"field_id":5,"translation":"verkopeproses"}
+{"skill":"hantverk","count":9205,"field_id":9,"translation":"ambag"}
+{"skill":"stål","count":9187,"field_id":5,"translation":"staal"}
+{"skill":"uppgraderingar","count":9168,"field_id":10,"translation":"opgraderings"}
+{"skill":"matlab","count":9162,"field_id":3,"translation":"matlab"}
+{"skill":"gräsklippning","count":9154,"field_id":13,"translation":"gras sny"}
+{"skill":"ensamarbete","count":9150,"field_id":16,"translation":"eenheidswerk"}
+{"skill":"grundsärskolan","count":9148,"field_id":15,"translation":"spesiale skool"}
+{"skill":"ekonomiområdet","count":9140,"field_id":1,"translation":"ekonomiese gebied"}
+{"skill":"typescript","count":9133,"field_id":3,"translation":"typescript"}
+{"skill":"barnskötarutbildning","count":9122,"field_id":15,"translation":"kindersorgopleiding"}
+{"skill":"B2C","count":9114,"field_id":5,"translation":"van die maatskappy na die kliënt"}
+{"skill":"erfarenhet av barn","count":9098,"field_id":16,"translation":"ervaring met kinders"}
+{"skill":"SEO","count":9095,"field_id":5,"translation":"soekmasjienoptimering"}
+{"skill":"annonsering","count":9037,"field_id":5,"translation":"advertering"}
+{"skill":"uppbyggnad","count":9037,"field_id":18,"translation":"opbou"}
+{"skill":"digital marknadsföring","count":9016,"field_id":5,"translation":"digitale bemarking"}

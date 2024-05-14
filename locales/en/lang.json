@@ -1,7 +1,33 @@
 {
-    "title": "Work-compass",
-    "welcome": "Welcome"
-}
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "Welcome",
+    "what_do_you_need_help_with": "What do you need help with?",
+    "guidance": "General guidance about the Swedish labour market",
+    "job_finder": "Find a profession based on your skills",
+    "tell_me_more": "Tell me more",
+    "elaborate": "Tell me more about",
+    "ask_ai": "Ask AI...",
+    "what_skills": "What skills do you have?",
+    "search_job": "Find jobs!",
+    "ai_loading": "AI is generating professions...",
+    "recommended_jobs": "Recommended professions",
+    "n_of_ads_1": "There are currently",
+    "n_of_ads_2": "ads for the profession",
+    "show_ads": "Show ads",
+    "terminology": {
+        "header": "Common terminology",
+        "content" : [
 
+        ]
+    },
+    "legal": {
+        "header": "Laws & Regulations",
+        "content" : [
+        
+        ]
+    }
+}
 
 

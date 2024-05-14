@@ -1,0 +1,3036 @@
+{"job": "Biostatistiker", "translation": "생명통계학자"}
+{"job": "Demograf", "translation": "인구통계학자"}
+{"job": "Matematisk statistiker", "translation": "수리통계학자"}
+{"job": "Metodstatistiker", "translation": "방법통계학자"}
+{"job": "Miljöstatistiker", "translation": "환경통계학자"}
+{"job": "Statistiker", "translation": "통계학자"}
+{"job": "Civilingenjör, lantmäteri", "translation": "토목공학자, 토목"}
+{"job": "Exploateringsingenjör", "translation": "부동산개발공학자"}
+{"job": "Lantmätare/Förrättningslantmätare", "translation": "토목기술자/토지측량기술자"}
+{"job": "Markförhandlare", "translation": "토지협상자"}
+{"job": "Revisor", "translation": "회계사"}
+{"job": "Skatterådgivare", "translation": "세무조언가"}
+{"job": "Accounting controller", "translation": "회계관리자"}
+{"job": "Budgetplanerare", "translation": "예산기획자"}
+{"job": "Business controller", "translation": "비지니스컨트롤러"}
+{"job": "Controller", "translation": "컨트롤러"}
+{"job": "Finansiell controller", "translation": "재무컨트롤러"}
+{"job": "HR-controller", "translation": "인사컨트롤러"}
+{"job": "Koncerncontroller", "translation": "그룹 컨트롤러"}
+{"job": "Aktieanalytiker", "translation": "주식분석가"}
+{"job": "Finansanalytiker", "translation": "금융분석가"}
+{"job": "Finansekonom", "translation": "재무경영자"}
+{"job": "Finanskonsult", "translation": "금융컨설턴트"}
+{"job": "Företagsrådgivare", "translation": "기업상담가"}
+{"job": "Kreditchef", "translation": "신용책장"}
+{"job": "Placeringsrådgivare", "translation": "투자상담원"}
+{"job": "Fondförvaltare/Portföljförvaltare", "translation": "펀드매니저/포트폴리오매니저"}
+{"job": "Trader", "translation": "트레이더"}
+{"job": "Forskare, ekonomi", "translation": "연구원, 경제학"}
+{"job": "Forskningsassistent, ekonomi", "translation": "연구 보조, 경제학"}
+{"job": "Hälsoekonom", "translation": "의료경제학자"}
+{"job": "Makroanalytiker", "translation": "매크로분석가"}
+{"job": "Miljöekonom", "translation": "환경경제학자"}
+{"job": "Nationalekonom", "translation": "국민경제학자"}
+{"job": "Ränteanalytiker", "translation": "이자분석가"}
+{"job": "Samhällsekonom", "translation": "사회경제학자"}
+{"job": "Budget- och skuldrådgivare", "translation": "예산 및 부채 상담가"}
+{"job": "Budgetsekreterare", "translation": "예산 시크릿러리"}
+{"job": "Fastighetsekonom", "translation": "부동산경제학자"}
+{"job": "Fastighetsutvecklare", "translation": "부동산개발자"}
+{"job": "Förvaltningsekonom", "translation": "관리경제학자"}
+{"job": "Produktionsekonom", "translation": "생산경제학자"}
+{"job": "Affärsanalytiker/Business analyst", "translation": "비즈니스애널리스트"}
+{"job": "Affärsarkitekt", "translation": "비즈니스 설계자"}
+{"job": "Affärsutvecklare", "translation": "비즈니스개발자"}
+{"job": "Civilingenjör, organisationsutveckling", "translation": "토목공학자, 기구 발전"}
+{"job": "Ekonomikonsult", "translation": "경제컨설턴트"}
+{"job": "Företagskonsult", "translation": "기업컨설턴트"}
+{"job": "Kvalitetsrevisor", "translation": "품질감사관"}
+{"job": "Kvalitetssamordnare/Kvalitetskoordinator", "translation": "품질조율자/품질조정자"}
+{"job": "Organisationskonsult", "translation": "기관 컨설턴트"}
+{"job": "Organisationsutvecklare", "translation": "기관 발전가"}
+{"job": "Verksamhetsanalytiker", "translation": "업무 분석가"}
+{"job": "Verksamhetsarkitekt", "translation": "업무 설계자"}
+{"job": "Verksamhetskonsult", "translation": "업무 컨설턴트"}
+{"job": "Verksamhetsutvecklare", "translation": "업무 발전가"}
+{"job": "Akademisekreterare", "translation": "학사 비서"}
+{"job": "Ambassadsekreterare", "translation": "대사 비서"}
+{"job": "Antagningssekreterare, utbildning", "translation": "입학 비서, 교육"}
+{"job": "Arkivutredare", "translation": "기록 조사관"}
+{"job": "Attaché", "translation": "서기"}
+{"job": "Beredskapssamordnare/Krisberedskapssamordnare", "translation": "비상 대책 협조자/위기 대책 협조자"}
+{"job": "Civil brottsutredare", "translation": "사회 범죄 조사관"}
+{"job": "Dataskyddsombud", "translation": "데이터 보호 책임자"}
+{"job": "Departementssekreterare", "translation": "부처 비서"}
+{"job": "Destinationsutvecklare", "translation": "목적지 발전가"}
+{"job": "Dövblindkonsulent", "translation": "청각장애인 컨설턴트"}
+{"job": "Dövkonsulent", "translation": "청력 컨설턴트"}
+{"job": "EU-handläggare", "translation": "EU 담당자"}
+{"job": "Folkhälsoplanerare", "translation": "공중 보건 계획가"}
+{"job": "Folkhälsostrateg", "translation": "공중 보건 전략가"}
+{"job": "Folkhälsoutvecklare", "translation": "공중 보건 개발가"}
+{"job": "Förbundssekreterare", "translation": "연맹 비서"}
+{"job": "Föreningskonsulent", "translation": "협회 컨설턴트"}
+{"job": "Förhandlingssekreterare", "translation": "협상 비서"}
+{"job": "Friluftssamordnare", "translation": "야외 활동 조정자"}
+{"job": "Fritidssamordnare", "translation": "여가 활동 조정가"}
+{"job": "GIS-samordnare", "translation": "GIS 조정가"}
+{"job": "Hållbarhetsutvecklare", "translation": "지속가능성 발전가"}
+{"job": "Hälsoplanerare", "translation": "건강 계획가"}
+{"job": "Handikappkonsulent", "translation": "장애인 컨설턴트"}
+{"job": "Handläggare, intresseorganisation/Utredare, intresseorganisation", "translation": "관리자, 이해 단체/조사관, 이해 단체"}
+{"job": "Handläggare, offentlig förvaltning/Utredare, offentlig förvaltning", "translation": "관리자, 공공 행정/조사관, 공공 행정"}
+{"job": "Informationssäkerhetssamordnare", "translation": "정보 보안 조정가"}
+{"job": "Inspektör, IVO (Inspektionen för vård och omsorg)", "translation": "감독관, IVO (의료 및 보호 감독)"}
+{"job": "Klimatanpassningssamordnare", "translation": "기후 적응 조정가"}
+{"job": "Kommunhandläggare", "translation": "시·군·구 관리자"}
+{"job": "Kommunsekreterare", "translation": "시·군·구 비서"}
+{"job": "Konsumentvägledare", "translation": "소비자 상담원"}
+{"job": "Kultursekreterare", "translation": "문화 비서"}
+{"job": "Miljö- och klimatstrateg", "translation": "환경 및 기후 전략가"}
+{"job": "Näringslivssekreterare/Näringslivsutvecklare", "translation": "산업 비서/산업 발전가"}
+{"job": "Naturvårdshandläggare", "translation": "자연 보전자료"}
+{"job": "Ombudsman", "translation": "대리인"}
+{"job": "Organisationssekreterare, intresseorganisation", "translation": "기관 비서, 이해 단체"}
+{"job": "Regionsekreterare", "translation": "지방 비서"}
+{"job": "Samhällsplanerare", "translation": "사회 계획가"}
+{"job": "Samhällsvägledare", "translation": "사회 상담원"}
+{"job": "Skolsekreterare", "translation": "학교 비서"}
+{"job": "Stadssekreterare", "translation": "도시 비서"}
+{"job": "Synkonsulent", "translation": "신문 컨설턴트"}
+{"job": "Trafikplanerare, offentlig förvaltning", "translation": "교통 계획자, 공공 행정"}
+{"job": "Turistintendent", "translation": "관광 임원"}
+{"job": "Turistsekreterare", "translation": "관광 비서"}
+{"job": "Undervisningsråd", "translation": "교육 위원"}
+{"job": "Utredningssekreterare", "translation": "조사 비서"}
+{"job": "Vårdutvecklare", "translation": "의료 개발자"}
+{"job": "HR business partner", "translation": "인사 비즈니스 파트너"}
+{"job": "HR-generalist/HR-partner", "translation": "인사 전문가/인사 파트너"}
+{"job": "HR-konsult/PA-konsult", "translation": "인사 컨설턴트/인력 자문"}
+{"job": "HR-specialist/HR-advisor", "translation": "인사 전문가/인사 고문"}
+{"job": "HR-strateg", "translation": "인사 전략가"}
+{"job": "Personalansvarig", "translation": "인사 책임자"}
+{"job": "Personalutvecklare", "translation": "인재 개발자"}
+{"job": "Rekryterare/Rekryteringskonsult", "translation": "채용 담당자/채용 컨설턴트"}
+{"job": "Researcher, rekrytering", "translation": "조사원, 채용"}
+{"job": "Annonsproducent", "translation": "광고 제작자"}
+{"job": "Copywriter", "translation": "콘텐츠 작가"}
+{"job": "Forskningskommunikatör", "translation": "연구 커뮤니케이터"}
+{"job": "Informationsassistent", "translation": "정보 어시스턴트"}
+{"job": "Informationskonsult", "translation": "정보 컨설턴트"}
+{"job": "Informationssekreterare", "translation": "정보 비서"}
+{"job": "Informatör/Kommunikatör", "translation": "정보 지원자/커뮤니케이터"}
+{"job": "Kommunikationsstrateg", "translation": "커뮤니케이션 전문가"}
+{"job": "Mediakonsulent", "translation": "미디어 컨설턴트"}
+{"job": "Mediaplanerare", "translation": "미디어 기획자"}
+{"job": "Mediehanterare", "translation": "미디어 매니저"}
+{"job": "Onlinemarknadsförare", "translation": "온라인 마케터"}
+{"job": "PR-konsult", "translation": "홍보 컨설턴트"}
+{"job": "PR-man", "translation": "홍보 담당자"}
+{"job": "Pressekreterare", "translation": "대변인"}
+{"job": "Social media manager/Social media specialist", "translation": "소셜 미디어 매니저/소셜 미디어 전문가"}
+{"job": "Teknikinformatör", "translation": "기술 정보 전문가"}
+{"job": "Visuell grafisk kommunikatör", "translation": "시각 그래픽 디자이너"}
+{"job": "Advokat", "translation": "변호사"}
+{"job": "Brottmålsadvokat", "translation": "형사 변호사"}
+{"job": "Tvistemålsadvokat", "translation": "소송 변호사"}
+{"job": "Assessor", "translation": "판사후"}
+{"job": "Chefsrådman", "translation": "주법원 판사"}
+{"job": "Domare", "translation": "판사"}
+{"job": "Fiskal", "translation": "검사"}
+{"job": "Hovrättsassessor", "translation": "고등법원 판사"}
+{"job": "Hovrättslagman", "translation": "고등법원 부장판사"}
+{"job": "Hovrättspresident", "translation": "고등법원 회장"}
+{"job": "Hovrättsråd", "translation": "고등법원 판사"}
+{"job": "Jurist, allmän domstol", "translation": "법률가, 전문 법원"}
+{"job": "Jurist, förvaltningsdomstol", "translation": "법률가, 행정 법원"}
+{"job": "Jurist, specialdomstol", "translation": "법률가, 특수 법원"}
+{"job": "Justitieråd", "translation": "법관"}
+{"job": "Kammarrättsfiskal", "translation": "관찰원병\n카마레트즐라그만\n카마레트즈프레시던트\n카마레트즐라드\n래그만\n라드만\n팅스피스칼\n팅스노타리/노타리\n검찰수습생\n검사\n비즈니스변호사\n노동법률변호사\n은행변호사\n회사변호사\n가족법변호사\n부동산변호사\n기업변호사\n보험변호사\n지재권변호사\n특허변호사\n세무변호사\n저작권변호사\n상표변호사\n총변호사\n연합변호사\n행정변호사\n사무변호사\n지방변호사\n조직변호사\n지역변호사\n도시변호사/시변호사\n기관변호사\n조수변호사\n진행자/준비변호사\nIT변호사\n적군\n환경변호사\n인류학자\n고고학자\n민속학자\n연구원, 민속학\n연구원, 영화학\n연구원, 철학\n연구원, 역사\n연구원, 인문학\n연구원, 교정\n연구원, 문화지리학\n연구원, 법학\n연구원, 사회과학\n연구원, 사회학"}
+{"job": "Forskare, statskunskap", "translation": "연구원, 정치과학"}
+{"job": "Forskare, teologi", "translation": "연구원, 신학"}
+{"job": "Forskningsassistent, humaniora", "translation": "연구 보조원, 인문학"}
+{"job": "Forskningsassistent, samhällsvetenskap", "translation": "연구 보조원, 사회과학"}
+{"job": "Framtidsforskare", "translation": "미래 연구원"}
+{"job": "Fredsforskare", "translation": "평화 연구원"}
+{"job": "Genealog", "translation": "곽속가"}
+{"job": "Geograf", "translation": "지리학자"}
+{"job": "Idéhistoriker", "translation": "사상사학자"}
+{"job": "Kriminolog", "translation": "범죄학자"}
+{"job": "Kulturgeograf", "translation": "문화 지리학자"}
+{"job": "Marinarkeolog", "translation": "해양고고학자"}
+{"job": "Naturgeograf", "translation": "자연 지리학자"}
+{"job": "Rättssociolog", "translation": "법 사회학자"}
+{"job": "Socialantropolog", "translation": "사회 인류학자"}
+{"job": "Sociolog", "translation": "사회학자"}
+{"job": "Aktiemäklare", "translation": "주식 거래사"}
+{"job": "Institutionsmäklare", "translation": "기관 중개사"}
+{"job": "Kundmäklare", "translation": "고객 상담사"}
+{"job": "Penningmarknadsmäklare", "translation": "금융 중개사"}
+{"job": "Valutahandlare", "translation": "환율 거래사"}
+{"job": "Valutamäklare", "translation": "환전 중개사"}
+{"job": "Avdelningschef, bank", "translation": "부서장, 은행"}
+{"job": "Gruppföreståndare, bank", "translation": "그룹 지도자, 은행"}
+{"job": "Kreditberedare", "translation": "신용 승인자"}
+{"job": "Kreditbevakare", "translation": "신용 감시자"}
+{"job": "Kredithandläggare", "translation": "신용 처리사"}
+{"job": "Kreditman", "translation": "신용 담당자"}
+{"job": "Kreditrådgivare", "translation": "신용 상담가"}
+{"job": "Notariatchef, bank", "translation": "은행 서기장"}
+{"job": "Notariattjänsteman, bank", "translation": "은행 서기원"}
+{"job": "Privatekonom", "translation": "개인 경제사"}
+{"job": "Privatekonomisk rådgivare", "translation": "개인 경제 자문가"}
+{"job": "Redovisningsekonom", "translation": "회계 경제사"}
+{"job": "Redovisningskonsult", "translation": "회계 컨설턴트"}
+{"job": "Revisorsassistent", "translation": "회계사 보조"}
+{"job": "Besiktningsingenjör, försäkring", "translation": "보험 검사 엔지니어"}
+{"job": "Besiktningsman, försäkring/Skadeinspektör, försäkring", "translation": "보험 검사원/손해 조사사"}
+{"job": "Cargo surveyor", "translation": "화물 검사원"}
+{"job": "Försäkringsutredare", "translation": "보험 조사원"}
+{"job": "Personskadereglerare", "translation": "인적 상해 조정자"}
+{"job": "Skadeingenjör, försäkring", "translation": "손해 엔지니어, 보험"}
+{"job": "Skadereglerare", "translation": "손해 조정자"}
+{"job": "Skadetekniker", "translation": "손해 기술자"}
+{"job": "Värderingsassistent", "translation": "평가 보조원"}
+{"job": "Värderingsman", "translation": "평가 담당자"}
+{"job": "Fälttjänsteman, försäkringar", "translation": "영업원, 보험"}
+{"job": "Försäkringsförmedlare/Försäkringsmäklare", "translation": "보험 중개사/보험 중개인"}
+{"job": "Försäkringshandläggare", "translation": "보험 처리사"}
+{"job": "Försäkringskonsulent", "translation": "보험 컨설턴트"}
+{"job": "Försäkringsombud", "translation": "보험 대리인"}
+{"job": "Försäkringsrådgivare/Försäkringssäljare", "translation": "보험 상담원/보험 판매자"}
+{"job": "Försäkringsspecialist", "translation": "보험 전문가"}
+{"job": "Försäkringstjänsteman", "translation": "보험 사무원"}
+{"job": "Fritidsombud, försäkringar", "translation": "여가 대리인, 보험"}
+{"job": "Kundtjänsteman, försäkring", "translation": "고객 서비스 직원, 보험"}
+{"job": "Riskbedömare", "translation": "위험평가사"}
+{"job": "Riskingenjör, försäkring", "translation": "위험 엔지니어, 보험"}
+{"job": "Tarifferare", "translation": "요율 산정원"}
+{"job": "Underwriter", "translation": "언더라이터"}
+{"job": "Arbetsförmedlare", "translation": "고용 지원자"}
+{"job": "Arbetskonsulent", "translation": "직업 상담사"}
+{"job": "Jobbcoach/Utbildningscoach", "translation": "직업 코치/교육 코치"}
+{"job": "SIUS-konsulent", "translation": "SIUS 전문가"}
+{"job": "Arbetsledare, kontorspersonal/Gruppledare, kontorspersonal", "translation": "사무직 직원, 지도자/집단 지도자, 사무직"}
+{"job": "Arbetsledare, kundservice/Gruppledare, kundservice", "translation": "고객 서비스 지도자/그룹 리더, 고객 서비스"}
+{"job": "Arbetsledare, säkerhetsarbete/Gruppledare, säkerhetsarbete", "translation": "안전 관리 지도자/그룹 리더, 안전 관리"}
+{"job": "Advokatsekreterare", "translation": "변호사 비서"}
+{"job": "Beredningssekreterare/Domstolssekreterare/Domstolshandläggare", "translation": "준비 비서/법정 비서/법원 사무원"}
+{"job": "Boupptecknare", "translation": "상속 관리자"}
+{"job": "Boutredare", "translation": "재산분할자"}
+{"job": "Boutredningsman", "translation": "재산 분배자"}
+{"job": "Förrättningsassistent", "translation": "정비 보조원"}
+{"job": "Juristassistent/Paralegal", "translation": "법률 보조"}
+{"job": "Chefssekreterare", "translation": "경영 비서"}
+{"job": "Direktionssekreterare", "translation": "이사 비서"}
+{"job": "VD-sekreterare", "translation": "CEO 비서"}
+{"job": "Folkbokföringshandläggare", "translation": "주민 등록 사무원"}
+{"job": "Kvalificerad skattehandläggare", "translation": "자격 있는 세무 사무원"}
+{"job": "Skattehandläggare", "translation": "세무 사무원"}
+{"job": "Försäkringshandläggare, försäkringskassa", "translation": "보험 처리관, 보험청구접수"}
+{"job": "Försäkringsutredare, försäkringskassa", "translation": "보험 조사관, 보험청구접수"}
+{"job": "Handläggare, arbetslöshetskassa/Utredare, arbetslöshetskassa", "translation": "청구 관리자, 실업 보험금/조사원, 실업 보험금"}
+{"job": "Omprövningshandläggare, arbetslöshetskassa", "translation": "재검토 처리관, 실업 보험금"}
+{"job": "Utredningsassistent", "translation": "조사 보조원"}
+{"job": "Fiskerikontrollant", "translation": "어업 감시원"}
+{"job": "Forskningsadministratör", "translation": "연구 관리자"}
+{"job": "Forskningshandläggare", "translation": "연구 처리관"}
+{"job": "Nämndsekreterare", "translation": "위원회 비서"}
+{"job": "Projektledare, offentlig verksamhet", "translation": "공공 부문 프로젝트 매니저"}
+{"job": "Servicehandläggare", "translation": "서비스 처리관"}
+{"job": "Utbildningsadministratör/Studieadministratör", "translation": "교육 관리자/학사 관리자"}
+{"job": "Utbildningshandläggare", "translation": "교육 처리관"}
+{"job": "Utbildningskoordinator", "translation": "교육 조정원"}
+{"job": "Bokförare", "translation": "부기원"}
+{"job": "Bokföringskontorist", "translation": "회계 사무원"}
+{"job": "Budgetassistent", "translation": "예산 보조원"}
+{"job": "Ekonomiassistent", "translation": "경제 보조원"}
+{"job": "Fakturakontrollant", "translation": "송금 검증자"}
+{"job": "Kontorskassör", "translation": "사무장"}
+{"job": "Lantbrukskassör", "translation": "예산 매니저"}
+{"job": "Lantbrukskassör", "translation": "농업 캐셔"}
+{"job": "Redovisningsassistent", "translation": "회계 조수"}
+{"job": "HR-assistent", "translation": "인사 조수"}
+{"job": "Löneadministratör/Lönekonsult", "translation": "급여 관리자 / 급여 컨설턴트"}
+{"job": "Personaladministratör", "translation": "인사 관리자"}
+{"job": "Backofficepersonal", "translation": "백오피스 직원"}
+{"job": "Frontofficepersonal", "translation": "프론트 오피스 직원"}
+{"job": "Skolassistent", "translation": "학교 보조교사"}
+{"job": "Utbildningsassistent", "translation": "교육 보조교사"}
+{"job": "Medicinsk sekreterare", "translation": "의료 서기"}
+{"job": "Administratör/Administrativ assistent", "translation": "관리자 / 행정 조수"}
+{"job": "Bostadsförmedlare", "translation": "주택 매매 중개인"}
+{"job": "Dataregistrerare/Registrerare", "translation": "데이터 등록원 / 등록원"}
+{"job": "Förvaltningsassistent", "translation": "관리 조수"}
+{"job": "Kontorist", "translation": "사무원"}
+{"job": "Kontorsbiträde", "translation": "사무 보조"}
+{"job": "Korrekturläsare", "translation": "교정 검토자"}
+{"job": "Lektör", "translation": "감수자"}
+{"job": "PKC-operatör", "translation": "PKC 운영자"}
+{"job": "Redaktionsassistent", "translation": "편집 조수"}
+{"job": "Registrator", "translation": "등록원"}
+{"job": "Sekreterare", "translation": "비서"}
+{"job": "Siffergranskare", "translation": "숫자 검사자"}
+{"job": "Soliditetsupplysare", "translation": "신용 평가자"}
+{"job": "Statistikkontorist", "translation": "통계원"}
+{"job": "Stenograf", "translation": "스테노그래퍼"}
+{"job": "Verkstadskontorist", "translation": "작업실 사무 보조"}
+{"job": "Delgivningsman", "translation": "공문 전달자"}
+{"job": "Inkasserare", "translation": "수금원"}
+{"job": "Inkassohandläggare", "translation": "수금 담당자"}
+{"job": "Kronoassistent", "translation": "국고 조수"}
+{"job": "Kronoinspektör", "translation": "국고 감사원"}
+{"job": "Pantlånare", "translation": "전당자"}
+{"job": "Stämningsman", "translation": "소송 대행자 / 고객 예약관리자"}
+{"job": "Besöksbokare/Kundbokare", "translation": "보증 담당자"}
+{"job": "Garantihandläggare", "translation": "고객 서비스 직원"}
+{"job": "Kundtjänstmedarbetare", "translation": "안내 서비스 담당자"}
+{"job": "Reklamationshandläggare", "translation": "라디오 직원"}
+{"job": "Radioexpeditör", "translation": "택시 통화원"}
+{"job": "Taxitelefonist", "translation": "해외 통화원"}
+{"job": "Utlandstelefonist", "translation": "교환 통화원"}
+{"job": "Växeltelefonist", "translation": "사무용 리셉셔니스트"}
+{"job": "Kontorsreceptionist", "translation": "리셉션, 통화원"}
+{"job": "Receptionist, telefonist", "translation": "스튜디오 여성 직원"}
+{"job": "Studiovärdinna", "translation": "기록 보조원"}
+{"job": "Arkivassistent", "translation": "도서관 보조"}
+{"job": "Biblioteksassistent", "translation": "인용자"}
+{"job": "Excerpist", "translation": "정보 기술 보조"}
+{"job": "Informatikerassistent", "translation": "교육 자료 보조"}
+{"job": "Museiassistent", "translation": "미술관장"}
+{"job": "Civilingenjör, anläggning", "translation": "건축공학자, 시설물"}
+{"job": "Civilingenjör, bygg", "translation": "건축공학자, 건축"}
+{"job": "Civilingenjör, byggnadskonstruktion", "translation": "건축공학자, 건물구조"}
+{"job": "Civilingenjör, forskning inom bygg och anläggning", "translation": "건축공학자, 건축 및 시설물 연구"}
+{"job": "Civilingenjör, hamn", "translation": "건축공학자, 항만"}
+{"job": "Civilingenjör, järnväg", "translation": "건축공학자, 철도"}
+{"job": "Civilingenjör, trafik", "translation": "건축공학자, 교통"}
+{"job": "Civilingenjör, väg", "translation": "건축공학자, 도로"}
+{"job": "Civilingenjör, väg- och vattenbyggnad", "translation": "건축공학자, 도로 및 수자원"}
+{"job": "Projekteringsingenjör, bygg och anläggning", "translation": "건축 및 시설물 설계 공학자"}
+{"job": "VA-strateg", "translation": "상수도 전문가"}
+{"job": "Byggledare", "translation": "건설감리자"}
+{"job": "Byggnadsingenjör", "translation": "건축공학자"}
+{"job": "Byggnadskalkylator/Anbudsingenjör", "translation": "건물 견적자/입찰공학자"}
+{"job": "Byggnadskonstruktör", "translation": "건축구조 설계자"}
+{"job": "Byggnadskonsult", "translation": "건물 컨설턴트"}
+{"job": "Drift- och underhållsingenjör, anläggning", "translation": "시설물 유지보수 엔지니어"}
+{"job": "Entreprenadingenjör", "translation": "사업 관리 엔지니어"}
+{"job": "Fastighetsingenjör", "translation": "부동산 엔지니어"}
+{"job": "Installationsingenjör, bygg och anläggning", "translation": "건축 및 시설물 설비 엔지니어"}
+{"job": "Järnvägsingenjör", "translation": "철도 엔지니어"}
+{"job": "Markingenjör", "translation": "토목 엔지니어"}
+{"job": "Produktionsingenjör, bygg", "translation": "건설 생산 엔지니어"}
+{"job": "Projektledare, bygg och anläggning", "translation": "건축 및 시설물 프로젝트 매니저"}
+{"job": "Trafikingenjör", "translation": "교통 엔지니어"}
+{"job": "VA-ingenjör", "translation": "상수도 엔지니어"}
+{"job": "Väg- och vattenbyggnadsingenjör", "translation": "도로 및 수자원 건설 엔지니어"}
+{"job": "Vägingenjör", "translation": "도로 엔지니어"}
+{"job": "Arbetsledare, anläggning", "translation": "시설물 작업 관리자"}
+{"job": "Arbetsledare, golv", "translation": "바닥작업 관리자"}
+{"job": "Arbetsledare, gruvbrytning och metallproduktion", "translation": "광업 및 금속 제조 작업 관리자"}
+{"job": "Arbetsledare, husbyggnad", "translation": "주택 건설 작업 관리자"}
+{"job": "Arbetsledare, måleri", "translation": "페인트 작업 관리자"}
+{"job": "Arbetsledare, murning", "translation": "벽돌 작업 관리자"}
+{"job": "Arbetsledare, rivning", "translation": "해체 작업 관리자"}
+{"job": "Arbetsledare, ventilation", "translation": "환기 작업 관리자"}
+{"job": "Arbetsledare, VVS", "translation": "배관 및 난방 작업 관리자"}
+{"job": "Borrförman, berg", "translation": "반장, 암석"}
+{"job": "Gruvbyggare", "translation": "광부"}
+{"job": "Lärling, träarbetare", "translation": "목수 견습생"}
+{"job": "Träarbetare, gruva", "translation": "목수, 광산"}
+{"job": "Träarbetare, utan yrkesbevis/Snickare, utan yrkesbevis", "translation": "목수, 자격증 없음/목수, 자격증 없음"}
+{"job": "Träarbetare/Snickare", "translation": "목수"}
+{"job": "Kakelugnsmakare", "translation": "난로 제작자"}
+{"job": "Lärling, murare", "translation": "벽돌장 견습생"}
+{"job": "Lärling, plattsättare", "translation": "타일러 견습생"}
+{"job": "Lärling, stenmontör", "translation": "석공 견습생"}
+{"job": "Murare", "translation": "벽돌장"}
+{"job": "Murare, utan yrkesbevis", "translation": "자격증 없는 벽돌장"}
+{"job": "Plattsättare", "translation": "벽돌세공공"}
+{"job": "Plattsättare, utan yrkesbevis", "translation": "벽돌세공공, 증명서 없음"}
+{"job": "Stenmontör", "translation": "돌장착공"}
+{"job": "Stenmontör, utan yrkesbevis", "translation": "돌장착공, 증명서 없음"}
+{"job": "Stuckatör", "translation": "모공공"}
+{"job": "Ugnsmurare", "translation": "오븐세공"}
+{"job": "Betongarbetare", "translation": "콘크리트공"}
+{"job": "Betongarbetare, utan yrkesbevis", "translation": "콘크리트공, 증명서 없음"}
+{"job": "Betonghåltagare", "translation": "콘크리트배관공"}
+{"job": "Betonghåltagare, utan yrkesbevis", "translation": "콘크리트배관공, 증명서 없음"}
+{"job": "Lärling, betongarbetare", "translation": "콘크리트수리공"}
+{"job": "Lärling, betonghåltagare", "translation": "콘크리트배관공 수습생"}
+{"job": "Banarbetare, utan behörighetsbevis", "translation": "길조작공, 자격증 없음"}
+{"job": "Bantekniker", "translation": "길기술자"}
+{"job": "Beläggningsarbetare", "translation": "포장공"}
+{"job": "Beläggningsarbetare, utan yrkesbevis", "translation": "포장공, 증명서 없음"}
+{"job": "Drift- och vägunderhållsarbetare", "translation": "운전 및 도로 유지보수공"}
+{"job": "Drifttekniker ledningsnät VA", "translation": "관로 밸브 수리기술자"}
+{"job": "Lärling, beläggningsarbete", "translation": "포장공 수습생"}
+{"job": "Lärling, väg- och anläggningsarbetare", "translation": "도로 및 건설공"}
+{"job": "Stensättare", "translation": "돌세공공"}
+{"job": "Väg- och anläggningsarbetare", "translation": "도로 및 건설공"}
+{"job": "Väg- och anläggningsarbetare, utan yrkesbevis", "translation": "도로 및 건설공, 증명서 없음"}
+{"job": "Anläggningsdykare", "translation": "건설다이버"}
+{"job": "Inspektionsdykare", "translation": "점검 다이버"}
+{"job": "Lärling, anläggningsdykare", "translation": "건설다이버 수습생"}
+{"job": "Yrkesdykare", "translation": "전문 다이버"}
+{"job": "Lärling, ställningsbyggare", "translation": "지게대 구성공 수습생"}
+{"job": "Ställningsbyggare", "translation": "지게대 구성공"}
+{"job": "Ställningsbyggare, utan yrkesbevis", "translation": "지게대 구성공, 증명서 없음"}
+{"job": "Betongelementmontör", "translation": "콘크리트 부품 조립자"}
+{"job": "Demonteringsarbetare/Rivningsarbetare", "translation": "분해 공"}
+{"job": "Fasadmontör", "translation": "외벽 조립공"}
+{"job": "Fasadputsare", "translation": "외벽 수리공"}
+{"job": "Fogarbetare, hus och anläggning", "translation": "조인 기술자, 주택 및 건설"}
+{"job": "Golvbeläggningsarbetare, industrigolv", "translation": "바닥 매트 공"}
+{"job": "Husmontör", "translation": "주택 조립공"}
+{"job": "Skorstenstätare", "translation": "굴뚝 수리공"}
+{"job": "Lärling, tak- och tätskiktsmontör", "translation": "지붕 및 배수층 조립 수습생"}
+{"job": "Lärling, undertaksmontör", "translation": "지붕 및 배수층 조립 수습생"}
+{"job": "Tak- och tätskiktsmontör", "translation": "지붕 및 배수층 조립공"}
+{"job": "Tak- och tätskiktsmontör, utan yrkesbevis", "translation": "지붕 및 배수층 조립공, 증명서 없음"}
+{"job": "Undertaksmontör", "translation": "배수층 조립공"}
+{"job": "Undertaksmontör, utan yrkesbevis", "translation": "배수층 조립공, 증명서 없음"}
+{"job": "Golvläggare", "translation": "바닥 마루 공"}
+{"job": "Golvläggare, utan yrkesbevis", "translation": "바닥 마루 공, 증명서 없음"}
+{"job": "Golvslipare, trä", "translation": "나무 바닥 연마공"}
+{"job": "Lärling, golvläggare", "translation": "바닥 공 수습생"}
+{"job": "Parkettläggare", "translation": "파켓공"}
+{"job": "Isoleringsmontör", "translation": "단열 조립공"}
+{"job": "Isoleringsplåtslagare", "translation": "단열판금공"}
+{"job": "Lärling, isoleringsplåtslagare", "translation": "단열판금공 견습생"}
+{"job": "Lärling, VVS-isolerare", "translation": "배관단열공 견습생"}
+{"job": "Lösullsinstallatör", "translation": "해면 충전재 설치원"}
+{"job": "Ventilationsisolerare", "translation": "공기배관단열공"}
+{"job": "VVS-isolerare", "translation": "배관단열공"}
+{"job": "Industrirörmontör", "translation": "산업용관로설치공"}
+{"job": "Lärling, industrirörmontör", "translation": "산업용관로설치공 견습생"}
+{"job": "Lärling, sprinklermontör", "translation": "스프링클러설치공 견습생"}
+{"job": "Lärling, VVS-montör", "translation": "배관설비공 견습생"}
+{"job": "Rörinfodrare", "translation": "관입포설치원"}
+{"job": "Sprinklermontör", "translation": "스프링클러설치공"}
+{"job": "Ventilationsmontör", "translation": "배관설비공"}
+{"job": "Ventilationstekniker", "translation": "환풍설비기술자"}
+{"job": "VVS-montör", "translation": "배관설비공"}
+{"job": "Distributionstekniker fjärrvärmenät och fjärrkylenät", "translation": "원격열망 및 냉망 배급기술자"}
+{"job": "Kyl- och värmepumpsmontör", "translation": "냉난방펌프설치공"}
+{"job": "Kyl- och värmepumpstekniker", "translation": "냉난방펌프기술자"}
+{"job": "Kylmontör/Kyltekniker", "translation": "냉난방설치공/냉난방기술자"}
+{"job": "Värmepumpsmontör", "translation": "열펌프설치공"}
+{"job": "Lärling, målare", "translation": "도화공 견습생"}
+{"job": "Målare", "translation": "도화공"}
+{"job": "Byggnadsplåtslagare", "translation": "건축판금공"}
+{"job": "Lärling, byggnadsplåtslagare", "translation": "건축판금공 견습생"}
+{"job": "Lärling, ventilationsplåtslagare", "translation": "환풍판금공 견습생"}
+{"job": "Ventilationsplåtslagare", "translation": "환풍판금공"}
+{"job": "Bergarbetare, bygg och anläggning", "translation": "산업 부설설치공"}
+{"job": "Bergarbetare, bygg och anläggning, utan yrkesbevis", "translation": "산업 부설설치공 자격증 없이"}
+{"job": "Bergarbetare, gruva", "translation": "광산작업원"}
+{"job": "Flödesoperatör", "translation": "흐름제어기조작원"}
+{"job": "Lärling, bergarbetare, bygg och anläggning", "translation": "산업 부설작업원 견습생"}
+{"job": "Stenborrare, stenbrott", "translation": "암반드릴맨, 채석장"}
+{"job": "Stenbrottsarbetare", "translation": "채석장작업원"}
+{"job": "Borrtekniker/Brunnsborrare", "translation": "드릴기술자/우묵드릴러"}
+{"job": "Kärnborrare", "translation": "핵암반드릴맨"}
+{"job": "Pumpman, oljeborrning", "translation": "석유드릴맨"}
+{"job": "Avisningsmaskinförare", "translation": "제빙기조작원"}
+{"job": "Bandschaktarförare", "translation": "벤드트랙운전원"}
+{"job": "Beläggningsmaskinförare", "translation": "포장기조작원"}
+{"job": "Grävlastarförare, anläggning", "translation": "건설용 굴착로더운전원"}
+{"job": "Grävmaskinförare", "translation": "굴착기조작원"}
+{"job": "Hjullastarförare, anläggning", "translation": "건설용 휠로더운전원"}
+{"job": "Hjullastarförare, godshantering", "translation": "화물로더운전원"}
+{"job": "Lärling, bandschaktarförare", "translation": "벤드트랙운전원 견습생"}
+{"job": "Lärling, beläggningsmaskinförare", "translation": "포장기조작원 견습생"}
+{"job": "Lärling, grävlastare", "translation": "굴착로더운전원 견습생"}
+{"job": "Lärling, grävmaskinförare", "translation": "굴착기조작원 견습생"}
+{"job": "Lärling, lastmaskinförare", "translation": "로더운전원 견습생"}
+{"job": "Lärling, motorschaktvagnförare", "translation": "모터스크레퍼운전원 견습생"}
+{"job": "Lärling, pålmaskinförare", "translation": "파일링기조작원 견습생"}
+{"job": "Lärling, teleskoptruckförare", "translation": "견습생, 텔레스코프트럭 운전사"}
+{"job": "Lärling, väghyvelförare", "translation": "견습생, 도로 교수기 운전사"}
+{"job": "Lastmaskinförare", "translation": "로더 운전사"}
+{"job": "Motorschaktvagnförare", "translation": "엔진 콘크리트 믹서 운전사"}
+{"job": "Mudderverkskötare", "translation": "마천루 조작원"}
+{"job": "Pålmaskinförare", "translation": "파일 미장운전사"}
+{"job": "Pistmaskinförare", "translation": "스키장용 눈 썰기기 운전사"}
+{"job": "Renhållningsmaskinförare", "translation": "폐기물 처리기 운전사"}
+{"job": "Teleskoptruckförare, anläggning", "translation": "텔레스코프트럭 운전사, 건설"}
+{"job": "Väghyvelförare", "translation": "도로 교수기 운전사"}
+{"job": "Vältförare", "translation": "진동포장기 운전사"}
+{"job": "Containerkranförare/Portalkranförare", "translation": "컨테이너 크레인/포탈크레인 운전사"}
+{"job": "Lärling, mobilkranförare", "translation": "견습생, 이동 크레인 운전사"}
+{"job": "Lärling, tornkranförare", "translation": "견습생, 탑 크레인 운전사"}
+{"job": "Liftmaskinist", "translation": "리프트 조종사"}
+{"job": "Liftskötare/Lifttekniker", "translation": "리프트 관리원/리프트 기술자"}
+{"job": "Linbaneskötare", "translation": "직송봉 조종원"}
+{"job": "Mobilkranförare", "translation": "이동 크레인 운전사"}
+{"job": "Pontonkranförare", "translation": "폰툰 크레인 운전사"}
+{"job": "Telferförare", "translation": "건물용 리프트 조종원"}
+{"job": "Tornkranförare", "translation": "탑 크레인 운전사"}
+{"job": "Traversförare", "translation": "트랜스퍼 크레인 운전사"}
+{"job": "Förrådsarbetare, bygg", "translation": "창고 근무자, 건설"}
+{"job": "Grovarbetare, bygg och anläggning", "translation": "건설 및 시설물 건설 작업원"}
+{"job": "Måleri, servicearbetare", "translation": "도장 및 친화작업원"}
+{"job": "Stängselmontör", "translation": "울타리 설치원"}
+{"job": "Torvarbetare", "translation": "트러크 근무자"}
+{"job": "Underhållsarbetare, bygg och anläggning", "translation": "건설 및 시설물 유지보수 근무자"}
+{"job": "Utsättarbiträde", "translation": "마킹 도우미"}
+{"job": "Departementschef", "translation": "부서장"}
+{"job": "Minister", "translation": "장관"}
+{"job": "Riksdagsledamot", "translation": "의회의원"}
+{"job": "Statssekreterare", "translation": "정부 수석보좌관"}
+{"job": "Ambassadör", "translation": "대사"}
+{"job": "Beredskapsdirektör", "translation": "비상 대응 책임자"}
+{"job": "Departementsråd", "translation": "부서원"}
+{"job": "Förvaltningsdirektör, statlig", "translation": "국가 행정관리자"}
+{"job": "Generaldirektör", "translation": "총괄 장교"}
+{"job": "Generalkonsul", "translation": "총영사관"}
+{"job": "Kabinettsekreterare", "translation": "내각 비서관"}
+{"job": "Kommunchef/Kommundirektör/Stadsdirektör", "translation": "시장/도시 관리자/시장"}
+{"job": "Landshövding", "translation": "지사"}
+{"job": "Länsråd", "translation": "주 보일려"}
+{"job": "Överdirektör", "translation": "지방 책임자"}
+{"job": "Regiondirektör", "translation": "국립유적활 및 기록관리자"}
+{"job": "Riksantikvarie", "translation": "국가기록관"}
+{"job": "Riksarkivarie", "translation": "국립도서관장"}
+{"job": "Riksbibliotekarie", "translation": "국가 공채 책임자"}
+{"job": "Riksgäldsdirektör", "translation": "경찰청장"}
+{"job": "Förbundschef", "translation": "협회장"}
+{"job": "Förbundsdirektör", "translation": "협회이사"}
+{"job": "Förbundsordförande", "translation": "협회의장"}
+{"job": "Generalsekreterare", "translation": "사무총장"}
+{"job": "Kassaföreståndare, arbetslöshetskassa", "translation": "자금관리자, 실업급여기금"}
+{"job": "Organisationschef", "translation": "조직운영책임자"}
+{"job": "Bankdirektör", "translation": "은행장"}
+{"job": "Bokförläggare", "translation": "출판사"}
+{"job": "Chefredaktör", "translation": "편집장"}
+{"job": "Flygplatschef", "translation": "공항총괄장"}
+{"job": "Hamnchef", "translation": "항만총장"}
+{"job": "Museichef/Museidirektör", "translation": "박물관관장/박물관이사"}
+{"job": "Musikförläggare", "translation": "음악출판인"}
+{"job": "Operachef", "translation": "오페라총극장장"}
+{"job": "Orkesterchef", "translation": "관악단총극장장"}
+{"job": "Prorektor", "translation": "부교장"}
+{"job": "Sjukhusdirektör", "translation": "병원장"}
+{"job": "Teaterchef", "translation": "연극총극장장"}
+{"job": "Universitetsrektor", "translation": "대학총장"}
+{"job": "Verkställande direktör/VD", "translation": "사장/사장"}
+{"job": "Vicerektor", "translation": "부총장"}
+{"job": "Budgetchef", "translation": "예산책임자"}
+{"job": "Ekonomichef", "translation": "경영책임자"}
+{"job": "Ekonomidirektör/Finanschef", "translation": "경영이사/재무책임자"}
+{"job": "Internrevisionschef", "translation": "내부감사책임자"}
+{"job": "Redovisningschef", "translation": "회계책임자"}
+{"job": "Revisionschef", "translation": "감사책임자"}
+{"job": "HR-chef", "translation": "인사총괄장"}
+{"job": "Affärsområdeschef", "translation": "사업영역책임자"}
+{"job": "Ambassadråd", "translation": "대사관부장"}
+{"job": "Avdelningschef, kommun", "translation": "부서장, 지방"}
+{"job": "Avdelningschef, region", "translation": "부서장, 지방"}
+{"job": "Avdelningschef, statlig", "translation": "부서장, 국립"}
+{"job": "Chef inom kyrkogårdsförvaltningen", "translation": "묘지관리 부총괄장"}
+{"job": "Dekan/Dekanus", "translation": "학장"}
+{"job": "Enhetschef, offentlig förvaltning", "translation": "공공행정 부서장"}
+{"job": "Expeditionschef, departement", "translation": "부처 사무국장"}
+{"job": "Kanslichef", "translation": "사무처장"}
+{"job": "Kyrkokamrer", "translation": "교회재무관리자"}
+{"job": "Länsjägmästare", "translation": "지역사냥관리자"}
+{"job": "Miljövårdsdirektör", "translation": "환경보전이사"}
+{"job": "Näringslivschef", "translation": "산업부총괄장"}
+{"job": "Omsorgschef", "translation": "복지부총괄장"}
+{"job": "Organisationschef, kommun", "translation": "조직운영책임자, 지방"}
+{"job": "Planeringschef", "translation": "기획책임자"}
+{"job": "Prefekt", "translation": "학부장"}
+{"job": "Publikchef", "translation": "박물관감람책임자"}
+{"job": "Regionskattechef", "translation": "지역세채부총괄장"}
+{"job": "Socialchef/Socialdirektör", "translation": "사회복지총괄장/사회이사"}
+{"job": "Utredningschef", "translation": "조사책임자"}
+{"job": "VA-chef", "translation": "VA 책임자"}
+{"job": "Ateljéchef", "translation": "아텔리에 책임자"}
+{"job": "Informationschef/Kommunikationschef", "translation": "정보 책임자/커뮤니케이션 책임자"}
+{"job": "Mediachef", "translation": "미디어 책임자"}
+{"job": "PR-chef", "translation": "PR 책임자"}
+{"job": "Presschef", "translation": "보도 책임자"}
+{"job": "Reklamchef", "translation": "광고 책임자"}
+{"job": "Centrumutvecklare/Handelsutvecklare", "translation": "센터 개발자/상업 개발자"}
+{"job": "Cityledare", "translation": "도시 리더"}
+{"job": "Försäljningschef", "translation": "판매 책임자"}
+{"job": "Marknadschef", "translation": "마케팅 책임자"}
+{"job": "Teamledare", "translation": "팀 리더"}
+{"job": "Administrativ chef", "translation": "행정 책임자"}
+{"job": "Kundtjänstchef", "translation": "고객 서비스 책임자"}
+{"job": "Kvalitetschef", "translation": "품질 책임자"}
+{"job": "Miljöchef", "translation": "환경 책임자"}
+{"job": "Säkerhetschef", "translation": "보안 책임자"}
+{"job": "Städchef", "translation": "청소 책임자"}
+{"job": "Tvättchef", "translation": "세탁 책임자"}
+{"job": "Chief Data Officer/CDO", "translation": "데이터 책임자/CDO"}
+{"job": "Chief Digital Officer/CDO", "translation": "디지털 책임자/CDO"}
+{"job": "Chief Information Officer/CIO/IT-chef", "translation": "정보 책임자/CIO/IT 책임자"}
+{"job": "Driftchef, data", "translation": "데이터 운영 책임자"}
+{"job": "Banområdeschef", "translation": "선로 영역 책임자"}
+{"job": "Chief Operations/CO, flygledning", "translation": "운영 책임자/CO, 항공 통제"}
+{"job": "Distributionschef, logistik och transporter", "translation": "유통 책임자, 물류 및 운송"}
+{"job": "Fraktchef", "translation": "운송 책임자"}
+{"job": "Hamnkapten", "translation": "항구 선장"}
+{"job": "Importchef", "translation": "수입 책임자"}
+{"job": "Inköpschef", "translation": "구매 책임자"}
+{"job": "Lagerchef", "translation": "창고 책임자"}
+{"job": "Leveranschef", "translation": "배송 책임자"}
+{"job": "Logistikchef", "translation": "물류 책임자"}
+{"job": "Produktionschef, logistik/Produktionschef, transporter", "translation": "생산 책임자, 물류/생산 책임자, 운송"}
+{"job": "Produktområdeschef, järnväg", "translation": "제품 영역 책임자, 철도"}
+{"job": "Speditionschef", "translation": "해운 책임자"}
+{"job": "Stationschef, flyg", "translation": "항공 스테이션 책임자"}
+{"job": "Trafikchef", "translation": "교통 책임자"}
+{"job": "Transportchef", "translation": "운송 책임자"}
+{"job": "Forskningschef", "translation": "연구 책임자"}
+{"job": "Forskningschef, museum", "translation": "박물관 연구 책임자"}
+{"job": "Hållbarhetschef", "translation": "지속가능발전 책임자"}
+{"job": "Laboratoriechef", "translation": "실험실 책임자"}
+{"job": "Produktutvecklingschef", "translation": "제품 개발 책임자"}
+{"job": "Utvecklingschef", "translation": "개발 책임자"}
+{"job": "Byråchef", "translation": "대행사 책임자"}
+{"job": "Gatuchef", "translation": "거리 책임자"}
+{"job": "Länsarkitekt", "translation": "지방 건축가"}
+{"job": "Lantmäterichef", "translation": "지도 책임자"}
+{"job": "Stadsbyggnadschef/Stadsbyggnadsdirektör", "translation": "도시 계획 책임자/도시 계획 이사"}
+{"job": "Teknisk chef, kommun", "translation": "기술 책임자, 자치구"}
+{"job": "Fastighetschef/Fastighetsdirektör", "translation": "부동산 책임자/부동산 이사"}
+{"job": "Förhandlingschef", "translation": "협상 책임자"}
+{"job": "Förvaltningschef, kommun", "translation": "관리 책임자, 자치구"}
+{"job": "Förvaltningschef, region", "translation": "관리 책임자, 지역"}
+{"job": "Avdelningschef, gruva", "translation": "부서장, 광산"}
+{"job": "Platschef, anläggning", "translation": "현장장, 시설"}
+{"job": "Platschef, bygg", "translation": "현장장, 건설"}
+{"job": "Produktionschef, anläggning", "translation": "생산 책임자, 시설"}
+{"job": "Produktionschef, bygg", "translation": "생산 책임자, 건설"}
+{"job": "Sektionschef, gruva", "translation": "섹션 책임자, 광산"}
+{"job": "Driftchef, energi", "translation": "운영 책임자, 에너지"}
+{"job": "Driftchef, VA", "translation": "운영 책임자, 상하수도"}
+{"job": "Driftchef, vattenverk", "translation": "운영 책임자, 수도펌프장"}
+{"job": "Elverkschef", "translation": "발전소 책임자"}
+{"job": "Gruppchef, teknik", "translation": "그룹장, 기술"}
+{"job": "Produktionschef, tillverkning", "translation": "생산 책임자, 제조"}
+{"job": "Värmeverkschef", "translation": "열사 책임자"}
+{"job": "Verkstadschef", "translation": "공장장"}
+{"job": "Biobränsleansvarig", "translation": "바이오연료 담당자"}
+{"job": "Biobränslechef", "translation": "바이오연료 책임자"}
+{"job": "Distriktschef, skogsbruk", "translation": "관리자, 산림"}
+{"job": "Driftchef, skogsbruk", "translation": "운영 책임자, 산림"}
+{"job": "Driftledare, skogsbruk", "translation": "운영 책임자, 산림"}
+{"job": "Områdeschef, skogsbruk", "translation": "지역 책임자, 산림"}
+{"job": "Regionchef, skogsbruk", "translation": "지역 책임자, 산림"}
+{"job": "Skogsförvaltare", "translation": "산림 관리자"}
+{"job": "Skogsvårdschef", "translation": "생태학 책임자"}
+{"job": "Stadsträdgårdsmästare", "translation": "도시 정원사"}
+{"job": "Virkeschef", "translation": "목재 책임자"}
+{"job": "Virkesområdeschef", "translation": "목재 지역 책임자"}
+{"job": "Antagningschef, utbildning", "translation": "학사 책임자, 교육"}
+{"job": "Biträdande rektor", "translation": "부교장"}
+{"job": "Rektor", "translation": "교장"}
+{"job": "Skolchef/Skoldirektör/Skolledare", "translation": "교육 책임자/교육 이사/교육 지도자"}
+{"job": "Studierektor", "translation": "학습 책임자"}
+{"job": "Utbildningschef", "translation": "교육 책임자"}
+{"job": "Utbildningsintendent", "translation": "교육 관리자"}
+{"job": "Biträdande förskolerektor", "translation": "부교육원장"}
+{"job": "Förskolerektor", "translation": "유치원원장"}
+{"job": "Områdeschef, barnomsorg", "translation": "지역 책임자, 아동 보호"}
+{"job": "Kontorschef, utbildningsföretag", "translation": "사무실 책임자, 교육 기관"}
+{"job": "Trafikskolechef", "translation": "운전 학교장"}
+{"job": "Chefsbarnmorska", "translation": "주임 산파조산부인과"}
+{"job": "Chefssjuksköterska", "translation": "주임 간호사"}
+{"job": "Enhetschef, hälso- och sjukvård", "translation": "부서장, 건강 및 의료"}
+{"job": "Klinikchef, tandvård/Verksamhetschef, tandvård", "translation": "임상 책임자, 치과/실무 책임자, 치과"}
+{"job": "Sektionschef, sjukhus", "translation": "섹션 책임자, 병원"}
+{"job": "Verksamhetschef, hälso- och sjukvård", "translation": "실무 책임자, 건강 및 의료"}
+{"job": "Boendechef, kommun", "translation": "주거 책임자, 자치구"}
+{"job": "Boendeföreståndare", "translation": "주거관리자"}
+{"job": "Enhetschef inom social omsorg/Föreståndare inom social omsorg", "translation": "사회복지 부서장/사회복지 관리자"}
+{"job": "Enhetschef inom socialtjänst", "translation": "사회복지 부서장"}
+{"job": "Äldreomsorgschef", "translation": "노인복지관장"}
+{"job": "Enhetschef, hemtjänst/Områdeschef, hemtjänst", "translation": "홈케어 부서장/지역장, 홈케어"}
+{"job": "Föreståndare, äldreboende", "translation": "노인요양원장"}
+{"job": "Områdeschef, äldre- och handikappomsorg", "translation": "노인 및 장애인 거주 지역장"}
+{"job": "Servicehusföreståndare", "translation": "서비스 유닛장"}
+{"job": "Kyrkoherde", "translation": "성당 목사"}
+{"job": "Arbetsförmedlingschef", "translation": "고용안정청장"}
+{"job": "Arkivchef", "translation": "기록 보관 관리자"}
+{"job": "Bibliotekschef", "translation": "도서관장"}
+{"job": "Brandchef", "translation": "소방관"}
+{"job": "Featurechef", "translation": "피처관"}
+{"job": "Förlagschef, bokförlag", "translation": "출판사장, 출판사"}
+{"job": "Förlagschef, tidning", "translation": "편집장, 신문"}
+{"job": "Frivårdschef", "translation": "감호관"}
+{"job": "Funktionschef, offentlig förvaltning", "translation": "공공행정 기능관리자"}
+{"job": "Kontorschef, offentlig förvaltning", "translation": "공공행정 오피스장"}
+{"job": "Kriminalvårdsdirektör", "translation": "교도소소장"}
+{"job": "Kriminalvårdsinspektör", "translation": "교도소 감독관"}
+{"job": "Kulturchef", "translation": "문화 장관"}
+{"job": "Landsantikvarie", "translation": "지역문화재 보존관"}
+{"job": "Landsarkivarie", "translation": "지역기록관"}
+{"job": "Länsbibliotekarie", "translation": "지방도서관장"}
+{"job": "Överbibliotekarie", "translation": "주도서관사"}
+{"job": "Platschef, försäkringskassa/Områdeschef, försäkringskassa", "translation": "보험 사무소장/지역장, 보험"}
+{"job": "Polisintendent", "translation": "경찰청장"}
+{"job": "Polismästare", "translation": "경찰서장"}
+{"job": "Polissekreterare", "translation": "경찰사무원"}
+{"job": "Räddningschef", "translation": "구조대장"}
+{"job": "Redaktionschef", "translation": "편집장"}
+{"job": "Sektionschef, offentlig förvaltning", "translation": "공공행정 부문장"}
+{"job": "Stadsarkivarie", "translation": "도시 기록관"}
+{"job": "Aktiechef", "translation": "주식사장"}
+{"job": "Chef för valuta och fixed income", "translation": "통화 및 고정소득 부문장"}
+{"job": "Chef, Corporate Finance", "translation": "기업 금융장"}
+{"job": "Fondchef, statlig", "translation": "국립펀드장"}
+{"job": "Kontorschef, bank", "translation": "은행 오피스장"}
+{"job": "Regionchef, försäkring", "translation": "보험 지역장"}
+{"job": "Hotellchef", "translation": "호텔장"}
+{"job": "Konferenschef", "translation": "컨퍼런스장"}
+{"job": "F&B Manager/Food and beverage manager", "translation": "식품 및 음료 담당자"}
+{"job": "Kökschef", "translation": "주방장"}
+{"job": "Restaurangchef", "translation": "레스토랑장"}
+{"job": "Apotekschef", "translation": "약국장"}
+{"job": "Butikschef", "translation": "매장점장"}
+{"job": "Centrumledare", "translation": "센터 매니저"}
+{"job": "E-commerce manager", "translation": "전자상거래 매니저"}
+{"job": "Regionchef, butik", "translation": "매장 지역장"}
+{"job": "Uthyrningschef", "translation": "임대 관리자"}
+{"job": "Badföreståndare/Simhallsföreståndare", "translation": "수영장 관리자"}
+{"job": "Fritidschef", "translation": "여가 담당자"}
+{"job": "Golfbaneföreståndare", "translation": "골프장 관리자"}
+{"job": "Hallföreståndare", "translation": "홀 관리자"}
+{"job": "Idrottsplatschef", "translation": "운동장 관리자"}
+{"job": "Nationalparkschef", "translation": "국립공원 관리자"}
+{"job": "Parkchef", "translation": "공원 관리자"}
+{"job": "Sportchef", "translation": "스포츠 담당자"}
+{"job": "Travbaneföreståndare", "translation": "경마장 관리자"}
+{"job": "Turistchef", "translation": "관광 담당자"}
+{"job": "Resebyråchef", "translation": "여행사 사장"}
+{"job": "Stationschef, bilprovning", "translation": "차량 검사 역 책임자"}
+{"job": "Turistbyråchef", "translation": "관광사 사장"}
+{"job": "Affärskonsult, IT", "translation": "IT 비즈니스 컨설턴트"}
+{"job": "Configuration Manager/CM", "translation": "구성 관리자/CM"}
+{"job": "Data scientist", "translation": "데이터 과학자"}
+{"job": "Enterprise Architect", "translation": "기업 아키텍트"}
+{"job": "Infrastrukturarkitekt", "translation": "기반 아키텍트"}
+{"job": "IT-arkitekt/Lösningsarkitekt", "translation": "IT 아키텍트/솔루션 아키텍트"}
+{"job": "IT-utredare", "translation": "IT 조사관"}
+{"job": "Kravanalytiker", "translation": "요구 사항 분석가"}
+{"job": "Metodanalytiker, IT", "translation": "방법 분석가, IT"}
+{"job": "Systemanalytiker/Systemutredare", "translation": "시스템 분석가/시스템 조사관"}
+{"job": "Systemarkitekt", "translation": "시스템 아키텍트"}
+{"job": "Verksamhetskonsult, IT", "translation": "업무 컨설턴트, IT"}
+{"job": "Applikationsutvecklare", "translation": "응용프로그램 개발자"}
+{"job": "Backend-utvecklare", "translation": "백엔드 개발자"}
+{"job": "Civilingenjör, systemutveckling", "translation": "시스템 개발 엔지니어"}
+{"job": "Data Warehouse specialist", "translation": "데이터 웨어하우스 전문가"}
+{"job": "Databasanalytiker", "translation": "데이터베이스 분석가"}
+{"job": "Databasdesigner", "translation": "데이터베이스 디자이너"}
+{"job": "Databasutvecklare", "translation": "데이터베이스 개발자"}
+{"job": "Frontend-utvecklare", "translation": "프론트엔드 개발자"}
+{"job": "Fullstack-utvecklare", "translation": "풀스택 개발자"}
+{"job": "GIS-utvecklare", "translation": "GIS 개발자"}
+{"job": "Mjukvaruutvecklare", "translation": "소프트웨어 개발자"}
+{"job": "Mobilutvecklare/Apputvecklare", "translation": "모바일 개발자/앱 개발자"}
+{"job": "Projektledare, IT", "translation": "프로젝트 매니저, IT"}
+{"job": "Systemdesigner", "translation": "시스템 디자이너"}
+{"job": "Systemutvecklare/Programmerare", "translation": "시스템 개발자/프로그래머"}
+{"job": "Engine programmer", "translation": "엔진 프로그래머"}
+{"job": "Game programmer", "translation": "게임 프로그래머"}
+{"job": "Gameplay programmer", "translation": "게임 플레이 프로그래머"}
+{"job": "Tech and Tools programmer", "translation": "기술 및 도구 프로그래머"}
+{"job": "Hårdvarutestare", "translation": "하드웨어 테스터"}
+{"job": "Mjukvarutestare", "translation": "소프트웨어 테스터"}
+{"job": "Speltestare", "translation": "게임 테스터"}
+{"job": "Systemtestare/Funktionstestare", "translation": "시스템 테스터/기능 테스터"}
+{"job": "Testledare/QA lead", "translation": "테스트 리더/QA 리드"}
+{"job": "Testutvecklare", "translation": "테스트 개발자"}
+{"job": "Devops utvecklare", "translation": "DevOps 개발자"}
+{"job": "IT-samordnare", "translation": "IT 조정자"}
+{"job": "Systemansvarig", "translation": "시스템 담당자"}
+{"job": "Systemförvaltare", "translation": "시스템 관리자"}
+{"job": "Datasäkerhetsansvarig", "translation": "데이터 보안 책임자"}
+{"job": "IT-forensiker", "translation": "IT 수사관"}
+{"job": "IT-säkerhetschef/IT security manager", "translation": "IT 보안 책임자/IT 보안 매니저"}
+{"job": "IT-säkerhetstekniker", "translation": "IT 보안 기술자"}
+{"job": "Säkerhetsadministratör, IT", "translation": "보안 관리자, IT"}
+{"job": "Säkerhetsanalytiker, IT", "translation": "보안 분석가, IT"}
+{"job": "Säkerhetsansvarig, IT", "translation": "보안 책임자, IT"}
+{"job": "Agil coach/Agile coach", "translation": "애자일 코치"}
+{"job": "Datorlingvist/Datalingvist", "translation": "컴퓨터 언어학자"}
+{"job": "Forskare, IT", "translation": "IT 연구원"}
+{"job": "Interaktionsdesigner", "translation": "상호 작용 디자이너"}
+{"job": "IT-strateg", "translation": "IT 전략가"}
+{"job": "Processansvarig, ITIL", "translation": "프로세스 담당자, ITIL"}
+{"job": "Scrum master", "translation": "Scrum 마스터"}
+{"job": "Servicedesigner/Tjänstedesigner", "translation": "서비스 디자이너"}
+{"job": "UX-designer", "translation": "UX 디자이너"}
+{"job": "Dataoperatör", "translation": "데이터 운영자"}
+{"job": "Driftledare, IT", "translation": "운영 책임자, IT"}
+{"job": "Drifttekniker, data", "translation": "데이터 운영 기술자"}
+{"job": "IT-tekniker/Datatekniker", "translation": "IT 기술자/데이터 기술자"}
+{"job": "Helpdesktekniker/Supporttekniker", "translation": "도움말 기술자/지원 기술자"}
+{"job": "Meteorologassistent/Observatör, flygvapnet", "translation": "기상 관측 보조원/비행군"}
+{"job": "Meteorologisk observatör", "translation": "기상 관측원"}
+{"job": "Databasadministratör", "translation": "데이터베이스 관리자"}
+{"job": "Leveranskoordinator, IT", "translation": "전달 조정자, IT"}
+{"job": "Nätverksadministratör", "translation": "네트워크 관리자"}
+{"job": "Nätverksansvarig", "translation": "네트워크 책임자"}
+{"job": "Systemadministratör", "translation": "시스템 관리자"}
+{"job": "Kommunikationstekniker", "translation": "통신 기술자"}
+{"job": "Molntekniker/Cloudutvecklare", "translation": "클라우드 기술자/클라우드 개발자"}
+{"job": "Nätverkskonstruktör", "translation": "네트워크 설계자"}
+{"job": "Nätverksoperatör", "translation": "네트워크 운영자"}
+{"job": "Nätverkstekniker", "translation": "네트워크 기술자"}
+{"job": "Webbansvarig/Webbstrateg", "translation": "웹 담당자/웹 전략가"}
+{"job": "Webbtekniker", "translation": "웹 기술자"}
+{"job": "Webmaster", "translation": "웹마스터"}
+{"job": "Anbudsansvarig/Bid Manager", "translation": "입찰 담당자/입찰 매니저"}
+{"job": "Dataanalytiker", "translation": "데이터 분석가"}
+{"job": "Marknadsanalytiker", "translation": "마케팅 분석가"}
+{"job": "Marknadsförare", "translation": "마케터"}
+{"job": "Marknadskommunikatör", "translation": "마케팅 커뮤니케이터"}
+{"job": "Marknadskonsult", "translation": "마케팅 컨설턴트"}
+{"job": "Marknadskoordinator", "translation": "마케팅 코디네이터"}
+{"job": "Marknadsplanerare", "translation": "마케팅 플래너"}
+{"job": "Produktchef, marknadsföring", "translation": "제품 관리자, 마케팅"}
+{"job": "Projektledare, reklam", "translation": "프로젝트 매니저, 광고"}
+{"job": "Reklamkonsulent", "translation": "광고 컨설턴트"}
+{"job": "Relationsmarknadsförare", "translation": "관계 마케터"}
+{"job": "Webbanalytiker", "translation": "웹 분석가"}
+{"job": "Account manager", "translation": "계정 매니저"}
+{"job": "Customer success manager", "translation": "고객 성공 매니저"}
+{"job": "Fältsäljare/Utesäljare", "translation": "현장 세일즈 매니저/외부 세일즈 매니저"}
+{"job": "Företagssäljare", "translation": "기업 세일즈 매니저"}
+{"job": "Innesäljare", "translation": "내부 세일즈 매니저"}
+{"job": "Internationell säljare/Exportsäljare", "translation": "국제 세일즈 매니저/수출 매니저"}
+{"job": "Key account manager", "translation": "주요 고객 담당자"}
+{"job": "Läkemedelskonsulent", "translation": "의약품 컨설턴트"}
+{"job": "Säljkonsulent", "translation": "판매 컨설턴트"}
+{"job": "Säljledare", "translation": "판매 매니저"}
+{"job": "Systemsäljare", "translation": "시스템 세일즈 매니저"}
+{"job": "Inköpare", "translation": "구매 담당자"}
+{"job": "Inköpsledare", "translation": "구매 매니저"}
+{"job": "Kategorichef/Kategoriansvarig", "translation": "카테고리 책임자/카테고리 담당자"}
+{"job": "Upphandlare", "translation": "구매 담당자"}
+{"job": "Uppköpare", "translation": "구매 담당자"}
+{"job": "Offertberedare", "translation": "견적 준비자"}
+{"job": "Offertchef", "translation": "견적 매니저"}
+{"job": "Offertingenjör", "translation": "견적 엔지니어"}
+{"job": "Orderadministratör", "translation": "주문 관리자"}
+{"job": "Orderfördelare", "translation": "주문 분배자"}
+{"job": "Orderplanerare", "translation": "주문 계획자"}
+{"job": "Befraktningsmäklare", "translation": "선적 중개인"}
+{"job": "Exportspeditör", "translation": "수출 물류 담당자"}
+{"job": "Fartygsagent/Fartygsklarerare", "translation": "선박 대리/선박 협력자"}
+{"job": "Flygmäklare", "translation": "비행기 중개인"}
+{"job": "Flygspeditör", "translation": "항공 물류 담당자"}
+{"job": "Handelsagent, partihandel", "translation": "무역 대리인, 도매"}
+{"job": "Importspeditör", "translation": "수입 물류 담당자"}
+{"job": "Köp- och försäljningsmäklare, fartyg", "translation": "선박 매매 중개인, 선박"}
+{"job": "Linjeagent/Rederiagent", "translation": "선적 대리/해운대리"}
+{"job": "Projektledare, logistik", "translation": "프로젝트 매니저, 물류"}
+{"job": "Skeppsmäklare", "translation": "선박 중개인"}
+{"job": "Speditionsförman", "translation": "물류 담당자"}
+{"job": "Speditionstjänsteman", "translation": "물류 직원"}
+{"job": "Speditör", "translation": "물류 담당자"}
+{"job": "Super cargo", "translation": "수송 관리자"}
+{"job": "Transportadministratör", "translation": "수송 엔지니어"}
+{"job": "Transportingenjör", "translation": "관세 처리 담당자/관세 관리자"}
+{"job": "Tullhandläggare/Tulladministratör", "translation": "이벤트 책임자/이벤트 조정자"}
+{"job": "Eventansvarig/Eventkoordinator", "translation": "컨퍼런스 기획자"}
+{"job": "Konferensplanerare", "translation": "여행 상품 제작자"}
+{"job": "Reseproducent", "translation": "부동산 중개인"}
+{"job": "Fastighetsmäklare", "translation": "광고 매니저"}
+{"job": "Annonschef", "translation": "아티스트 에이전트/아티스트 예약자/아티스트 매니저"}
+{"job": "Auktionist", "translation": "경매사"}
+{"job": "Auktionsutropare", "translation": "경매사"}
+{"job": "Beställningsfaktor", "translation": "주문담당자"}
+{"job": "Butikskonsulent", "translation": "매장컨설턴트"}
+{"job": "Fotografagent", "translation": "사진 에이전트"}
+{"job": "Idrottsagent/Sportagent", "translation": "스포츠 에이전트"}
+{"job": "Konsertarrangör", "translation": "콘서트 조직자"}
+{"job": "Kundmottagare, bilverkstad/Verkmästare, bilverkstad", "translation": "고객 수령원, 자동차 정비소/마스터, 자동차 정비소"}
+{"job": "Litterär agent", "translation": "문학 에이전트"}
+{"job": "Manager", "translation": "매니저"}
+{"job": "Mediasäljare", "translation": "미디어 영업원"}
+{"job": "Musikagent", "translation": "음악 에이전트"}
+{"job": "Prissättare", "translation": "가격 결정자"}
+{"job": "Servicechef, bilverkstad", "translation": "서비스 매니저, 자동차 정비소"}
+{"job": "Teateragent", "translation": "연극 에이전트"}
+{"job": "Turnéläggare", "translation": "투어 매니저"}
+{"job": "Turnéledare", "translation": "투어 리더"}
+{"job": "AD-assistent", "translation": "AD 보조"}
+{"job": "Fastighetsmäklarassistent", "translation": "부동산 중개인 보조"}
+{"job": "Försäkringsförmedlarassistent", "translation": "보험 중개사 보조"}
+{"job": "Försäljningsassistent/Säljadministratör", "translation": "판매 보조원/판매 관리자"}
+{"job": "Marknadsassistent", "translation": "마케팅 보조원"}
+{"job": "Reklamassistent/Reklamsekreterare", "translation": "광고 보조원/광고 비서"}
+{"job": "Inköpsassistent/Inköpskontorist/Inköpssekreterare", "translation": "구매 보조원/구매 사무원/구매 비서"}
+{"job": "Orderassistent", "translation": "주문 보조"}
+{"job": "Ordermottagare", "translation": "주문 수령자"}
+{"job": "Affärsresesäljare", "translation": "출장 영업사원"}
+{"job": "Biljettkontrollör", "translation": "티켓 검표원"}
+{"job": "Incheckare", "translation": "탑승 수속원"}
+{"job": "Passagerarkoordinator", "translation": "승객 조정원"}
+{"job": "Resebyråassistent", "translation": "여행사 보조원"}
+{"job": "Resehandläggare", "translation": "여행사업자"}
+{"job": "Resesäljare/Reseförsäljare/Resekonsulent", "translation": "여행사 영업원/여행 컨설턴트"}
+{"job": "Säljledare, resebyrå", "translation": "판매 리더, 여행사"}
+{"job": "Trafikassistent", "translation": "교통 보조원"}
+{"job": "Trafikinformatör", "translation": "교통 정보자"}
+{"job": "Turistassistent", "translation": "여행 보조원"}
+{"job": "Turistbyråtjänsteman", "translation": "관광 안내원"}
+{"job": "Turistinformatör", "translation": "관광 정보자"}
+{"job": "Marknadsundersökare/Intervjuare", "translation": "시장 조사원/면접관"}
+{"job": "Aktivitetsguide", "translation": "활동 가이드"}
+{"job": "Bussguide", "translation": "버스 가이드"}
+{"job": "Färdledare/Turledare", "translation": "여행 리더/가이드"}
+{"job": "Företagsguide", "translation": "기업 가이드"}
+{"job": "Guide", "translation": "가이드"}
+{"job": "Lokalguide", "translation": "지역 가이드"}
+{"job": "Platschef, reseföretag", "translation": "장소 매니저, 여행사"}
+{"job": "Reseledare", "translation": "여행 리더"}
+{"job": "Rundtursguide", "translation": "일일 관광 가이드"}
+{"job": "Taxiguide", "translation": "택시 가이드"}
+{"job": "Turistvärd/Turistvärdinna", "translation": "관광 안내원"}
+{"job": "Vildmarksguide", "translation": "야생 가이드"}
+{"job": "Avdelningschef, butik", "translation": "부서장, 매장"}
+{"job": "Bensinstationsföreståndare/Stationschef", "translation": "주유소 점장"}
+{"job": "Biträdande butikschef/Säljande butikschef", "translation": "부서장, 판매"}
+{"job": "Butiksansvarig", "translation": "매장 책임자"}
+{"job": "Kaféföreståndare", "translation": "카페 점장"}
+{"job": "Kassaledare, butik", "translation": "계산 책임자, 매장"}
+{"job": "Butikssäljare, dagligvaror/Medarbetare, dagligvaror", "translation": "매장 판매원, 식료품"}
+{"job": "Charkuteriarbetare, butik", "translation": "정육점 종사자, 매장"}
+{"job": "Båtförsäljare", "translation": "보트 판매원"}
+{"job": "Bilförsäljare", "translation": "자동차 판매원"}
+{"job": "Butikssäljare, fackhandel", "translation": "매장 판매원, 전문"}
+{"job": "Florist", "translation": "플로리스트"}
+{"job": "Husvagnsförsäljare", "translation": "캠퍼 판매원"}
+{"job": "Lastbilssäljare", "translation": "트럭 판매원"}
+{"job": "Maskinsäljare, entreprenad", "translation": "건축 장비 판매원"}
+{"job": "Optikerassistent", "translation": "안경 매장 종업원"}
+{"job": "Bensinstationsbiträde/Servicebiträde", "translation": "주유소 보조원 / 서비스 보조원"}
+{"job": "Biluthyrare", "translation": "차량 대여원"}
+{"job": "Solarievärd/Solarievärdinna", "translation": "셀프 태닝원"}
+{"job": "Stuguthyrare", "translation": "별장 임대인"}
+{"job": "Uthyrare", "translation": "대여원"}
+{"job": "Apoteksassistent", "translation": "약국 보조자"}
+{"job": "Apotekstekniker", "translation": "약국 기술자"}
+{"job": "Foajépersonal", "translation": "로비 직원"}
+{"job": "Kassapersonal", "translation": "계산 직원"}
+{"job": "Kioskbiträde", "translation": "키오스크 점원"}
+{"job": "Uppräkningspersonal, bevakningsföretag", "translation": "경비 업체 계산인원"}
+{"job": "Valutaförsäljare", "translation": "외환 판매원"}
+{"job": "Butiksdemonstratör", "translation": "매장 디모모"}
+{"job": "Demonstratör", "translation": "디모모"}
+{"job": "Eventsäljare/Eventförsäljare", "translation": "이벤트 판매원"}
+{"job": "Fotomodell", "translation": "모델"}
+{"job": "Hemförsäljare", "translation": "가정 판매원"}
+{"job": "Konstnärsmodell", "translation": "모형"}
+{"job": "Mannekäng", "translation": "매입 인원"}
+{"job": "Samplingspersonal", "translation": "고객 가입 판매원"}
+{"job": "Abonnemangsförsäljare", "translation": "가입 홍보원, 이해 단체 / 전화 기자"}
+{"job": "Medlemsvärvare, intresseorganisation/Telefonkommunikatör", "translation": "전화 판매원"}
+{"job": "Telefonförsäljare", "translation": "거리 판매원"}
+{"job": "Gatuförsäljare", "translation": "장터 판매원 / 시장 판매원"}
+{"job": "Torgförsäljare/Marknadsförsäljare", "translation": "임상 약리학자"}
+{"job": "Klinisk farmakolog", "translation": "전문의, 응급 의료"}
+{"job": "Specialistläkare, akutsjukvård", "translation": "전문의, 일반 의학"}
+{"job": "Specialistläkare, allmänmedicin", "translation": "전문의, 직장 및 환경 의학"}
+{"job": "Specialistläkare, arbets- och miljömedicin", "translation": "전문의, 소아청소년 의학"}
+{"job": "Specialistläkare, barn- och ungdomsmedicin", "translation": "전문의, 영상 및 기능 의학"}
+{"job": "Specialistläkare, bild- och funktionsmedicin", "translation": "피부과 전문의"}
+{"job": "Specialistläkare, infektionssjukdomar", "translation": "전문의, 감염병"}
+{"job": "Specialistläkare, invärtesmedicin", "translation": "전문의, 내과"}
+{"job": "Specialistläkare, kirurgi", "translation": "전문의, 외과"}
+{"job": "Specialistläkare, klinisk farmakologi", "translation": "전문의, 임상약리학"}
+{"job": "Specialistläkare, klinisk genetik", "translation": "전문의, 임상유전학"}
+{"job": "Specialistläkare, laboratoriemedicin", "translation": "전문의, 진단검사의학"}
+{"job": "Specialistläkare, neurologi", "translation": "전문의, 신경과"}
+{"job": "Specialistläkare, onkologi", "translation": "전문의, 종양학"}
+{"job": "Specialistläkare, psykiatri", "translation": "전문의, 정신의학"}
+{"job": "Specialistläkare, rättsmedicin", "translation": "전문의, 법의학"}
+{"job": "Specialistläkare, reumatologi", "translation": "전문의, 류마티스"}
+{"job": "Specialistläkare, socialmedicin", "translation": "전문의, 사회의학"}
+{"job": "BT-läkare", "translation": "BT의사"}
+{"job": "ST-läkare, akutsjukvård", "translation": "ST의사, 응급의료"}
+{"job": "ST-läkare, allmänmedicin", "translation": "ST의사, 일반의학"}
+{"job": "ST-läkare, arbets- och miljömedicin", "translation": "ST의사, 직업 및 환경의학"}
+{"job": "ST-läkare, barn- och ungdomsmedicin", "translation": "ST의사, 소아청소년과"}
+{"job": "ST-läkare, bild- och funktionsmedicin", "translation": "ST의사, 영상 및 기능의학"}
+{"job": "ST-läkare, hud- och könssjukdomar", "translation": "ST의사, 피부-비뇨기과"}
+{"job": "ST-läkare, infektionssjukdomar", "translation": "ST의사, 감염병"}
+{"job": "ST-läkare, invärtesmedicin", "translation": "ST의사, 내과"}
+{"job": "ST-läkare, kirurgi", "translation": "ST의사, 외과"}
+{"job": "ST-läkare, klinisk farmakologi", "translation": "ST의사, 임상약리학"}
+{"job": "ST-läkare, klinisk genetik", "translation": "ST의사, 임상유전학"}
+{"job": "ST-läkare, laboratoriemedicin", "translation": "ST의사, 진단검사의학"}
+{"job": "ST-läkare, neurologi", "translation": "ST의사, 신경과"}
+{"job": "ST-läkare, onkologi", "translation": "ST의사, 종양학"}
+{"job": "ST-läkare, psykiatri", "translation": "ST의사, 정신의학"}
+{"job": "ST-läkare, rättsmedicin", "translation": "ST의사, 법의학"}
+{"job": "ST-läkare, reumatologi", "translation": "ST의사, 류마티스"}
+{"job": "ST-läkare, socialmedicin", "translation": "ST의사, 사회의학"}
+{"job": "AT-läkare", "translation": "AT의사"}
+{"job": "Läkare", "translation": "의사"}
+{"job": "Hygiensjuksköterska", "translation": "위생 간호사"}
+{"job": "Sjuksköterska, grundutbildad", "translation": "간호사, 기본"}
+{"job": "Sjuksköterska, medicin och kirurgi", "translation": "간호사, 내과 및 외과"}
+{"job": "Smärtsjuksköterska", "translation": "통증 간호사"}
+{"job": "Stomiterapeut", "translation": "스토미 간호사"}
+{"job": "Uroterapeut", "translation": "요로치료사"}
+{"job": "Barnmorska", "translation": "산패"}
+{"job": "Barnmorska, förlossning", "translation": "산패, 분만"}
+{"job": "Barnmorska, öppen vård/Barnmorska, mödravård", "translation": "산패, 오픈케어/산패, 모성관리"}
+{"job": "Barnmorska, ungdomsmottagning", "translation": "산패, 청소년 진료소"}
+{"job": "Barnmorska, vårdavdelning/Barnmorska, BB-avdelning", "translation": "산패, 치료 부서/산패, 산부인과 부서"}
+{"job": "Distriktsbarnmorska", "translation": "지역 산패"}
+{"job": "Anestesisjuksköterska", "translation": "마취 간호사"}
+{"job": "Specialistsjuksköterska inom anestesisjukvård", "translation": "마취 간호전문가"}
+{"job": "Distriktssköterska", "translation": "지역 간호사"}
+{"job": "Specialistsjuksköterska med inriktning mot distriktssköterska", "translation": "지역 간호사 전문가"}
+{"job": "Specialistsjuksköterska inom psykiatrisk vård", "translation": "전문 간호사, 심리치료 의료"}
+{"job": "Akutsjuksköterska/Sjuksköterska, akutmottagning", "translation": "응급실 간호사/응급실 간호사"}
+{"job": "Ambulanssjuksköterska", "translation": "응급차 간호사"}
+{"job": "Specialistsjuksköterska inom akutsjukvård", "translation": "전문 간호사, 응급 의료"}
+{"job": "Specialistsjuksköterska inom ambulanssjukvård", "translation": "전문 간호사, 응급병원 의료"}
+{"job": "Sjuksköterska, geriatrik/Sjuksköterska, äldreomsorg och äldrevård", "translation": "노인 간호사/노인 의료와 노인 간호사"}
+{"job": "Specialistsjuksköterska inom demensvård", "translation": "치매 간호사"}
+{"job": "Specialistsjuksköterska inom vård av äldre", "translation": "노인 갘호사"}
+{"job": "Intensivvårdssjuksköterska", "translation": "중환자실 간호사"}
+{"job": "Specialistsjuksköterska inom intensivvård", "translation": "전문 간호사, 중환자실"}
+{"job": "Operationssjuksköterska", "translation": "수술 간호사"}
+{"job": "Specialistsjuksköterska inom operationssjukvård", "translation": "전문 간호사, 수술 의료"}
+{"job": "Barnsjuksköterska", "translation": "소아 간호사"}
+{"job": "Barnsjuksköterska, akutmottagning", "translation": "소아 응급실 간호사"}
+{"job": "Barnsjuksköterska, mottagning/Barnsjuksköterska, vårdcentral", "translation": "소아 진료소 간호사/소아 클리닉 간호사"}
+{"job": "Barnsjuksköterska, vårdavdelning", "translation": "소아 병동 간호사"}
+{"job": "Sjuksköterska, barnavårdscentral", "translation": "소아 의료센터 간호사"}
+{"job": "Specialistsjuksköterska inom hälso- och sjukvård för barn och ungdomar", "translation": "전문 간호사, 소아와 청소년 건강 의료"}
+{"job": "Skolsköterska", "translation": "학교 간호사"}
+{"job": "Specialistsjuksköterska med inriktning mot skolsköterska", "translation": "전문 간호사, 학교 간호"}
+{"job": "Företagssjuksköterska/Företagssköterska", "translation": "기업 간호사/기업 간호사"}
+{"job": "Specialistsjuksköterska inom företagshälsovård", "translation": "전문 간호사, 기업 보건의료"}
+{"job": "Röntgensjuksköterska", "translation": "방사선 간호사"}
+{"job": "Forskare, omvårdnad", "translation": "연구자, 간호"}
+{"job": "Forskningssjuksköterska", "translation": "연구 간호사"}
+{"job": "Kontaktsjuksköterska", "translation": "접촉 간호사"}
+{"job": "Medicinskt ansvarig sjuksköterska/MAS", "translation": "의료 총괄 간호사/MAS"}
+{"job": "Ögonsjuksköterska/Oftalmologassistent", "translation": "안과 간호사/안과 보조"}
+{"job": "Onkologisjuksköterska", "translation": "종양 간호사"}
+{"job": "Operationskoordinator", "translation": "수술 조정자"}
+{"job": "Ortoptist", "translation": "안저사"}
+{"job": "Rehabiliteringskoordinator/Rehabkoordinator", "translation": "재활 조정자/재활 조정자"}
+{"job": "Specialistsjuksköterska inom diabetesvård", "translation": "전문 간호사, 당뇨병 치료"}
+{"job": "Specialistsjuksköterska inom hjärtsjukvård", "translation": "전문 간호사, 심장병 치료"}
+{"job": "Specialistsjuksköterska inom infektionssjukvård", "translation": "전문 간호사, 감염병 치료"}
+{"job": "Specialistsjuksköterska inom kirurgisk vård", "translation": "전문 간호사, 수술 치료"}
+{"job": "Specialistsjuksköterska inom medicinsk vård", "translation": "전문 간호사, 내과 치료"}
+{"job": "Specialistsjuksköterska inom neurosjukvård", "translation": "전문 간호사, 신경학 치료"}
+{"job": "Specialistsjuksköterska inom ögonsjukvård", "translation": "전문 간호사, 안과 치료"}
+{"job": "Specialistsjuksköterska inom onkologisk vård", "translation": "전문 간호사, 암 치료"}
+{"job": "Specialistsjuksköterska inom palliativ vård", "translation": "전문 간호사, 재활 의료"}
+{"job": "Specialistsjuksköterska med inriktning mot ortoptist", "translation": "전문 간호사, 안저 조정"}
+{"job": "Vårdkoordinator/Vårdplatskoordinator", "translation": "의료 현장 조정/병실 조정"}
+{"job": "Vårdledare", "translation": "의료 리더"}
+{"job": "Arbetspsykolog/Organisationspsykolog", "translation": "직업심리학자/조직심리학자"}
+{"job": "Barnpsykolog", "translation": "소아 심리학자"}
+{"job": "Företagspsykolog", "translation": "기업 심리학자"}
+{"job": "Klinisk psykolog", "translation": "임상 심리학자"}
+{"job": "Neuropsykolog", "translation": "신경심리학자"}
+{"job": "Psykolog", "translation": "심리학자"}
+{"job": "Psykologiskt ledningsansvarig psykolog/PLA", "translation": "심리학 책임실장 심리학자/PLA"}
+{"job": "PTP-psykolog", "translation": "PTP 심리학자"}
+{"job": "Skolpsykolog", "translation": "학교 심리 학자"}
+{"job": "Specialistpsykolog", "translation": "전문 심리학자"}
+{"job": "Barnterapeut", "translation": "아동 치료사"}
+{"job": "Individualterapeut", "translation": "개별 치료사"}
+{"job": "Psykoterapeut", "translation": "심리치료사"}
+{"job": "Distriktsveterinär", "translation": "지역 수의사"}
+{"job": "Djurhälsoveterinär", "translation": "동물 건강 수의사"}
+{"job": "Epizootolog", "translation": "유행병학자"}
+{"job": "Klinikveterinär", "translation": "클리닉 수의사"}
+{"job": "Laboratorieveterinär", "translation": "연구소 수의사"}
+{"job": "Länsveterinär", "translation": "지방 수의사"}
+{"job": "Officiell veterinär", "translation": "공식 수의사"}
+{"job": "Veterinär", "translation": "수의사"}
+{"job": "Veterinärinspektör", "translation": "수의 검사관"}
+{"job": "Forskare, odontologi", "translation": "연구원, 치과학"}
+{"job": "Specialisttandläkare", "translation": "전문 치과의사"}
+{"job": "Specialisttandläkare inom bettfysiologi", "translation": "균형 생리학 전문 치과의사"}
+{"job": "Specialisttandläkare inom endodonti", "translation": "근관치료 전문 치과의사"}
+{"job": "Specialisttandläkare inom käkkirurgi", "translation": "악안과 전문 치과의사"}
+{"job": "Specialisttandläkare inom odontologisk radiologi", "translation": "치과 방사선학 전문 치과의사"}
+{"job": "Specialisttandläkare inom oral protetik", "translation": "구강 보철학 전문 치과의사"}
+{"job": "Specialisttandläkare inom orofacial medicin", "translation": "구강 안면 의학 전문 치과의사"}
+{"job": "Specialisttandläkare inom ortodonti", "translation": "교정학 전문 치과의사"}
+{"job": "Specialisttandläkare inom parodontologi", "translation": "치주병학 전문 치과의사"}
+{"job": "Specialisttandläkare inom pedodonti", "translation": "소아치과학 전문 치과의사"}
+{"job": "ST-tandläkare", "translation": "ST 치과의사"}
+{"job": "Tandläkare", "translation": "치과의사"}
+{"job": "Kiropraktor", "translation": "카이로프랙터"}
+{"job": "Naprapat", "translation": "나프라팻"}
+{"job": "Osteopat", "translation": "오스테오파스"}
+{"job": "Fysioterapeut", "translation": "물리치료사"}
+{"job": "Arbetsterapeut", "translation": "작업치료사"}
+{"job": "Hjälpmedelskonsulent", "translation": "보조기 상담사"}
+{"job": "Specialistarbetsterapeut", "translation": "전문작업치료사"}
+{"job": "Apotekare", "translation": "약사"}
+{"job": "Klinikapotekare", "translation": "클리닉 약사"}
+{"job": "Dietist", "translation": "영양사"}
+{"job": "Audionom", "translation": "청능학자"}
+{"job": "Logoped", "translation": "언어치료사"}
+{"job": "Optiker/Optometrist", "translation": "안경사/시력 전문가"}
+{"job": "Bildterapeut", "translation": "미술치료사"}
+{"job": "Dans- och rörelseterapeut", "translation": "무용 및 운동치료사"}
+{"job": "Musikterapeut", "translation": "음악치료사"}
+{"job": "Podiater/Podiatriker", "translation": "발치과의사/발치학 전문가"}
+{"job": "Receptarie", "translation": "조제사"}
+{"job": "Akupressör", "translation": "약압요법사"}
+{"job": "Akupunktör", "translation": "침술사"}
+{"job": "Aromaterapeut", "translation": "아로마치료사"}
+{"job": "Ayurvedamassör/Ayurvedaterapeut", "translation": "아유르베다 마사지사/아유르베다 요법사"}
+{"job": "Fytoterapeut/Örtterapeut", "translation": "허브요법사/약초요법사"}
+{"job": "Homeopat", "translation": "홈오파스"}
+{"job": "Kinesiolog", "translation": "키네시올로지스트"}
+{"job": "Läkeeurytmist", "translation": "약용리듬처"}
+{"job": "Näringsterapeut", "translation": "영양요법사"}
+{"job": "Naturterapeut", "translation": "자연요법사"}
+{"job": "Rosenterapeut", "translation": "장미요법사"}
+{"job": "Shiatsuterapeut", "translation": "시아쓰 마사지사"}
+{"job": "Taktilterapeut", "translation": "접촉요법사"}
+{"job": "Yogamassör", "translation": "요가 마사지사"}
+{"job": "Zonterapeut", "translation": "존요법사"}
+{"job": "Djursjukskötare", "translation": "동물간호사"}
+{"job": "Veterinärassistent", "translation": "수의 보조사"}
+{"job": "Tandhygienist", "translation": "치과 위생사"}
+{"job": "Hemsjukvårdare", "translation": "가정간호사"}
+{"job": "Undersköterska, hemtjänst, äldreboende och habilitering", "translation": "보조간호사, 가정보조센터, 경로당 및 재활"}
+{"job": "Omvårdnadsassistent", "translation": "간호조무사"}
+{"job": "Steriltekniker/Undersköterska, sterilcentral", "translation": "소독기술사/보조간호사, 소독실"}
+{"job": "Undersköterska, vård- och specialavdelning och mottagning", "translation": "보조간호사, 진료 및 특수 병동 및 진료실"}
+{"job": "Barnsköterska", "translation": "소아 간호사"}
+{"job": "Ambulanssjukvårdare", "translation": "응급 의료기사"}
+{"job": "Sjuktransportör", "translation": "의료 수송원"}
+{"job": "Hemvårdare", "translation": "가정간병인"}
+{"job": "Sjukvårdsbiträde/Servicevärd inom vården", "translation": "의료보조/의료서비스 호스트"}
+{"job": "Vårdbiträde", "translation": "의료 보조원"}
+{"job": "Brukarspecialist", "translation": "환자 전문가"}
+{"job": "Skötare (inom psykiatrisk vård)", "translation": "간호보조자 (정신 건강 의료)"}
+{"job": "Arbetsterapibiträde", "translation": "작업 치료 보조"}
+{"job": "Audiometris", "translation": "청력치즈"}
+{"job": "Fysioterapibiträde", "translation": "물리치료 보조"}
+{"job": "Gipstekniker", "translation": "사이레기사"}
+{"job": "Laboratoriebiträde", "translation": "조석기술자"}
+{"job": "Obduktionsbiträde", "translation": "연구 보조"}
+{"job": "Obduktionstekniker/Obduktionsassistent", "translation": "부검 보조"}
+{"job": "Tandvårdsassistent", "translation": "부검 기술자/부검 보조"}
+{"job": "Tandvårdsbiträde", "translation": "치과 보조사"}
+{"job": "Ortodontiassistent", "translation": "치과 보조"}
+{"job": "Tandsköterska", "translation": "교정 보조사"}
+{"job": "Bilglasmontör", "translation": "치과 간호사"}
+{"job": "Glas- och metallmontör", "translation": "자동차 유리 수리공"}
+{"job": "Glastekniker/Glasmästare", "translation": "유리 및 금속 수리공"}
+{"job": "Konstinramare/Rammakare", "translation": "유리 기술자/유리 명인"}
+{"job": "Lärling, glastekniker", "translation": "액자 제조사/액자 제작자"}
+{"job": "Byggnadssmed", "translation": "수리인, 유리 기술자"}
+{"job": "Hammarsmed", "translation": "건설 대장"}
+{"job": "Kallslagare", "translation": "망치 대장"}
+{"job": "Klensmed", "translation": "차가운 철제 소작인"}
+{"job": "Pressmed", "translation": "금속 세공사"}
+{"job": "Smed", "translation": "프레스 작업자"}
+{"job": "Smidesmekaniker", "translation": "대장"}
+{"job": "Smidesmekaniker", "translation": "대장장이"}
+{"job": "Verktygssmed", "translation": "공구 대장장이"}
+{"job": "Finmekaniker", "translation": "미세한장인"}
+{"job": "Hjälpmedelstekniker", "translation": "기기 기술자"}
+{"job": "Instrumentmekaniker", "translation": "기기 대장이"}
+{"job": "Instrumentmontör", "translation": "기기 조립공"}
+{"job": "Låssmed/Låstekniker", "translation": "자물쇠 대장이 / 자물쇠 기술자"}
+{"job": "Mätarjusterare", "translation": "계기 조정사"}
+{"job": "Mikromekaniker", "translation": "마이크로 장인"}
+{"job": "Pjäsmekaniker", "translation": "대포 장인"}
+{"job": "Tandteknikerbiträde", "translation": "치과기술 보조자"}
+{"job": "Urmakare", "translation": "시계제작자"}
+{"job": "Vapentekniker", "translation": "무기 기술자"}
+{"job": "Ädelstensslipare", "translation": "귀보석연마공"}
+{"job": "Blanksticksgravör", "translation": "경삭 조각가"}
+{"job": "Ciselör", "translation": "모조작가"}
+{"job": "Emaljör", "translation": "에나멜 화가"}
+{"job": "Gemmolog", "translation": "보석학자"}
+{"job": "Gravör, ädelmetall", "translation": "금속 조각가"}
+{"job": "Guldsmed", "translation": "금장이"}
+{"job": "Juvelerare", "translation": "보석공예가"}
+{"job": "Juvelfattare", "translation": "보석 포수"}
+{"job": "Silversmed", "translation": "은장이"}
+{"job": "Anfångare", "translation": "틀집공"}
+{"job": "Avsynare, glas- och keramikprodukter", "translation": "유리 및 도자기 검사"}
+{"job": "Avsynare, musikinstrument", "translation": "악기 검사"}
+{"job": "Ben- och fotanfångare", "translation": "뼈 및 발가락 틀집공"}
+{"job": "Benmakare", "translation": "뼈 제작자"}
+{"job": "Blåsinstrumentmakare", "translation": "관악기 제작사"}
+{"job": "Blästrare, glas", "translation": "유리 염색공"}
+{"job": "Blockgjutare", "translation": "블록 주조가"}
+{"job": "Degelmakare", "translation": "도관 제조자"}
+{"job": "Dekorationsmålare, glas", "translation": "유리 장식화가"}
+{"job": "Dekorationsmålare, porslin", "translation": "도자기 장식화가"}
+{"job": "Dekoratör, keramik, glas", "translation": "유리와 도자기 장식가"}
+{"job": "Dekorslipare, glas", "translation": "유리로 연마 가공하는 사람"}
+{"job": "Dockmakare", "translation": "인형 제작사"}
+{"job": "Dragspelsbyggare", "translation": "아코디언 제작자"}
+{"job": "Dragspelsreparatör", "translation": "아코디언 수리사"}
+{"job": "Drejare", "translation": "연구가"}
+{"job": "Emaljerare, keramik", "translation": "도자기 염색가"}
+{"job": "Färgtryckspåläggare, porslin", "translation": "도자기에 색인쇄를 하는 사람"}
+{"job": "Fiolbyggare", "translation": "바이올린 제작자"}
+{"job": "Folierare", "translation": "밸 리너"}
+{"job": "Formare, keramik", "translation": "도자기 형태 공예가"}
+{"job": "Formgjutare, keramik", "translation": "도자기 주형가"}
+{"job": "Fotoetsare", "translation": "사진에칭가"}
+{"job": "Gipsgjutare", "translation": "석고 주조가"}
+{"job": "Gitarrbyggare", "translation": "기타 제작자"}
+{"job": "Gitarrtekniker", "translation": "기타 기술자"}
+{"job": "Gjutare, keramik", "translation": "주조사, 도자기"}
+{"job": "Glas- och porslinsmålare", "translation": "유리 및 도자기 화가"}
+{"job": "Glasblåsare", "translation": "유리공"}
+{"job": "Glasbruksarbetare", "translation": "유리제조업 종사자"}
+{"job": "Glaserare, keramik", "translation": "도자기 용융 제조자"}
+{"job": "Glasetsare", "translation": "유리 제조자"}
+{"job": "Glasgravör", "translation": "유리 조각가"}
+{"job": "Glasmålare", "translation": "유리 화가"}
+{"job": "Glaspolerare", "translation": "유리 광택제조자"}
+{"job": "Glasslipare", "translation": "유리 연마자"}
+{"job": "Glasverksarbetare", "translation": "유리 제조업 종사자"}
+{"job": "Gravör", "translation": "조각가"}
+{"job": "Gravör, metall", "translation": "금속 조각가"}
+{"job": "Halmvaruarbetare", "translation": "대마용품 공작자"}
+{"job": "Handformare", "translation": "손으로 형성자"}
+{"job": "Handstickare", "translation": "손가락질 작업자"}
+{"job": "Handvävare", "translation": "손직조자"}
+{"job": "Handvirkare", "translation": "손으로 질조자"}
+{"job": "Hyttmästare/Produktionsledare, glasbruk", "translation": "유리공장 협장/생산자"}
+{"job": "Intonatör", "translation": "의료 시각 보조제조원"}
+{"job": "Kantslipare, glas", "translation": "유리 가공자"}
+{"job": "Keramiker", "translation": "도자기 제조자"}
+{"job": "Konsthantverkare", "translation": "예술공예가"}
+{"job": "Korgmakare", "translation": "줄장 제작자"}
+{"job": "Korgmakeriarbetare", "translation": "줄장공작자"}
+{"job": "Korgmöbelmakare", "translation": "그림자 가구 제작자"}
+{"job": "Krukmakare", "translation": "동기 제조자"}
+{"job": "Kulare, glas", "translation": "유리 도법가"}
+{"job": "Lackerare, porslin", "translation": "도금자, 도자기"}
+{"job": "Maskingravör, metall", "translation": "금속 조각가"}
+{"job": "Mästare, glasbruk", "translation": "유리공장 작업장"}
+{"job": "Modellgjutare, keramik", "translation": "모형 주조가, 도자기"}
+{"job": "Modellör, keramik", "translation": "모형제조자, 도자기"}
+{"job": "Mönsterslipare, glas", "translation": "유리 연마가"}
+{"job": "Musikinstrumentmakare", "translation": "악기 제작자"}
+{"job": "Ocularist", "translation": "안경구현가"}
+{"job": "Orgelbyggare", "translation": "오르간 제작자"}
+{"job": "Orgelpipmakare", "translation": "오르간 파이프 제조자"}
+{"job": "Orgelstämmare", "translation": "오르간 조율가"}
+{"job": "Patinerare", "translation": "염색자"}
+{"job": "Pianobyggare", "translation": "피아노 제작자"}
+{"job": "Pianostämmare", "translation": "피아노 조율가"}
+{"job": "Pianotekniker", "translation": "피아노 기술자"}
+{"job": "Planare, glas", "translation": "유리 평활 제조자"}
+{"job": "Planslipare, glas", "translation": "유리 평면 연마가"}
+{"job": "Porslinsdekoratör", "translation": "도자기 장식가"}
+{"job": "Porslinsgjutare", "translation": "도자기 주조가"}
+{"job": "Porslinsmålare", "translation": "도자기 화가"}
+{"job": "Porslinsputsare", "translation": "도자기 광택가"}
+{"job": "Porslinsslipare", "translation": "도자기 연마가"}
+{"job": "Skyltgravör", "translation": "문자금속 각인사"}
+{"job": "Skylttillverkare", "translation": "표지판 제작자"}
+{"job": "Slöjdare", "translation": "공예가"}
+{"job": "Stålgravör", "translation": "강철판 각인사"}
+{"job": "Stansgravör", "translation": "스탬프 각인사"}
+{"job": "Stränginstrumentmakare", "translation": "현악기 제작자"}
+{"job": "Textilvårdare", "translation": "직물 관리자"}
+{"job": "Träslöjdare", "translation": "목공예가"}
+{"job": "Träsnidare", "translation": "나무 조각가"}
+{"job": "Trumtekniker", "translation": "북기술자"}
+{"job": "Trumtillverkare", "translation": "북 제조자"}
+{"job": "Uppblåsare", "translation": "방아쇠"}
+{"job": "Verkmakare", "translation": "절단 자"}
+{"job": "Träförgyllare", "translation": "나무 금박 장인"}
+{"job": "Ytbehandlare manuell, trä/Sprutlackerare, manuell, trä", "translation": "수동 목재 마감자/스프레이 안료 자, 목재"}
+{"job": "Attributmakare", "translation": "장식품 제작자"}
+{"job": "Båtbyggare", "translation": "조선공"}
+{"job": "Båtinredare", "translation": "선체 내장가"}
+{"job": "Dekorsnickare", "translation": "장식목 수공예가"}
+{"job": "Förman, snickeri", "translation": "목수 감독"}
+{"job": "Inredningssnickare/Specialsnickare", "translation": "인테리어 목수/특수 목수"}
+{"job": "Listarbetare", "translation": "목재 세공가"}
+{"job": "Möbelsnickare", "translation": "가구 목수"}
+{"job": "Modellbyggare", "translation": "모형 제작자"}
+{"job": "Modellmakare", "translation": "모형 제작자"}
+{"job": "Modellsnickare", "translation": "모형 목수"}
+{"job": "Polerare, trä", "translation": "목재 연마 자"}
+{"job": "Reparationssnickare", "translation": "수리 목수"}
+{"job": "Skrovbyggare, trä", "translation": "목재 선체 제작자"}
+{"job": "Träbildhuggare", "translation": "나무 조각가"}
+{"job": "Tunnbindare", "translation": "가죽재포장가"}
+{"job": "Vagnmakare", "translation": "수레 제작자"}
+{"job": "Varvssnickare", "translation": "조선 목수"}
+{"job": "Ändringsskräddare", "translation": "수선변경 세탁사"}
+{"job": "Ateljésömmerska", "translation": "아틀리에 재봉사"}
+{"job": "Damskräddare", "translation": "여성복 재단가"}
+{"job": "Direktris/Garment technician/Mönsterkonstruktör", "translation": "패션 디렉터/의류 기술자/도파 디자이너"}
+{"job": "Hattmakare", "translation": "모자 제작자"}
+{"job": "Herrskräddare", "translation": "남성복 재단가"}
+{"job": "Klänningsskräddare", "translation": "드레스 메이커"}
+{"job": "Körsnär/Pälsmodellör", "translation": "퍼 디자이너"}
+{"job": "Kostymassistent", "translation": "복장 조수"}
+{"job": "Kostymmästare", "translation": "의상 기사"}
+{"job": "Kostymtekniker/Påklädare", "translation": "의상 기술자/의상자"}
+{"job": "Modist", "translation": "모자 제작자"}
+{"job": "Mönsterkonstruktionsassistent", "translation": "도파 기술 보조자"}
+{"job": "Mönsterritare, tyger", "translation": "직물 패턴 제작자"}
+{"job": "Pälssömmerska", "translation": "모피 재봉사"}
+{"job": "Produkttekniker, konfektion", "translation": "제품 기술자, 세탁"}
+{"job": "Produktutvecklare, konfektion", "translation": "제품 개발자, 세탁"}
+{"job": "Skräddare", "translation": "재단사"}
+{"job": "Tillskärare, konfektion", "translation": "자취"}
+{"job": "Tillskärare, skinnkläder", "translation": "가죽 의복 커터"}
+{"job": "Brodör/Brodös", "translation": "자수사"}
+{"job": "Linnesömmerska", "translation": "리넨 바느질사"}
+{"job": "Segelmakare", "translation": "돛 제조사"}
+{"job": "Skinnsömmerska", "translation": "가죽 바느질사"}
+{"job": "Bilsadelmakare/Biltapetserare", "translation": "차량 시트 제조사"}
+{"job": "Gardinmakare", "translation": "커튼 제조사"}
+{"job": "Sömmerska, möbeltillverkning", "translation": "가구 제조 바느질사"}
+{"job": "Tapetserare, hantverk", "translation": "솜틀 재단사"}
+{"job": "Tapetserare, industriell tillverkning", "translation": "공예 편직사"}
+{"job": "Tillskärare, möbeltillverkning", "translation": "산업 제조 바느질사"}
+{"job": "Garvare/Skinnberedare", "translation": "가구 제조 재단사"}
+{"job": "Garvarmästare", "translation": "가죽 공정사"}
+{"job": "Hudsorterare", "translation": "가죽공 박정"}
+{"job": "Ortopedskomakare", "translation": "가죽 분류사"}
+{"job": "Ortopedskotekniker", "translation": "교정구 슈 제작사"}
+{"job": "Pälsskinnberedare", "translation": "교정구 기사"}
+{"job": "Sadelmakare", "translation": "모피 처리사"}
+{"job": "Skomakare/Skoreparatör", "translation": "안장 제작사"}
+{"job": "Spaltmästare, garveri", "translation": "신발 제작사/신발 수석"}
+{"job": "Bagare/Konditor", "translation": "가죽 분할 선장"}
+{"job": "Bagerichef", "translation": "베이커/제과사"}
+{"job": "Tårtmakare", "translation": "제빵장"}
+{"job": "Köksmästare", "translation": "케이크 제조자"}
+{"job": "Souschef", "translation": "주방장"}
+{"job": "Ekonomiföreståndare/Kursgårdsföreståndare/Storhushållsföreståndare", "translation": "수하"}
+{"job": "Fartygsintendent", "translation": "재정 담당자/호텔 담당자/대형 가정 담당자"}
+{"job": "Husmor", "translation": "선착장 종업원"}
+{"job": "Internatföreståndare/Skolmåltidsföreståndare", "translation": "주부"}
+{"job": "Kostchef", "translation": "기숙사 담당자/학교 급식 담당자"}
+{"job": "Kostekonom", "translation": "영양 책임자"}
+{"job": "Kostkonsulent/Kostutvecklare/Måltidsutvecklare", "translation": "영양가"}
+{"job": "Bingofunktionär/Bingovärd/Bingovärdinna", "translation": "영양 컨설턴트/영양 개발자/식사 개발자"}
+{"job": "Croupier", "translation": "빙고 담당자/빙고 진행자/빙고 진행자"}
+{"job": "Dealer", "translation": "세 판사"}
+{"job": "Floormanager", "translation": "딜러"}
+{"job": "Inspector dealer", "translation": "매니저"}
+{"job": "Kasinopersonal", "translation": "딜러 감독"}
+{"job": "Oddssättare", "translation": "카지노 직원"}
+{"job": "Campingplatsföreståndare", "translation": "배당 설정자"}
+{"job": "Campingvärd", "translation": "캠핑장 담당자"}
+{"job": "Eventpersonal", "translation": "캠핑 관리자"}
+{"job": "Föreståndare, stugby", "translation": "이벤트 직원"}
+{"job": "Hotellreceptionist", "translation": "숙박소 관리자"}
+{"job": "Hotellvärd/Hotellvärdinna", "translation": "호텔 프론트 데스크 직원"}
+{"job": "Konferensvärd/Konferensvärdinna", "translation": "호텔 매니저/호텔 매니저"}
+{"job": "Nattreceptionist/Nattportier", "translation": "컨퍼런스 호스트/컨퍼런스 호스트"}
+{"job": "Receptionschef", "translation": "야간 프론트 데스크/야간 접대인"}
+{"job": "Stugvärd", "translation": "프론트 데스크 담당자"}
+{"job": "Stugvärd", "translation": "휴지 경비원"}
+{"job": "Vandrarhemsföreståndare", "translation": "유스호스텔 관리자"}
+{"job": "Kallskänka", "translation": "콜드 셰프"}
+{"job": "Kallskänka, fartyg", "translation": "콜드 셰프, 선박"}
+{"job": "Kock, à la carte", "translation": "알라카르트 요리사"}
+{"job": "Kock, fartyg", "translation": "선박 요리사"}
+{"job": "Kock, storhushåll", "translation": "대규모 주방 요리사"}
+{"job": "Kocksteward", "translation": "요리 스튜어드"}
+{"job": "Hovmästare", "translation": "홀마스터"}
+{"job": "Intendenturpersonal, försvaret", "translation": "장비관리 인원, 군대"}
+{"job": "Intendenturpersonal, sjöfart", "translation": "장비관리 인원, 해상"}
+{"job": "Mässman, fartyg", "translation": "선박 요리 스테이션"}
+{"job": "Servitör, fartyg/Servitris, fartyg", "translation": "웨이터, 선박 / 웨이트리스, 선박"}
+{"job": "Servitör/Servitris", "translation": "웨이터 / 웨이트리스"}
+{"job": "Sommelier", "translation": "소믈리에"}
+{"job": "Barchef", "translation": "바장"}
+{"job": "Barista/Kaffebartender", "translation": "바리스타 / 커피텐더"}
+{"job": "Barmästare", "translation": "바 마스터"}
+{"job": "Bartender", "translation": "바텐더"}
+{"job": "Grillbiträde/Gatuköksbiträde", "translation": "그릴 조리사 / 길거리 음식 조리"}
+{"job": "Grillkock, snabbmat", "translation": "피자 제조사"}
+{"job": "Pizzabagare", "translation": "케이터링 작업자"}
+{"job": "Cateringarbetare", "translation": "식기세척원"}
+{"job": "Diskare", "translation": "선박 식음료 부원"}
+{"job": "Ekonomibiträde, fartyg", "translation": "대규모 주방 부원"}
+{"job": "Ekonomibiträde, storhushåll", "translation": "아침식사 호스트 / 아침식사 호스트인"}
+{"job": "Frukostvärd/Frukostvärdinna", "translation": "주방 보조원"}
+{"job": "Köksbiträde", "translation": "실습 식기세척원"}
+{"job": "Laboratoriediskare", "translation": "식사 서빙 관리자"}
+{"job": "Måltidsbiträde", "translation": "음식점 서빙 관리자"}
+{"job": "Restaurangbiträde", "translation": "카페 서빙 관리자 / 제과점 서빙 관리자"}
+{"job": "Kafébiträde/Konditoribiträde", "translation": "생산 매니저, 기계 제조, 가공품"}
+{"job": "Arbetsledare, maskintillverkning, verkstadsprodukter", "translation": "생산 매니저, 화학제품 제조"}
+{"job": "Arbetsledare, tillverkning kemiska produkter", "translation": "생산 매니저, 전자제품 제조"}
+{"job": "Arbetsledare, tillverkning, elektroniska produkter", "translation": "생산 매니저, 전력 기술제품 제조"}
+{"job": "Arbetsledare, tillverkning, elkrafttekniska produkter", "translation": "생산 매니저, 섬유 및 목재제품 제조"}
+{"job": "Arbetsledare, tillverkning, textil- och träprodukter", "translation": "인쇄소 작업 관리자"}
+{"job": "Arbetsledare, tryckeri", "translation": "소형 제련소 부서장"}
+{"job": "Avdelningschef, smältverk", "translation": "주조장"}
+{"job": "Brännmästare", "translation": "양조장"}
+{"job": "Bryggmästare", "translation": "포장장, 제조"}
+{"job": "Packmästare, tillverkning", "translation": "인쇄물 제조자"}
+{"job": "Trycksaksfaktor", "translation": "소화 방지 페인터"}
+{"job": "Brandskyddsmålare", "translation": "도금 작업원"}
+{"job": "Dopplackerare", "translation": "에나멜 코팅자, 도색"}
+{"job": "Emaljerare, lackering", "translation": "차량 도색사"}
+{"job": "Fordonslackerare", "translation": "산업 도색사"}
+{"job": "Industrilackerare", "translation": "도장사"}
+{"job": "Lackerare", "translation": "가구 도색사"}
+{"job": "Rostskyddsbehandlare", "translation": "부식 방지 처리사"}
+{"job": "Rostskyddsmålare", "translation": "부식 방지 도장사"}
+{"job": "Takmålare, plåt", "translation": "지붕 도배사, 철제"}
+{"job": "Gelbgjutare", "translation": "금속 주조사"}
+{"job": "Gjutare", "translation": "주조사"}
+{"job": "Gjutmästare", "translation": "주조장"}
+{"job": "Handformare, gjuteri", "translation": "수화형 양식사, 주조소"}
+{"job": "Kärnmakare", "translation": "중심 제조사"}
+{"job": "Konstgjutare", "translation": "예술품 주조사"}
+{"job": "Tenngjutare", "translation": "주석 주조사"}
+{"job": "Vaxgjutare", "translation": "밀랍 주조사"}
+{"job": "Gasskärare", "translation": "가스 절단사"}
+{"job": "Gassvetsare", "translation": "가스 용접사"}
+{"job": "Hårdlödare", "translation": "경경 필라잇"}
+{"job": "Mjuklödare", "translation": "부드럽게 필라잇"}
+{"job": "Spårsvetsare", "translation": "트랙 용접사"}
+{"job": "Svetsare, manuell", "translation": "수동 용접사"}
+{"job": "Bilplåtslagare/Bilskade- och karosserireparatör", "translation": "차체 판금사/차체 및 차체 수리사"}
+{"job": "Cisterntekniker", "translation": "탱크 기술자"}
+{"job": "Flygplansplåtslagare", "translation": "비행기 판금사"}
+{"job": "Industriplåtslagare", "translation": "산업 판금사"}
+{"job": "Kopparslagare", "translation": "구리장식공"}
+{"job": "Plåtbearbetare", "translation": "판금 가공공"}
+{"job": "Stansare, tunnplåt", "translation": "얇은 판금 가공기"}
+{"job": "Tunnplåtslagare", "translation": "얇은 판금 가공사"}
+{"job": "Fartygsplåtslagare", "translation": "선박 판금사"}
+{"job": "Grovplåtnitare", "translation": "두꺼운 판금 맞추기"}
+{"job": "Grovplåtslagare", "translation": "두꺼운 판금 사카"}
+{"job": "Metallkonstruktionsmontör", "translation": "금속 구조물 설치사"}
+{"job": "Pannplåtslagare", "translation": "보일러 판금사"}
+{"job": "Stålbyggare", "translation": "강철 건축가"}
+{"job": "Bänkarbetare", "translation": "작업대 상업가"}
+{"job": "Prototyptillverkare, metall", "translation": "모형 제작가, 금속"}
+{"job": "Verktygsmakare", "translation": "금형 제작가"}
+{"job": "Arborrare", "translation": "드릴 작업자"}
+{"job": "Automatpressoperatör", "translation": "자동 프레스 조작자"}
+{"job": "Automatställare", "translation": "자동센터"}
+{"job": "Automatsvarvare", "translation": "자동 선반가"}
+{"job": "Bandsågare, metall", "translation": "금속 밴드 톱작업자"}
+{"job": "Borrare, metall", "translation": "금속 드릴작업자"}
+{"job": "CNC-operatör/FMS-operatör", "translation": "CNC 조작자 / FMS 조작자"}
+{"job": "Excenterpressare/Pressoperatör, metallarbete", "translation": "아일 압출기 / 압출 작업자, 금속 작업"}
+{"job": "Fräsare", "translation": "몰더"}
+{"job": "Gnistare", "translation": "스파크 작업자"}
+{"job": "Kallsågare, metall", "translation": "금속 콜드 쏘우작업자"}
+{"job": "Kantpressare", "translation": "Kantpress 작업자"}
+{"job": "Karusellsvarvare", "translation": "카룰 스반작업자"}
+{"job": "Laseroperatör/Laserskärare", "translation": "레이저 조작자 / 레이저 커터"}
+{"job": "Maskinoperatör, mekanisk verkstad", "translation": "기계 작업대 조작자"}
+{"job": "Maskinställare", "translation": "기계 설치자"}
+{"job": "Metallduksvävare", "translation": "금속메쉬제조자"}
+{"job": "Metallsågare", "translation": "금속절단원"}
+{"job": "Metalltryckare", "translation": "금속인쇄원"}
+{"job": "Präglare, metall", "translation": "합금제조원"}
+{"job": "Punktsvetsare", "translation": "점접합기"}
+{"job": "Riggare, verktygsmaskiner", "translation": "기계설치공"}
+{"job": "Robotsvetsare", "translation": "로봇용접원"}
+{"job": "Smidesoperatör", "translation": "단조공"}
+{"job": "Supportsvarvare", "translation": "지지 터닝원"}
+{"job": "Supporttryckare", "translation": "지지 인쇄원"}
+{"job": "Svarvare", "translation": "터닝전문가"}
+{"job": "Svetsoperatör/Automatsvetsare", "translation": "용접원 / 자동용접"}
+{"job": "Trycksvarvare", "translation": "압입 터닝원"}
+{"job": "Verkstadsmekaniker/Verkstadstekniker", "translation": "차량 기술자 / 선반 기술자"}
+{"job": "Verktygsställare", "translation": "칼날치환원"}
+{"job": "Verktygsuppsättare", "translation": "금형편제원"}
+{"job": "Gradare", "translation": "분급원"}
+{"job": "Slipare, metall", "translation": "금속 연마공"}
+{"job": "Annonsgrafiker", "translation": "광고그래픽 디자이너"}
+{"job": "Grafisk operatör", "translation": "그래픽스 엔지니어"}
+{"job": "Infografiker/Nyhetsgrafiker", "translation": "정보그래픽 / 뉴스그래픽 디자이너"}
+{"job": "Prepressoperatör", "translation": "디지털인쇄전담원"}
+{"job": "Pressoperatör, tryckmedier", "translation": "인쇄 기계조작원"}
+{"job": "Retuschör", "translation": "인쇄원, 인쇄매체"}
+{"job": "Arkoffsettryckare", "translation": "레투쳬"}
+{"job": "Coldsettryckare", "translation": "오프셋책갑인쇄원"}
+{"job": "Digitaltryckare", "translation": "콜드셋인쇄원"}
+{"job": "Djuptryckare", "translation": "디지털인쇄원"}
+{"job": "Färgblandare, tryckeri", "translation": "심경제조자"}
+{"job": "Flexotryckare", "translation": "혼합색조원, 인쇄소"}
+{"job": "Heatsettryckare", "translation": "플렉소인쇄원"}
+{"job": "Laminerare, tryckeri", "translation": "히트셋인쇄원"}
+{"job": "Maskinoperatör, tryckeri", "translation": "인증자, 인쇄소"}
+{"job": "Offsettryckare", "translation": "인쇄 기계조작원"}
+{"job": "Pressbiträde", "translation": "오프셋인쇄원"}
+{"job": "Rulloffsettryckare", "translation": "오프셋보조"}
+{"job": "Schablontillverkare, screentryck", "translation": "회전오프셋인쇄원"}
+{"job": "Screentryckare", "translation": "스크린인쇄용 판제작자"}
+{"job": "Systemoperatör, tryckeri", "translation": "스크린인쇄원"}
+{"job": "Tapettryckare", "translation": "인쇄 시스템조작원"}
+{"job": "Bokbindare", "translation": "벽지인쇄원"}
+{"job": "Falsare, bokbinderi", "translation": "북바인더"}
+{"job": "Maskinbokbindare/Bokbinderiarbetare", "translation": "바인딩기 조작원, 책제본소"}
+{"job": "Maskinoperatör, hårdband", "translation": "기계바인더 / 책제본작업자"}
+{"job": "Maskinoperatör, mjukband", "translation": "경질밴드 조작원"}
+{"job": "Pappersskärare, bokbinderi", "translation": "연질밴드 조작원"}
+{"job": "Privatbokbindare", "translation": "책자 절단원, 책제본소"}
+{"job": "Borrare, trä", "translation": "개인적인 책제본가"}
+{"job": "CNC-operatör, trä", "translation": "목공"}
+{"job": "Fanerare", "translation": "CNC 조작원, 나무"}
+{"job": "Fanerskärare", "translation": "창호제조자"}
+{"job": "Fanerskärare", "translation": "판재 절단기"}
+{"job": "Fräsare, trä", "translation": "목공, 프레이저"}
+{"job": "Hyvlare, trä", "translation": "목공, 혀블러"}
+{"job": "Kontursågare, snickeri", "translation": "목공, 프로파일 절단기"}
+{"job": "Limmare, snickeri", "translation": "목공 접착제"}
+{"job": "Maskinsnickare, snickeri/Operatör, snickeri/Operatör, inredning", "translation": "목공 기계 공예가/목공 운영자/인테리어 운영자"}
+{"job": "Maskinsnickare, trävaruindustri/Operatör, trävaruindustri", "translation": "목재 산업 기계 공예가/목재 산업 운영자"}
+{"job": "Planhyvlare, trä", "translation": "목공 평형기"}
+{"job": "Slipare, snickeri", "translation": "목공 연마 공"}
+{"job": "Snickerimaskinskötare", "translation": "목공 기계 조작원"}
+{"job": "Trähusarbetare/Spikare", "translation": "목조 집 세공자/못박는 사람"}
+{"job": "Träsvarvare", "translation": "목재 선반공예가"}
+{"job": "Verkstadssnickare", "translation": "공장 목수"}
+{"job": "Charkuteriarbetare, slakteri", "translation": "육고 기술자, 도축"}
+{"job": "Charkuterist", "translation": "육품사"}
+{"job": "Köttmästare", "translation": "육품 기술자, 도축"}
+{"job": "Livsmedelsarbetare, charkuteri", "translation": "도축사"}
+{"job": "Slaktare", "translation": "도축소장"}
+{"job": "Slaktmästare", "translation": "도매원"}
+{"job": "Styckare", "translation": "도매소장"}
+{"job": "Styckmästare", "translation": "장건 처리 공예가"}
+{"job": "Tarmförädlingsarbetare", "translation": "평가자"}
+{"job": "Avsmakare", "translation": "육류 분류사"}
+{"job": "Köttklassificerare", "translation": "식품 품질 평가자, 식품"}
+{"job": "Kvalitetsbedömare, livsmedel", "translation": "우유 평가자"}
+{"job": "Mjölkbedömare", "translation": "공식 보조/식품 감독관"}
+{"job": "Officiell assistent/Livsmedelskontrollant", "translation": "평가자"}
+{"job": "Provsmakare", "translation": "와인 평가자"}
+{"job": "Vinprovare", "translation": "분쇄 조작원"}
+{"job": "Krossoperatör", "translation": "공정 조작원, 광업 부가품"}
+{"job": "Processoperatör, malmanrikning", "translation": "아스팔트 공장 조종사"}
+{"job": "Asfaltverksmaskinist", "translation": "콘크리트 제품 작업자"}
+{"job": "Betongvaruarbetare", "translation": "방향성, 석고판"}
+{"job": "Formare, gipsplattor", "translation": "그 외"}
+{"job": "Formsättare", "translation": "인공 석조제"}
+{"job": "Konststensgjutare", "translation": "기계 조작원, 석고판"}
+{"job": "Maskinoperatör, gipsplattor", "translation": "프로세스 조작원, 콘크리트"}
+{"job": "Processoperatör, betong", "translation": "프로세스 조작원, 시멘트 생산"}
+{"job": "Processoperatör, cementtillverkning", "translation": "석재 기계 조작원"}
+{"job": "Stenmaskinskötare", "translation": "석재 절단기"}
+{"job": "Stensågare", "translation": "석재 연마원"}
+{"job": "Stenslipare", "translation": "석재 선반공예가"}
+{"job": "Stensvarvare", "translation": "다이너마이트 전문가"}
+{"job": "Bergsprängare", "translation": "하석원, 광산"}
+{"job": "Laddare, gruva", "translation": "터널 다이너마이트 전문가"}
+{"job": "Tunnelsprängare", "translation": "석각사"}
+{"job": "Stengravör", "translation": "석재 기술자/석공"}
+{"job": "Stentekniker/Stenhuggare", "translation": "기계 조작원, 금속 표면 처리"}
+{"job": "Inläggare, valsverk", "translation": "인서터, 압연기"}
+{"job": "Maskinvalsare", "translation": "기계 압연업자"}
+{"job": "Reglerare, valsverk", "translation": "조정자, 압연기"}
+{"job": "Valsare", "translation": "압연기 압연자"}
+{"job": "Valsverksoperatör", "translation": "압연기 조작원"}
+{"job": "Värmare, valsverk", "translation": "온도 상승기, 압연기"}
+{"job": "Avgjutare", "translation": "주조자"}
+{"job": "Extruderskötare, metall", "translation": "압출기 조작원, 금속"}
+{"job": "Gjutberedare", "translation": "주조 준비자"}
+{"job": "Gjuterioperatör", "translation": "주조 공업자"}
+{"job": "Kokillgjutare", "translation": "금형 주조공"}
+{"job": "Maskinformare, gjuteri", "translation": "주조 기계 조작원, 주조소"}
+{"job": "Maskinkärnmakare", "translation": "주조기재공"}
+{"job": "Plåtriktare", "translation": "금속판 펴는 사람"}
+{"job": "Pressgjutare", "translation": "압축 주조자"}
+{"job": "Processoperatör, metallindustri", "translation": "금속공업 공정 조작원"}
+{"job": "Processoperatör, värmebehandling", "translation": "열처리 공정 조작원"}
+{"job": "Ringverksarbetare", "translation": "원형 작업자"}
+{"job": "Rörbockare", "translation": "관 휨자"}
+{"job": "Rördragare", "translation": "관 설치공"}
+{"job": "Rörriktare", "translation": "관 펴는 사람"}
+{"job": "Sandberedare, gjuteri", "translation": "몰딩부스 조작원, 주조소"}
+{"job": "Spikmaskinskötare", "translation": "못제조기 조작원"}
+{"job": "Strängpressare, metall", "translation": "사출 조작원, 금속"}
+{"job": "Tråddragare", "translation": "사선 인발자"}
+{"job": "Trådspolare, metall", "translation": "사선 감는 사람, 금속"}
+{"job": "Maskinoperatör, hygienteknik", "translation": "기계 조작원, 위생 기술"}
+{"job": "Maskinoperatör, läkemedel", "translation": "기계 조작원, 의약품"}
+{"job": "Ammoniakkokare", "translation": "암모니아 조작원"}
+{"job": "Blandarskötare, sprängämnesindustri", "translation": "혼합기 조작원, 발화물 공업"}
+{"job": "Blandningsuppvägare, sprängämnen", "translation": "혼합체 계량자, 발화물"}
+{"job": "Destruktionsmaskinist", "translation": "파쇄 기사"}
+{"job": "Elektrofilterskötare", "translation": "전기 여과기 조작원"}
+{"job": "Kopieringsmaskinskötare", "translation": "복사기 조작원"}
+{"job": "Ljusformare", "translation": "조명 제작자"}
+{"job": "Ljusstöpare", "translation": "촛주조공"}
+{"job": "Maskinoperatör, fotografiska produkter", "translation": "기계 조작원, 사진제품"}
+{"job": "Maskinoperatör, kemitekniska produkter", "translation": "기계 조작원, 화학공업"}
+{"job": "Maskinoperatör, sprängämnen och pyroteknik", "translation": "기계 조작원, 발화물 및 폭죽"}
+{"job": "Mesabrännare", "translation": "메사 기작가"}
+{"job": "Sprängämnesarbetare", "translation": "발화물 공업노동자"}
+{"job": "Sprayare", "translation": "분무기"}
+{"job": "Tjärkokare", "translation": "재정여"}
+{"job": "Däcksbyggare", "translation": "타이어 제조자"}
+{"job": "Maskinoperatör, gummiindustri", "translation": "기계 조작원, 고무 공업"}
+{"job": "Regummerare", "translation": "재투타천"}
+{"job": "Epoxigjutare", "translation": "에폭시 주조자"}
+{"job": "Formmaskinskötare, plast", "translation": "포밍 기계 조작원, 플라스틱"}
+{"job": "Härdare, plast", "translation": "경화제, 플라스틱"}
+{"job": "Kalanderskötare, plast", "translation": "롤 방체자, 플라스틱"}
+{"job": "Laminerare, plast", "translation": "라미네이터, 플라스틱"}
+{"job": "Maskinställare, plast", "translation": "플라스틱 기계조작자"}
+{"job": "Plastarbetare", "translation": "플라스틱 작업자"}
+{"job": "Plastbåtbyggare", "translation": "플라스틱 보트 제작자"}
+{"job": "Plastgjutare", "translation": "플라스틱 주조공"}
+{"job": "Plasthärdare", "translation": "플라스틱 경화제"}
+{"job": "Plastimpregnerare", "translation": "플라스틱 침출제"}
+{"job": "Plastmaskinoperatör", "translation": "플라스틱 기계 조작자"}
+{"job": "Plastreparatör", "translation": "플라스틱 수리공"}
+{"job": "Plastsvetsare", "translation": "플라스틱 용접공"}
+{"job": "Plastvaruarbetare", "translation": "플라스틱 제품 작업자"}
+{"job": "Skumplastarbetare", "translation": "폼플라스틱 작업자"}
+{"job": "Strängsprutare", "translation": "스트링 스프레이어"}
+{"job": "Uppläggare", "translation": "시트 책임자"}
+{"job": "Maskinoperatör, pappersvaruindustri", "translation": "골판지 기계 조작자"}
+{"job": "Avsynare, tyger", "translation": "감정자, 직물"}
+{"job": "Färgare", "translation": "염색공"}
+{"job": "Kemtvättare", "translation": "드라이클리너"}
+{"job": "Mattvättare", "translation": "카펫세탁공"}
+{"job": "Plysare", "translation": "팔로우 제작자"}
+{"job": "Spannramsförare", "translation": "프레임 운반자"}
+{"job": "Textiltryckare", "translation": "직물 인쇄공"}
+{"job": "Tvätteriarbetare/Tvättbiträde", "translation": "세탁업자 / 세탁 보조"}
+{"job": "Bandvävare", "translation": "밴드 원직공"}
+{"job": "Handsksömmare", "translation": "장갑 제작자"}
+{"job": "Hemtextilsömmerska", "translation": "홈 텍스타일 재봉사"}
+{"job": "Industrisömmerska", "translation": "공업 재봉사"}
+{"job": "Kalkhusarbetare, garveri", "translation": "혁사실 작업자, 가죽공장"}
+{"job": "Konfektionssömmerska", "translation": "의복 재봉사"}
+{"job": "Läderfärgare", "translation": "가죽 염료사"}
+{"job": "Lädervaruarbetare", "translation": "가죽 제품 작업자"}
+{"job": "Maskinoperatör, garnberedning", "translation": "가방 재료 편직기 조작자"}
+{"job": "Maskinskärare", "translation": "실 임펠러"}
+{"job": "Maskinställare, textil", "translation": "직물 기계 조작자"}
+{"job": "Nättillverkare", "translation": "까만 그릇"}
+{"job": "Råhudsarbetare", "translation": "직물 기계 조작자"}
+{"job": "Repslagare", "translation": "قت 명 밀"}
+{"job": "Skinnfärgare", "translation": "천 조형가"}
+{"job": "Skofabriksarbetare", "translation": "신에어"}
+{"job": "Snörmakare", "translation": "가죽 인화사"}
+{"job": "Solvare", "translation": "구두 공장 노동자"}
+{"job": "Stansare, skor", "translation": "끈 제작자"}
+{"job": "Stickare, textilindustri", "translation": "매듭의 요리"}
+{"job": "Trikåstickare", "translation": "신의 제조자"}
+{"job": "Varpare", "translation": "신발 다듬기"}
+{"job": "Väskmakare", "translation": "신의 자"}
+{"job": "Vävare", "translation": "구두 스탬핑 강판"}
+{"job": "Vävlagare", "translation": "직물 기계 조작자"}
+{"job": "Virkmaskinskötare", "translation": "천조직자"}
+{"job": "Maskinoperatör, fisk", "translation": "웨버"}
+{"job": "Maskinoperatör, foder", "translation": "직물 판가"}
+{"job": "Maskinoperatör, konservering", "translation": "뜨개질 기계 조작자"}
+{"job": "Maskinoperatör, kött", "translation": "어부 기계 조작자"}
+{"job": "Maskinoperatör, foder", "translation": "기계조작원, 사료"}
+{"job": "Maskinoperatör, konservering", "translation": "기계조작원, 보존"}
+{"job": "Maskinoperatör, kött", "translation": "기계조작원, 고기"}
+{"job": "Maskinoperatör, rökning", "translation": "기계조작원, 훈연"}
+{"job": "Glassberedare", "translation": "아이스크림 제조자"}
+{"job": "Livsmedelsarbetare, mejeri", "translation": "식품 제조업 종사자, 유제품"}
+{"job": "Maskinskötare, glasstillverkning", "translation": "기계조작원, 유리 제조"}
+{"job": "Maskinskötare, mejeri", "translation": "기계조작원, 유제품"}
+{"job": "Mejeriarbetare", "translation": "유제품 제조업 종사자"}
+{"job": "Processoperatör, mejeri", "translation": "공정 조작원, 유제품"}
+{"job": "Kvarnarbetare", "translation": "분쇄기 조작원"}
+{"job": "Kvarnmaskinskötare", "translation": "분쇄기 기계조작원"}
+{"job": "Kvarnoperatör", "translation": "분쇄기 조작원"}
+{"job": "Maskinoperatör, bageri", "translation": "기계조작원, 제과제빵업"}
+{"job": "Maskinoperatör, konfektyrindustri", "translation": "기계조작원, 제과류 제조업"}
+{"job": "Mjölnare", "translation": "제분원"}
+{"job": "Processoperatör, kvarn", "translation": "공정 조작원, 분쇄기"}
+{"job": "Siloarbetare", "translation": "사일로 작업자"}
+{"job": "Spannmålsarbetare", "translation": "곡물 작업자"}
+{"job": "Spannmålstorkare", "translation": "곡물 건조원"}
+{"job": "Ättiksberedare", "translation": "식초 제조자"}
+{"job": "Brännvinsbrännare", "translation": "증류주 증류원"}
+{"job": "Bryggeriarbetare", "translation": "양조 공장 종업원"}
+{"job": "Brygghusarbetare", "translation": "양조소 종업원"}
+{"job": "Läskedrycksberedare", "translation": "탄산음료 제조자"}
+{"job": "Mältare", "translation": "맥아 제조원"}
+{"job": "Maskinoperatör, juice, frukt, grönsaker och vegetabilisk olja", "translation": "기계조작원, 주스, 과일, 채소 및 식용 식물성 오일"}
+{"job": "Maskinoperatör, livsmedelsindustri", "translation": "기계조작원, 식품 제조업"}
+{"job": "Maskinoperatör, sockerindustri", "translation": "기계조작원, 설탕 산업"}
+{"job": "Maskinoperatör, te-, kaffe- och kakaoberedning", "translation": "기계조작원, 차, 커피 및 카카오 제조"}
+{"job": "Maskinoperatör, tobaksindustri", "translation": "기계조작원, 담배 산업"}
+{"job": "Processoperatör, bryggeri", "translation": "공정 조작원, 양조소"}
+{"job": "Spritberedare", "translation": "증류주 제조자"}
+{"job": "Tappare, bryggeri", "translation": "맥주 공장 양조기"}
+{"job": "Tappmaskinskötare", "translation": "맥주 분주원"}
+{"job": "Vinberedare", "translation": "와인 제조자"}
+{"job": "Processoperatör, pappersmassa", "translation": "공정 조작원, 펄프"}
+{"job": "Processoperatör, papper", "translation": "공정 조작원, 종이"}
+{"job": "Bandsågare, träfiberskivor", "translation": "밴드 톱 작업자, 목재섬유판"}
+{"job": "Fanerarbetare, fanertillverkning", "translation": "합판 제작원, 합판 제조"}
+{"job": "Fanerpressare, fanertillverkning", "translation": "합판 압출기, 합판 제조"}
+{"job": "Fogare, faner", "translation": "합판기사, 합판"}
+{"job": "Formatsågare, fiberskivor", "translation": "포맷 톱 작업자, 섬유판"}
+{"job": "Formpressare, skiktträ", "translation": "폼프레스 작업자, 합성목재"}
+{"job": "Limberedare, träfiberindustri", "translation": "접착제 제조자, 목재섬유"}
+{"job": "Limmare, fiberskivtillverkning", "translation": "접착제 도장기, 섬유판 제조"}
+{"job": "Maskinförare, träfiberskivor", "translation": "기계운전원, 목재섬유판"}
+{"job": "Parkettarbetare", "translation": "파켓바닥 작업자"}
+{"job": "Plywoodarbetare", "translation": "합판 작업자"}
+{"job": "Pressare, spånskivor", "translation": "압출기, 패널합판"}
+{"job": "Pressare, träfiber, spånskivor", "translation": "프레스 업무자, 나무 섬유, 판자"}
+{"job": "Sågverksoperatör", "translation": "제재업자"}
+{"job": "Träfiberskivarbetare", "translation": "나무 섬유판 작업자"}
+{"job": "Virkesimpregnerare", "translation": "목재 적층 처리자"}
+{"job": "Virkessorterare", "translation": "목재 분류작업자"}
+{"job": "Maskinoperatör, ytbehandling, trä", "translation": "트리트먼트 기계 조작자"}
+{"job": "Emballerare", "translation": "포장자"}
+{"job": "Falsare", "translation": "벤더"}
+{"job": "Fyllnings- och förpackningsoperatör", "translation": "충전 및 포장 조작자"}
+{"job": "Gaspåfyllare", "translation": "가스 충전원"}
+{"job": "Brännare, glas, keramik", "translation": "유리, 세라믹 연소작업자"}
+{"job": "Centrifugoperatör, glas", "translation": "유리용 원심 조작자"}
+{"job": "Glasarbetare", "translation": "유리작업자"}
+{"job": "Glashärdare", "translation": "유리단화기"}
+{"job": "Glasmaskinskötare", "translation": "유리 기계 조작자"}
+{"job": "Glasögonslipare", "translation": "안경 연마공"}
+{"job": "Glaspressare", "translation": "유리 프레스"}
+{"job": "Glassmältare", "translation": "유리 용해작업자"}
+{"job": "Glastryckare", "translation": "유리 인쇄공"}
+{"job": "Linsslipare", "translation": "렌즈 연마공"}
+{"job": "Mängberedare", "translation": "재료 조리자"}
+{"job": "Maskinskötare, glas", "translation": "유리 기계 조작자"}
+{"job": "Maskinskötare, tegelbruk", "translation": "조업 기계 조작자"}
+{"job": "Massaberedare, keramik/Massaberedare, tegel", "translation": "세라믹, 제련의 연료 조리자/세라믹, 제련의 연료 조리자"}
+{"job": "Processoperatör, glas", "translation": "유리 공정 조작자"}
+{"job": "Slipmaterialarbetare", "translation": "연마재 작업자"}
+{"job": "Slipskiveformare", "translation": "연마 디스크 제조자"}
+{"job": "Slipverktygsarbetare", "translation": "연마 공구 작업자"}
+{"job": "Slipverktygsoperatör", "translation": "연마 공구 조작자"}
+{"job": "Slipverktygstillverkare", "translation": "연마 공구 제조자"}
+{"job": "Smältare, glas", "translation": "유리용 용융작업자"}
+{"job": "Smärgelduksarbetare", "translation": "연마 천 작업자"}
+{"job": "Tegelbruksarbetare", "translation": "벽돌공"}
+{"job": "Ugnsskötare, glas, keramik", "translation": "유리, 세라믹 화로 조작자"}
+{"job": "Ugnsuppsättare, keramik", "translation": "세라믹 화로 설치자"}
+{"job": "Värmare, glas", "translation": "유리용 가열 자"}
+{"job": "Flygplansmontör", "translation": "비행기 조립공"}
+{"job": "Fordonsmontör", "translation": "차량 조립공"}
+{"job": "Motorbyggare", "translation": "엔진 제작자"}
+{"job": "Motormontör", "translation": "모터 조립공"}
+{"job": "Avsynare, el-tele", "translation": "전기 통신 검사자"}
+{"job": "Avsynare, elkrafttekniska produkter", "translation": "전력기술 제품 검사자"}
+{"job": "Avsynare, elteknik", "translation": "전기 기술 검사자"}
+{"job": "Batteriarbetare/Ackumulatorarbetare", "translation": "배터리 작업자/첨단 축전기 작업자"}
+{"job": "Bredbandsinstallatör", "translation": "광대역 설치자"}
+{"job": "Elektronikmontör", "translation": "전자장비 조립공"}
+{"job": "Elmontör", "translation": "전선 조립공"}
+{"job": "Kabelmaskinoperatör", "translation": "전기 조립공"}
+{"job": "Kabelmontör, elkraft", "translation": "케이블 기계 조작자"}
+{"job": "Kretskortsmontör", "translation": "전력 케이블 조립공"}
+{"job": "Montör, el- och teleutrustning", "translation": "회로 기판 조립공"}
+{"job": "Montör, el- och teleutrustning", "translation": "몬터, 전기 및 통신장비"}
+{"job": "Solcellsinstallatör", "translation": "태양광 설치사"}
+{"job": "Solcellsmontör", "translation": "태양광 모터"}
+{"job": "Däckmontör/Däck- och hjulmekaniker", "translation": "타이어몬터/타이어 및 바퀴 메카닉"}
+{"job": "Montör, gummi- och plastprodukter", "translation": "몬터, 고무 및 플라스틱 제품"}
+{"job": "Montör, metallprodukter", "translation": "몬터, 금속제품"}
+{"job": "Persiennmontör", "translation": "블라인드몬터"}
+{"job": "Pumpmontör", "translation": "펌프몬터"}
+{"job": "Robotmontör", "translation": "로봇몬터"}
+{"job": "Solskyddsmontör", "translation": "선방몬터"}
+{"job": "Möbelmontör/Inredningsmontör", "translation": "가구몬터/인테리어몬터"}
+{"job": "Montör, träprodukter", "translation": "몬터, 목재제품"}
+{"job": "Braskaminmontör", "translation": "난로몬터"}
+{"job": "Mätartekniker VA", "translation": "계량기 기술자 VA"}
+{"job": "Montör, papp- och textilprodukter", "translation": "몬터, 종이 및 직물제품"}
+{"job": "Penselmakare", "translation": "붓제작자"}
+{"job": "Avplockare, keramikbränning", "translation": "클레이 화로 운반자"}
+{"job": "Gjutgodsrensare", "translation": "주조품 정리자"}
+{"job": "Handpaketerare", "translation": "수동포장원"}
+{"job": "Konverteringsarbetare, papper", "translation": "종이 변환 작업자"}
+{"job": "Packare", "translation": "포장원"}
+{"job": "Träullsarbetare", "translation": "목재섬유작업자"}
+{"job": "Uppslagare, gjuteri", "translation": "주조소 운반원"}
+{"job": "Varumärkare/Prismärkare", "translation": "브랜딩전문가/라벨링전문가"}
+{"job": "Badvaktmästare", "translation": "수영장 관리사"}
+{"job": "Bovärd/Fastighetsvärd/Husvärd", "translation": "관리인/부동산 관리인/주택 관리인"}
+{"job": "Driftchef, fastighet", "translation": "시설장관리자, 부동산"}
+{"job": "Fastighetsskötare/Fastighetsarbetare", "translation": "부동산관리원/시설운영자, 부동산"}
+{"job": "Fastighetstekniker/Drifttekniker, fastighet", "translation": "운동장 관리사/체육관 종사자"}
+{"job": "Idrottsplatsvaktmästare/Idrottsplatsarbetare", "translation": "차와파사기 관리사"}
+{"job": "Kapellvaktmästare", "translation": "종탑원"}
+{"job": "Klockare", "translation": "교회 관리사"}
+{"job": "Kyrkvaktmästare", "translation": "학교 관리사"}
+{"job": "Skolvaktmästare", "translation": "체육관 관리사"}
+{"job": "Sporthallsvaktmästare", "translation": "버스 메카닉"}
+{"job": "Bussmekaniker", "translation": "자전거 메카닉"}
+{"job": "Cykelmekaniker", "translation": "차량 기술자/자동차 메카닉/승용차 메카닉"}
+{"job": "Fordonstekniker/Bilmekaniker/Personbilsmekaniker", "translation": "트럭 메카닉"}
+{"job": "Lastbilsmekaniker", "translation": "해양 메카닉/해양기술자"}
+{"job": "Marinmekaniker/Marintekniker", "translation": "기계 메카닉/산림기계 메카닉"}
+{"job": "Maskinmekaniker/Skogsmaskinmekaniker", "translation": "모페드 메카닉"}
+{"job": "Mopedmekaniker", "translation": "오토바이 메카닉"}
+{"job": "Motorcykelmekaniker", "translation": "스페어파트 전문가/자동차 부품전문가"}
+{"job": "Reservdelsspecialist/Bildelsspecialist", "translation": "기계 서비스 기술자"}
+{"job": "Servicetekniker, maskin", "translation": "소형기계 메카닉"}
+{"job": "Småmaskinsmekaniker", "translation": "트레일러 수리공"}
+{"job": "Trailerreparatör", "translation": "트랙터 메카닉"}
+{"job": "Traktormekaniker", "translation": "트럭 수리공"}
+{"job": "Truckreparatör", "translation": "헬기', '전문 메카닉"}
+{"job": "Flygmekaniker", "translation": "비행기 정비공"}
+{"job": "Helikoptermekaniker", "translation": "헬기 메카닉"}
+{"job": "Fartygsreparatör", "translation": "선박 수리공"}
+{"job": "Hydraulmontör", "translation": "유압 조립공"}
+{"job": "Hydraulreparatör", "translation": "유압 수리공"}
+{"job": "Installationstekniker", "translation": "설비 기술자"}
+{"job": "Kranmontör", "translation": "크레인 조립공"}
+{"job": "Lokreparatör", "translation": "기관차 수리공"}
+{"job": "Maskinbyggare", "translation": "기계 설계자"}
+{"job": "Maskinmekaniker, industri/Maskinmekaniker, varvsindustri", "translation": "산업 기계기사/조선 기계 기사"}
+{"job": "Maskinmontör", "translation": "기계 조립공"}
+{"job": "Maskinreparatör", "translation": "기계 수리공"}
+{"job": "Maskinreparatör, stationära", "translation": "고정식 기계 수리공"}
+{"job": "Materialprovare", "translation": "재료 시험원"}
+{"job": "Motorelev, fartyg", "translation": "선박 엔진 인턴"}
+{"job": "Motorman, fartyg", "translation": "선박 엔진사"}
+{"job": "Pumpreparatör", "translation": "펌프 수리공"}
+{"job": "Resemontör, maskin", "translation": "기계 기사"}
+{"job": "Servicetekniker, tåg", "translation": "열차 서비스 기술자"}
+{"job": "Turbinmontör", "translation": "터빈 조립공"}
+{"job": "Turbinreparatör", "translation": "터빈 수리공"}
+{"job": "Underhållsmekaniker", "translation": "유지보수 기계공"}
+{"job": "Vagnreparatör, järnväg", "translation": "열차 수리공"}
+{"job": "Vindkraftstekniker", "translation": "풍력 발전기 기술자"}
+{"job": "Installationselektriker", "translation": "설비 전기기사"}
+{"job": "Lärling, installationselektriker", "translation": "전기 기술인 인턴"}
+{"job": "Ledande montör, el", "translation": "선도 설치공, 전기"}
+{"job": "Serviceelektriker, installation", "translation": "서비스 전기기사, 설비"}
+{"job": "Automationselektriker", "translation": "자동화 전기기사"}
+{"job": "Driftelektriker", "translation": "운전 전기기사"}
+{"job": "Elektromekaniker", "translation": "전기기계 기사"}
+{"job": "Elreparatör", "translation": "전기 수리공"}
+{"job": "Fabrikselektriker", "translation": "공장 전기기사"}
+{"job": "Fartygselektriker", "translation": "선박 전기기사"}
+{"job": "Flygplanselektriker", "translation": "비행기 전기기사"}
+{"job": "Fordonselektriker", "translation": "차량 전기기사"}
+{"job": "Hiss- och rulltrappstekniker", "translation": "승강기 및 에스컬레이터 기술자"}
+{"job": "Industrielektriker", "translation": "산업 전기기사"}
+{"job": "Lärling, hissmontör", "translation": "인턴, 승강장치 조립공"}
+{"job": "Lärling, industrielektriker", "translation": "인턴, 산업 전기기사"}
+{"job": "Maskinelektriker", "translation": "기계 전기기사"}
+{"job": "Verkstadselektriker", "translation": "작업장 전기기사"}
+{"job": "Distributionselektriker", "translation": "배전 전기기사"}
+{"job": "Eltekniker, järnväg/Kontaktledningsmontör", "translation": "철길 전기 기술인/접촉선 장치 조립공"}
+{"job": "Linjemontör, elkraft", "translation": "전선 설치공, 전력"}
+{"job": "Servicetekniker, elkraft", "translation": "전기 시스템 기술자"}
+{"job": "Ställverksmontör", "translation": "전력 설비 기술자"}
+{"job": "Stationstekniker, elkraft", "translation": "전자 수리공"}
+{"job": "Elektronikreparatör", "translation": "광섬유 기술자/광섬유 설치공"}
+{"job": "Hushållsmaskinreparatör/Vitvarureparatör", "translation": "가정용 기계 수리사/가전제품 수리사"}
+{"job": "Instrumentelektriker/Instrumenttekniker", "translation": "계측 전기 기술자/계측기술자"}
+{"job": "Kabeltekniker", "translation": "케이블 기술자"}
+{"job": "Kommunikationselektriker", "translation": "통신 전기 기술자"}
+{"job": "Larminstallatör/Larmtekniker", "translation": "경보 설치원/경보 기술자"}
+{"job": "Projektör, telekom", "translation": "통신 프로젝터"}
+{"job": "Servicetekniker, data", "translation": "데이터 서비스 기술자"}
+{"job": "Servicetekniker, elektronik", "translation": "전자 기기 수리사/전자제품 기술자"}
+{"job": "Servicetekniker, kontorsmaskiner", "translation": "사무기기 기술자"}
+{"job": "Signaltekniker", "translation": "신호 기술자"}
+{"job": "Styr- och reglertekniker", "translation": "제어 기술자"}
+{"job": "Symaskinsreparatör", "translation": "재봉기 수리사"}
+{"job": "Teletekniker", "translation": "통신 기술자"}
+{"job": "TV-tekniker/Hemelektroniktekniker", "translation": "TV 기술자/가전 제품 기술자"}
+{"job": "Ångmaskinist", "translation": "증기기사"}
+{"job": "Ångpanneeldare", "translation": "증기 보일러 운전원"}
+{"job": "Arbetsledare, elkraft", "translation": "전력 공장 관리자"}
+{"job": "Driftmaskinist, värmeverk", "translation": "열 발전 설비 조작원"}
+{"job": "Drifttekniker reningsverk VA", "translation": "하수처리 시설 운전 기술자"}
+{"job": "Drifttekniker vattenverk VA", "translation": "정수시설 운전 기술자"}
+{"job": "Drifttekniker, förbränningsstation", "translation": "소각 장치 운전 기술자"}
+{"job": "Drifttekniker, kraftvärmeverk", "translation": "열 발전 시설 기술자"}
+{"job": "Drifttekniker, värmeverk", "translation": "열 발전 설비 기술자"}
+{"job": "Eldare", "translation": "연료 공장 운전원"}
+{"job": "Kraftstationsmaskinist", "translation": "발전소 기계 조작원"}
+{"job": "Kraftverksoperatör", "translation": "발전소 운전원"}
+{"job": "Kylmaskinist, kyl- och frysanläggning", "translation": "냉동기 운전원"}
+{"job": "Maskinist, energi", "translation": "에너지 기계 조작원"}
+{"job": "Maskinmästare", "translation": "기계장교"}
+{"job": "Stationsmontör", "translation": "변전기 설치원"}
+{"job": "Processoperatör, bioraffinaderi", "translation": "바이오연료 가공 시설 공정 조작원"}
+{"job": "Processoperatör, kemisk industri", "translation": "화학 공장 공정 조작원"}
+{"job": "Processoperatör, smältverk", "translation": "소강공장 공정 조작원"}
+{"job": "Processoperatör, stålindustri", "translation": "철강 공정 조작원"}
+{"job": "Processövervakare, metallproduktion", "translation": "금속 가공 공정 감독원"}
+{"job": "Smältare/Smältverksoperatör", "translation": "금속 소강공장 운전원"}
+{"job": "Ugnsoperatör", "translation": "가열로 운전원"}
+{"job": "Industrirobotoperatör", "translation": "산업 로봇 조작원"}
+{"job": "Robotoperatör", "translation": "로봇 조작원"}
+{"job": "Biografvärd/Biografvaktmästare", "translation": "극장 호실 관리원/극장 관리원"}
+{"job": "Garderobiär/Garderobvaktmästare", "translation": "현관 관리원/현관 관리원"}
+{"job": "Hotellvaktmästare/Piccolo", "translation": "호텔 관리원/피콜로"}
+{"job": "Kontorsvaktmästare", "translation": "사무실 관리원"}
+{"job": "Sjukhusvaktmästare", "translation": "병원 관리원"}
+{"job": "Affischör/Affischuppsättare", "translation": "광고 포스터 설치원"}
+{"job": "Attraktionsförare", "translation": "놀이 기구 조작원"}
+{"job": "Auktionsbiträde", "translation": "경매 보조원"}
+{"job": "Automatskötare", "translation": "자동판매기 운전원"}
+{"job": "Diversearbetare", "translation": "기타 종사자"}
+{"job": "Kundvagnsuppsamlare", "translation": "수거 카트 돌보미"}
+{"job": "Publikvärd", "translation": "관중 안내원"}
+{"job": "Sandwichman", "translation": "샌드위치 만"}
+{"job": "Skidliftvärd", "translation": "스키 승객"}
+{"job": "Snöläggare", "translation": "눈 못 잃는 사람"}
+{"job": "Tågvarnare", "translation": "기차 순찰관"}
+{"job": "Tivoliarbetare/Nöjesparksarbetare", "translation": "놀이 동산 근로자"}
+{"job": "Väderobservatör", "translation": "기상 관측원"}
+{"job": "Barberare", "translation": "이발사"}
+{"job": "Damfrisör", "translation": "여자 미용사"}
+{"job": "Frisör", "translation": "미용사"}
+{"job": "Frisöraspirant", "translation": "미용사 수습생"}
+{"job": "Herrfrisör", "translation": "남자 미용사"}
+{"job": "Peruk- och tupéfrisör", "translation": "가발과 투구 미용사"}
+{"job": "Perukmakare", "translation": "가발제작자"}
+{"job": "Ekologisk hudvårdsterapeut", "translation": "유기농 피부관리 전문가"}
+{"job": "Hudterapeut", "translation": "피부관리사"}
+{"job": "Massör/Massageterapeut", "translation": "마사지사"}
+{"job": "Medicinsk fotterapeut", "translation": "의학 발사례 전문가"}
+{"job": "Fransstylist/Frans- och brynstylist", "translation": "속눈썹 및 눈썹 스타일리스트"}
+{"job": "Make-up artist/MUA", "translation": "메이크업 아티스트"}
+{"job": "Manikyrist/Manikurist", "translation": "네일 아티스트"}
+{"job": "Maskör", "translation": "마사지사"}
+{"job": "Nagelterapeut/Nagelteknolog", "translation": "속눈썹 및 눈썹 스타일리스트"}
+{"job": "Pedikyrist/Pedikurist", "translation": "스파 치료사"}
+{"job": "Piercare", "translation": "스타일리스트"}
+{"job": "Sminkör", "translation": "타투이스트"}
+{"job": "Spa-terapeut", "translation": "디자이너"}
+{"job": "Stylist", "translation": "산업 디자이너"}
+{"job": "Tatuerare", "translation": "아트 디렉터"}
+{"job": "Formgivare", "translation": "그래픽 디자이너"}
+{"job": "Industridesigner", "translation": "레이아웃 디자이너"}
+{"job": "Art Director/AD", "translation": "레이아웃 책임자"}
+{"job": "Grafisk formgivare", "translation": "레이아웃 작가"}
+{"job": "Layoutare", "translation": "오리지널 작가"}
+{"job": "Layoutchef", "translation": "오리지널 작가"}
+{"job": "Layouttecknare", "translation": "광고 디자이너"}
+{"job": "Originalare/Final Art", "translation": "광고 각본가"}
+{"job": "Originaltecknare", "translation": "2D 아티스트"}
+{"job": "Reklamdesigner", "translation": "3D 아티스트"}
+{"job": "Reklamtextare", "translation": "애니메이터"}
+{"job": "2D artist/2D-grafiker", "translation": "캐릭터 아티스트"}
+{"job": "3D artist/3D-grafiker", "translation": "컨셉 아티스트"}
+{"job": "Animator/Animatör", "translation": "환경 아티스트"}
+{"job": "Character artist", "translation": "게임 디자이너"}
+{"job": "Concept artist", "translation": "레벨 디자이너"}
+{"job": "Environment artist", "translation": "게임 테스터"}
+{"job": "Game designer/Speldesigner", "translation": "기술 아티스트"}
+{"job": "UI-designer", "translation": "UI 디자이너"}
+{"job": "Webbdesigner", "translation": "웹 디자이너"}
+{"job": "Creative director/CD", "translation": "크리에이티브 디렉터/CD"}
+{"job": "Designassistent", "translation": "디자인 어시스턴트"}
+{"job": "Designer", "translation": "디자이너"}
+{"job": "Kostymdesigner/Kostymtecknare", "translation": "의상 디자이너/의상 기획자"}
+{"job": "Kostymör", "translation": "의상 제작자"}
+{"job": "Lästmodellör", "translation": "래퍼런스 조각본 제작자"}
+{"job": "Antikvarie", "translation": "고고학자"}
+{"job": "Bebyggelseantikvarie", "translation": "건축 고고학자"}
+{"job": "Curator", "translation": "페미니즘운동가"}
+{"job": "Konstintendent", "translation": "미술관 학예사"}
+{"job": "Konstkonsult", "translation": "미술 문화 컨설턴트"}
+{"job": "Länsantikvarie/1:e antikvarie", "translation": "지역 고고학자/1급 고고학자"}
+{"job": "Museiintendent", "translation": "박물관 학예사"}
+{"job": "Arkivarie", "translation": "기록학자"}
+{"job": "Bibliotekarie", "translation": "도서관 사서"}
+{"job": "Bibliotekskonsulent", "translation": "도서관 컨설턴트"}
+{"job": "Bildarkivarie", "translation": "이미지 아카이브 교육자"}
+{"job": "Dokumentalist", "translation": "문헌정보전문가"}
+{"job": "Filmarkivarie", "translation": "영상 자료관리 전문가"}
+{"job": "Informatiker", "translation": "정보과학자"}
+{"job": "Informationsarkitekt", "translation": "정보구조 설계자"}
+{"job": "Informationsmäklare", "translation": "정보 중개자"}
+{"job": "Informationsspecialist", "translation": "정보 전문가"}
+{"job": "Krigsarkivarie", "translation": "전쟁사 자료 관리자"}
+{"job": "Musikbibliotekarie", "translation": "음악 도서 관리자"}
+{"job": "Skolbibliotekarie", "translation": "학교 도서 관리자"}
+{"job": "Dramatiker", "translation": "극작가"}
+{"job": "Dramaturg", "translation": "드라마트루그"}
+{"job": "Författare", "translation": "작가"}
+{"job": "Förlagsredaktör", "translation": "출판 편집자"}
+{"job": "Korsordsmakare/Korsordskonstruktör", "translation": "크로스워드 퍼즐 작가"}
+{"job": "Manusförfattare", "translation": "각본 작가"}
+{"job": "Redigerare", "translation": "편집자"}
+{"job": "Teknisk redaktör", "translation": "기술 편집자"}
+{"job": "Bildredaktör", "translation": "이미지 편집자"}
+{"job": "Efterbearbetningsredaktör", "translation": "후편집 편집자"}
+{"job": "Journalist/Reporter", "translation": "기자/리포터"}
+{"job": "Nattchef, redaktion", "translation": "야간 편집장"}
+{"job": "Recensent", "translation": "비평가"}
+{"job": "Redaktionssekreterare", "translation": "지킴이 편집자"}
+{"job": "Redaktör", "translation": "편집자"}
+{"job": "Teknisk skribent/Teknikinformatör", "translation": "기술 작가/기술 정보 전문가"}
+{"job": "Videojournalist/Videoreporter", "translation": "비디오저널리스트/비디오 리포터"}
+{"job": "Webbredaktör", "translation": "웹 편집자"}
+{"job": "Forskare, språk", "translation": "언어 연구자"}
+{"job": "Konferenstolk", "translation": "회의 통역사"}
+{"job": "Kontakttolk/Dialogtolk", "translation": "접촉 통역사/대화 통역사"}
+{"job": "Lexikograf", "translation": "어휘학자"}
+{"job": "Lingvist", "translation": "언어학자"}
+{"job": "Lokaliserare", "translation": "현지화전문가"}
+{"job": "Mediatextare", "translation": "미디어작가"}
+{"job": "Översättare", "translation": "번역가"}
+{"job": "Rättstolk", "translation": "법륜통역사"}
+{"job": "Sjukvårdstolk", "translation": "의료통역사"}
+{"job": "Skrivtolk/Vuxendövtolk", "translation": "글쓰기통역가/성인치맹통역사"}
+{"job": "Språkkonsult", "translation": "언어컨설턴트"}
+{"job": "Språkteknolog", "translation": "언어기술자"}
+{"job": "Syntolk", "translation": "음악해설사"}
+{"job": "Taltjänsttolk", "translation": "음성통역가"}
+{"job": "Teckenspråkstolk/Dövblindtolk", "translation": "수화통역가/청각장애인용통역사"}
+{"job": "Terminolog", "translation": "용어학자"}
+{"job": "Tolk", "translation": "통역가"}
+{"job": "Illustratör", "translation": "일러스트레이터"}
+{"job": "Konservator", "translation": "보존가"}
+{"job": "Konstnär", "translation": "예술가"}
+{"job": "Konstsmed", "translation": "철가닥장"}
+{"job": "Möbelrenoverare/Möbelrestauratör", "translation": "가구복원가/가구복구가"}
+{"job": "Preparator/Taxidermist", "translation": "붕괴가/성체보존가"}
+{"job": "Serietecknare", "translation": "만화가"}
+{"job": "Skulptör", "translation": "조각가"}
+{"job": "Textilkonstnär", "translation": "섬유미술가"}
+{"job": "Arrangör, musik", "translation": "음악행사기획자"}
+{"job": "Dirigent", "translation": "지휘자"}
+{"job": "Kantor/Kyrkomusiker", "translation": "교회음악가"}
+{"job": "Kapellmästare", "translation": "관현악단지휘자"}
+{"job": "Kompositör", "translation": "작곡가"}
+{"job": "Konsertmästare", "translation": "연주단지휘자"}
+{"job": "Kördirigent", "translation": "합창단지휘자"}
+{"job": "Körledare", "translation": "합창단지도자"}
+{"job": "Musiker", "translation": "음악가"}
+{"job": "Notskrivare", "translation": "악보작가"}
+{"job": "Organist", "translation": "오르간연주자"}
+{"job": "Orkesterledare", "translation": "관현악단지휘자"}
+{"job": "Repetitör, musik", "translation": "음악리허설지휘자"}
+{"job": "Sångare", "translation": "가수"}
+{"job": "Tonsättare", "translation": "작곡가"}
+{"job": "Balettmästare", "translation": "발레단지휘자"}
+{"job": "Dansare", "translation": "무용수"}
+{"job": "Koreograf", "translation": "안무가"}
+{"job": "Koreolog", "translation": "무용연구가"}
+{"job": "Repetitör, dans", "translation": "무용리허설지휘자"}
+{"job": "Repetitör, opera", "translation": "오페라리허설지휘자"}
+{"job": "Casting Director/Castare/Rollsättare", "translation": "캐스팅디렉터/캐스터/캐스팅코디네이터"}
+{"job": "Koordinator: kultur, media, film, scen, dataspel", "translation": "코디네이터: 문화, 미디어, 영화, 무대, 게임"}
+{"job": "Linjeproducent", "translation": "라인프로듀서"}
+{"job": "Producent: kultur, media, film, scen, dataspel", "translation": "프로듀서: 문화, 미디어, 영화, 무대, 게임"}
+{"job": "Produktionsledare: kultur, media, film, scen", "translation": "제작진행자: 문화, 미디어, 영화, 무대"}
+{"job": "Produktionsplanerare: kultur, media, film, scen", "translation": "제작계획자: 문화, 미디어, 영화, 무대"}
+{"job": "Projektledare: kultur, media, film, scen", "translation": "프로젝트 매니저: 문화, 미디어, 영화, 무대"}
+{"job": "Regissör", "translation": "감독"}
+{"job": "Clown", "translation": "광대"}
+{"job": "Dockspelare", "translation": "인형 연기자"}
+{"job": "Mimare", "translation": "마임 배우"}
+{"job": "Mimskådespelare", "translation": "마임 연기자"}
+{"job": "Musikalartist", "translation": "뮤지컬 아티스트"}
+{"job": "Skådespelare", "translation": "배우"}
+{"job": "B-fotograf/Focus puller", "translation": "제 2 카메라/포커스 풀러"}
+{"job": "Director of photography/DoP/Filmfotograf", "translation": "촬영 감독/DoP/영상 감독"}
+{"job": "Fotograf", "translation": "사진 작가"}
+{"job": "Fotografassistent", "translation": "사진 작가 비조"}
+{"job": "TV-fotograf", "translation": "TV 카메라맨"}
+{"job": "Butikskommunikatör/Visual merchandiser", "translation": "매장 커뮤니케이터/비주얼 상품 전시 디자이너"}
+{"job": "Dekorationsmålare, bygg", "translation": "장식화가, 건설"}
+{"job": "Dekorationsmålare, skyltning", "translation": "장식화가, 표시"}
+{"job": "Dekormålare", "translation": "장식 화가"}
+{"job": "Inredningsdesigner", "translation": "인테리어 디자이너"}
+{"job": "Köksarkitekt", "translation": "주방 설계자"}
+{"job": "Produktionsdesigner/Production designer", "translation": "제작 디자이너/프로덕션 디자이너"}
+{"job": "Scenograf", "translation": "무대 디자이너"}
+{"job": "Scenografassistent", "translation": "무대 디자이너 비조"}
+{"job": "Attributör", "translation": "소품 담당자"}
+{"job": "First assistant director/FAD", "translation": "1차 조감독/FAD"}
+{"job": "Inspelningsassistent", "translation": "녹화비조"}
+{"job": "Inspelningsledare", "translation": "녹화 리더"}
+{"job": "Inspicient", "translation": "화보"}
+{"job": "Intimitetskoordinator", "translation": "침영 코디네이터"}
+{"job": "Location scout/Platsletare, film", "translation": "촬영지 선발/촬영지 선별자, 영화"}
+{"job": "Platschef, film/Platschef, TV", "translation": "촬영지 책임자, 영화/촬영지 책임자, TV"}
+{"job": "Produktionsassistent, kultur", "translation": "제작 보조, 문화"}
+{"job": "Produktionsteknisk samordnare", "translation": "제작 기술 조정자"}
+{"job": "Programsekreterare", "translation": "프로그램 비서"}
+{"job": "Regiassistent", "translation": "감독 보조"}
+{"job": "Rekvisitör", "translation": "소품 담당자"}
+{"job": "Rekvisitörsassistent", "translation": "소품 담당자 비조"}
+{"job": "Scripta", "translation": "대본 작가"}
+{"job": "Second assistant director/SAD", "translation": "2차 조감독/SAD"}
+{"job": "Studioman", "translation": "스튜디오 매니저"}
+{"job": "Stuntkoordinator", "translation": "스턴트 코디네이터"}
+{"job": "Sufflör", "translation": "연극표"}
+{"job": "Teknisk produktionsledare", "translation": "기술 제작 리더"}
+{"job": "Third assistant director/TAD", "translation": "3차 조감독/TAD"}
+{"job": "Akrobat", "translation": "아크로바트"}
+{"job": "Cirkusartist", "translation": "서커스 아티스트"}
+{"job": "Discjockey", "translation": "디스크 조커"}
+{"job": "Fakir", "translation": "피커"}
+{"job": "Illusionist", "translation": "일루전리스트"}
+{"job": "Imitatör", "translation": "모방자"}
+{"job": "Inläsare", "translation": "인터넷 방송자"}
+{"job": "Jonglör", "translation": "쥐놀이사"}
+{"job": "Konferencier", "translation": "회의사회자"}
+{"job": "Lindansare", "translation": "타이트로프 춤사공"}
+{"job": "Moderator", "translation": "중재자"}
+{"job": "Programledare", "translation": "프로그램 진행자"}
+{"job": "Programpresentatör", "translation": "프로그램 사회자"}
+{"job": "Programvärd/Programvärdinna", "translation": "프로그램의 주인/주인부인"}
+{"job": "Showartist", "translation": "쇼 아티스트"}
+{"job": "Stand-up-komiker", "translation": "스탠드업 코미디언"}
+{"job": "Statist", "translation": "엑스트라"}
+{"job": "Stuntman", "translation": "스턴트맨"}
+{"job": "Trapetskonstnär", "translation": "트래피즈 예술가"}
+{"job": "Trollkarl", "translation": "마법사"}
+{"job": "Varietéartist", "translation": "바리에티 예술가"}
+{"job": "Animationsoperatör", "translation": "애니메이션 테크니션"}
+{"job": "Bildingenjör/BING, film/BING, TV", "translation": "이미지 엔지니어/BING, 영화/BING, TV"}
+{"job": "Bildmixer", "translation": "비디오미커"}
+{"job": "Bildproducent", "translation": "비디오 프로듀서"}
+{"job": "Biografmaskinist", "translation": "영화 상영사 조작원"}
+{"job": "Colorist", "translation": "컬러리스트"}
+{"job": "Digital Imaging Technician/DIT/Loggare", "translation": "디지털 이미징 테크니션/DIT/로그기사"}
+{"job": "Filmklippare", "translation": "편집자"}
+{"job": "Filmtekniker", "translation": "영상 기술자"}
+{"job": "Inspelningstekniker", "translation": "녹화 기술자"}
+{"job": "Kameraassistent", "translation": "카메라 어시스턴트"}
+{"job": "Klippassistent", "translation": "편집 어시스턴트"}
+{"job": "OB-assistent", "translation": "OB 어시스턴트"}
+{"job": "OB-tekniker", "translation": "OB 기술자"}
+{"job": "Redigerare, rörlig bild", "translation": "영상 편집가"}
+{"job": "Sändningstekniker", "translation": "송출 기술자"}
+{"job": "Scannertekniker/Scanneroperatör", "translation": "스캐너 테크니션/스캐너 조작원"}
+{"job": "Special Effects Artist/SFX Artist", "translation": "스페셜 이펙트 아티스트/특수 효과 아티스트"}
+{"job": "Studiotekniker", "translation": "스튜디오 기술자"}
+{"job": "Technical Operation Manager/TOM", "translation": "기술 운영 관리자/TOM"}
+{"job": "Videotekniker/VB-tekniker", "translation": "비디오 기술자/VB 기술자"}
+{"job": "Visual Effects Artist/VFX Artist", "translation": "비주얼 이펙트 아티스트/VFX 아티스트"}
+{"job": "AV-tekniker", "translation": "AV 기술자"}
+{"job": "Belysningsmästare", "translation": "조명 마스터"}
+{"job": "Belysningstekniker, scen", "translation": "무대 조명 기술자"}
+{"job": "Elektriker, film/Elektriker, TV", "translation": "영화 전기기사/TV 전기기사"}
+{"job": "Elektrikerassistent, film/Elektrikerassistent, TV", "translation": "영화 전기조수/TV 전기조수"}
+{"job": "Eventtekniker", "translation": "이벤트 기술자"}
+{"job": "Filmpassare", "translation": "필름 조업원"}
+{"job": "Konferenstekniker", "translation": "회의 기술자"}
+{"job": "Kopplingstekniker", "translation": "연결 기술자"}
+{"job": "Ljudassistent", "translation": "음향 어시스턴트"}
+{"job": "Ljuddesigner", "translation": "사운드 디자이너"}
+{"job": "Ljudingenjör", "translation": "사운드 엔지니어"}
+{"job": "Ljudmixeroperatör", "translation": "믹싱 사운드 오퍼레이터"}
+{"job": "Ljudtekniker", "translation": "사운드 테크니션"}
+{"job": "Ljusbordsoperatör", "translation": "빛판 조작원"}
+{"job": "Ljusdesigner", "translation": "조명디자이너"}
+{"job": "Ljussättare", "translation": "조명설치원"}
+{"job": "Ljustekniker", "translation": "조명기술자"}
+{"job": "Museitekniker", "translation": "박물관기술자"}
+{"job": "Musiktekniker", "translation": "음악기술자"}
+{"job": "Operatör, scenmaskineri", "translation": "무대 기계 조작원"}
+{"job": "Scenförman", "translation": "무대마스터"}
+{"job": "Scenmästare", "translation": "무대마스터"}
+{"job": "Teatertekniker/Scentekniker", "translation": "연극 기술자/무대 기술자"}
+{"job": "Turnétekniker", "translation": "투어 기술자"}
+{"job": "Officer", "translation": "장교"}
+{"job": "Specialistofficer", "translation": "전문 장교"}
+{"job": "Soldat/Sjöman", "translation": "병사/해병"}
+{"job": "Agronom", "translation": "농학자"}
+{"job": "Fiskeriintendent", "translation": "수산관리기술자"}
+{"job": "Fiskerikonsulent", "translation": "수산자문원"}
+{"job": "Forskare, agronomi", "translation": "농학 연구원"}
+{"job": "Forskare, jordbruk", "translation": "농업 연구원"}
+{"job": "Forskare, trädgårdsvetenskap", "translation": "원예과학 연구원"}
+{"job": "Forskningsassistent, agronomi", "translation": "농학 연구 조수"}
+{"job": "Fruktodlingsrådgivare/Fruktodlingskonsulent", "translation": "과수재배 조언가/과수재배 자문가"}
+{"job": "Hortonom", "translation": "정원디자이너"}
+{"job": "Husdjursrådgivare/Husdjurskonsulent", "translation": "가축자문가/가축자문사"}
+{"job": "Jordbruksrådgivare/Jordbrukskonsulent", "translation": "농업자문가/농업자문사"}
+{"job": "Landsbygdsutvecklare", "translation": "지역개발자"}
+{"job": "Landskapsingenjör", "translation": "풍경건축가"}
+{"job": "Lantbruksekonom", "translation": "농업경제학자"}
+{"job": "Lantbruksinspektor", "translation": "농업감독관"}
+{"job": "Lantbruksrådgivare/Lantbrukskonsulent", "translation": "농업자문가/농업자문사"}
+{"job": "Lantmästare", "translation": "농장주"}
+{"job": "Maskinrådgivare/Maskinkonsulent", "translation": "기계 자문가/기계 자문사"}
+{"job": "Naturförvaltare", "translation": "자연보존가"}
+{"job": "Parkförvaltare", "translation": "공원관리자"}
+{"job": "Trädgårdsingenjör/Trädgårdstekniker", "translation": "원예기술자/원예기술원"}
+{"job": "Trädgårdsrådgivare/Trädgårdskonsulent", "translation": "원예자문가/원예자문사"}
+{"job": "Växtodlingsrådgivare/Växtodlingskonsulent", "translation": "작물재배 자문가/작물재배 자문사"}
+{"job": "Växtskyddsspecialist", "translation": "작물보호전문가"}
+{"job": "Avverkningsledare, skogsbruk", "translation": "임산물 조립지도자, 삼림관리"}
+{"job": "Forskare, skogsbruk", "translation": "숲업 연구원"}
+{"job": "Jaktkonsulent/Viltkonsulent", "translation": "사냥자문가/야생동물 자문가"}
+{"job": "Jaktvårdare/Viltvårdare", "translation": "사냥관리자/야생동물관리자"}
+{"job": "Jaktvårdskonsulent/Jaktvårdsrådgivare", "translation": "사냥관리 자문가/사냥자문사"}
+{"job": "Skogsbruksrådgivare", "translation": "산림자문가"}
+{"job": "Skogsinspektor", "translation": "산림감독관"}
+{"job": "Skogskonsulent/Skogsvårdskonsulent", "translation": "산림자문가/산림관리자"}
+{"job": "Skogsplanläggare", "translation": "산림기획자"}
+{"job": "Viltmästare", "translation": "야생동물 관리자"}
+{"job": "Virkesköpare/Virkesinköpare", "translation": "목재구매원/목재구매자"}
+{"job": "Yrkesjägare", "translation": "전문 사냥꾼"}
+{"job": "Avbytare, lantbruk", "translation": "대리인, 농업"}
+{"job": "Bärodlare", "translation": "과수원 주인"}
+{"job": "Driftchef, lantbruk", "translation": "운영 책임자, 농업"}
+{"job": "Driftledare, lantbruk", "translation": "운영자, 농업"}
+{"job": "Fruktodlare", "translation": "과수원 소유자"}
+{"job": "Gårdsmästare, växtodling/Rättare, växtodling", "translation": "농장 주인, 작물 재배/작물 재배"}
+{"job": "Grönsaksodlare", "translation": "야채 재배자"}
+{"job": "Grönsaksodling, förman", "translation": "야채 재배, 주임"}
+{"job": "Lantbrukare, växtodling", "translation": "농사인, 작물 재배"}
+{"job": "Växthusodling, förman", "translation": "온실 재배, 주임"}
+{"job": "Vinodlare", "translation": "포도 재배자"}
+{"job": "Blomsterodlare", "translation": "꽃 재배자"}
+{"job": "Driftchef, trädgård", "translation": "운영 책임자, 정원"}
+{"job": "Plantskolechef", "translation": "육성원장"}
+{"job": "Prydnadsväxtodlare", "translation": "장식 식물 재배자"}
+{"job": "Trädgårdsarbetare", "translation": "정원 일꾼"}
+{"job": "Trädgårdsförman", "translation": "정원 주임"}
+{"job": "Trädgårdsmästare, odling", "translation": "재배 담당자, 정원"}
+{"job": "Arbetsledare, trädgård/Trädgårdsanläggningsförman", "translation": "작업 책임자, 정원/정원 조경 주임"}
+{"job": "Arborist/Trädvårdare", "translation": "수목의사/수목 관리자"}
+{"job": "Golfbanearbetare", "translation": "골프장 근로자"}
+{"job": "Greenkeeper", "translation": "그린키퍼"}
+{"job": "Kyrkogårdsarbetare/Griftegårdsarbetare", "translation": "묘지 근로자/납골당 근로자"}
+{"job": "Kyrkogårdsföreståndare", "translation": "묘지 관리자"}
+{"job": "Parkarbetare/Utemiljöarbetare/Miljövärd", "translation": "공원 근로자/야외 환경 근로자/환경 담당자"}
+{"job": "Parkförman", "translation": "공원 주임"}
+{"job": "Trädgårdsanläggare/Trädgårdsanläggningsarbetare", "translation": "정원 조립자/정원 조립 근로자"}
+{"job": "Trädgårdsmästare, anläggning", "translation": "권속자, 가축 사육"}
+{"job": "Arrendator, djuruppfödning", "translation": "동물 관리자, 가축 사육"}
+{"job": "Djurskötare, djuruppfödning", "translation": "양 구조자, 양"}
+{"job": "Djurskötare, får", "translation": "가금 관리자, 가금"}
+{"job": "Djurskötare, fjäderfä", "translation": "돼지 관리자, 돼지"}
+{"job": "Djurskötare, gris", "translation": "말용 동물 관리자, 말"}
+{"job": "Djurskötare, häst", "translation": "우유 우유 관리자"}
+{"job": "Djurskötare, mjölk", "translation": "말굽 장인"}
+{"job": "Hovslagare", "translation": "애완 동물 기술자"}
+{"job": "Husdjurstekniker", "translation": "아침재 우유 관리자/아침재 우유 주임, 가축 사육"}
+{"job": "Ladugårdsföreståndare/Ladugårdsförman, djuruppfödning", "translation": "농장 주인, 가축 사육"}
+{"job": "Lantbrukare, djuruppfödning", "translation": "마구간 책임자/마구간 주임"}
+{"job": "Stallchef/Stallförman", "translation": "마구간 근로자"}
+{"job": "Stuteriarbetare", "translation": "개 트레이너"}
+{"job": "Hunddressör", "translation": "개 우편물 관리자"}
+{"job": "Hundgårdsförman", "translation": "개 심리학자"}
+{"job": "Hundpsykolog", "translation": "개 돌보기/개 돌봄사"}
+{"job": "Hundskötare/Hundvårdare", "translation": "개 미용사"}
+{"job": "Hundtrimmare", "translation": "견종 사육인"}
+{"job": "Hunduppfödare", "translation": "사육장 관리자"}
+{"job": "Kennelföreståndare", "translation": "소동물 관리자"}
+{"job": "Smådjursskötare", "translation": "꿀 차기자/벌 관리자"}
+{"job": "Djurskötare, djurpark", "translation": "동물 돌보는 사람, 동물원"}
+{"job": "Djurvårdare", "translation": "동물 보호사"}
+{"job": "Försöksdjurskötare/Försöksdjurstekniker", "translation": "실험동물 돌보는 사람/실험동물 기술자"}
+{"job": "Pälsdjursskötare", "translation": "털동물 돌보는 사람"}
+{"job": "Pälsdjursuppfödare", "translation": "털동물 사육가"}
+{"job": "Arrendator, blandad drift", "translation": "임차인, 혼합 경영"}
+{"job": "Gårdsmästare, blandad drift/Rättare, blandad drift", "translation": "농장주, 혼합 경영"}
+{"job": "Ladugårdsförman, blandad drift", "translation": "아들국반장, 혼합 경영"}
+{"job": "Ladugårdsskötare, blandad drift", "translation": "아들방 관리자, 혼합 경영"}
+{"job": "Lantbrukare, blandad drift", "translation": "농부, 혼합 경영"}
+{"job": "Lantbruksförman, blandad drift", "translation": "농업 간부, 혼합 경영"}
+{"job": "Arbetsledare, skogsbruk", "translation": "작업 지도자, 산림 관리"}
+{"job": "Kontrollmätare, virke", "translation": "제어계량사, 목재"}
+{"job": "Mätningschef, virkesmätning", "translation": "측정 책임자, 목재 측정"}
+{"job": "Naturvårdare", "translation": "자연 보존가"}
+{"job": "Skogsarbetare, motormanuell avverkning", "translation": "산림 노동자, 인간 그루터기 제거"}
+{"job": "Skogsarbetare, plantering", "translation": "산림 노동자, 심기"}
+{"job": "Skogsarbetare, röjning", "translation": "산림 노동자, 제거"}
+{"job": "Virkesmätare", "translation": "목재 계량가"}
+{"job": "Fiskodlare", "translation": "양어가"}
+{"job": "Fiskodlingsarbetare", "translation": "양어 노동자"}
+{"job": "Vattenbrukare", "translation": "수산가"}
+{"job": "Vattenbrukstekniker", "translation": "수산기술자"}
+{"job": "Fiskare", "translation": "어부"}
+{"job": "Fiskeskeppare", "translation": "어선장"}
+{"job": "Maskinförare, lantbruk/Traktorförare, lantbruk", "translation": "기계 조종사, 농업/트랙터 조종사, 농업"}
+{"job": "Skogsmaskinförare", "translation": "산림 기계 조종사"}
+{"job": "Skördarförare, skogsbruk", "translation": "수확기 조종사, 산림 관리"}
+{"job": "Skotarförare, skogsbruk", "translation": "트랙터 조종사, 산림 관리"}
+{"job": "Äggplockare", "translation": "달걧 수확가"}
+{"job": "Bärplockare", "translation": "꽃과일 수확가"}
+{"job": "Plantör", "translation": "실링 노동자"}
+{"job": "Plantskolearbetare, skog", "translation": "숲육가해 공장 노동자, 산림"}
+{"job": "Skördearbetare", "translation": "수확가"}
+{"job": "Växtskötare", "translation": "식물 돌보는 사람"}
+{"job": "Astronom", "translation": "천문학자"}
+{"job": "Atomfysiker", "translation": "원자물리학자"}
+{"job": "Forensiker, fysiker", "translation": "수치 사법 물리학자"}
+{"job": "Fysiker", "translation": "물리학자"}
+{"job": "Kärnfysiker", "translation": "원자핵물리학자"}
+{"job": "Partikelfysiker", "translation": "입자물리학자"}
+{"job": "Plasmafysiker", "translation": "플라즈마 물리학자"}
+{"job": "Radiofysiker", "translation": "라디오 물리학자"}
+{"job": "Sjukhusfysiker", "translation": "병원 물리학자"}
+{"job": "Strålningsfysiker", "translation": "방사능 물리학자"}
+{"job": "Försvarsmeteorolog", "translation": "군사 기상학자"}
+{"job": "Marinmeteorolog", "translation": "해양 기상학자"}
+{"job": "Meteorolog", "translation": "기상학자"}
+{"job": "Prognosmeteorolog", "translation": "예보기상학자"}
+{"job": "Analytisk kemist", "translation": "분석 화학자"}
+{"job": "Biokemist", "translation": "생화학자"}
+{"job": "Forensiker, kemist", "translation": "법의학자, 화학가"}
+{"job": "Kemist", "translation": "화학가"}
+{"job": "Materialkemist", "translation": "재료화학자"}
+{"job": "Miljökemist", "translation": "환경화학자"}
+{"job": "Oorganisk kemist", "translation": "무기 화학자"}
+{"job": "Organisk kemist", "translation": "유기 화학자"}
+{"job": "Processkemist", "translation": "공정 화학자"}
+{"job": "Sjukhuskemist", "translation": "병원 화학자"}
+{"job": "Strukturkemist", "translation": "구조 화학자"}
+{"job": "Ytkemist", "translation": "표면 화학자"}
+{"job": "Berggrundsgeolog", "translation": "암석 지질학자"}
+{"job": "Geofysiker", "translation": "지구물리학자"}
+{"job": "Geokemist", "translation": "지화학자"}
+{"job": "Geolog", "translation": "지질학자"}
+{"job": "Gruvgeolog", "translation": "광산 지질학자"}
+{"job": "Hydrogeolog", "translation": "수리 지질학자"}
+{"job": "Hydrolog", "translation": "수문학자"}
+{"job": "Kvartärgeolog", "translation": "제 4기 지질학자"}
+{"job": "Oceanograf", "translation": "해양학자"}
+{"job": "Paleontolog", "translation": "화석학자"}
+{"job": "Seismolog", "translation": "지진학자"}
+{"job": "Aktuarie/Försäkringsaktuarie/Försäkringsmatematiker", "translation": "사정학가/보험가격 계산 학자/보험 수학자"}
+{"job": "Matematiker", "translation": "수학자"}
+{"job": "Bakteriolog", "translation": "세균학자"}
+{"job": "Bioinformatiker", "translation": "생물정보학자"}
+{"job": "Biolog", "translation": "생물학자"}
+{"job": "Civilingenjör, bioteknik", "translation": "생명공학 전문가"}
+{"job": "Embryolog", "translation": "배아학자"}
+{"job": "Forensiker, biologi", "translation": "법의학자, 생물학"}
+{"job": "Forskare, bakteriologi", "translation": "세균학 연구원"}
+{"job": "Forskare, bioteknik", "translation": "생명공학 연구원"}
+{"job": "Forskare, cell- och molekylärbiologi", "translation": "세포 및 분자생물학 연구원"}
+{"job": "Forskare, genetik", "translation": "유전자학 연구원"}
+{"job": "Forskare, immunologi", "translation": "면역학 연구원"}
+{"job": "Forskare, mikrobiologi", "translation": "미생물학 연구원"}
+{"job": "Forskare, virologi", "translation": "바이러스학 연구원"}
+{"job": "Forskningsassistent, biologi", "translation": "생물학 연구 보조"}
+{"job": "Genetiker", "translation": "유전자학자"}
+{"job": "Immunolog", "translation": "면역학자"}
+{"job": "Mikrobiolog", "translation": "미생물학자"}
+{"job": "Molekylärbiolog", "translation": "분자생물학자"}
+{"job": "Näringsforskare", "translation": "영양 연구원"}
+{"job": "Nutritionist/Näringsfysiolog", "translation": "영양사/영양학자"}
+{"job": "Toxikolog", "translation": "독성학자"}
+{"job": "Virolog", "translation": "바이러스학자"}
+{"job": "Ärftlighetsforskare", "translation": "유전 연구원"}
+{"job": "Botaniker", "translation": "식물학자"}
+{"job": "Entomolog", "translation": "곤충학자"}
+{"job": "Etolog", "translation": "행동학자"}
+{"job": "Fiskeribiolog", "translation": "어학가"}
+{"job": "Forskare, växt- och djurbiologi", "translation": "식물 및 동물 생물학자"}
+{"job": "Forskare, zoologi", "translation": "동물학자"}
+{"job": "Fysiolog", "translation": "생리학자"}
+{"job": "Hydrobiolog", "translation": "수생생물학자"}
+{"job": "Limnolog", "translation": "남조류학자"}
+{"job": "Marinbiolog", "translation": "해양 생물학자"}
+{"job": "Mykolog", "translation": "균학자"}
+{"job": "Naturvärdesinventerare", "translation": "자연 가치 조사관"}
+{"job": "Talassolog", "translation": "해양학자"}
+{"job": "Viltforskare", "translation": "야생 생물학자"}
+{"job": "Zoolog", "translation": "동물학자"}
+{"job": "Biomedicinare", "translation": "생물의학자"}
+{"job": "Ekotoxikolog", "translation": "생태독성학자"}
+{"job": "Forskare, beräkningsbiologi", "translation": "계산생물학자"}
+{"job": "Forskare, farmakologi", "translation": "약리학자"}
+{"job": "Forskare, läkemedel", "translation": "약학자"}
+{"job": "Forskare, medicin", "translation": "의학자"}
+{"job": "Forskningsassistent, medicin", "translation": "의학 연구 보조원"}
+{"job": "Läkemedelsinspektör", "translation": "약사 감독관"}
+{"job": "Projektledare, medicinteknik", "translation": "의료기기 프로젝트 리더"}
+{"job": "Regulatorisk handläggare/Regulatory affairs specialist", "translation": "규제 관리자"}
+{"job": "Djurskyddsinspektör", "translation": "동물 보호 감독관"}
+{"job": "Hälsovårdsinspektör", "translation": "보건 감독관"}
+{"job": "HSEQ Manager/KMA-samordnare", "translation": "안전 보건 환경 품질 및 환경 관리 책임자"}
+{"job": "Kemikalieinspektör", "translation": "화학 물질 감독관"}
+{"job": "Livsmedelsinspektör", "translation": "식품 감독관"}
+{"job": "Miljö- och hälsoskyddsinspektör", "translation": "환경 및 보건 보호 감독관"}
+{"job": "Miljöskyddschef", "translation": "환경 보호 관리자"}
+{"job": "Avfallsspecialist", "translation": "폐기물 전문가"}
+{"job": "Ekolog", "translation": "생태학자"}
+{"job": "Forskare, miljö", "translation": "환경학자"}
+{"job": "Miljöcontroller", "translation": "환경 관리자"}
+{"job": "Miljöhandläggare", "translation": "환경 담당자"}
+{"job": "Miljöingenjör/Miljövårdsingenjör", "translation": "환경 기술자"}
+{"job": "Miljöinspektör", "translation": "환경 감독관"}
+{"job": "Miljörevisor", "translation": "환경 감사관"}
+{"job": "Miljösamordnare/Miljökoordinator", "translation": "환경 협조자"}
+{"job": "Naturvårdsingenjör", "translation": "자연 보존 기술자"}
+{"job": "Vindkraftsprojektör", "translation": "풍력 발전 프로젝트 설계자"}
+{"job": "Biomedicinsk analytiker/BMA", "translation": "생물의학 분석가"}
+{"job": "Cytodiagnostiker", "translation": "세포 진단학자"}
+{"job": "Forensiker, biomedicinsk analytiker", "translation": "법의학자, 생물의학 분석가"}
+{"job": "Laboratorieassistent", "translation": "실험실 보조원"}
+{"job": "Professor", "translation": "교수"}
+{"job": "Biträdande universitetslektor/Biträdande högskolelektor", "translation": "조교 교수"}
+{"job": "Universitets- och högskolelektor", "translation": "대학 및 고등교육 교수"}
+{"job": "Forskarassistent", "translation": "연구 보조원"}
+{"job": "Forskningshandledare", "translation": "연구 지도자"}
+{"job": "Forskningsledare", "translation": "연구 지휘자"}
+{"job": "Forskningsrådgivare", "translation": "연구 조언가"}
+{"job": "Postdoktor/Postdoc", "translation": "포스트닥/ 포스트닥"}
+{"job": "Doktorand", "translation": "박사 후보"}
+{"job": "Universitets- och högskoleadjunkt", "translation": "대학 및 고등학교 강사"}
+{"job": "Skogslärare/Skogsbrukslärare/Skogsbruksinstruktör", "translation": "산림 교사 / 산림 관리 교사 / 산림 관리 교육자"}
+{"job": "Yrkeslärare", "translation": "전문 교사"}
+{"job": "Ämneslärare, gymnasieskolan", "translation": "과목 교사, 고등학교"}
+{"job": "Folkhögskolelärare", "translation": "평생교육 학교 교사"}
+{"job": "Modersmålslärare i gymnasieskolan", "translation": "고등학교 모국어 교사"}
+{"job": "Ämneslärare, 7-9", "translation": "과목 교사, 7-9"}
+{"job": "Grundlärare, 4-6", "translation": "초등교사, 4-6"}
+{"job": "Grundlärare, förskoleklass och 1-3", "translation": "초등교사, 유치원 및 1-3"}
+{"job": "Lärare i grundskolan, årskurs 1-6", "translation": "초등학교 교사, 1-6학년"}
+{"job": "Modersmålslärare i grundskolan", "translation": "초등학교 모국어 교사"}
+{"job": "Grundlärare, fritidshem", "translation": "초등교사, 방과 후"}
+{"job": "Förskollärare", "translation": "유치원 교사"}
+{"job": "Lärare i förskoleklass", "translation": "유치원 교사"}
+{"job": "Lekterapeut", "translation": "레크테라피스트"}
+{"job": "Modersmålslärare, förskola", "translation": "모국어 교사, 유치원"}
+{"job": "Förskolekonsulent", "translation": "유치원 교육 컨설턴트"}
+{"job": "Fortbildningskonsulent", "translation": "교육 콘설턴트"}
+{"job": "Hörselpedagog", "translation": "청각 재활 교사"}
+{"job": "Läkepedagog", "translation": "치료 교사"}
+{"job": "Läromedelsintendent", "translation": "교육 자재 관리자"}
+{"job": "Skolinspektör", "translation": "교육 감독"}
+{"job": "Skolkonsulent", "translation": "교육 컨설턴트"}
+{"job": "Speciallärare", "translation": "특수 교사"}
+{"job": "Specialpedagog", "translation": "특수 교육학 교사"}
+{"job": "Synpedagog", "translation": "시각 재활 교사"}
+{"job": "Talpedagog", "translation": "언어 재활 교사"}
+{"job": "Utbildningskonsulent, skola", "translation": "교육 콘설턴트, 학교"}
+{"job": "SSA-sekreterare", "translation": "SSA 비서"}
+{"job": "Studie- och yrkesvägledare", "translation": "학습 및 직업 상담자"}
+{"job": "Studievägledare", "translation": "진로 상담자"}
+{"job": "Ateljerista", "translation": "아틀리에리스트"}
+{"job": "Bildpedagog", "translation": "미술 교사"}
+{"job": "Danspedagog", "translation": "무용 교사"}
+{"job": "Dramalärare/Dramapedagog", "translation": "연극 교사 / 연극 교육자"}
+{"job": "Eurytmist", "translation": "유류티스트"}
+{"job": "Forskare, pedagogik", "translation": "교육학 연구자"}
+{"job": "Konstpedagog", "translation": "예술 교육자"}
+{"job": "Lärare i kulturskolan", "translation": "문화 학교 교사"}
+{"job": "Mimpedagog", "translation": "미믹 교사"}
+{"job": "Museilektor", "translation": "박물관 강사"}
+{"job": "Museipedagog/Museilärare", "translation": "박물관 교육자 / 박물관 교사"}
+{"job": "Musikpedagog/Musiklärare", "translation": "음악 교육자 / 음악 교사"}
+{"job": "Röstpedagog", "translation": "음성 교육자"}
+{"job": "Sångpedagog", "translation": "보컬 트레이너"}
+{"job": "SFI-lärare", "translation": "SFI 교사"}
+{"job": "Teaterpedagog", "translation": "연극 교육자"}
+{"job": "Teckenspråkslärare", "translation": "수화교사"}
+{"job": "Teknikpedagog", "translation": "기술교육가"}
+{"job": "Jockey", "translation": "조키"}
+{"job": "Professionell idrottsutövare", "translation": "프로 스포츠 선수"}
+{"job": "Tävlingsryttare", "translation": "경기승마 선수"}
+{"job": "Travkusk", "translation": "트롯 선수"}
+{"job": "Distriktskonsulent", "translation": "지역 컨설턴트"}
+{"job": "Dykinstruktör", "translation": "다이빙 강사"}
+{"job": "Förbundstränare", "translation": "대표팀 감독"}
+{"job": "Föreningsinstruktör", "translation": "협회 강사"}
+{"job": "Golfinstruktör/Golftränare", "translation": "골프 강사/골프 코치"}
+{"job": "Idrottsdomare", "translation": "스포츠 심판"}
+{"job": "Idrottsinstruktör/Idrottstränare", "translation": "스포츠 강사/스포츠 코치"}
+{"job": "Idrottskonsulent", "translation": "스포츠 컨설턴트"}
+{"job": "Instruktör inom specialidrott/Tränare inom specialidrott", "translation": "특수 스포츠 강사/코치"}
+{"job": "Motionskonsulent", "translation": "운동 컨설턴트"}
+{"job": "Personlig tränare/PT", "translation": "개인 트레이너"}
+{"job": "Ridinstruktör/Ridlärare", "translation": "승마 강사/승마 교사"}
+{"job": "Skidinstruktör/Skidlärare", "translation": "스키 강사/스키 교사"}
+{"job": "Träningsinstruktör", "translation": "트레이닝 강사"}
+{"job": "Ungdomsinstruktör/Ungdomstränare", "translation": "청소년 강사/청소년 코치"}
+{"job": "Yogainstruktör/Yogalärare", "translation": "요가 강사/요가 교사"}
+{"job": "Trafiklärare", "translation": "교통 교육가"}
+{"job": "Utbildningsledare, trafikskola", "translation": "교통 학교 교육 지도자"}
+{"job": "Cirkelledare/Studiecirkelledare", "translation": "소모임 지도자/스터디 그룹 지도자"}
+{"job": "Datapedagog/IT-pedagog", "translation": "컴퓨터 교육가/IT 교육가"}
+{"job": "Hemslöjdskonsulent", "translation": "공예 컨설턴트"}
+{"job": "Kursutvecklare", "translation": "코스 개발자"}
+{"job": "Mediepedagog", "translation": "미디어 교육가"}
+{"job": "Musikhandledare", "translation": "음악 교사"}
+{"job": "Personalutbildare", "translation": "직원 교육자"}
+{"job": "Utbildningsledare", "translation": "교육 지도자"}
+{"job": "Barnskötare", "translation": "어린이 돌보사"}
+{"job": "Barntimmeledare", "translation": "아동 시간 담당자"}
+{"job": "Dagbarnvårdare", "translation": "주간 보육교"}
+{"job": "Elevassistent", "translation": "학생 보조교사"}
+{"job": "Lärarassistent", "translation": "교사 보조교사"}
+{"job": "Modersmålspedagog", "translation": "모국어 교육가"}
+{"job": "Pedagogassistent", "translation": "교육 보조 교사"}
+{"job": "Skolvärd/Skolvärdinna", "translation": "학교 안내원"}
+{"job": "Arbetsmiljöingenjör", "translation": "직장 안전 엔지니어"}
+{"job": "Arbetsmiljöinspektör", "translation": "직장 안전 감사관"}
+{"job": "Ergonom", "translation": "인간공학자"}
+{"job": "Skyddsingenjör", "translation": "안전 엔지니어"}
+{"job": "Yrkeshygieniker", "translation": "직업 위생학자"}
+{"job": "Befälhavare, Kustbevakningen", "translation": "해안경비대 대표"}
+{"job": "Kustbevakningstjänsteman", "translation": "해양경비대 직원"}
+{"job": "Tulltjänsteman", "translation": "관세 고용원"}
+{"job": "Besiktningsingenjör", "translation": "검사 엔지니어"}
+{"job": "Besiktningsingenjör, bilprovning", "translation": "자동차 검사 엔지니어"}
+{"job": "Besiktningstekniker, bilprovning", "translation": "검사 기술자, 자동차 검사"}
+{"job": "Bilinspektör", "translation": "차량 검사원"}
+{"job": "Fartygsinspektör", "translation": "선박 검사원"}
+{"job": "Flyginspektör", "translation": "항공 검사원"}
+{"job": "Fordonsingenjör, Trafikverket", "translation": "차량 엔지니어, 교통청"}
+{"job": "Lavintekniker", "translation": "사난기술자"}
+{"job": "Riskingenjör, risk management", "translation": "위험 엔지니어, 위험 관리"}
+{"job": "Säkerhetsingenjör", "translation": "안전 엔지니어"}
+{"job": "Säkerhetsrådgivare", "translation": "안전 자문가"}
+{"job": "Säkerhetssamordnare", "translation": "안전 조정원"}
+{"job": "Skeppsmätare", "translation": "선박 측정원"}
+{"job": "Strålskyddstekniker", "translation": "방사선 보호 기술자"}
+{"job": "Trafikinspektör", "translation": "교통 검사원"}
+{"job": "Brandingenjör", "translation": "소방 엔지니어"}
+{"job": "Brandinspektör", "translation": "소방 검사원"}
+{"job": "Brandtekniker", "translation": "소방 기술자"}
+{"job": "Bygglovshandläggare", "translation": "건축 허가 담당자"}
+{"job": "Byggnadsinspektör", "translation": "건축 검사원"}
+{"job": "Byggnadskontrollant", "translation": "건축 감사관"}
+{"job": "Energi- och klimatrådgivare", "translation": "에너지 및 기후 자문가"}
+{"job": "Energideklarerare/Energiexpert", "translation": "에너지 인증자/에너지 전문가"}
+{"job": "Fukttekniker", "translation": "습기 기술자"}
+{"job": "Skyddsrumsinspektör", "translation": "비상실 검사원"}
+{"job": "Tillgänglighetskonsult", "translation": "접근성 컨설턴트"}
+{"job": "Inspektör, Polisen", "translation": "검사원, 경찰"}
+{"job": "Kommissarie, Polisen", "translation": "경감, 경찰"}
+{"job": "Polisaspirant", "translation": "경찰 신원생"}
+{"job": "Polisassistent", "translation": "경찰 보조원"}
+{"job": "Brandman", "translation": "소방관"}
+{"job": "Arrestantvakt/Arrestvakt", "translation": "구금지원/구금감독"}
+{"job": "Kriminalvårdare", "translation": "교도관"}
+{"job": "Butikskontrollant", "translation": "상점 감시원"}
+{"job": "Dörrvakt", "translation": "도어맨"}
+{"job": "Expeditionsvakt", "translation": "역임원"}
+{"job": "Flygplatskontrollant", "translation": "공항 감시원"}
+{"job": "Garagevakt", "translation": "차고 감시원"}
+{"job": "Gränskontrollant/Passkontrollant", "translation": "국경 감시원/여권 감시원"}
+{"job": "Hundförare", "translation": "개조사"}
+{"job": "Ordningsvakt", "translation": "질서유지원"}
+{"job": "Säkerhetsvakt", "translation": "보안 요원"}
+{"job": "Skyddsvakt", "translation": "방호 요원"}
+{"job": "Stationär väktare/Receptionsväktare", "translation": "고정 경비원/접수 경비원"}
+{"job": "Utryckningsväktare", "translation": "긴급 경비원"}
+{"job": "Väktare", "translation": "경비원"}
+{"job": "Värdetransportör", "translation": "가치 수송원"}
+{"job": "Larmoperatör", "translation": "경보 조작자"}
+{"job": "Räddningsledare, statlig räddningstjänst", "translation": "구조 지휘자, 국가 구조소방"}
+{"job": "Sjöbevakningsassistent", "translation": "해양 감시 보조원"}
+{"job": "SOS-operatör", "translation": "SOS 조작자"}
+{"job": "Badmästare/Badbevakare/Badvakt/Simhallsvakt/Strandvakt", "translation": "수영장 관리자/수영장 감독/수영 경비원/수영장 경비원/해수욕장 경비원"}
+{"job": "Butiksinspektör", "translation": "상점 감사원"}
+{"job": "Parkeringsvakt/Trafikövervakare", "translation": "주차병/교통 감시관"}
+{"job": "Privatdetektiv", "translation": "사립 탐정"}
+{"job": "Signalman", "translation": "신호원"}
+{"job": "Sjöfartskontrollant/Hamnskyddskontrollant", "translation": "해상 관제원/항구 보호원"}
+{"job": "Skidpatrullör/Pistör", "translation": "스키 순찰요원/파이스토"}
+{"job": "Trafiklots", "translation": "교통 안내원"}
+{"job": "Trafiknykterhetskontrollant", "translation": "교통 안전 감시관"}
+{"job": "Trafikvakt", "translation": "교통 경비원"}
+{"job": "Vägvakt", "translation": "도로 경비"}
+{"job": "Arbetsledare, städ/Husfru/Städledare", "translation": "작업 지도관, 청소/여주/청소 주임"}
+{"job": "Skorstensfejare/Sotare", "translation": "굴뚝 소작"}
+{"job": "Skorstensfejarmästare", "translation": "굴뚝 소작 달인"}
+{"job": "Skorstensfejartekniker", "translation": "굴뚝 소작 기술자"}
+{"job": "Asbestsanerare", "translation": "아스베스트 제거원"}
+{"job": "Avloppstekniker", "translation": "하수 파이프 기술자"}
+{"job": "Blästrare", "translation": "샷 시멘터"}
+{"job": "Brandskadesanerare", "translation": "화재 손상 제거원"}
+{"job": "Elektroniksanerare", "translation": "전자 제거원"}
+{"job": "Industrisanerare", "translation": "산업 제거원"}
+{"job": "Kärnkraftsanerare", "translation": "원자력 발전소 제거원"}
+{"job": "Klottersanerare", "translation": "낙서 제거원"}
+{"job": "Oljesanerare", "translation": "석유 제거원"}
+{"job": "Saneringsarbetare", "translation": "제거 작업원"}
+{"job": "Skadedjurstekniker", "translation": "해충 기술자"}
+{"job": "Takrengörare/Fasadrengörare", "translation": "지붕 청소원/외벽 청소원"}
+{"job": "Ventilationssanerare", "translation": "환기 제거원"}
+{"job": "Byggstädare", "translation": "건설 청소원"}
+{"job": "Cabin stewardess/Hyttvärdinna", "translation": "선실 요정/선실 관리원"}
+{"job": "Fartygsstädare", "translation": "선박 청소원"}
+{"job": "Fastighetsstädare", "translation": "부동산 청소원"}
+{"job": "Hotellstädare", "translation": "호텔 청소원"}
+{"job": "Industristädare", "translation": "산업 청소원"}
+{"job": "Kontorsstädare", "translation": "사무실 청소원"}
+{"job": "Sjukhusstädare", "translation": "병원 청소원"}
+{"job": "Städare/Lokalvårdare", "translation": "청소원/시설 관리원"}
+{"job": "Trappstädare", "translation": "계단 청소원"}
+{"job": "Vagnsstädare", "translation": "승용차 청소원"}
+{"job": "Barnvakt", "translation": "유아 돌보기"}
+{"job": "Hemstädare/Hemhjälp", "translation": "가정 청소원/가사 도우미"}
+{"job": "Bilrekonditionerare", "translation": "자동차 리컨디셔닝 전문가"}
+{"job": "Bilvårdare/Garagearbetare", "translation": "자동차 관리원/차고 작업자"}
+{"job": "Fönsterputsare", "translation": "창문 닦이"}
+{"job": "Leveransman", "translation": "배송원"}
+{"job": "Pressare, kläder", "translation": "의류 프레서"}
+{"job": "Skoputsare", "translation": "구두 닦이"}
+{"job": "Återvinningsarbetare på ÅVC", "translation": "재활용 원료 작업원"}
+{"job": "Bildemontör", "translation": "차량 해체원"}
+{"job": "Demontör, återvinning", "translation": "분해원, 재활용"}
+{"job": "Medåkare renhållningsbil", "translation": "폐기물 수거 차량 동승자"}
+{"job": "Miljöarbetare/Renhållningsarbetare", "translation": "환경작업자/폐기물작업자"}
+{"job": "Snöskottare", "translation": "눈삽이"}
+{"job": "1:e Fartygsingenjör/1:e Maskinist", "translation": "1등 선박기관사/1등 엔진 조작사"}
+{"job": "2:e Fartygsingenjör/2:e Maskinist", "translation": "2등 선박기관사/2등 엔진 조작사"}
+{"job": "Elingenjör, fartyg/Fartygseltekniker", "translation": "전기기술자, 선박/선박기술사"}
+{"job": "Maskinbefäl, fartyg", "translation": "기관선원, 선박"}
+{"job": "Teknisk chef, fartyg/Maskinchef, fartyg", "translation": "기술 총괄, 선박/기관장, 선박"}
+{"job": "2:e Styrman", "translation": "2등 갑판장"}
+{"job": "Båtman, Sjöfartsverket", "translation": "선원, 해양수산청"}
+{"job": "Befälhavare, fartyg", "translation": "선장, 선박"}
+{"job": "Endestyrman", "translation": "전갑판장"}
+{"job": "Fartygsbefäl", "translation": "선장, 선박"}
+{"job": "Lots, fartyg", "translation": "장치조수, 선박"}
+{"job": "Lotsoperatör", "translation": "해양파일럿"}
+{"job": "Överstyrman", "translation": "파일럿 조종사"}
+{"job": "VTS-operatör", "translation": "상갑판장"}
+{"job": "Ballongpilot", "translation": "VTS 운영자"}
+{"job": "Chefspilot", "translation": "기구 조종사"}
+{"job": "Drönaroperatör/Drönarpilot", "translation": "최고 조종사"}
+{"job": "Flyginstruktör/Flyglärare", "translation": "드론 조종사/드론 조종사"}
+{"job": "Helikopterförare/Helikopterpilot", "translation": "비행 교관/비행 교사"}
+{"job": "Pilot/Trafikflygare/Flygkapten", "translation": "헬기 조종사/헬기 조종사"}
+{"job": "Pilot/Trafikflygare/Flygstyrman", "translation": "조종사/항공기 조종사/비행선장"}
+{"job": "Briefing Officer, luftfart", "translation": "조종사/항공기 조종사/비행승무원"}
+{"job": "Flight Data Operator/FDO/Flygledarassistent", "translation": "설명 담당자, 항공"}
+{"job": "Flygledare", "translation": "비행 데이터 운영자/FDO/비행 제어 보조"}
+{"job": "Handläggare, flygledning", "translation": "항공교통관제사"}
+{"job": "Watch Supervisor, flygledning", "translation": "통제관, 항공"}
+{"job": "Arbetsledare, lager", "translation": "감독관, 항공"}
+{"job": "Arbetsledare, terminal", "translation": "작업 지도자, 창고"}
+{"job": "Förrådschef", "translation": "작업 지도자, 터미널"}
+{"job": "Reservdelschef", "translation": "창고장"}
+{"job": "Depåman/Depåtekniker", "translation": "스페어파츠 관리자"}
+{"job": "Godsmottagare", "translation": "창고작업자"}
+{"job": "Lagerarbetare", "translation": "창고 사무원"}
+{"job": "Lagerkontorist", "translation": "창고 계획자"}
+{"job": "Lagerplanerare", "translation": "배송 모니터링원"}
+{"job": "Leveransbevakare", "translation": "터미널 작업자"}
+{"job": "Terminalarbetare", "translation": "자동차 시험 조정자"}
+{"job": "Biltestkoordinator", "translation": "다리 감시원"}
+{"job": "Brovakt", "translation": "유통 보조원"}
+{"job": "Distributionsassistent", "translation": "파견자, 물류"}
+{"job": "Expeditör, spedition", "translation": "선박 조종사"}
+{"job": "Fartygsoperatör", "translation": "원격 기차 조종사"}
+{"job": "Fjärrtågklarerare", "translation": "비행 조종사"}
+{"job": "Flygklarerare", "translation": "화물파견자, 항공"}
+{"job": "Fraktexpeditör, flyg", "translation": "핸들링 조정자"}
+{"job": "Handlingskoordinator", "translation": "주요 감독관, 철도"}
+{"job": "Huvudtillsyningsman, järnväg", "translation": "적재 예비조정원"}
+{"job": "Planerare, flygbolag", "translation": "플래너, 항공사"}
+{"job": "Produktionsledare, distribution", "translation": "생산 관리자, 유통"}
+{"job": "Rampagent", "translation": "램프요원"}
+{"job": "Rampförman, flygplats", "translation": "램프마스터, 공항"}
+{"job": "Slussvakt", "translation": "슬루스감시원"}
+{"job": "Speditionsassistent", "translation": "화물 운송 보조원"}
+{"job": "Stuveriförman", "translation": "하역장"}
+{"job": "Tågklarerare", "translation": "열차 운행 조정원"}
+{"job": "Tågledare", "translation": "열차 감독"}
+{"job": "Tallyman", "translation": "택배 수령인"}
+{"job": "Trafikkoordinator", "translation": "교통 조정사"}
+{"job": "Trafikledare, spårburen trafik", "translation": "철도교통운행원"}
+{"job": "Trafikledare, vägtrafik", "translation": "도로교통운행원"}
+{"job": "Trafikplanerare, transportföretag", "translation": "교통 계획사, 운송사"}
+{"job": "Trafiksamordnare", "translation": "교통 조정자"}
+{"job": "Transportledare", "translation": "운송마스터"}
+{"job": "Transportplanerare", "translation": "운송 계획자"}
+{"job": "Transportsamordnare", "translation": "운송 조정자"}
+{"job": "Brevbärare", "translation": "우편배달원"}
+{"job": "Lantbrevbärare", "translation": "시골 우편배달원"}
+{"job": "Postterminalarbetare", "translation": "우체국 터미널 작업원"}
+{"job": "Båtvärdinna/Båtvärd", "translation": "선박 승무원"}
+{"job": "Flygvärd/Flygvärdinna/Flygsteward", "translation": "비행기 승무원"}
+{"job": "Kabinchef/Purser", "translation": "승무원장/요원장"}
+{"job": "Bussvärd", "translation": "버스 승무원"}
+{"job": "Ombordansvarig, tåg", "translation": "열차 책임자"}
+{"job": "Spärrexpeditör/Spärrvakt", "translation": "출입국검사원/출입국보안원"}
+{"job": "Stationsvärd", "translation": "역원"}
+{"job": "Tågvärd/Tågvärdinna", "translation": "열차 승무원"}
+{"job": "Trafikvärd/Taxivärd", "translation": "교통 약원/택시 약원"}
+{"job": "Instruktionsförare", "translation": "교육 운전사"}
+{"job": "Lokförare/Förare av tåg", "translation": "기관사/기차 운전사"}
+{"job": "Pendeltågsförare/Motorvagnsförare", "translation": "ATEA 운전사/전동차 운전사"}
+{"job": "Radiolokförare", "translation": "라디오 기관사"}
+{"job": "Tunneltågförare", "translation": "지하철 운전사"}
+{"job": "Bangårdsoperatör", "translation": "차고 부지운 전문작업자"}
+{"job": "Depåförare, spårburen trafik", "translation": "기차 입찰자, 철도교통"}
+{"job": "Radioloksoperatör", "translation": "라디오 기관 통제원"}
+{"job": "Trafikförman", "translation": "교통 주임"}
+{"job": "Färdtjänstförare", "translation": "택시기사"}
+{"job": "Limousineförare", "translation": "리무진운전사"}
+{"job": "Personbilsförare, persontransporter", "translation": "승용차운전사, 개인합승"}
+{"job": "Taxiförare/Taxichaufför", "translation": "택시기사"}
+{"job": "Budbilsförare", "translation": "화물차 운전사"}
+{"job": "Cykelbud", "translation": "자전거 배달원"}
+{"job": "Mopedbud", "translation": "모페드 배달원"}
+{"job": "Motorcykelbud", "translation": "오토바이 배달원"}
+{"job": "Paketbilsförare", "translation": "배송차 운전사"}
+{"job": "Testförare", "translation": "시승용차 운전사"}
+{"job": "Bussförare/Busschaufför", "translation": "버스 운전사"}
+{"job": "Färdtjänstbussförare", "translation": "수송차량 기사"}
+{"job": "Spårvagnsförare", "translation": "전차 기사"}
+{"job": "Bilbärgare", "translation": "구조차량 운전사"}
+{"job": "Bohags- och flyttbilsförare", "translation": "가구 및 이사 차량 운전사"}
+{"job": "Bokbussförare", "translation": "도서 버스 운전사"}
+{"job": "Bygg- och anläggningsförare", "translation": "건설 및 시설 운전사"}
+{"job": "Distributionsförare", "translation": "유통 운전사"}
+{"job": "Djurtransportförare", "translation": "동물 수송 운전사"}
+{"job": "Fjärrbilsförare", "translation": "원격 차량 운전사"}
+{"job": "Kranbilsförare", "translation": "크레인 차량 운전사"}
+{"job": "Liftdumper- och lastväxlarförare", "translation": "리프트 덤프 및 로드 컨테이너 차량 운전사"}
+{"job": "Renhållningsförare", "translation": "폐기물 처리 운전사"}
+{"job": "Skogstransportförare", "translation": "산림 운송 운전사"}
+{"job": "Specialtransportförare", "translation": "특수 운송 운전사"}
+{"job": "Sug- och spolbilsförare", "translation": "진공 및 스프링클러 차량 운전사"}
+{"job": "Tank- och bulkbilsförare", "translation": "탱크 및 대량 차량 운전사"}
+{"job": "Utlandsförare", "translation": "해외 운전사"}
+{"job": "Vägassistansförare", "translation": "도로 어시스턴스 운전사"}
+{"job": "Teleskoptruckförare", "translation": "텔레스코프 포크리프트 운전사"}
+{"job": "Traktorförare, industri", "translation": "인더스트리 트랙터 운전사"}
+{"job": "Truckförare", "translation": "트럭 운전사"}
+{"job": "Båtsman/Bås", "translation": "갑판원"}
+{"job": "Jungman", "translation": "신임 선원"}
+{"job": "Lättmatros", "translation": "르셋 마티로스"}
+{"job": "Matros", "translation": "마토로스"}
+{"job": "Matros, inre fart", "translation": "내륙 마토로스"}
+{"job": "Hamnarbetare/Stuveriarbetare", "translation": "항만 노동자/하역 작업자"}
+{"job": "Baxare", "translation": "포장 작업자"}
+{"job": "Expressarbetare/Flyttkarl/Stadsbud", "translation": "긴급 작업자/이삿짐꾼/도시 전달원"}
+{"job": "Flygplanslastare", "translation": "비행기 화물 적재원"}
+{"job": "Flygplatstekniker", "translation": "공항 기술자"}
+{"job": "Lastare", "translation": "적재원"}
+{"job": "Packmästare, flytt", "translation": "포장 책임자, 이사"}
+{"job": "Roddare/Roadie", "translation": "조정사/로디"}
+{"job": "Säkerhetsmontör", "translation": "안전 설치사"}
+{"job": "Uppackare/Furnerare", "translation": "포장 작업자/가구 설치자"}
+{"job": "Vitvarumontör", "translation": "가전 제품 기사"}
+{"job": "Reklamdistributör/Reklamutdelare", "translation": "광고 배포원/광고 분배자"}
+{"job": "Tidningsbud/Tidningsdistributör", "translation": "신문 배달원/신문 배포자"}
+{"job": "Fältassistent", "translation": "현장 어시스턴트"}
+{"job": "Familjebehandlare/Familjepedagog", "translation": "가정 치료사/가정 교육자"}
+{"job": "Familjehemssekreterare/Familjehemskonsulent", "translation": "가정 보호원 비서/가정 보호사 문제 해결사"}
+{"job": "Familjerådgivare/Familjeterapeut", "translation": "가정 상담원/가정 치료사"}
+{"job": "Familjerättssekreterare", "translation": "가정법 사무원"}
+{"job": "Familjevårdsinspektör", "translation": "가정복지 감독관"}
+{"job": "Gruppledare inom socialtjänst", "translation": "사회 복지 분야 팀 리더"}
+{"job": "Rehabhandläggare", "translation": "재활 담당자"}
+{"job": "Socialkonsulent, Arbetsförmedlingen", "translation": "사회 안전 관리자, 고용 기관"}
+{"job": "Socialsekreterare", "translation": "사회 사무원"}
+{"job": "Ungdomssekreterare, socialtjänst", "translation": "청소년 비서, 사회 복지"}
+{"job": "Hälso- och sjukvårdskurator", "translation": "의료 보호사"}
+{"job": "Kurator", "translation": "상담사"}
+{"job": "Samtalsterapeut", "translation": "상담 요법사"}
+{"job": "Skolkurator", "translation": "학교 상담사"}
+{"job": "Biståndsbedömare/Biståndshandläggare", "translation": "지원 평가자/지원 담당자"}
+{"job": "LSS-handläggare", "translation": "LSS 담당자"}
+{"job": "Frivårdshandläggare", "translation": "자유 감독관"}
+{"job": "Frivårdsinspektör", "translation": "사회 통합 담당자"}
+{"job": "Integrationshandläggare", "translation": "불교 사제"}
+{"job": "Buddhistpräst", "translation": "교구 일반 사제"}
+{"job": "Församlingspräst med specialuppgifter", "translation": "이슬람 사제"}
+{"job": "Imam", "translation": "교회신부"}
+{"job": "Komminister", "translation": "조소 교사"}
+{"job": "Kontraktsadjunkt", "translation": "목사 보조"}
+{"job": "Pastorsadjunkt", "translation": "사제, 다른 종교 단체"}
+{"job": "Präst, annat trossamfund", "translation": "사제, 그리스도 동방 교회"}
+{"job": "Präst, grekisk-ortodox kyrka", "translation": "사제, 로마 가톨릭 교회"}
+{"job": "Präst, romersk-katolsk kyrka", "translation": "유대교 랍비"}
+{"job": "Rabbin", "translation": "병원 신부"}
+{"job": "Sjukhuspräst", "translation": "주교 사제"}
+{"job": "Stiftsadjunkt", "translation": "선교 조교"}
+{"job": "Diakon", "translation": "노인 교육자"}
+{"job": "Äldrepedagog", "translation": "알코올 및 약물 요법사"}
+{"job": "Alkohol- och drogterapeut", "translation": "가족 보조 담당자"}
+{"job": "Anhörigkonsulent", "translation": "치료 보조/사회 교육가"}
+{"job": "Behandlingsassistent/Socialpedagog", "translation": "공중 보건 비서"}
+{"job": "Folkhälsosekreterare", "translation": "능력 치료 교사"}
+{"job": "Habiliteringspedagog", "translation": "공예 교육자"}
+{"job": "Hantverkspedagog", "translation": "가정 치료사"}
+{"job": "Hemterapeut", "translation": "여성 쉼터 노동자"}
+{"job": "Kvinnojoursarbetare", "translation": "온천 보조"}
+{"job": "Placeringsassistent", "translation": "사회 분야 프로젝트 리더"}
+{"job": "Projektledare, social inriktning", "translation": "재활 보조"}
+{"job": "Rehabiliteringsassistent", "translation": "사회치료사"}
+{"job": "Socioterapeut", "translation": "지원 교육가"}
+{"job": "Stödpedagog", "translation": "청소년 보조 교사"}
+{"job": "Ungdomsassistent", "translation": "침례교 목사"}
+{"job": "Baptistpastor", "translation": "전도사/순례 목사"}
+{"job": "Evangelist/Resepastor", "translation": "대학 엔터테인먼트 리더, 구원군"}
+{"job": "Församlingsföreståndare, Frälsningsarmén", "translation": "대학 엔터테인먼트 리더, 자유교회"}
+{"job": "Församlingsföreståndare, frikyrka", "translation": "메소디스트 목사"}
+{"job": "Metodistpastor", "translation": "선교사"}
+{"job": "Missionär", "translation": "구원군 장교"}
+{"job": "Officer, Frälsningsarmén", "translation": "자유교회 목사"}
+{"job": "Pastor, frikyrkoförsamling", "translation": "교회 사역 보조"}
+{"job": "Assistent i församlingsarbete", "translation": "교회 교육가"}
+{"job": "Församlingspedagog", "translation": "여가 보조"}
+{"job": "Fritidsassistent", "translation": "여가 교육가"}
+{"job": "Fritidskonsulent", "translation": "여가 상담가"}
+{"job": "Fritidsledare", "translation": "여가 지도자"}
+{"job": "Fritidsledare, församling/Ungdomsledare, församling", "translation": "여가 지도자, 교회/청년 지도자"}
+{"job": "Konsulent på stifts-/nationell nivå", "translation": "교구/국가 수석 상담가"}
+{"job": "Ungdomskonsulent, fritid", "translation": "청소년 상담가"}
+{"job": "Ungdomsledare", "translation": "청소년 지도자"}
+{"job": "Friskvårdskonsult/Hälsovägledare", "translation": "헬스 코디네이터/건강 상담가"}
+{"job": "Friskvårdsledare", "translation": "헬스 리더"}
+{"job": "Hälsocoach", "translation": "건강 코치"}
+{"job": "Hälsoinformatör", "translation": "건강 정보 전문가"}
+{"job": "Hälsopedagog", "translation": "건강 교육가"}
+{"job": "Kostrådgivare", "translation": "영양 상담가"}
+{"job": "Begravningsentreprenör", "translation": "장례 기획자"}
+{"job": "Begravningsrådgivare/Begravningskoordinator", "translation": "장례 상담가/장례 조정자"}
+{"job": "Begravningsrepresentant", "translation": "장례 대리인"}
+{"job": "Borgerlig officiant", "translation": "민사 전문가"}
+{"job": "Ceremonivärd", "translation": "의식 진행자"}
+{"job": "Krematoriemästare/Krematorieföreståndare", "translation": "화장장 담당자/화장장 총괄"}
+{"job": "Krematorievaktmästare", "translation": "화장장 관리자"}
+{"job": "Anonym konsument/Mystery shopper", "translation": "익명 소비자/미스터리 쇼퍼"}
+{"job": "Betjänt", "translation": "하인"}
+{"job": "Klubbvärdinna", "translation": "클럽 호스트"}
+{"job": "Habiliteringsassistent", "translation": "재활 보조사"}
+{"job": "Stödassistent", "translation": "보조 보조사"}
+{"job": "Vårdare/Arbetshandledare/Boendestödjare", "translation": "간호사/작업 지도사/거주 지원자"}
+{"job": "Ledsagare", "translation": "동행자"}
+{"job": "Personlig assistent", "translation": "개인 보조사"}
+{"job": "Personligt ombud", "translation": "개인 대리인"}
+{"job": "Logistiker", "translation": "물류 전문가"}
+{"job": "Logistikingenjör", "translation": "물류 엔지니어"}
+{"job": "Materialplanerare", "translation": "자재 계획가"}
+{"job": "Materialstyrare", "translation": "자재 관리자"}
+{"job": "Supply chain manager/SCM manager", "translation": "공급망 관리자"}
+{"job": "Applikationsingenjör", "translation": "응용 엔지니어"}
+{"job": "Beräkningsingenjör, el-tele", "translation": "계산 엔지니어, 전기통신"}
+{"job": "Besiktningsingenjör, el-tele", "translation": "검사 엔지니어, 전기통신"}
+{"job": "Civilingenjör, el-tele", "translation": "전기통신 학사, 전기통신"}
+{"job": "Civilingenjör, elkraft", "translation": "전기통신 학사, 전력"}
+{"job": "Civilingenjör, konstruktion, elektronik", "translation": "전기통신 학사, 구조, 전자"}
+{"job": "Civilingenjör, kvalitet, elektronik", "translation": "전기통신 학사, 품질, 전자"}
+{"job": "Civilingenjör, medicinsk teknik", "translation": "전기통신 학사, 의료 기기"}
+{"job": "Civilingenjör, produktion, elektronik", "translation": "전기통신 학사, 생산, 전자"}
+{"job": "Elkvalitetsanalytiker, elkraft", "translation": "전력 품질 분석가, 전력"}
+{"job": "Elnätsanalytiker", "translation": "전력망 분석가"}
+{"job": "Elnätsspecialist", "translation": "전력망 전문가"}
+{"job": "Experimentingenjör, el-tele", "translation": "실험 엔지니어, 전기통신"}
+{"job": "Forskare, mikroelektronik", "translation": "연구자, 마이크로 일렉트로닉"}
+{"job": "Forskningsingenjör, el-tele", "translation": "연구 엔지니어, 전기통신"}
+{"job": "Hårdvarukonstruktör", "translation": "하드웨어 설계자"}
+{"job": "Konstruktör, el-tele", "translation": "설계자, 전기통신"}
+{"job": "Kontrollanläggningsingenjör, elkraft", "translation": "통제 설비 엔지니어, 전력"}
+{"job": "Kvalitetsingenjör, el-tele", "translation": "품질 엔지니어, 전기-통신"}
+{"job": "Nät- och kraftsystemsanalytiker, elkraft", "translation": "네트워크 및 전력 시스템 분석가, 전력"}
+{"job": "Planeringsingenjör, el-tele", "translation": "계획 엔지니어, 전기-통신"}
+{"job": "Processingenjör, el-tele", "translation": "프로세스 엔지니어, 전기-통신"}
+{"job": "Projekteringsingenjör, el-tele och elektronik", "translation": "설계 엔지니어, 전기-통신 및 전자"}
+{"job": "Provningsingenjör, el-tele", "translation": "시험 엔지니어, 전기-통신"}
+{"job": "Rymdingenjör", "translation": "우주 공학자"}
+{"job": "Underhållsanalytiker, elkraft", "translation": "유지보수 분석가, 전력"}
+{"job": "Utvecklingsingenjör, el-tele", "translation": "개발 엔지니어, 전기-통신"}
+{"job": "Utvecklingsingenjör, elkraft", "translation": "개발 엔지니어, 전력"}
+{"job": "Civilingenjör, energi", "translation": "에너지 공학자"}
+{"job": "Civilingenjör, farkostteknik", "translation": "공학 박사, 탈출기술"}
+{"job": "Civilingenjör, konstruktion, maskin", "translation": "건설 기계 공학자"}
+{"job": "Civilingenjör, maskin", "translation": "기계 공학자"}
+{"job": "Civilingenjör, produktion, maskin", "translation": "생산 기계 공학자"}
+{"job": "Civilingenjör, tillverkningsindustri", "translation": "생산 산업 공학자"}
+{"job": "Civilingenjör, VVS", "translation": "건물 기계 공학자"}
+{"job": "Driftingenjör, maskin", "translation": "플랜트 엔지니어, 기계"}
+{"job": "Fartygskonstruktör", "translation": "선박 설계자"}
+{"job": "Flygingenjör", "translation": "비행 엔지니어"}
+{"job": "Forskningsingenjör, maskin", "translation": "연구 엔지니어, 기계"}
+{"job": "Processingenjör, maskin", "translation": "프로세스 엔지니어, 기계"}
+{"job": "Projekteringsingenjör, maskin", "translation": "설계 엔지니어, 기계"}
+{"job": "Provningsingenjör, maskin", "translation": "시험 엔지니어, 기계"}
+{"job": "Solenergiprojektör/Solcellsprojektör", "translation": "태양 에너지 설계자/태양 전지 설계자"}
+{"job": "Svetsingenjör", "translation": "용접 엔지니어"}
+{"job": "Utvecklingsingenjör, maskin", "translation": "개발 엔지니어, 기계"}
+{"job": "Utvecklingsingenjör, tillverkningsindustri", "translation": "개발 엔지니어, 생산 산업"}
+{"job": "Civilingenjör, forskning och utveckling, kemi", "translation": "연구 및 개발 공학 박사, 화학"}
+{"job": "Civilingenjör, kemi", "translation": "화학 공학자"}
+{"job": "Civilingenjör, kemiteknik", "translation": "화학 공학 기술자"}
+{"job": "Civilingenjör, kvalitet, kemiteknik", "translation": "화학 공학 품질 공학자"}
+{"job": "Civilingenjör, process, kemiteknik", "translation": "화학 공학 프로세스 공학자"}
+{"job": "Forskningsingenjör, kemi", "translation": "화학 연구 엔지니어"}
+{"job": "Processutvecklare, kemi", "translation": "화학 공정 개발자"}
+{"job": "Utvecklingsingenjör, kemi", "translation": "개발 엔지니어, 화학"}
+{"job": "Bergsingenjör", "translation": "산악 공학자"}
+{"job": "Civilingenjör, kvalitet, metallurgi", "translation": "금속학 품질 공학 박사"}
+{"job": "Civilingenjör, produktion, gruv, metallurgi", "translation": "생산 공학자, 광업, 금속학"}
+{"job": "Forskningsingenjör, metallurgi", "translation": "연구 엔지니어, 금속학"}
+{"job": "Geotekniker", "translation": "지질공학자"}
+{"job": "Ingenjörsgeolog", "translation": "지질학 엔지니어"}
+{"job": "Metallurg", "translation": "금속학자"}
+{"job": "Processingenjör, gruv", "translation": "광업 프로세스 엔지니어"}
+{"job": "Processingenjör, metallurgi", "translation": "금속학 프로세스 엔지니어"}
+{"job": "Produktionsingenjör, gjuteri", "translation": "주조 생산 공학자"}
+{"job": "Produktionsingenjör, gruv", "translation": "광업 생산 공학자"}
+{"job": "Projekteringsingenjör, gruv och metallurgi", "translation": "설계 엔지니어, 광업 및 금속학"}
+{"job": "Utvecklingsingenjör, gruv", "translation": "개발 엔지니어, 광업"}
+{"job": "Utvecklingsingenjör, metallurgi", "translation": "개발 엔지니어, 금속학"}
+{"job": "Valsverksingenjör", "translation": "롤링 밀 설계 엔지니어"}
+{"job": "Akustikingenjör", "translation": "음향 엔지니어"}
+{"job": "Civilingenjör, teknisk fysik", "translation": "기술물리학 공학 석사"}
+{"job": "Forskare, trafiksäkerhet", "translation": "교통 안전 연구원"}
+{"job": "Kontrollingenjör", "translation": "검사 엔지니어"}
+{"job": "Patentingenjör/Patentkonsult", "translation": "특허 엔지니어/특허 컨설턴트"}
+{"job": "Produktutvecklare", "translation": "제품 개발자"}
+{"job": "Standardiseringsingenjör", "translation": "표준화 엔지니어"}
+{"job": "Arkitekt", "translation": "건축가"}
+{"job": "Inredningsarkitekt", "translation": "실내 디자이너"}
+{"job": "Landskapsarkitekt", "translation": "조경가"}
+{"job": "Planarkitekt", "translation": "도시 계획가"}
+{"job": "Planeringsarkitekt/Fysisk planerare", "translation": "도시 계획가/물리 계획자"}
+{"job": "Stadsutvecklare/Samhällsstrateg", "translation": "도시 개발자/사회 전략가"}
+{"job": "Inköpsplanerare", "translation": "구매 계획가"}
+{"job": "Projektledare, industri", "translation": "산업 프로젝트 매니저"}
+{"job": "SQE Supplier Quality Engineer", "translation": "SQE 공급 엔지니어"}
+{"job": "Anslutningsingenjör", "translation": "연결 엔지니어"}
+{"job": "Anslutningstekniker", "translation": "연결 기술자"}
+{"job": "Automationstekniker, el", "translation": "자동화 기술자, 전기"}
+{"job": "Automationstekniker, elektronik", "translation": "자동화 기술자, 전자"}
+{"job": "Beredare, elkraft", "translation": "전력 제조자"}
+{"job": "Dataingenjör", "translation": "데이터 엔지니어"}
+{"job": "Driftingenjör, el-tele", "translation": "운영 엔지니어, 전기-통신"}
+{"job": "Driftingenjör, elkraft", "translation": "운영 엔지니어, 전력"}
+{"job": "Elektronikkonstruktör", "translation": "전자 설계자"}
+{"job": "Elektrotekniker", "translation": "전기 기술자"}
+{"job": "Elingenjör", "translation": "전기 엔지니어"}
+{"job": "Elkonstruktör", "translation": "전기 기술자/배전 기술자"}
+{"job": "Elkraftingenjör", "translation": "전기 기술자"}
+{"job": "Elkrafttekniker/Distributionstekniker", "translation": "IT 인프라 전문가"}
+{"job": "Eltekniker", "translation": "전기 설비 설계자"}
+{"job": "Infrastrukturspecialist, It", "translation": "제어 시스템 기술자"}
+{"job": "Installationsingenjör, el", "translation": "검사 엔지니어, 전자"}
+{"job": "Kontrollanläggningstekniker", "translation": "검사 기술자, 전자"}
+{"job": "Kontrollingenjör, elektronik", "translation": "전자 품질 엔지니어/전자 품질 기술자"}
+{"job": "Kontrolltekniker, elektronik", "translation": "전력 계측 기술자"}
+{"job": "Kvalitetsingenjör, elektronik/Kvalitetstekniker, elektronik", "translation": "네트워크 계획가"}
+{"job": "Mättekniker, elkraft", "translation": "전자 기술 계획가"}
+{"job": "Nätplanerare", "translation": "전력 기술 계획가"}
+{"job": "Planeringsingenjör, elektronik", "translation": "전자 생산 엔지니어"}
+{"job": "Planeringsingenjör, elkraft", "translation": "전기 프로젝트 매니저"}
+{"job": "Produktionsingenjör, elektronik", "translation": "통신 프로젝트 매니저"}
+{"job": "Projektledare, el", "translation": "검사 엔지니어, 전력"}
+{"job": "Projektledare, telekom", "translation": "전자 도면가"}
+{"job": "Provningsingenjör, elkraft", "translation": "전자 서비스 엔지니어"}
+{"job": "Ritare, elektronik", "translation": "전력 서비스 엔지니어"}
+{"job": "Signalingenjör", "translation": "신호공학자"}
+{"job": "Teleingenjör", "translation": "통신공학자"}
+{"job": "Underhållsledare, elkraft", "translation": "유지보수 지도자, 전력"}
+{"job": "Vattenkrafttekniker", "translation": "수력공학기술자"}
+{"job": "Automationsingenjör, maskin", "translation": "자동화공학자, 기계"}
+{"job": "Automationstekniker, maskin", "translation": "자동화 기술자, 기계"}
+{"job": "Automationstekniker, tillverkningsindustri", "translation": "자동화 기술자, 제조업"}
+{"job": "Driftingenjör, VA", "translation": "운영공학자, 상하수도"}
+{"job": "Driftingenjör, värmeverk", "translation": "운영공학자, 열병합 발전소"}
+{"job": "Energiingenjör", "translation": "에너지공학자"}
+{"job": "Fordonsingenjör", "translation": "차량공학자"}
+{"job": "Formbestämmare/Surface designer", "translation": "폼 디자이너/서피스 디자이너"}
+{"job": "Kalibreringsingenjör, tillverkningsindustri", "translation": "보정공학자, 제조업"}
+{"job": "Konstruktör, tillverkningsindustri", "translation": "설계자, 제조업"}
+{"job": "Kontrollingenjör, maskin", "translation": "품질관리공학자, 기계/품질 기술자, 기계"}
+{"job": "Kundserviceingenjör, tillverkningsindustri", "translation": "기계설계자"}
+{"job": "Kvalitetsingenjör, maskin/Kvalitetstekniker, maskin", "translation": "메카트로닉스 공학자"}
+{"job": "Maskinkonstruktör", "translation": "계획공학자, 기계"}
+{"job": "Mekatronikingenjör", "translation": "프로세스 기술자, 제조업"}
+{"job": "Planeringsingenjör, maskin", "translation": "생산공학자, 기계"}
+{"job": "Processtekniker, tillverkningsindustri", "translation": "생산 지도자, 제조업"}
+{"job": "Produktionsingenjör, maskin", "translation": "생산 계획자, 제조업"}
+{"job": "Produktionsledare, tillverkningsindustri", "translation": "생산 기술자, 기계/생산 기술자, 공작소"}
+{"job": "Produktionsplanerare, tillverkningsindustri", "translation": "프로젝트 매니저, 기계"}
+{"job": "Produktionstekniker, maskin/Produktionstekniker, verkstad", "translation": "프로젝트 매니저, 환기"}
+{"job": "Projektledare, maskin", "translation": "프로젝트 매니저, 냉난방"}
+{"job": "Projektledare, ventilation", "translation": "도면가, 기계"}
+{"job": "Projektledare, VS", "translation": "위성 운영자"}
+{"job": "Ritare, maskin", "translation": "서비스공학자, 기계"}
+{"job": "Satellitoperatör", "translation": "환기공학자"}
+{"job": "Serviceingenjör, maskin", "translation": "작업공학자"}
+{"job": "Ventilationsingenjör", "translation": "금형 설계자"}
+{"job": "Verkstadsingenjör", "translation": "배관 공학자"}
+{"job": "Verktygskonstruktör", "translation": "배관 기술자"}
+{"job": "VVS-ingenjör", "translation": "화학공학자"}
+{"job": "VVS-tekniker", "translation": "화학기술자"}
+{"job": "Kemiingenjör", "translation": "품질관리공학사, 화학공학"}
+{"job": "Kemitekniker", "translation": "품질 기술자, 화학기술"}
+{"job": "Kontrollingenjör, kemiteknik", "translation": "품질공학사, 화학공학 / 품질 기술자, 화학기술"}
+{"job": "Kontrolltekniker, kemiteknik", "translation": "식품공학자"}
+{"job": "Kvalitetsingenjör, kemiteknik/Kvalitetstekniker, kemiteknik", "translation": "식품기술자"}
+{"job": "Livsmedelsingenjör", "translation": "치즈 담당자"}
+{"job": "Livsmedelstekniker", "translation": "계획공학자, 화학공학"}
+{"job": "Ostmästare", "translation": "계획 기술자, 화학공학"}
+{"job": "Planeringsingenjör, kemiteknik", "translation": "프로세스 공학자, 화학공학"}
+{"job": "Planeringstekniker, kemiteknik", "translation": "생산공학자, 화학"}
+{"job": "Processingenjör, kemiteknik", "translation": "프로젝트 매니저, 화학공학"}
+{"job": "Produktionsingenjör, kemi", "translation": "서비스공학자, 화학공학"}
+{"job": "Valideringsingenjör", "translation": "검증 엔지니어"}
+{"job": "Automationsingenjör, gruvteknik och metallurgi", "translation": "자동화 엔지니어, 광업 기술 및 금속학"}
+{"job": "Borrledare, petroleumutvinning", "translation": "드릴 팀장, 석유 추출"}
+{"job": "Gruvmätare", "translation": "광산 측량사"}
+{"job": "Kontrollingenjör, gruv, metallurgi", "translation": "품질 관리 엔지니어, 광산, 금속학"}
+{"job": "Kvalitetsingenjör, metallurgi/Kvalitetstekniker, metallurgi", "translation": "품질 엔지니어, 금속학 / 품질 기술자, 금속학"}
+{"job": "Laboratorieingenjör, metallurgi", "translation": "실험실 엔지니어, 금속학"}
+{"job": "Planeringstekniker, metallurgi", "translation": "계획 기술자, 금속학"}
+{"job": "Processtekniker, gjuteri", "translation": "프로세스 기술자, 주조"}
+{"job": "Produktionsingenjör, gruv, metallurgi", "translation": "생산 엔지니어, 광산, 금속학"}
+{"job": "Produktionstekniker, petroleumutvinning", "translation": "생산 기술자, 석유 추출"}
+{"job": "Projektledare, gruva", "translation": "프로젝트 매니저, 광산"}
+{"job": "Serviceingenjör, metallurgi", "translation": "서비스 엔지니어, 금속학"}
+{"job": "Sprängingenjör", "translation": "폭파 엔지니어"}
+{"job": "Underhållschef", "translation": "유지 보수 책임자"}
+{"job": "Underhållsplanerare", "translation": "유지 보수 계획자"}
+{"job": "Geodatasamordnare", "translation": "지오 데이터 조정자"}
+{"job": "Geodet", "translation": "전문 측량사"}
+{"job": "GIS-ingenjör", "translation": "GIS 엔지니어"}
+{"job": "Kartingenjör", "translation": "지도 제작 엔지니어"}
+{"job": "Kartograf", "translation": "지도 작성가"}
+{"job": "Kartritare", "translation": "지도 기술자"}
+{"job": "Karttekniker", "translation": "측량 엔지니어"}
+{"job": "Lantmäteriingenjör", "translation": "계층치 엔지니어 / MBK 엔지니어"}
+{"job": "Mätningsingenjör/MBK-ingenjör", "translation": "측량 기술자, 건설"}
+{"job": "Mätningstekniker, bygg", "translation": "해양 측량사"}
+{"job": "Sjömätare", "translation": "3D 프린팅 전문가"}
+{"job": "3D-printingspecialist", "translation": "영업 담당 기술자, 탐사"}
+{"job": "Depåtekniker, prospektering", "translation": "현장 지질 기술자"}
+{"job": "Fältgeotekniker", "translation": "포장 기술자"}
+{"job": "Förpackningstekniker", "translation": "설계자, 섬유, 나무, 유리, 포장재"}
+{"job": "Konstruktör, textil, trä, glas, förpackningar", "translation": "품질 관리 엔지니어, 섬유, 나무, 유리, 포장재"}
+{"job": "Kontrollingenjör, textil, trä, glas, förpackningar", "translation": "금속 제품 품질 검사원"}
+{"job": "Kontrolloperatör, metallprodukter", "translation": "품질 기술자, 섬유, 나무, 유리, 포장재"}
+{"job": "Kontrolltekniker, textil, trä, glas, förpackningar", "translation": "품질 엔지니어, 섬유, 나무, 유리, 포장재"}
+{"job": "Kvalitetsingenjör, textil, trä, glas, förpackningar", "translation": "품질 계량사, 금속 제품"}
+{"job": "Kvalitetsmätare, metallprodukter", "translation": "측량 기술자, 지질학"}
+{"job": "Mättekniker, geologi", "translation": "측량 기술자, 금속 제품"}
+{"job": "Mättekniker, metallprodukter", "translation": "계획 엔지니어, 섬유, 나무, 유리, 포장재"}
+{"job": "Planeringsingenjör, textil, trä, glas, förpackningar", "translation": "계획 기술자, 섬유, 유리, 나무, 포장재"}
+{"job": "Planeringstekniker, textil, glas, trä, förpackningar", "translation": "생산 엔지니어, 섬유, 나무, 유리, 포장재"}
+{"job": "Produktionsingenjör, textil, trä, glas, förpackningar", "translation": "도면가, 섬유, 나무, 유리, 포장재"}
+{"job": "Ritare, textil, trä, glas, förpackningar", "translation": "기술 문서 작성자"}
+{"job": "Teknisk dokumentatör", "translation": "섬유 엔지니어"}
+{"job": "Textilingenjör", "translation": "전기 및 항공 전자 기술자 / IERA 기술자"}
+{"job": "El- och avioniktekniker/IERA- tekniker", "translation": "비행 기술자"}
+{"job": "Flygtekniker", "translation": "헬기 기술자"}
+{"job": "Helikoptertekniker", "translation": "치과 기술자 / 치과 장비 기술자"}
+{"job": "Dentaltekniker/Dentalutrustningstekniker", "translation": "의료 기술 엔지니어"}

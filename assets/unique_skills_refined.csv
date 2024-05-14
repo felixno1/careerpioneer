@@ -10,25 +10,21 @@ ekonomi,253956,1
 kommunikation,243532,5
 dokumentation,222709,8
 administration,222073,1
-verktyg,221537,5
 undervisning,214354,15
 miljö,203774,1
 högskoleutbildning,202811,1
 gymnasieutbildning,194297,1
 ledarskap,186367,20
-data,165026,3
+data,165026,
 truckkort,156465,19
 rekrytering,147953,1
-nätverk,147445,3
 excel,142120,1
 administrativa uppgifter,139421,1
 energi,132339,5
 förskola,130722,15
-resor,128576,5
 eftergymnasial utbildning,128164,1
 lager,126180,19
 kundservice,125861,5
-språkkunskaper,125671,8
 omsorg,121949,16
 el,121639,10
 ungdomar,120337,16
@@ -38,9 +34,6 @@ design,116389,3
 arbetsmiljö,115290,20
 inköp,112755,5
 mat,112742,7
-omvårdnad,111960,8
-samverkan,111427,15
-insatser,110781,8
 personalansvar,108580,20
 handledning,105203,8
 industri,100013,9
@@ -59,30 +52,24 @@ forskning,87817,15
 städning,85282,12
 drifting,83980,3
 kundrelationer,81316,5
-vidareutbildning,80744,8
 analys,80201,1
 behandling,78844,8
 god fysik,78206,19
 redovisning,77070,1
-CAN,77004,5
 rådgivning,76565,5
 lärarlegitimation,73772,15
 coachning,73610,5
 matlagning,73300,16
-kontroll,72951,1
 montering,72600,9
-utrustning,72580,10
 programmering,71778,3
 beställningar,71531,5
 funktionsnedsättning,71521,16
-högskola,69660,1
 fordon,69527,10
 försäkring,69049,1
 transport,68987,19
 förbättringsarbete,68935,8
 rör,68923,1
 psykiatri,68779,8
-kollektivavtal,68430,5
 rapportering,66231,1
 restaurang,65975,7
 bilen,65831,9
@@ -90,66 +77,37 @@ myndigheter,65752,1
 installation,64737,10
 affärssystem,62823,5
 marknadsföring,62734,5
-gymnasiet,62695,15
-säljerfarenhet,61715,5
-anläggning,60799,2
 träning,60413,16
 matematik,60004,15
 hälsovård,59683,8
 primärvård,59620,8
 kompetensutveckling,58441,8
-ritningsläsning,58159,9
 automation,58030,18
 äldreomsorg,57310,8
 hjälpmedel,57158,8
 upphandling,56947,5
-sales,56858,5
-ledning,56739,20
 innovation,56480,3
-assistans,55200,16
-kundbemötande,54832,5
 kundtjänst,54763,5
-LSS,54093,16
-högskoleexamen,53556,1
-personlig utveckling,53171,5
-truckkörning,51361,19
 it-kunskaper,50507,15
 förändringsarbete,50454,20
 mekanik,50425,10
-akademisk examen,50226,1
 feedback,49643,5
 mottagning,49421,8
-vårderfarenhet,48997,8
-SAP CRM,48421,1
-konsultchefer,48117,8
-personuppgifter,47940,8
 specialistutbildning,46904,8
 hemsjukvård,46891,8
 datorkunskaper,46488,8
-musik,46100,15
-förvaltning,45679,3
-elektronik,45674,18
-myndighetsutövning,45124,16
 fakturering,45065,1
-regler,44939,1
-socionomexamen,44881,16
 handläggning,44716,1
 kvalitetsarbete,44128,20
 B2B,43950,5
 registrering,43629,1
-kultur,43577,15
 kök,43335,7
 event,43204,5
 registerkontroll,43151,8
-YKB,42681,19
 verksamhetsutveckling,42471,20
-vårdcentral,42203,8
 budgetansvar,41953,20
 hemtjänst,41581,8
 kassaarbete,41452,5
-truck,41307,19
-sociala medier,41133,5
-gymnasiekompetens,40988,5
 finska,40861,5
 tunga lyft,40824,19
 java,40626,3
@@ -157,10 +115,8 @@ schemaläggning,40507,20
 arbetsledning,40365,20
 pedagogik,40289,1
 teknisk utbildning,40155,10
-vision,39968,20
 akutsjukvård,39964,8
 merförsäljning,39797,5
-skötsel,39695,10
 byggbranschen,39544,2
 rehabilitering,39539,8
 fritidshem,39389,15
@@ -173,13 +129,10 @@ tillverkning,37983,9
 verksamhetsområden,37884,20
 regelverk,37824,1
 socialtjänst,37680,16
-gymnasieexamen,37670,15
 media,37628,5
 idrott,37447,15
 juridik,37250,1
-grundskolan,36950,15
 performance,36943,3
-bild,36897,15
 statistik,36708,1
 utredning,36698,8
 research,35333,3
@@ -197,14 +150,12 @@ universitetsutbildning,34025,1
 personlig hygien,33602,16
 datorer,33600,3
 arbetsliv,33563,5
-ständiga förbättringar,33442,18
 svenska som andraspråk,32984,15
 tvätt,32791,8
 jakt,32673,8
 marketing,32609,5
 microsoft windows,32575,3
 integration,32432,3
-ledarerfarenhet,32355,20
 bokslut,32090,1
 avstämningar,32073,1
 infrastruktur,31870,3
@@ -215,7 +166,6 @@ lärarexamen,31582,15
 it-system,31547,3
 kassa,31433,5
 telefonrådgivning,31239,8
-gymnasium,31193,8
 styrning,31185,20
 bemanningsföretag,30984,8
 teamarbete,30978,8
@@ -332,7 +282,6 @@ säljutbildning,21189,5
 fysik,21139,15
 kunskapsutveckling,21136,15
 vatten,21017,2
-IKT,20888,15
 resultatansvar,20866,20
 arkiv,20761,1
 förebyggande underhåll,20687,10
@@ -371,7 +320,6 @@ testning,18990,3
 CSS,18975,3
 inleveranser,18969,19
 office 365,18828,3
-ITS,18787,5
 exponering,18726,5
 sortering,18700,19
 yrkeshögskola,18677,1
@@ -444,7 +392,6 @@ systemvetenskap,16157,3
 active directory,16142,3
 fortbildning,16067,8
 entreprenadjuridik,15997,2
-ITIL,15984,3
 information technology,15984,3
 larm,15962,10
 ärendehantering,15939,1
@@ -452,13 +399,11 @@ it-branschen,15937,3
 affärsutveckling,15899,5
 prognoser,15891,1
 storkök,15834,7
-ACT,15819,3
 omsorgsarbete,15812,8
 motviktstruck,15799,19
 tillverkningsindustrin,15788,9
 utvecklingssamtal,15767,15
 kontinuerlig coachning,15749,1
-försvarsmakten,15684,1
 verksamhetsansvar,15601,20
 barn och ungdom,15594,8
 tydliggörande pedagogik,15486,16
@@ -530,7 +475,6 @@ datavetenskap,13310,3
 renhållning,13244,7
 förskollärarexamen,13243,15
 lagarbete,13229,5
-SFI,13202,15
 client,13174,3
 sjukvårdsinsatser,13170,8
 förhandling,13170,5
@@ -554,11 +498,9 @@ forskningsprojekt,12752,15
 reglerteknik,12724,10
 melior,12696,8
 snickeri,12677,2
-ADR,12676,19
 samhällsvetenskap,12637,1
 tandvård,12625,8
 ekonomisk uppföljning,12598,1
-ART,12571,3
 tunga fordon,12566,10
 verifiering,12533,18
 embedded system,12522,3
@@ -571,7 +513,6 @@ kravställning,12414,3
 pedagogisk verksamhet,12405,15
 good manufacturing practice,12383,9
 prospektering,12373,5
-LVU,12372,16
 fastighetsskötsel,12310,10
 abonnemang,12304,5
 palliativ vård,12302,8
@@ -594,20 +535,17 @@ biologi,12038,15
 möbler,11979,19
 personbilar,11969,10
 bevakning,11952,1
-NPF,11881,15
 nykundsbearbetning,11880,5
 pneumatik,11859,10
 akutmottagning,11828,8
 mobil,11796,8
 effektivisering,11788,1
-PMO,11761,8
 yrkesvägledning,11760,1
 epilepsi,11750,16
 artificial intelligence,11746,3
 sjuksköterskeexamen,11732,8
 socionomutbildning,11719,16
 försäljningsarbete,11686,5
-lou,11671,5
 bokslutsarbete,11658,1
 paketering,11600,19
 metodutveckling,11593,18
@@ -615,7 +553,6 @@ frukost,11592,7
 intellektuell funktionsnedsättning,11592,16
 studievägledning,11583,1
 vårdplanering,11575,8
-AKK,11558,16
 sharepoint,11396,3
 it-säkerhet,11375,3
 API,11349,3
@@ -652,8 +589,6 @@ produktionsteknik,10544,18
 socialpsykiatri,10541,16
 it-vana,10535,1
 deployment,10492,3
-HSL,10480,8
-PC,10428,3
 åtgärdsprogram,10416,15
 utvecklingsprocesser,10413,3
 validering,10413,18
@@ -662,7 +597,6 @@ tekniska frågor,10390,5
 säkerhetsarbete,10388,17
 kontorsmaterial,10359,1
 extraarbete,10347,5
-barnavårdscentral,10312,8
 geografiska informationssystem,10311,18
 hemstädning,10298,12
 manualer,10284,10
@@ -698,7 +632,6 @@ civilingenjörsutbildning,9742,18
 windows server,9733,3
 vårdutbildning,9714,16
 forskarutbildning,9707,15
-höjder,9704,5
 förskrivning,9687,8
 remisshantering,9670,1
 gymnastik,9650,15
@@ -713,14 +646,11 @@ ekonomiavdelning,9527,1
 fakturafrågor,9515,5
 anestesi,9492,8
 node,9491,3
-idrott och hälsa,9483,15
 docker,9466,3
 allergi,9460,16
 prognosarbete,9454,1
 utvecklingsteam,9454,3
 neuropsykiatriska funktionsnedsättningar,9406,16
-moms,9365,1
-arbetskläder,9358,12
 naturvetenskap,9340,15
 växel,9331,1
 verkstadsarbete,9321,9
@@ -735,8 +665,6 @@ mekatronik,9219,18
 teknisk fysik,9215,18
 försäljningsprocessen,9210,5
 hantverk,9205,9
-meka,9205,9
-switch,9196,3
 stål,9187,5
 uppgraderingar,9168,10
 matlab,9162,3
@@ -749,7 +677,6 @@ barnskötarutbildning,9122,15
 B2C,9114,5
 erfarenhet av barn,9098,16
 SEO,9095,5
-slöjd,9069,15
 annonsering,9037,5
 uppbyggnad,9037,18
 digital marknadsföring,9016,5

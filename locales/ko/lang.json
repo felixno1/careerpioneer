@@ -1,6 +1,33 @@
 {
-    "title": "직업 나침반",
-    "welcome": "환영합니다"
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "환영합니다",
+    "what_do_you_need_help_with": "어떤 도움이 필요하신가요?",
+    "guidance": "스웨덴 취업 시장에 대한 일반적인 안내",
+    "job_finder": "당신의 기술에 기반한 일자리 찾기",
+    "tell_me_more": "더 알려주세요",
+    "elaborate": "자세히 알려주세요",
+    "ask_ai": "AI에게 물어보세요...",
+    "what_skills": "어떤 기술을 가지고 계신가요?",
+    "search_job": "직업 찾기!",
+    "ai_loading": "AI가 직업을 생성 중입니다...",
+    "recommended_jobs": "추천 직업",
+    "n_of_ads_1": "현재 ",
+    "n_of_ads_2": "개의 채용 공고가 있습니다",
+    "show_ads":  "광고 보기",
+    "terminology": {
+        "header": "공통 용어",
+        "content" : [
+
+        ]
+    },
+    "legal": {
+        "header": "법률 및 규정",
+        "content" : [
+        
+        ]
+    }
 }
 
 

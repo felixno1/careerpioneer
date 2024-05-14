@@ -3,6 +3,7 @@
     "title-right": "PIONEER",
     "careerpioneer": "CareerPioneer",
     "welcome": "Välkommen",
+    "what_do_you_need_help_with": "Vad behöver du hjälp med?",
     "guidance": "Allmän vägledning kring den svenska arbetsmarknaden",
     "job_finder": "Hitta ett jobb baserat på dina kompetenser",
     "tell_me_more": "Berätta mer",
@@ -14,8 +15,9 @@
     "recommended_jobs": "Rekommenderade jobb",
     "n_of_ads_1": "Det finns just nu",
     "n_of_ads_2": "annonser annonser för yrket",
+    "show_ads": "Visa annonser",
     "terminology": {
-        "header": "Common terminology",
+        "header": "Vanliga begrepp",
         "content" : [
             {
                 "title": "Kollektivavtal",
@@ -72,7 +74,7 @@
         ]
     },
     "legal": {
-        "header": "Laws & regulations",
+        "header": "Lagar & regler",
         "content" : [
             {
                "title": "Arbetsmiljölagen",

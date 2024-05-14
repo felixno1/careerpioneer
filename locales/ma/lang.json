@@ -1,8 +1,33 @@
 {
-    "title": "职业指南针",
-    "welcome": "欢迎"
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "欢迎",
+    "what_do_you_need_help_with": "您需要帮助吗？",
+    "guidance": "关于瑞典就业市场的一般指导",
+    "job_finder": "根据您的技能找到工作",
+    "tell_me_more": "告诉我更多",
+    "elaborate": "详细告诉我",
+    "ask_ai": "询问AI...",
+    "what_skills": "你有哪些技能？",
+    "search_job": "找工作！",
+    "ai_loading": "AI正在生成职业...",
+    "recommended_jobs": "推荐职位",
+    "n_of_ads_1": "目前有",
+    "n_of_ads_2": "个职位空缺",
+    "show_ads": "显示广告",
+    "terminology": {
+        "header": "常用术语",
+        "content" : [
+
+        ]
+    },
+    "legal": {
+        "header": "法律与规章",
+        "content" : [
+        
+        ]
+    }
 }
-
-
 
 

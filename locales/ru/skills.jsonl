@@ -1,0 +1,674 @@
+{"skill": "försäljning", "count": 549402, "field_id": 5, "translation": "продажи"}
+{"skill": "arbetslivserfarenhet", "count": 364881, "field_id": 1, "translation": "трудовой опыт"}
+{"skill": "barn", "count": 350870, "field_id": 15, "translation": "дети"}
+{"skill": "datorvana", "count": 309339, "field_id": 8, "translation": "компьютерные навыки"}
+{"skill": "sjukvård", "count": 309193, "field_id": 8, "translation": "здравоохранение"}
+{"skill": "microsoft office", "count": 262672, "field_id": 1, "translation": "Microsoft Office"}
+{"skill": "teknik", "count": 255631, "field_id": 3, "translation": "технология"}
+{"skill": "ekonomi", "count": 253956, "field_id": 1, "translation": "экономика"}
+{"skill": "kommunikation", "count": 243532, "field_id": 5, "translation": "коммуникация"}
+{"skill": "dokumentation", "count": 222709, "field_id": 8, "translation": "документация"}
+{"skill": "administration", "count": 222073, "field_id": 1, "translation": "администрирование"}
+{"skill": "undervisning", "count": 214354, "field_id": 15, "translation": "обучение"}
+{"skill": "miljö", "count": 203774, "field_id": 1, "translation": "окружающая среда"}
+{"skill": "högskoleutbildning", "count": 202811, "field_id": 1, "translation": "высшее образование"}
+{"skill": "gymnasieutbildning", "count": 194297, "field_id": 1, "translation": "среднее образование"}
+{"skill": "ledarskap", "count": 186367, "field_id": 20, "translation": "лидерство"}
+{"skill": "data", "count": 165026, "field_id": 3, "translation": "данные"}
+{"skill": "truckkort", "count": 156465, "field_id": 19, "translation": "права на управление погрузчиком"}
+{"skill": "rekrytering", "count": 147953, "field_id": 1, "translation": "рекрутинг"}
+{"skill": "excel", "count": 142120, "field_id": 1, "translation": "Excel"}
+{"skill": "administrativa uppgifter", "count": 139421, "field_id": 1, "translation": "административные обязанности"}
+{"skill": "energi", "count": 132339, "field_id": 5, "translation": "энергия"}
+{"skill": "förskola", "count": 130722, "field_id": 15, "translation": "дошкольное образование"}
+{"skill": "eftergymnasial utbildning", "count": 128164, "field_id": 1, "translation": "послегимназическое образование"}
+{"skill": "lager", "count": 126180, "field_id": 19, "translation": "склад"}
+{"skill": "kundservice", "count": 125861, "field_id": 5, "translation": "обслуживание клиентов"}
+{"skill": "omsorg", "count": 121949, "field_id": 16, "translation": "забота"}
+{"skill": "el", "count": 121639, "field_id": 10, "translation": "электричество"}
+{"skill": "ungdomar", "count": 120337, "field_id": 16, "translation": "подростки"}
+{"skill": "utvecklingsarbete", "count": 119532, "field_id": 8, "translation": "развитие"}
+{"skill": "material", "count": 119378, "field_id": 9, "translation": "материал"}
+{"skill": "design", "count": 116389, "field_id": 3, "translation": "дизайн"}
+{"skill": "arbetsmiljö", "count": 115290, "field_id": 20, "translation": "трудовая среда"}
+{"skill": "inköp", "count": 112755, "field_id": 5, "translation": "закупки"}
+{"skill": "mat", "count": 112742, "field_id": 7, "translation": "еда"}
+{"skill": "personalansvar", "count": 108580, "field_id": 20, "translation": "ответственность за персонал"}
+{"skill": "handledning", "count": 105203, "field_id": 8, "translation": "наставничество"}
+{"skill": "industri", "count": 100013, "field_id": 9, "translation": "промышленность"}
+{"skill": "leverantörer", "count": 98028, "field_id": 5, "translation": "поставщики"}
+{"skill": "styrdokument", "count": 97249, "field_id": 15, "translation": "регулирующие документы"}
+{"skill": "hälsa", "count": 96522, "field_id": 8, "translation": "здоровье"}
+{"skill": "budget", "count": 94999, "field_id": 20, "translation": "бюджет"}
+{"skill": "reparation", "count": 94535, "field_id": 10, "translation": "ремонт"}
+{"skill": "projektledning", "count": 93753, "field_id": 18, "translation": "управление проектами"}
+{"skill": "felsökning", "count": 91975, "field_id": 10, "translation": "исправление неисправностей"}
+{"skill": "butik", "count": 90491, "field_id": 5, "translation": "магазин"}
+{"skill": "problemlösning", "count": 90224, "field_id": 10, "translation": "решение проблем"}
+{"skill": "säkerhet", "count": 89660, "field_id": 5, "translation": "безопасность"}
+{"skill": "logistik", "count": 89449, "field_id": 19, "translation": "логистика"}
+{"skill": "forskning", "count": 87817, "field_id": 15, "translation": "исследования"}
+{"skill": "städning", "count": 85282, "field_id": 12, "translation": "уборка"}
+{"skill": "drifting", "count": 83980, "field_id": 3, "translation": "дрифтинг"}
+{"skill": "kundrelationer", "count": 81316, "field_id": 5, "translation": "клиентские отношения"}
+{"skill": "analys", "count": 80201, "field_id": 1, "translation": "анализ"}
+{"skill": "behandling", "count": 78844, "field_id": 8, "translation": "обработка"}
+{"skill": "god fysik", "count": 78206, "field_id": 19, "translation": "физическая подготовка"}
+{"skill": "redovisning", "count": 77070, "field_id": 1, "translation": "бухгалтерия"}
+{"skill": "rådgivning", "count": 76565, "field_id": 5, "translation": "консультирование"}
+{"skill": "lärarlegitimation", "count": 73772, "field_id": 15, "translation": "лицензия учителя"}
+{"skill": "coachning", "count": 73610, "field_id": 5, "translation": "коучинг"}
+{"skill": "matlagning", "count": 73300, "field_id": 16, "translation": "готовка"}
+{"skill": "montering", "count": 72600, "field_id": 9, "translation": "сборка"}
+{"skill": "programmering", "count": 71778, "field_id": 3, "translation": "программирование"}
+{"skill": "beställningar", "count": 71531, "field_id": 5, "translation": "заказы"}
+{"skill": "funktionsnedsättning", "count": 71521, "field_id": 16, "translation": "инвалидность"}
+{"skill": "fordon", "count": 69527, "field_id": 10, "translation": "транспортное средство"}
+{"skill": "försäkring", "count": 69049, "field_id": 1, "translation": "страхование"}
+{"skill": "transport", "count": 68987, "field_id": 19, "translation": "транспорт"}
+{"skill": "förbättringsarbete", "count": 68935, "field_id": 8, "translation": "улучшение работы"}
+{"skill": "rör", "count": 68923, "field_id": 1, "translation": "трубы"}
+{"skill": "psykiatri", "count": 68779, "field_id": 8, "translation": "психиатрия"}
+{"skill": "rapportering", "count": 66231, "field_id": 1, "translation": "отчетность"}
+{"skill": "restaurang", "count": 65975, "field_id": 7, "translation": "ресторан"}
+{"skill": "bilen", "count": 65831, "field_id": 9, "translation": "автомобиль"}
+{"skill": "myndigheter", "count": 65752, "field_id": 1, "translation": "государственные органы"}
+{"skill": "installation", "count": 64737, "field_id": 10, "translation": "установка"}
+{"skill": "affärssystem", "count": 62823, "field_id": 5, "translation": "бизнес-система"}
+{"skill": "marknadsföring", "count": 62734, "field_id": 5, "translation": "маркетинг"}
+{"skill": "träning", "count": 60413, "field_id": 16, "translation": "тренировка"}
+{"skill": "matematik", "count": 60004, "field_id": 15, "translation": "математика"}
+{"skill": "hälsovård", "count": 59683, "field_id": 8, "translation": "здравоохранение"}
+{"skill": "primärvård", "count": 59620, "field_id": 8, "translation": "первичная медицинская помощь"}
+{"skill": "kompetensutveckling", "count": 58441, "field_id": 8, "translation": "профессиональное развитие"}
+{"skill": "automation", "count": 58030, "field_id": 18, "translation": "автоматизация"}
+{"skill": "äldreomsorg", "count": 57310, "field_id": 8, "translation": "уход за пожилыми"}
+{"skill": "upphandling", "count": 56947, "field_id": 5, "translation": "закупки"}
+{"skill": "innovation", "count": 56480, "field_id": 3, "translation": "инновации"}
+{"skill": "kundtjänst", "count": 54763, "field_id": 5, "translation": "обслуживание клиентов"}
+{"skill": "it-kunskaper", "count": 50507, "field_id": 15, "translation": "навыки работы с IT"}
+{"skill": "förändringsarbete", "count": 50454, "field_id": 20, "translation": "работа над изменениями"}
+{"skill": "mekanik", "count": 50425, "field_id": 10, "translation": "механика"}
+{"skill": "feedback", "count": 49643, "field_id": 5, "translation": "обратная связь"}
+{"skill": "mottagning", "count": 49421, "field_id": 8, "translation": "прием"}
+{"skill": "specialistutbildning", "count": 46904, "field_id": 8, "translation": "специализированное обучение"}
+{"skill": "hemsjukvård", "count": 46891, "field_id": 8, "translation": "домашняя медицинская помощь"}
+{"skill": "datorkunskaper", "count": 46488, "field_id": 8, "translation": "компьютерная грамотность"}
+{"skill": "fakturering", "count": 45065, "field_id": 1, "translation": "выставление счетов"}
+{"skill": "handläggning", "count": 44716, "field_id": 1, "translation": "делопроизводство"}
+{"skill": "kvalitetsarbete", "count": 44128, "field_id": 20, "translation": "качественная работа"}
+{"skill": "B2B", "count": 43950, "field_id": 5, "translation": "B2B"}
+{"skill": "registrering", "count": 43629, "field_id": 1, "translation": "регистрация"}
+{"skill": "kök", "count": 43335, "field_id": 7, "translation": "кухня"}
+{"skill": "event", "count": 43204, "field_id": 5, "translation": "мероприятие"}
+{"skill": "registerkontroll", "count": 43151, "field_id": 8, "translation": "контроль регистрации"}
+{"skill": "verksamhetsutveckling", "count": 42471, "field_id": 20, "translation": "развитие деятельности"}
+{"skill": "budgetansvar", "count": 41953, "field_id": 20, "translation": "ответственность за бюджет"}
+{"skill": "hemtjänst", "count": 41581, "field_id": 8, "translation": "домашний уход"}
+{"skill": "kassaarbete", "count": 41452, "field_id": 5, "translation": "кассовая работа"}
+{"skill": "finska", "count": 40861, "field_id": 5, "translation": "финский"}
+{"skill": "tunga lyft", "count": 40824, "field_id": 19, "translation": "тяжелый груз"}
+{"skill": "java", "count": 40626, "field_id": 3, "translation": "Java"}
+{"skill": "schemaläggning", "count": 40507, "field_id": 20, "translation": "планирование графика"}
+{"skill": "arbetsledning", "count": 40365, "field_id": 20, "translation": "руководство работой"}
+{"skill": "pedagogik", "count": 40289, "field_id": 1, "translation": "педагогика"}
+{"skill": "teknisk utbildning", "count": 40155, "field_id": 10, "translation": "техническое образование"}
+{"skill": "akutsjukvård", "count": 39964, "field_id": 8, "translation": "скорая медицинская помощь"}
+{"skill": "merförsäljning", "count": 39797, "field_id": 5, "translation": "дополнительные продажи"}
+{"skill": "byggbranschen", "count": 39544, "field_id": 2, "translation": "строительная отрасль"}
+{"skill": "rehabilitering", "count": 39539, "field_id": 8, "translation": "реабилитация"}
+{"skill": "fritidshem", "count": 39389, "field_id": 15, "translation": "досуговая деятельность"}
+{"skill": "journalsystem", "count": 39226, "field_id": 8, "translation": "система электронного документооборота"}
+{"skill": "organisationer", "count": 39221, "field_id": 1, "translation": "организации"}
+{"skill": "konstruktion", "count": 38350, "field_id": 18, "translation": "конструкция"}
+{"skill": "samordning", "count": 37997, "field_id": 1, "translation": "координация"}
+{"skill": "varumärken", "count": 37995, "field_id": 5, "translation": "бренды"}
+{"skill": "tillverkning", "count": 37983, "field_id": 9, "translation": "производство"}
+{"skill": "verksamhetsområden", "count": 37884, "field_id": 20, "translation": "области деятельности"}
+{"skill": "regelverk", "count": 37824, "field_id": 1, "translation": "нормативно-правовые акты"}
+{"skill": "socialtjänst", "count": 37680, "field_id": 16, "translation": "социальное обслуживание"}
+{"skill": "media", "count": 37628, "field_id": 5, "translation": "медиа"}
+{"skill": "idrott", "count": 37447, "field_id": 15, "translation": "спорт"}
+{"skill": "juridik", "count": 37250, "field_id": 1, "translation": "юриспруденция"}
+{"skill": "performance", "count": 36943, "field_id": 3, "translation": "производительность"}
+{"skill": "statistik", "count": 36708, "field_id": 1, "translation": "статистика"}
+{"skill": "utredning", "count": 36698, "field_id": 8, "translation": "исследование"}
+{"skill": "research", "count": 35333, "field_id": 3, "translation": "социальная работа"}
+{"skill": "socialt arbete", "count": 35236, "field_id": 16, "translation": "Python"}
+{"skill": "python", "count": 35104, "field_id": 3, "translation": "обслуживание"}
+{"skill": "servering", "count": 34847, "field_id": 7, "translation": "уход за детьми"}
+{"skill": "barnpassning", "count": 34679, "field_id": 12, "translation": "JavaScript"}
+{"skill": "javascript", "count": 34666, "field_id": 3, "translation": "консультационное задание"}
+{"skill": "konsultuppdrag", "count": 34659, "field_id": 1, "translation": "C#"}
+{"skill": "C#", "count": 34495, "field_id": 3, "translation": "услуги по найму персонала"}
+{"skill": "rekryteringstjänster", "count": 34461, "field_id": 8, "translation": "право"}
+{"skill": "lag", "count": 34403, "field_id": 9, "translation": "аутизм"}
+{"skill": "autism", "count": 34191, "field_id": 16, "translation": "университетское образование"}
+{"skill": "universitetsutbildning", "count": 34025, "field_id": 1, "translation": "личная гигиена"}
+{"skill": "personlig hygien", "count": 33602, "field_id": 16, "translation": "компьютеры"}
+{"skill": "datorer", "count": 33600, "field_id": 3, "translation": "трудовая деятельность"}
+{"skill": "svenska som andraspråk", "count": 32984, "field_id": 15, "translation": "шведский как второй язык"}
+{"skill": "tvätt", "count": 32791, "field_id": 8, "translation": "стирка"}
+{"skill": "jakt", "count": 32673, "field_id": 8, "translation": "охота"}
+{"skill": "marketing", "count": 32609, "field_id": 5, "translation": "маркетинг"}
+{"skill": "microsoft windows", "count": 32575, "field_id": 3, "translation": "microsoft windows"}
+{"skill": "integration", "count": 32432, "field_id": 3, "translation": "интеграция"}
+{"skill": "bokslut", "count": 32090, "field_id": 1, "translation": "годовой отчет"}
+{"skill": "avstämningar", "count": 32073, "field_id": 1, "translation": "сверки"}
+{"skill": "infrastruktur", "count": 31870, "field_id": 3, "translation": "инфраструктура"}
+{"skill": "utvecklingsprojekt", "count": 31673, "field_id": 18, "translation": "проекты развития"}
+{"skill": "arbetsmiljöansvar", "count": 31617, "field_id": 20, "translation": "ответственность за рабочую среду"}
+{"skill": "fastigheter", "count": 31609, "field_id": 10, "translation": "недвижимость"}
+{"skill": "lärarexamen", "count": 31582, "field_id": 15, "translation": "диплом учителя"}
+{"skill": "it-system", "count": 31547, "field_id": 3, "translation": "ит-системы"}
+{"skill": "kassa", "count": 31433, "field_id": 5, "translation": "касса"}
+{"skill": "telefonrådgivning", "count": 31239, "field_id": 8, "translation": "телефонные консультации"}
+{"skill": "styrning", "count": 31185, "field_id": 20, "translation": "управление"}
+{"skill": "bemanningsföretag", "count": 30984, "field_id": 8, "translation": "агентство по подбору персонала"}
+{"skill": "teamarbete", "count": 30978, "field_id": 8, "translation": "командная работа"}
+{"skill": "verkstad", "count": 30836, "field_id": 10, "translation": "мастерская"}
+{"skill": "kampanjer", "count": 30798, "field_id": 5, "translation": "кампании"}
+{"skill": "teknisk support", "count": 30554, "field_id": 5, "translation": "техническая поддержка"}
+{"skill": "äldreboende", "count": 30546, "field_id": 8, "translation": "дом престарелых"}
+{"skill": "digitalisering", "count": 30411, "field_id": 1, "translation": "цифровизация"}
+{"skill": "tillgänglighet", "count": 30387, "field_id": 5, "translation": "доступность"}
+{"skill": "bank", "count": 30171, "field_id": 1, "translation": "банк"}
+{"skill": "mjukvara", "count": 29976, "field_id": 3, "translation": "программное обеспечение"}
+{"skill": "leverantörsreskontra", "count": 29898, "field_id": 1, "translation": "учет поставщиков"}
+{"skill": "systemutveckling", "count": 29886, "field_id": 3, "translation": "разработка систем"}
+{"skill": "teknikintresse", "count": 29848, "field_id": 10, "translation": "технический интерес"}
+{"skill": "vägledning", "count": 29844, "field_id": 1, "translation": "консультация"}
+{"skill": "lokalvård", "count": 29826, "field_id": 12, "translation": "уборка помещений"}
+{"skill": "hotell", "count": 29789, "field_id": 7, "translation": "отель"}
+{"skill": "lastning", "count": 29727, "field_id": 19, "translation": "погрузка"}
+{"skill": "tyska", "count": 29703, "field_id": 5, "translation": "немецкий"}
+{"skill": "svetsning", "count": 29571, "field_id": 9, "translation": "сварка"}
+{"skill": "reception", "count": 29462, "field_id": 1, "translation": "ресепшн"}
+{"skill": "tester", "count": 29456, "field_id": 3, "translation": "тестирование"}
+{"skill": "maskin", "count": 29430, "field_id": 18, "translation": "машина"}
+{"skill": "ritningar", "count": 28964, "field_id": 9, "translation": "чертежи"}
+{"skill": "word", "count": 28939, "field_id": 1, "translation": "word"}
+{"skill": ".net", "count": 28851, "field_id": 3, "translation": ".net"}
+{"skill": "agile", "count": 28809, "field_id": 3, "translation": "гибкий"}
+{"skill": "c-körkort", "count": 28762, "field_id": 19, "translation": "права категории C"}
+{"skill": "offerter", "count": 28634, "field_id": 5, "translation": "сметы"}
+{"skill": "bokningar", "count": 28599, "field_id": 5, "translation": "бронирование"}
+{"skill": "SQL", "count": 28450, "field_id": 3, "translation": "SQL"}
+{"skill": "C++", "count": 28319, "field_id": 3, "translation": "C++"}
+{"skill": "provtagning", "count": 28208, "field_id": 8, "translation": "взятие проб"}
+{"skill": "ämneskunskaper", "count": 28156, "field_id": 15, "translation": "предметные знания"}
+{"skill": "utredningsarbete", "count": 28124, "field_id": 1, "translation": "исследовательская работа"}
+{"skill": "mottagningsarbete", "count": 27955, "field_id": 8, "translation": "работа в отделе приема"}
+{"skill": "distribution", "count": 27774, "field_id": 19, "translation": "распределение"}
+{"skill": "systemvana", "count": 27722, "field_id": 1, "translation": "навыки работы с системами"}
+{"skill": "siffror", "count": 27564, "field_id": 1, "translation": "цифры"}
+{"skill": "sport", "count": 27553, "field_id": 5, "translation": "спорт"}
+{"skill": "hydraulik", "count": 27527, "field_id": 10, "translation": "гидравлика"}
+{"skill": "funktionshinder", "count": 27133, "field_id": 16, "translation": "инвалидность"}
+{"skill": "serviceyrke", "count": 26912, "field_id": 5, "translation": "работа в обслуживающей сфере"}
+{"skill": "dryck", "count": 26647, "field_id": 7, "translation": "напиток"}
+{"skill": "livsmedel", "count": 26635, "field_id": 5, "translation": "продукты питания"}
+{"skill": "specialistkompetens", "count": 26617, "field_id": 8, "translation": "специализированные навыки"}
+{"skill": "kanaler", "count": 26590, "field_id": 5, "translation": "каналы"}
+{"skill": "webbutveckling", "count": 26574, "field_id": 3, "translation": "веб-разработка"}
+{"skill": "sjukhus", "count": 26333, "field_id": 8, "translation": "больница"}
+{"skill": "beredskap", "count": 26300, "field_id": 15, "translation": "готовность"}
+{"skill": "företagshälsovård", "count": 25866, "field_id": 8, "translation": "услуги по здоровью на рабочем месте"}
+{"skill": "kvalitetssäkring", "count": 25764, "field_id": 1, "translation": "обеспечение качества"}
+{"skill": "vuxenutbildning", "count": 25719, "field_id": 15, "translation": "взрослое образование"}
+{"skill": "traverskort", "count": 25545, "field_id": 9, "translation": "подъемный кран"}
+{"skill": "implementering", "count": 25464, "field_id": 3, "translation": "внедрение"}
+{"skill": "norska", "count": 25396, "field_id": 5, "translation": "норвежский"}
+{"skill": "brand", "count": 25273, "field_id": 1, "translation": "пожар"}
+{"skill": "CAD", "count": 25255, "field_id": 18, "translation": "САПР"}
+{"skill": "övervakning", "count": 25137, "field_id": 9, "translation": "мониторинг"}
+{"skill": "säkerhetsprövning", "count": 24888, "field_id": 1, "translation": "проверка безопасности"}
+{"skill": "grundskola", "count": 24864, "field_id": 15, "translation": "начальная школа"}
+{"skill": "kundreskontra", "count": 24826, "field_id": 1, "translation": "учет клиентов"}
+{"skill": "arbetsredskap", "count": 24712, "field_id": 5, "translation": "рабочий инструмент"}
+{"skill": "löpande bokföring", "count": 24683, "field_id": 1, "translation": "ведение бухгалтерии"}
+{"skill": "posthantering", "count": 24605, "field_id": 1, "translation": "обработка почты"}
+{"skill": "arbetsverktyg", "count": 24295, "field_id": 5, "translation": "рабочие инструменты"}
+{"skill": "modersmål", "count": 24282, "field_id": 15, "translation": "родной язык"}
+{"skill": "läkemedel", "count": 24197, "field_id": 8, "translation": "медикаменты"}
+{"skill": "projektering", "count": 24183, "field_id": 2, "translation": "планирование проектов"}
+{"skill": "lönsamhet", "count": 24030, "field_id": 5, "translation": "прибыль"}
+{"skill": "microsoft azure", "count": 23908, "field_id": 3, "translation": "Microsoft Azure"}
+{"skill": "produktutveckling", "count": 23879, "field_id": 18, "translation": "разработка продуктов"}
+{"skill": "tekniska lösningar", "count": 23868, "field_id": 3, "translation": "технические решения"}
+{"skill": "egenkontroll", "count": 23849, "field_id": 7, "translation": "самоконтроль"}
+{"skill": "helhetsansvar", "count": 23798, "field_id": 20, "translation": "общая ответственность"}
+{"skill": "beteendevetenskap", "count": 23692, "field_id": 1, "translation": "поведенческая психология"}
+{"skill": "doktorsexamen", "count": 23678, "field_id": 15, "translation": "докторская степень"}
+{"skill": "kirurgi", "count": 23571, "field_id": 8, "translation": "хирургия"}
+{"skill": "fakturahantering", "count": 23447, "field_id": 1, "translation": "обработка счетов-фактур"}
+{"skill": "hårdvara", "count": 23430, "field_id": 3, "translation": "аппаратное обеспечение"}
+{"skill": "underhållsarbete", "count": 23325, "field_id": 10, "translation": "работа по техническому обслуживанию"}
+{"skill": "beredning", "count": 23268, "field_id": 7, "translation": "приготовление"}
+{"skill": "automotive", "count": 23210, "field_id": 18, "translation": "автомобильная отрасль"}
+{"skill": "servicearbete", "count": 23008, "field_id": 10, "translation": "обслуживающая работа"}
+{"skill": "kundsupport", "count": 22994, "field_id": 5, "translation": "клиентская поддержка"}
+{"skill": "trygghetsförsäkring", "count": 22990, "field_id": 5, "translation": "страхование"}
+{"skill": "bokföring", "count": 22898, "field_id": 1, "translation": "бухгалтерия"}
+{"skill": "arbetsgrupp", "count": 22856, "field_id": 8, "translation": "рабочая группа"}
+{"skill": "säljteam", "count": 22834, "field_id": 5, "translation": "команды продаж"}
+{"skill": "telefonsamtal", "count": 22731, "field_id": 8, "translation": "телефонные звонки"}
+{"skill": "ärendehanteringssystem", "count": 22712, "field_id": 3, "translation": "система управления делами"}
+{"skill": "värme", "count": 22434, "field_id": 10, "translation": "тепло"}
+{"skill": "packning", "count": 22423, "field_id": 19, "translation": "упаковка"}
+{"skill": "film", "count": 22338, "field_id": 16, "translation": "фильм"}
+{"skill": "linux", "count": 22326, "field_id": 3, "translation": "линукс"}
+{"skill": "lossning", "count": 22305, "field_id": 19, "translation": "разгрузка"}
+{"skill": "kemi", "count": 22051, "field_id": 18, "translation": "химия"}
+{"skill": "it-support", "count": 22040, "field_id": 3, "translation": "ит-поддержка"}
+{"skill": "pedagogisk dokumentation", "count": 22016, "field_id": 15, "translation": "педагогическая документация"}
+{"skill": "back end", "count": 21987, "field_id": 3, "translation": "обратная сторона"}
+{"skill": "däck", "count": 21897, "field_id": 9, "translation": "шасси"}
+{"skill": "slutenvård", "count": 21893, "field_id": 8, "translation": "стационарное лечение"}
+{"skill": "rekryteringsföretag", "count": 21879, "field_id": 15, "translation": "рекрутинговое агентство"}
+{"skill": "genomförandeplaner", "count": 21879, "field_id": 16, "translation": "планы реализации"}
+{"skill": "omvårdnadsarbete", "count": 21835, "field_id": 8, "translation": "уход за пациентами"}
+{"skill": "branscherfarenhet", "count": 21804, "field_id": 5, "translation": "опыт в отрасли"}
+{"skill": "operation", "count": 21759, "field_id": 8, "translation": "операция"}
+{"skill": "yrkesbevis", "count": 21602, "field_id": 2, "translation": "профессиональное удостоверение"}
+{"skill": "inventering", "count": 21512, "field_id": 5, "translation": "инвентаризация"}
+{"skill": "front end", "count": 21435, "field_id": 3, "translation": "передняя часть"}
+{"skill": "orderhantering", "count": 21423, "field_id": 5, "translation": "обработка заказов"}
+{"skill": "säljutbildning", "count": 21189, "field_id": 5, "translation": "продажное обучение"}
+{"skill": "fysik", "count": 21139, "field_id": 15, "translation": "физика"}
+{"skill": "kunskapsutveckling", "count": 21136, "field_id": 15, "translation": "развитие знаний"}
+{"skill": "vatten", "count": 21017, "field_id": 2, "translation": "вода"}
+{"skill": "resultatansvar", "count": 20866, "field_id": 20, "translation": "ответственность за результат"}
+{"skill": "arkiv", "count": 20761, "field_id": 1, "translation": "архив"}
+{"skill": "förebyggande underhåll", "count": 20687, "field_id": 10, "translation": "предупредительное обслуживание"}
+{"skill": "cafeteria", "count": 20652, "field_id": 7, "translation": "кафетерий"}
+{"skill": "monitor", "count": 20639, "field_id": 5, "translation": "монитор"}
+{"skill": "årsredovisning", "count": 20576, "field_id": 1, "translation": "годовой отчет"}
+{"skill": "yrkeshögskoleutbildning", "count": 20212, "field_id": 1, "translation": "профессиональное образование"}
+{"skill": "socialtjänstlagen", "count": 20174, "field_id": 16, "translation": "закон о социальных службах"}
+{"skill": "sortiment", "count": 20147, "field_id": 5, "translation": "ассортимент"}
+{"skill": "religion", "count": 19985, "field_id": 3, "translation": "религия"}
+{"skill": "styrsystem", "count": 19923, "field_id": 10, "translation": "система управления"}
+{"skill": "lärarutbildning", "count": 19832, "field_id": 15, "translation": "преподавательское образование"}
+{"skill": "flöden", "count": 19830, "field_id": 1, "translation": "потоки"}
+{"skill": "fastighet", "count": 19806, "field_id": 1, "translation": "недвижимость"}
+{"skill": "danska", "count": 19775, "field_id": 5, "translation": "датский"}
+{"skill": "butiksarbete", "count": 19710, "field_id": 5, "translation": "работа в магазине"}
+{"skill": "ventilation", "count": 19665, "field_id": 10, "translation": "вентиляция"}
+{"skill": "kvalitetskontroll", "count": 19661, "field_id": 9, "translation": "контроль качества"}
+{"skill": "servicebranschen", "count": 19646, "field_id": 5, "translation": "сфера обслуживания"}
+{"skill": "mätning", "count": 19570, "field_id": 9, "translation": "измерение"}
+{"skill": "databaser", "count": 19564, "field_id": 3, "translation": "базы данных"}
+{"skill": "mässor", "count": 19530, "field_id": 5, "translation": "выставки"}
+{"skill": "offentlig förvaltning", "count": 19529, "field_id": 1, "translation": "государственное управление"}
+{"skill": "arbetsrätt", "count": 19496, "field_id": 1, "translation": "трудовое право"}
+{"skill": "omvärldsbevakning", "count": 19492, "field_id": 1, "translation": "мониторинг внешней среды"}
+{"skill": "arbetsmetoder", "count": 19452, "field_id": 15, "translation": "рабочие методы"}
+{"skill": "fordonsbranschen", "count": 19272, "field_id": 10, "translation": "автомобильная промышленность"}
+{"skill": "reklamationer", "count": 19191, "field_id": 5, "translation": "рекламации"}
+{"skill": "grundutbildning", "count": 19107, "field_id": 8, "translation": "основное обучение"}
+{"skill": "vidareutveckling", "count": 19054, "field_id": 3, "translation": "продвижение"}
+{"skill": "undersköterskeutbildning", "count": 19051, "field_id": 8, "translation": "обучение младших медсестер"}
+{"skill": "hälsoarbete", "count": 19019, "field_id": 8, "translation": "здравоохранение"}
+{"skill": "certifikat", "count": 19003, "field_id": 10, "translation": "сертификат"}
+{"skill": "hushållssysslor", "count": 19003, "field_id": 16, "translation": "хозяйственные дела"}
+{"skill": "testning", "count": 18990, "field_id": 3, "translation": "тестирование"}
+{"skill": "CSS", "count": 18975, "field_id": 3, "translation": "CSS"}
+{"skill": "inleveranser", "count": 18969, "field_id": 19, "translation": "поставки"}
+{"skill": "office 365", "count": 18828, "field_id": 3, "translation": "офис 365"}
+{"skill": "exponering", "count": 18726, "field_id": 5, "translation": "экспозиция"}
+{"skill": "sortering", "count": 18700, "field_id": 19, "translation": "сортировка"}
+{"skill": "yrkeshögskola", "count": 18677, "field_id": 1, "translation": "профессиональное высшее учебное заведение"}
+{"skill": "körning", "count": 18666, "field_id": 19, "translation": "водительское дело"}
+{"skill": "vårdavdelning", "count": 18647, "field_id": 8, "translation": "отделение здравоохранения"}
+{"skill": "scrum", "count": 18587, "field_id": 3, "translation": "scrum"}
+{"skill": "handel", "count": 18546, "field_id": 5, "translation": "торговля"}
+{"skill": "årsbokslut", "count": 18529, "field_id": 1, "translation": "годовая отчетность"}
+{"skill": "chefserfarenhet", "count": 18483, "field_id": 20, "translation": "опыт управления"}
+{"skill": "maskinteknik", "count": 18481, "field_id": 18, "translation": "машиностроение"}
+{"skill": "spanska", "count": 18445, "field_id": 15, "translation": "испанский"}
+{"skill": "tidplaner", "count": 18439, "field_id": 2, "translation": "графики"}
+{"skill": "cloud", "count": 18401, "field_id": 3, "translation": "облачные технологии"}
+{"skill": "restaurangbranschen", "count": 18360, "field_id": 7, "translation": "ресторанный бизнес"}
+{"skill": "instrument", "count": 18360, "field_id": 18, "translation": "инструменты"}
+{"skill": "react", "count": 18300, "field_id": 3, "translation": "react"}
+{"skill": "öppenvård", "count": 18299, "field_id": 8, "translation": "амбулаторное лечение"}
+{"skill": "utvecklingsfrågor", "count": 18259, "field_id": 20, "translation": "вопросы развития"}
+{"skill": "verksamhetssystem", "count": 18214, "field_id": 1, "translation": "корпоративные системы"}
+{"skill": "skolutveckling", "count": 18213, "field_id": 15, "translation": "развитие школы"}
+{"skill": "yrkesutbildning", "count": 18202, "field_id": 9, "translation": "профессиональное образование"}
+{"skill": "ekonomiarbete", "count": 18150, "field_id": 1, "translation": "экономическая деятельность"}
+{"skill": "föreskrifter", "count": 18126, "field_id": 1, "translation": "нормативные акты"}
+{"skill": "receptionsarbete", "count": 18120, "field_id": 1, "translation": "рецепция"}
+{"skill": "fastighetsbranschen", "count": 18075, "field_id": 1, "translation": "недвижимость"}
+{"skill": "git", "count": 18074, "field_id": 3, "translation": "git"}
+{"skill": "djur", "count": 18031, "field_id": 16, "translation": "животные"}
+{"skill": "ekonomissystem", "count": 18014, "field_id": 1, "translation": "экономические системы"}
+{"skill": "säljteknik", "count": 17946, "field_id": 5, "translation": "техники продаж"}
+{"skill": "svets", "count": 17832, "field_id": 9, "translation": "сварка"}
+{"skill": "powerpoint", "count": 17807, "field_id": 1, "translation": "powerpoint"}
+{"skill": "optimering", "count": 17794, "field_id": 18, "translation": "оптимизация"}
+{"skill": "utleveranser", "count": 17762, "field_id": 19, "translation": "доставка"}
+{"skill": "web", "count": 17610, "field_id": 3, "translation": "веб"}
+{"skill": "delegering", "count": 17557, "field_id": 8, "translation": "делегирование"}
+{"skill": "kommunal verksamhet", "count": 17557, "field_id": 16, "translation": "комунальное хозяйство"}
+{"skill": "html", "count": 17535, "field_id": 3, "translation": "html"}
+{"skill": "ortopedi", "count": 17532, "field_id": 8, "translation": "ортопедия"}
+{"skill": "CRM", "count": 17465, "field_id": 5, "translation": "CRM"}
+{"skill": "mjukvaruutveckling", "count": 17455, "field_id": 3, "translation": "разработка программного обеспечения"}
+{"skill": "behandlingsarbete", "count": 17402, "field_id": 16, "translation": "лечебная работа"}
+{"skill": "fritidsprogrammet", "count": 17338, "field_id": 16, "translation": "программа досуга"}
+{"skill": "kandidatexamen", "count": 17241, "field_id": 1, "translation": "бакалаврская степень"}
+{"skill": "arabiska", "count": 17225, "field_id": 1, "translation": "арабский"}
+{"skill": "försäljningserfarenhet", "count": 17220, "field_id": 5, "translation": "опыт продаж"}
+{"skill": "påklädning", "count": 17217, "field_id": 16, "translation": "одежда"}
+{"skill": "kalkylering", "count": 17172, "field_id": 18, "translation": "калькуляция"}
+{"skill": "cosmic", "count": 17090, "field_id": 8, "translation": "космический"}
+{"skill": "månadsbokslut", "count": 17059, "field_id": 1, "translation": "месячное закрытие"}
+{"skill": "examensbevis", "count": 16958, "field_id": 1, "translation": "диплом"}
+{"skill": "reservdelar", "count": 16910, "field_id": 10, "translation": "запасные части"}
+{"skill": "social dokumentation", "count": 16895, "field_id": 16, "translation": "социальная документация"}
+{"skill": "särskilt boende", "count": 16833, "field_id": 8, "translation": "специальное жилье"}
+{"skill": "geriatrik", "count": 16809, "field_id": 8, "translation": "гериатрия"}
+{"skill": "arkitektur", "count": 16792, "field_id": 3, "translation": "архитектура"}
+{"skill": "e-handel", "count": 16686, "field_id": 5, "translation": "электронная торговля"}
+{"skill": "adobe photoshop", "count": 16662, "field_id": 5, "translation": "adobe photoshop"}
+{"skill": "budgetarbete", "count": 16647, "field_id": 1, "translation": "бюджетирование"}
+{"skill": "hållbarhet", "count": 16634, "field_id": 1, "translation": "устойчивость"}
+{"skill": "rengöring", "count": 16603, "field_id": 12, "translation": "чистка"}
+{"skill": "driftsättning", "count": 16503, "field_id": 10, "translation": "ввод в эксплуатацию"}
+{"skill": "teknikområden", "count": 16463, "field_id": 18, "translation": "технические области"}
+{"skill": "personaladministration", "count": 16439, "field_id": 1, "translation": "кадровое делопроизводство"}
+{"skill": "GDPR", "count": 16416, "field_id": 3, "translation": "GDPR"}
+{"skill": "datasystem", "count": 16276, "field_id": 1, "translation": "системы управления данными"}
+{"skill": "PLC", "count": 16263, "field_id": 18, "translation": "ПЛК"}
+{"skill": "skollagen", "count": 16256, "field_id": 15, "translation": "школьное законодательство"}
+{"skill": "embedded", "count": 16171, "field_id": 3, "translation": "встроенное"}
+{"skill": "systemvetenskap", "count": 16157, "field_id": 3, "translation": "системное обеспечение"}
+{"skill": "active directory", "count": 16142, "field_id": 3, "translation": "active directory"}
+{"skill": "fortbildning", "count": 16067, "field_id": 8, "translation": "повышение квалификации"}
+{"skill": "entreprenadjuridik", "count": 15997, "field_id": 2, "translation": "подрядное право"}
+{"skill": "information technology", "count": 15984, "field_id": 3, "translation": "информационные технологии"}
+{"skill": "larm", "count": 15962, "field_id": 10, "translation": "сигнализация"}
+{"skill": "ärendehantering", "count": 15939, "field_id": 1, "translation": "управление делами"}
+{"skill": "it-branschen", "count": 15937, "field_id": 3, "translation": "ит-индустрия"}
+{"skill": "affärsutveckling", "count": 15899, "field_id": 5, "translation": "развитие бизнеса"}
+{"skill": "prognoser", "count": 15891, "field_id": 1, "translation": "прогнозы"}
+{"skill": "storkök", "count": 15834, "field_id": 7, "translation": "профессиональная техника"}
+{"skill": "omsorgsarbete", "count": 15812, "field_id": 8, "translation": "уходовая работа"}
+{"skill": "motviktstruck", "count": 15799, "field_id": 19, "translation": "погрузчик с тележкой"}
+{"skill": "tillverkningsindustrin", "count": 15788, "field_id": 9, "translation": "промышленность производства"}
+{"skill": "utvecklingssamtal", "count": 15767, "field_id": 15, "translation": "кадровое развитие"}
+{"skill": "kontinuerlig coachning", "count": 15749, "field_id": 1, "translation": "непрерывное коучинг"}
+{"skill": "verksamhetsansvar", "count": 15601, "field_id": 20, "translation": "управление бизнесом"}
+{"skill": "barn och ungdom", "count": 15594, "field_id": 8, "translation": "дети и подростки"}
+{"skill": "tydliggörande pedagogik", "count": 15486, "field_id": 16, "translation": "педагогика ясности"}
+{"skill": "lönesättning", "count": 15473, "field_id": 20, "translation": "установление заработной платы"}
+{"skill": "compliance", "count": 15450, "field_id": 1, "translation": "соответствие"}
+{"skill": "leverantörsfakturor", "count": 15446, "field_id": 1, "translation": "счета поставщиков"}
+{"skill": "uppsökande försäljning", "count": 15269, "field_id": 5, "translation": "активные продажи"}
+{"skill": "agresso", "count": 15222, "field_id": 1, "translation": "agresso"}
+{"skill": "behörigheter", "count": 15217, "field_id": 3, "translation": "урегулирование"}
+{"skill": "missbruk", "count": 15195, "field_id": 16, "translation": "злоупотребление"}
+{"skill": "universitetsexamen", "count": 15142, "field_id": 1, "translation": "университетский диплом"}
+{"skill": "projektarbete", "count": 15133, "field_id": 1, "translation": "проектная работа"}
+{"skill": "barnomsorg", "count": 15120, "field_id": 15, "translation": "детский уход"}
+{"skill": "skolledning", "count": 15092, "field_id": 15, "translation": "школьное руководство"}
+{"skill": "lärplattform", "count": 15065, "field_id": 15, "translation": "учебная платформа"}
+{"skill": "varuplock", "count": 14989, "field_id": 5, "translation": "комплектация товаров"}
+{"skill": "ce-körkort", "count": 14959, "field_id": 19, "translation": "права на управление транспортными средствами категории СЕ"}
+{"skill": "CNC", "count": 14916, "field_id": 9, "translation": "ЧПУ"}
+{"skill": "telefoni", "count": 14881, "field_id": 5, "translation": "телефония"}
+{"skill": "allmänmedicin", "count": 14865, "field_id": 8, "translation": "общая медицина"}
+{"skill": "angularjs", "count": 14824, "field_id": 3, "translation": "angularjs"}
+{"skill": "ordrar", "count": 14793, "field_id": 19, "translation": "заказы"}
+{"skill": "customer service", "count": 14789, "field_id": 5, "translation": "обслуживание клиентов"}
+{"skill": "telekommunikation", "count": 14783, "field_id": 5, "translation": "телекоммуникации"}
+{"skill": "friskvård", "count": 14749, "field_id": 16, "translation": "здоровьесберегающие мероприятия"}
+{"skill": "tillagning", "count": 14748, "field_id": 7, "translation": "приготовление пищи"}
+{"skill": "påfyllning", "count": 14723, "field_id": 5, "translation": "пополнение"}
+{"skill": "lastbilar", "count": 14718, "field_id": 10, "translation": "грузовики"}
+{"skill": "läxhjälp", "count": 14697, "field_id": 12, "translation": "репетиторство"}
+{"skill": "mode", "count": 14603, "field_id": 5, "translation": "мода"}
+{"skill": "telefonförsäljning", "count": 14540, "field_id": 5, "translation": "телефонные продажи"}
+{"skill": "nyheter", "count": 14540, "field_id": 5, "translation": "новости"}
+{"skill": "à la carte", "count": 14532, "field_id": 7, "translation": "à la carte"}
+{"skill": "ledarskapsutbildning", "count": 14531, "field_id": 20, "translation": "руководство и управление"}
+{"skill": "samiska", "count": 14531, "field_id": 15, "translation": "саамский"}
+{"skill": "läkemedelshantering", "count": 14529, "field_id": 8, "translation": "работа с лекарствами"}
+{"skill": "sjuksköterskeuppgifter", "count": 14426, "field_id": 8, "translation": "медицинские процедуры сестринского ухода"}
+{"skill": "specialkost", "count": 14407, "field_id": 7, "translation": "специальное питание"}
+{"skill": "kassavana", "count": 14339, "field_id": 5, "translation": "опыт работы с кассой"}
+{"skill": "löneadministration", "count": 14317, "field_id": 1, "translation": "администрирование заработной платы"}
+{"skill": "mötesbokning", "count": 14267, "field_id": 5, "translation": "запись на встречи"}
+{"skill": "utvecklingsstörning", "count": 14212, "field_id": 16, "translation": "задержание в развитии"}
+{"skill": "kontaktuppgifter", "count": 14145, "field_id": 9, "translation": "контактная информация"}
+{"skill": "barn & fritid", "count": 14079, "field_id": 15, "translation": "дети и досуг"}
+{"skill": "produktkunskap", "count": 14063, "field_id": 5, "translation": "знание продукции"}
+{"skill": "amazon web services", "count": 13995, "field_id": 3, "translation": "облачные вычисления Amazon Web Services"}
+{"skill": "franska", "count": 13990, "field_id": 15, "translation": "французский"}
+{"skill": "TV", "count": 13987, "field_id": 5, "translation": "ТВ"}
+{"skill": "inredning", "count": 13874, "field_id": 5, "translation": "дизайн"}
+{"skill": "detaljhandel", "count": 13853, "field_id": 5, "translation": "розничная торговля"}
+{"skill": "fordonsindustrin", "count": 13806, "field_id": 18, "translation": "автомобильная промышленность"}
+{"skill": "demens", "count": 13765, "field_id": 8, "translation": "деменция"}
+{"skill": "samhällsbyggnad", "count": 13754, "field_id": 2, "translation": "градостроительство"}
+{"skill": "civilingenjörsexamen", "count": 13684, "field_id": 18, "translation": "диплом инженера"}
+{"skill": "autocad", "count": 13658, "field_id": 18, "translation": "AutoCAD"}
+{"skill": "uthyrning", "count": 13654, "field_id": 18, "translation": "аренда"}
+{"skill": "privatkunder", "count": 13564, "field_id": 5, "translation": "частные клиенты"}
+{"skill": "kundhantering", "count": 13562, "field_id": 5, "translation": "управление клиентами"}
+{"skill": "medicinering", "count": 13554, "field_id": 8, "translation": "медикаментозное лечение"}
+{"skill": "mätteknik", "count": 13516, "field_id": 9, "translation": "измерительная техника"}
+{"skill": "elkraft", "count": 13420, "field_id": 18, "translation": "электроэнергетика"}
+{"skill": "lönehantering", "count": 13403, "field_id": 1, "translation": "управление заработной платой"}
+{"skill": "diabetes", "count": 13401, "field_id": 8, "translation": "диабет"}
+{"skill": "elevhälsa", "count": 13387, "field_id": 15, "translation": "школьное здоровье"}
+{"skill": "kundansvar", "count": 13350, "field_id": 5, "translation": "клиентская ответственность"}
+{"skill": "datavetenskap", "count": 13310, "field_id": 3, "translation": "компьютерные науки"}
+{"skill": "renhållning", "count": 13244, "field_id": 7, "translation": "уборка"}
+{"skill": "förskollärarexamen", "count": 13243, "field_id": 15, "translation": "диплом дошкольного педагога"}
+{"skill": "lagarbete", "count": 13229, "field_id": 5, "translation": "командная работа"}
+{"skill": "client", "count": 13174, "field_id": 3, "translation": "клиент"}
+{"skill": "sjukvårdsinsatser", "count": 13170, "field_id": 8, "translation": "медицинские процедуры"}
+{"skill": "förhandling", "count": 13170, "field_id": 5, "translation": "переговоры"}
+{"skill": "microsoft access", "count": 13147, "field_id": 3, "translation": "Microsoft Access"}
+{"skill": "internet", "count": 13116, "field_id": 3, "translation": "интернет"}
+{"skill": "intensivvård", "count": 13066, "field_id": 8, "translation": "анестезия"}
+{"skill": "tekniska kunskaper", "count": 13054, "field_id": 10, "translation": "технические навыки"}
+{"skill": "beslutsunderlag", "count": 13033, "field_id": 1, "translation": "основания для принятия решений"}
+{"skill": "UX", "count": 13000, "field_id": 3, "translation": "UX"}
+{"skill": "läsa ritningar", "count": 12959, "field_id": 9, "translation": "чтение чертежей"}
+{"skill": "sql-server", "count": 12956, "field_id": 3, "translation": "SQL-сервер"}
+{"skill": "processindustri", "count": 12919, "field_id": 9, "translation": "пищевая промышленность"}
+{"skill": "ingenjörsutbildning", "count": 12897, "field_id": 18, "translation": "инженерное образование"}
+{"skill": "introduktionsprogram", "count": 12889, "field_id": 8, "translation": "программа введения"}
+{"skill": "ekonomifrågor", "count": 12885, "field_id": 20, "translation": "вопросы экономики"}
+{"skill": "ekonomiskt ansvar", "count": 12871, "field_id": 20, "translation": "финансовая ответственность"}
+{"skill": "avklädning", "count": 12835, "field_id": 16, "translation": "снятие одежды"}
+{"skill": "rekryteringssystem", "count": 12812, "field_id": 15, "translation": "система найма"}
+{"skill": "behovsanalys", "count": 12785, "field_id": 5, "translation": "анализ потребностей"}
+{"skill": "forskningsprojekt", "count": 12752, "field_id": 15, "translation": "исследовательский проект"}
+{"skill": "reglerteknik", "count": 12724, "field_id": 10, "translation": "регулирование"}
+{"skill": "melior", "count": 12696, "field_id": 8, "translation": "мелиорация"}
+{"skill": "snickeri", "count": 12677, "field_id": 2, "translation": "производство мебели"}
+{"skill": "samhällsvetenskap", "count": 12637, "field_id": 1, "translation": "общественные науки"}
+{"skill": "tandvård", "count": 12625, "field_id": 8, "translation": "стоматология"}
+{"skill": "ekonomisk uppföljning", "count": 12598, "field_id": 1, "translation": "финансовое обслуживание"}
+{"skill": "tunga fordon", "count": 12566, "field_id": 10, "translation": "тяжелая техника"}
+{"skill": "verifiering", "count": 12533, "field_id": 18, "translation": "проверка"}
+{"skill": "embedded system", "count": 12522, "field_id": 3, "translation": "встроенная система"}
+{"skill": "psykiatrin", "count": 12522, "field_id": 8, "translation": "психиатрия"}
+{"skill": "riskanalys", "count": 12521, "field_id": 18, "translation": "анализ рисков"}
+{"skill": "skinn", "count": 12508, "field_id": 16, "translation": "кожа"}
+{"skill": "gymnasieskola", "count": 12461, "field_id": 15, "translation": "старшая школа"}
+{"skill": "outlook", "count": 12431, "field_id": 1, "translation": "перспективы"}
+{"skill": "kravställning", "count": 12414, "field_id": 3, "translation": "образовательная деятельность"}
+{"skill": "pedagogisk verksamhet", "count": 12405, "field_id": 15, "translation": "хорошая производственная практика"}
+{"skill": "good manufacturing practice", "count": 12383, "field_id": 9, "translation": "проспектирование"}
+{"skill": "prospektering", "count": 12373, "field_id": 5, "translation": "управление недвижимостью"}
+{"skill": "fastighetsskötsel", "count": 12310, "field_id": 10, "translation": "подписка"}
+{"skill": "abonnemang", "count": 12304, "field_id": 5, "translation": "паллиативный уход"}
+{"skill": "palliativ vård", "count": 12302, "field_id": 8, "translation": "REST"}
+{"skill": "REST", "count": 12297, "field_id": 3, "translation": "adobe indesign"}
+{"skill": "adobe indesign", "count": 12237, "field_id": 1, "translation": "прицеп"}
+{"skill": "släp", "count": 12222, "field_id": 19, "translation": "реабилитация"}
+{"skill": "habilitering", "count": 12190, "field_id": 8, "translation": "окружающая среда"}
+{"skill": "miljöfrågor", "count": 12188, "field_id": 14, "translation": "обслуживание и уход"}
+{"skill": "service och underhåll", "count": 12155, "field_id": 10, "translation": "безопасность пациентов"}
+{"skill": "patientsäkerhet", "count": 12136, "field_id": 8, "translation": "административная поддержка"}
+{"skill": "administrativt stöd", "count": 12120, "field_id": 1, "translation": "обслуживание клиентов"}
+{"skill": "kundvård", "count": 12114, "field_id": 5, "translation": "телефонное интервью"}
+{"skill": "telefonintervju", "count": 12107, "field_id": 5, "translation": "рефлексия"}
+{"skill": "reflektion", "count": 12105, "field_id": 15, "translation": "оценка рисков"}
+{"skill": "riskbedömningar", "count": 12095, "field_id": 8, "translation": "танец"}
+{"skill": "dans", "count": 12075, "field_id": 15, "translation": "правила"}
+{"skill": "bestämmelser", "count": 12072, "field_id": 1, "translation": "расчеты"}
+{"skill": "beräkningar", "count": 12047, "field_id": 18, "translation": "биология"}
+{"skill": "biologi", "count": 12038, "field_id": 15, "translation": "мебель"}
+{"skill": "möbler", "count": 11979, "field_id": 19, "translation": "легковые автомобили"}
+{"skill": "personbilar", "count": 11969, "field_id": 10, "translation": "охрана"}
+{"skill": "bevakning", "count": 11952, "field_id": 1, "translation": "работа с новыми клиентами"}
+{"skill": "nykundsbearbetning", "count": 11880, "field_id": 5, "translation": "пневматика"}
+{"skill": "pneumatik", "count": 11859, "field_id": 10, "translation": "приемная скорая помощь"}
+{"skill": "akutmottagning", "count": 11828, "field_id": 8, "translation": "мобильный"}
+{"skill": "mobil", "count": 11796, "field_id": 8, "translation": "увеличение эффективности"}
+{"skill": "effektivisering", "count": 11788, "field_id": 1, "translation": "консультирование по профессии"}
+{"skill": "yrkesvägledning", "count": 11760, "field_id": 1, "translation": "эпилепсия"}
+{"skill": "epilepsi", "count": 11750, "field_id": 16, "translation": "искусственный интеллект"}
+{"skill": "artificial intelligence", "count": 11746, "field_id": 3, "translation": "диплом медсестры"}
+{"skill": "sjuksköterskeexamen", "count": 11732, "field_id": 8, "translation": "социальная работа"}
+{"skill": "socionomutbildning", "count": 11719, "field_id": 16, "translation": "продажи"}
+{"skill": "försäljningsarbete", "count": 11686, "field_id": 5, "translation": "работа с бухгалтерией"}
+{"skill": "bokslutsarbete", "count": 11658, "field_id": 1, "translation": "упаковка"}
+{"skill": "paketering", "count": 11600, "field_id": 19, "translation": "разработка методик"}
+{"skill": "metodutveckling", "count": 11593, "field_id": 18, "translation": "завтрак"}
+{"skill": "frukost", "count": 11592, "field_id": 7, "translation": "умственная инвалидность"}
+{"skill": "intellektuell funktionsnedsättning", "count": 11592, "field_id": 16, "translation": "ориентация в обучении"}
+{"skill": "studievägledning", "count": 11583, "field_id": 1, "translation": "планирование заботы о здоровье"}
+{"skill": "sharepoint", "count": 11396, "field_id": 3, "translation": "sharepoint"}
+{"skill": "it-säkerhet", "count": 11375, "field_id": 3, "translation": "it-säkerhet"}
+{"skill": "API", "count": 11349, "field_id": 3, "translation": "API"}
+{"skill": "huvudansvar", "count": 11339, "field_id": 1, "translation": "huvudansvar"}
+{"skill": "diarieföring", "count": 11309, "field_id": 1, "translation": "diarieföring"}
+{"skill": "byggprojekt", "count": 11248, "field_id": 2, "translation": "byggprojekt"}
+{"skill": "spel", "count": 11236, "field_id": 5, "translation": "spel"}
+{"skill": "informationssäkerhet", "count": 11228, "field_id": 3, "translation": "informationssäkerhet"}
+{"skill": "processindustrin", "count": 11197, "field_id": 18, "translation": "processindustrin"}
+{"skill": "datateknik", "count": 11128, "field_id": 3, "translation": "datateknik"}
+{"skill": "android", "count": 11094, "field_id": 3, "translation": "android"}
+{"skill": "kriminalvården", "count": 11052, "field_id": 17, "translation": "kriminalvården"}
+{"skill": "elinstallationer", "count": 11052, "field_id": 10, "translation": "elinstallationer"}
+{"skill": "b2b-försäljning", "count": 11029, "field_id": 5, "translation": "b2b-försäljning"}
+{"skill": "it-miljö", "count": 11019, "field_id": 3, "translation": "it-miljö"}
+{"skill": "dokumenthantering", "count": 10977, "field_id": 1, "translation": "dokumenthantering"}
+{"skill": "video", "count": 10929, "field_id": 3, "translation": "video"}
+{"skill": "crm-system", "count": 10929, "field_id": 5, "translation": "crm-system"}
+{"skill": "färg", "count": 10884, "field_id": 5, "translation": "färg"}
+{"skill": "medarbetarsamtal", "count": 10833, "field_id": 20, "translation": "medarbetarsamtal"}
+{"skill": "trädgård", "count": 10810, "field_id": 13, "translation": "trädgård"}
+{"skill": "hjullastare", "count": 10803, "field_id": 2, "translation": "hjullastare"}
+{"skill": "energibranschen", "count": 10792, "field_id": 18, "translation": "energibranschen"}
+{"skill": "luftreningssystem", "count": 10690, "field_id": 5, "translation": "luftreningssystem"}
+{"skill": "kravhantering", "count": 10684, "field_id": 3, "translation": "kravhantering"}
+{"skill": "rekryteringsverktyg", "count": 10669, "field_id": 15, "translation": "rekryteringsverktyg"}
+{"skill": "magisterexamen", "count": 10632, "field_id": 15, "translation": "magisterexamen"}
+{"skill": "motiverande samtal", "count": 10602, "field_id": 16, "translation": "motiverande samtal"}
+{"skill": "sanering", "count": 10599, "field_id": 5, "translation": "sanering"}
+{"skill": "hr-området", "count": 10591, "field_id": 1, "translation": "hr-området"}
+{"skill": "utbetalningar", "count": 10586, "field_id": 1, "translation": "utbetalningar"}
+{"skill": "hr-arbete", "count": 10545, "field_id": 1, "translation": "hr-arbete"}
+{"skill": "produktionsteknik", "count": 10544, "field_id": 18, "translation": "produktionsteknik"}
+{"skill": "socialpsykiatri", "count": 10541, "field_id": 16, "translation": "socialpsykiatri"}
+{"skill": "it-vana", "count": 10535, "field_id": 1, "translation": "it-vana"}
+{"skill": "deployment", "count": 10492, "field_id": 3, "translation": "deployment"}
+{"skill": "åtgärdsprogram", "count": 10416, "field_id": 15, "translation": "åtgärdsprogram"}
+{"skill": "utvecklingsprocesser", "count": 10413, "field_id": 3, "translation": "utvecklingsprocesser"}
+{"skill": "validering", "count": 10413, "field_id": 18, "translation": "validering"}
+{"skill": "hus", "count": 10392, "field_id": 2, "translation": "hus"}
+{"skill": "tekniska frågor", "count": 10390, "field_id": 5, "translation": "tekniska frågor"}
+{"skill": "säkerhetsarbete", "count": 10388, "field_id": 17, "translation": "säkerhetsarbete"}
+{"skill": "kontorsmaterial", "count": 10359, "field_id": 1, "translation": "kontorsmaterial"}
+{"skill": "extraarbete", "count": 10347, "field_id": 5, "translation": "extraarbete"}
+{"skill": "geografiska informationssystem", "count": 10311, "field_id": 18, "translation": "geografiska informationssystem"}
+{"skill": "hemstädning", "count": 10298, "field_id": 12, "translation": "hemstädning"}
+{"skill": "manualer", "count": 10284, "field_id": 10, "translation": "manualer"}
+{"skill": "ekonomistyrning", "count": 10281, "field_id": 1, "translation": "ekonomistyrning"}
+{"skill": "microsoft exchange", "count": 10270, "field_id": 3, "translation": "microsoft exchange"}
+{"skill": "servicedesk", "count": 10263, "field_id": 3, "translation": "servicedesk"}
+{"skill": "revision", "count": 10258, "field_id": 1, "translation": "ревизия"}
+{"skill": "utbildningsprogram", "count": 10243, "field_id": 5, "translation": "учебные программы"}
+{"skill": "ERP", "count": 10178, "field_id": 1, "translation": "ERP"}
+{"skill": "kemikalier", "count": 10172, "field_id": 5, "translation": "химикаты"}
+{"skill": "barns lärande", "count": 10160, "field_id": 15, "translation": "обучение детей"}
+{"skill": "mission", "count": 10136, "field_id": 18, "translation": "миссия"}
+{"skill": "neurologi", "count": 10129, "field_id": 8, "translation": "неврология"}
+{"skill": "teckenspråk", "count": 10089, "field_id": 16, "translation": "язык жестов"}
+{"skill": "fiber", "count": 10073, "field_id": 10, "translation": "волокно"}
+{"skill": "kontrakt", "count": 10051, "field_id": 5, "translation": "контракт"}
+{"skill": "kontering", "count": 10019, "field_id": 1, "translation": "бухгалтерия"}
+{"skill": "omvårdnadsutbildning", "count": 9994, "field_id": 8, "translation": "медицинское образование"}
+{"skill": "reparationsarbeten", "count": 9954, "field_id": 10, "translation": "ремонтные работы"}
+{"skill": "script", "count": 9946, "field_id": 3, "translation": "сценарий"}
+{"skill": "kompetensförsörjning", "count": 9890, "field_id": 1, "translation": "обеспечение компетенций"}
+{"skill": "fotboll", "count": 9877, "field_id": 16, "translation": "футбол"}
+{"skill": "analysarbete", "count": 9874, "field_id": 1, "translation": "аналитическая работа"}
+{"skill": "arbetsprocesser", "count": 9870, "field_id": 1, "translation": "рабочие процессы"}
+{"skill": "förändringsledning", "count": 9865, "field_id": 20, "translation": "управление изменениями"}
+{"skill": "kundärenden", "count": 9861, "field_id": 5, "translation": "клиентские запросы"}
+{"skill": "byggnation", "count": 9853, "field_id": 2, "translation": "строительство"}
+{"skill": "programvara", "count": 9755, "field_id": 3, "translation": "программное обеспечение"}
+{"skill": "certifieringar", "count": 9748, "field_id": 3, "translation": "сертификаты"}
+{"skill": "telefonvana", "count": 9745, "field_id": 5, "translation": "навыки телефонных разговоров"}
+{"skill": "deklaration", "count": 9744, "field_id": 1, "translation": "декларация"}
+{"skill": "civilingenjörsutbildning", "count": 9742, "field_id": 18, "translation": "инженерное образование"}
+{"skill": "windows server", "count": 9733, "field_id": 3, "translation": "сервер Windows"}
+{"skill": "vårdutbildning", "count": 9714, "field_id": 16, "translation": "медицинское образование"}
+{"skill": "forskarutbildning", "count": 9707, "field_id": 15, "translation": "аспирантура"}
+{"skill": "förskrivning", "count": 9687, "field_id": 8, "translation": "назначение лечения"}
+{"skill": "remisshantering", "count": 9670, "field_id": 1, "translation": "обработка направлений"}
+{"skill": "gymnastik", "count": 9650, "field_id": 15, "translation": "гимнастика"}
+{"skill": "handlingsplaner", "count": 9644, "field_id": 16, "translation": "план действий"}
+{"skill": "processutveckling", "count": 9619, "field_id": 1, "translation": "развитие процессов"}
+{"skill": "uppackning", "count": 9606, "field_id": 5, "translation": "распаковка"}
+{"skill": "anläggningsbranschen", "count": 9583, "field_id": 2, "translation": "строительная отрасль"}
+{"skill": "näringsliv", "count": 9569, "field_id": 1, "translation": "бизнес"}
+{"skill": "budgetering", "count": 9554, "field_id": 20, "translation": "бюджетирование"}
+{"skill": "förskollärarlegitimation", "count": 9531, "field_id": 15, "translation": "лицензия дошкольного педагога"}
+{"skill": "ekonomiområdet", "count": 9527, "field_id": 1, "translation": "финансовая сфера"}
+{"skill": "fakturafrågor", "count": 9515, "field_id": 5, "translation": "вопросы по счетам-фактурам"}
+{"skill": "anestesi", "count": 9492, "field_id": 8, "translation": "анестезия"}
+{"skill": "node", "count": 9491, "field_id": 3, "translation": "узел"}
+{"skill": "docker", "count": 9466, "field_id": 3, "translation": "docker"}
+{"skill": "allergi", "count": 9460, "field_id": 16, "translation": "аллергия"}
+{"skill": "prognosarbete", "count": 9454, "field_id": 1, "translation": "прогностическая работа"}
+{"skill": "utvecklingsteam", "count": 9454, "field_id": 3, "translation": "команды разработки"}
+{"skill": "neuropsykiatriska funktionsnedsättningar", "count": 9406, "field_id": 16, "translation": "невропсихиатрические расстройства"}
+{"skill": "naturvetenskap", "count": 9340, "field_id": 15, "translation": "естественные науки"}
+{"skill": "verkstadsarbete", "count": 9321, "field_id": 9, "translation": "ремонтные работы"}
+{"skill": "förstudier", "count": 9311, "field_id": 18, "translation": "предварительные исследования"}
+{"skill": "samhällsfrågor", "count": 9304, "field_id": 1, "translation": "общественные вопросы"}
+{"skill": "kollektivtrafik", "count": 9299, "field_id": 16, "translation": "общественный транспорт"}
+{"skill": "automatisering", "count": 9263, "field_id": 3, "translation": "автоматизация"}
+{"skill": "inbetalningar", "count": 9261, "field_id": 1, "translation": "платежи"}
+{"skill": "rekryteringsbranschen", "count": 9251, "field_id": 5, "translation": "рекрутинговая отрасль"}
+{"skill": "utbildningsförvaltningen", "count": 9247, "field_id": 15, "translation": "образовательное управление"}
+{"skill": "mekatronik", "count": 9219, "field_id": 18, "translation": "мехатроника"}
+{"skill": "teknisk fysik", "count": 9215, "field_id": 18, "translation": "техническая физика"}
+{"skill": "försäljningsprocessen", "count": 9210, "field_id": 5, "translation": "процесс продаж"}
+{"skill": "hantverk", "count": 9205, "field_id": 9, "translation": "ремесло"}
+{"skill": "stål", "count": 9187, "field_id": 5, "translation": "сталь"}
+{"skill": "uppgraderingar", "count": 9168, "field_id": 10, "translation": "обновления"}
+{"skill": "matlab", "count": 9162, "field_id": 3, "translation": "matlab"}
+{"skill": "gräsklippning", "count": 9154, "field_id": 13, "translation": "косить газон"}
+{"skill": "ensamarbete", "count": 9150, "field_id": 16, "translation": "коллективная работа"}
+{"skill": "grundsärskolan", "count": 9148, "field_id": 15, "translation": "начальная специальная школа"}
+{"skill": "ekonomiområdet", "count": 9140, "field_id": 1, "translation": "экономическая область"}
+{"skill": "typescript", "count": 9133, "field_id": 3, "translation": "typescript"}
+{"skill": "barnskötarutbildning", "count": 9122, "field_id": 15, "translation": "профессиональное обучение по уходу за детьми"}
+{"skill": "B2C", "count": 9114, "field_id": 5, "translation": "B2C"}
+{"skill": "erfarenhet av barn", "count": 9098, "field_id": 16, "translation": "опыт работы с детьми"}
+{"skill": "SEO", "count": 9095, "field_id": 5, "translation": "SEO"}
+{"skill": "annonsering", "count": 9037, "field_id": 5, "translation": "реклама"}
+{"skill": "uppbyggnad", "count": 9037, "field_id": 18, "translation": "структурирование"}
+{"skill": "digital marknadsföring", "count": 9016, "field_id": 5, "translation": "цифровой маркетинг"}

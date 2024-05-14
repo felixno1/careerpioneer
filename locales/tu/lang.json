@@ -1,7 +1,33 @@
 {
-    "title": "İş pusulası",
-    "welcome": "Hoş geldiniz"
-}
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "Hoş geldiniz",
+    "what_do_you_need_help_with": "Size nasıl yardımcı olabilirim?",
+    "guidance": "İsveç iş piyasası hakkında genel rehberlik",
+    "job_finder": "Becerilerinize göre bir iş bulun",
+    "tell_me_more": "Daha fazlasını anlat",
+    "elaborate": "Hakkında daha fazla bilgi ver",
+    "ask_ai": "AI'a sor...",
+    "what_skills": "Hangi becerilere sahipsiniz?",
+    "search_job": "İş ara!",
+    "ai_loading": "AI meslekleri belirliyor...",
+    "recommended_jobs": "Önerilen İşler",
+    "n_of_ads_1": "Şu anda",
+    "n_of_ads_2": "bu meslek için ilan var",
+    "show_ads": "İlanları göster",
+    "terminology": {
+        "header": "Ortak terminoloji",
+        "content" : [
 
+        ]
+    },
+    "legal": {
+        "header": "Yasalar ve Yönetmelikler",
+        "content" : [
+        
+        ]
+    }
+}
 
 

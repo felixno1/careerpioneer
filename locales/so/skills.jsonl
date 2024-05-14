@@ -1,0 +1,646 @@
+{"skill": "försäljning", "count": 549402, "field_id": 5, "translation": "iibiyaynta"}
+{"skill": "arbetslivserfarenhet", "count": 364881, "field_id": 1, "translation": "khibrad dhaqaale"}
+{"skill": "barn", "count": 350870, "field_id": 15, "translation": "caruur"}
+{"skill": "datorvana", "count": 309339, "field_id": 8, "translation": "maareynta kumbuyuutarada"}
+{"skill": "sjukvård", "count": 309193, "field_id": 8, "translation": "caafimaad"}
+{"skill": "microsoft office", "count": 262672, "field_id": 1, "translation": "Microsoft Office"}
+{"skill": "teknik", "count": 255631, "field_id": 3, "translation": "teknooloji"}
+{"skill": "ekonomi", "count": 253956, "field_id": 1, "translation": "dhaqaale"}
+{"skill": "kommunikation", "count": 243532, "field_id": 5, "translation": "mawduuc"}
+{"skill": "dokumentation", "count": 222709, "field_id": 8, "translation": "raqaminta"}
+{"skill": "administration", "count": 222073, "field_id": 1, "translation": "hawlaha maamulka"}
+{"skill": "undervisning", "count": 214354, "field_id": 15, "translation": "tababarka"}
+{"skill": "miljö", "count": 203774, "field_id": 1, "translation": "cilmiga dugsi sare"}
+{"skill": "högskoleutbildning", "count": 202811, "field_id": 1, "translation": "tababarka dugsiga sare"}
+{"skill": "gymnasieutbildning", "count": 194297, "field_id": 1, "translation": "xukunka"}
+{"skill": "ledarskap", "count": 186367, "field_id": 20, "translation": "macluumaadka"}
+{"skill": "data", "count": 165026, "field_id": 3, "translation": "goobo"}
+{"skill": "truckkort", "count": 156465, "field_id": 19, "translation": "lakiinka turkidda"}
+{"skill": "rekrytering", "count": 147953, "field_id": 1, "translation": "doorasho"}
+{"skill": "excel", "count": 142120, "field_id": 1, "translation": "Excel"}
+{"skill": "administrativa uppgifter", "count": 139421, "field_id": 1, "translation": "dhammaan hawlaha maamulka"}
+{"skill": "energi", "count": 132339, "field_id": 5, "translation": "enerji"}
+{"skill": "förskola", "count": 130722, "field_id": 15, "translation": "dugsiga hoose"}
+{"skill": "eftergymnasial utbildning", "count": 128164, "field_id": 1, "translation": "tababarka kala duwan"}
+{"skill": "lager", "count": 126180, "field_id": 19, "translation": "geedka"}
+{"skill": "kundservice", "count": 125861, "field_id": 5, "translation": "adeegga adeega"}
+{"skill": "omsorg", "count": 121949, "field_id": 16, "translation": "dhamaystir"}
+{"skill": "el", "count": 121639, "field_id": 10, "translation": "caafimaad"}
+{"skill": "ungdomar", "count": 120337, "field_id": 16, "translation": "daboolka"}
+{"skill": "utvecklingsarbete", "count": 119532, "field_id": 8, "translation": "la dagaallanka"}
+{"skill": "material", "count": 119378, "field_id": 9, "translation": "ee"}
+{"skill": "design", "count": 116389, "field_id": 3, "translation": "dhallinyarada"}
+{"skill": "arbetsmiljö", "count": 115290, "field_id": 20, "translation": "dhaqanka horumarka"}
+{"skill": "inköp", "count": 112755, "field_id": 5, "translation": "qalab"}
+{"skill": "mat", "count": 112742, "field_id": 7, "translation": "noocyada"}
+{"skill": "personalansvar", "count": 108580, "field_id": 20, "translation": "miisaaniyadda"}
+{"skill": "handledning", "count": 105203, "field_id": 8, "translation": "iibgeynta"}
+{"skill": "industri", "count": 100013, "field_id": 9, "translation": "cunto"}
+{"skill": "leverantörer", "count": 98028, "field_id": 5, "translation": "mas’uuliyadda shaqaalaha"}
+{"skill": "styrdokument", "count": 97249, "field_id": 15, "translation": "talowsha"}
+{"skill": "hälsa", "count": 96522, "field_id": 8, "translation": "dhaqanka"}
+{"skill": "budget", "count": 94999, "field_id": 20, "translation": "cashuuraha"}
+{"skill": "reparation", "count": 94535, "field_id": 10, "translation": "talowshaaga"}
+{"skill": "projektledning", "count": 93753, "field_id": 18, "translation": "bujget"}
+{"skill": "felsökning", "count": 91975, "field_id": 10, "translation": "isla xisaabtankii"}
+{"skill": "butik", "count": 90491, "field_id": 5, "translation": "takoor"}
+{"skill": "problemlösning", "count": 90224, "field_id": 10, "translation": "hawlaha mudnaanta"}
+{"skill": "säkerhet", "count": 89660, "field_id": 5, "translation": "xanaanada"}
+{"skill": "logistik", "count": 89449, "field_id": 19, "translation": "dukaanka"}
+{"skill": "forskning", "count": 87817, "field_id": 15, "translation": "hal-xiriir"}
+{"skill": "städning", "count": 85282, "field_id": 12, "translation": "amaanka"}
+{"skill": "drifting", "count": 83980, "field_id": 3, "translation": "loojisitik"}
+{"skill": "kundrelationer", "count": 81316, "field_id": 5, "translation": "tijaabo"}
+{"skill": "städning", "count": 85282, "field_id": 12, "translation": "ku ciidda"}
+{"skill": "drifting", "count": 83980, "field_id": 3, "translation": "tag"}
+{"skill": "kundrelationer", "count": 81316, "field_id": 5, "translation": "xiriirka macmiilka"}
+{"skill": "analys", "count": 80201, "field_id": 1, "translation": "falandoqaynta"}
+{"skill": "behandling", "count": 78844, "field_id": 8, "translation": "isla dhexmarista"}
+{"skill": "god fysik", "count": 78206, "field_id": 19, "translation": "jirka fudud"}
+{"skill": "redovisning", "count": 77070, "field_id": 1, "translation": "hawlgalka"}
+{"skill": "rådgivning", "count": 76565, "field_id": 5, "translation": "taladaadinta"}
+{"skill": "lärarlegitimation", "count": 73772, "field_id": 15, "translation": "diiwaan geliyaha"}
+{"skill": "coachning", "count": 73610, "field_id": 5, "translation": "masuuliyiin"}
+{"skill": "matlagning", "count": 73300, "field_id": 16, "translation": "daboolka cuntooyinka"}
+{"skill": "montering", "count": 72600, "field_id": 9, "translation": "xidhiidh"}
+{"skill": "programmering", "count": 71778, "field_id": 3, "translation": "qalabka"}
+{"skill": "beställningar", "count": 71531, "field_id": 5, "translation": "dabacsanaanta"}
+{"skill": "funktionsnedsättning", "count": 71521, "field_id": 16, "translation": "xanuunsanid"}
+{"skill": "fordon", "count": 69527, "field_id": 10, "translation": "gaadiidka"}
+{"skill": "försäkring", "count": 69049, "field_id": 1, "translation": "xisaabisaashka"}
+{"skill": "transport", "count": 68987, "field_id": 19, "translation": "gaadiidka"}
+{"skill": "förbättringsarbete", "count": 68935, "field_id": 8, "translation": "wax soo saarka"}
+{"skill": "rör", "count": 68923, "field_id": 1, "translation": "tuubo"}
+{"skill": "psykiatri", "count": 68779, "field_id": 8, "translation": "mental health"}
+{"skill": "rapportering", "count": 66231, "field_id": 1, "translation": "dahsashada"}
+{"skill": "restaurang", "count": 65975, "field_id": 7, "translation": "magaalada"}
+{"skill": "bilen", "count": 65831, "field_id": 9, "translation": "gaadiidka"}
+{"skill": "myndigheter", "count": 65752, "field_id": 1, "translation": "machadka"}
+{"skill": "installation", "count": 64737, "field_id": 10, "translation": "inta uu ka gaar yahay"}
+{"skill": "affärssystem", "count": 62823, "field_id": 5, "translation": "inta uusan baahnaynin"}
+{"skill": "marknadsföring", "count": 62734, "field_id": 5, "translation": "gobolkaadka"}
+{"skill": "träning", "count": 60413, "field_id": 16, "translation": "keen"}
+{"skill": "matematik", "count": 60004, "field_id": 15, "translation": "cilmiga cuntada"}
+{"skill": "hälsovård", "count": 59683, "field_id": 8, "translation": "xakame"}
+{"skill": "primärvård", "count": 59620, "field_id": 8, "translation": "xirfad-daraasaadka"}
+{"skill": "kompetensutveckling", "count": 58441, "field_id": 8, "translation": "kaadsoontanka"}
+{"skill": "automation", "count": 58030, "field_id": 18, "translation": "dib-u-xaalufinta"}
+{"skill": "äldreomsorg", "count": 57310, "field_id": 8, "translation": "mekanig"}
+{"skill": "upphandling", "count": 56947, "field_id": 5, "translation": "qoraal ku saabsan"}
+{"skill": "innovation", "count": 56480, "field_id": 3, "translation": "aqbala"}
+{"skill": "kundtjänst", "count": 54763, "field_id": 5, "translation": "barashada adeegga"}
+{"skill": "it-kunskaper", "count": 50507, "field_id": 15, "translation": "taal"}
+{"skill": "förändringsarbete", "count": 50454, "field_id": 20, "translation": "taageero"}
+{"skill": "mekanik", "count": 50425, "field_id": 10, "translation": "afar jedka"}
+{"skill": "feedback", "count": 49643, "field_id": 5, "translation": "ka hawlgasho"}
+{"skill": "mottagning", "count": 49421, "field_id": 8, "translation": "luuqaddaaga dushiisa"}
+{"skill": "specialistutbildning", "count": 46904, "field_id": 8, "translation": "xisbiga ganacsiga"}
+{"skill": "hemsjukvård", "count": 46891, "field_id": 8, "translation": "tababbar"}
+{"skill": "datorkunskaper", "count": 46488, "field_id": 8, "translation": "cilmiga"}
+{"skill": "fakturering", "count": 45065, "field_id": 1, "translation": "caafimaadka"}
+{"skill": "handläggning", "count": 44716, "field_id": 1, "translation": "daryeelka hore"}
+{"skill": "kvalitetsarbete", "count": 44128, "field_id": 20, "translation": "horumarka"}
+{"skill": "B2B", "count": 43950, "field_id": 5, "translation": "xayrshidan"}
+{"skill": "registrering", "count": 43629, "field_id": 1, "translation": "xiriirka macmiilka"}
+{"skill": "kök", "count": 43335, "field_id": 7, "translation": "xirfad-daraasaadka ee tikii"}
+{"skill": "registrering", "count": 43629, "field_id": 1, "translation": "diiwaangelinta"}
+{"skill": "kök", "count": 43335, "field_id": 7, "translation": "dabooli"}
+{"skill": "event", "count": 43204, "field_id": 5, "translation": "hawl"}
+{"skill": "registerkontroll", "count": 43151, "field_id": 8, "translation": "diiwaangelinta"}
+{"skill": "verksamhetsutveckling", "count": 42471, "field_id": 20, "translation": "horumarinta shaqada"}
+{"skill": "budgetansvar", "count": 41953, "field_id": 20, "translation": "masuuliyadda badeecadeed"}
+{"skill": "hemtjänst", "count": 41581, "field_id": 8, "translation": "hudheelka guriga"}
+{"skill": "kassaarbete", "count": 41452, "field_id": 5, "translation": "shaqo ka qaadista lacagta"}
+{"skill": "finska", "count": 40861, "field_id": 5, "translation": "suomi"}
+{"skill": "tunga lyft", "count": 40824, "field_id": 19, "translation": "qarsoodi"}
+{"skill": "java", "count": 40626, "field_id": 3, "translation": "java"}
+{"skill": "schemaläggning", "count": 40507, "field_id": 20, "translation": "jadwalinta"}
+{"skill": "arbetsledning", "count": 40365, "field_id": 20, "translation": "hargeeyn"}
+{"skill": "pedagogik", "count": 40289, "field_id": 1, "translation": "gaafaadinta"}
+{"skill": "teknisk utbildning", "count": 40155, "field_id": 10, "translation": "tacliinta farsamo"}
+{"skill": "akutsjukvård", "count": 39964, "field_id": 8, "translation": "cudurka qaba"}
+{"skill": "merförsäljning", "count": 39797, "field_id": 5, "translation": "dhigatooyinka dheeraa"}
+{"skill": "byggbranschen", "count": 39544, "field_id": 2, "translation": "dhismaha"}
+{"skill": "rehabilitering", "count": 39539, "field_id": 8, "translation": "kaalmaha waayo arag"}
+{"skill": "fritidshem", "count": 39389, "field_id": 15, "translation": "xagga samafalka"}
+{"skill": "journalsystem", "count": 39226, "field_id": 8, "translation": "nidaamka dhiigga"}
+{"skill": "organisationer", "count": 39221, "field_id": 1, "translation": "ururro"}
+{"skill": "konstruktion", "count": 38350, "field_id": 18, "translation": "qaab dhismeedka"}
+{"skill": "samordning", "count": 37997, "field_id": 1, "translation": "isku dhafka"}
+{"skill": "varumärken", "count": 37995, "field_id": 5, "translation": "makuurtado"}
+{"skill": "tillverkning", "count": 37983, "field_id": 9, "translation": "abuuridda"}
+{"skill": "verksamhetsområden", "count": 37884, "field_id": 20, "translation": "goobaha dhaqaale"}
+{"skill": "regelverk", "count": 37824, "field_id": 1, "translation": "xeerarka"}
+{"skill": "socialtjänst", "count": 37680, "field_id": 16, "translation": "hudheelka bulshada"}
+{"skill": "media", "count": 37628, "field_id": 5, "translation": "warbaahinta"}
+{"skill": "idrott", "count": 37447, "field_id": 15, "translation": "ciyaar"}
+{"skill": "juridik", "count": 37250, "field_id": 1, "translation": "sharciga"}
+{"skill": "performance", "count": 36943, "field_id": 3, "translation": "tijaabo"}
+{"skill": "statistik", "count": 36708, "field_id": 1, "translation": "tirada"}
+{"skill": "utredning", "count": 36698, "field_id": 8, "translation": "baara"}
+{"skill": "research", "count": 35333, "field_id": 3, "translation": "hirgelinta"}
+{"skill": "socialt arbete", "count": 35236, "field_id": 16, "translation": "shaqada bulshada"}
+{"skill": "python", "count": 35104, "field_id": 3, "translation": "python"}
+{"skill": "servering", "count": 34847, "field_id": 7, "translation": "naanaynta"}
+{"skill": "barnpassning", "count": 34679, "field_id": 12, "translation": "kelaynta carruurta"}
+{"skill": "javascript", "count": 34666, "field_id": 3, "translation": "javascript"}
+{"skill": "konsultuppdrag", "count": 34659, "field_id": 1, "translation": "duufmarka konsalka"}
+{"skill": "C#", "count": 34495, "field_id": 3, "translation": "C#"}
+{"skill": "rekryteringstjänster", "count": 34461, "field_id": 8, "translation": "hudheelidda shaqaalaha"}
+{"skill": "lag", "count": 34403, "field_id": 9, "translation": "sharciga"}
+{"skill": "autism", "count": 34191, "field_id": 16, "translation": "awtisim"}
+{"skill": "universitetsutbildning", "count": 34025, "field_id": 1, "translation": "tacliinta jaamacadda"}
+{"skill": "personlig hygien", "count": 33602, "field_id": 16, "translation": "nidaamka daryeelka"}
+{"skill": "datorer", "count": 33600, "field_id": 3, "translation": "kombiyuutaro"}
+{"skill": "arbetsliv", "count": 33563, "field_id": 5, "translation": "hawlka"}
+{"skill": "svenska som andraspråk", "count": 32984, "field_id": 15, "translation": "iswiidh si aan lahayn"}
+{"skill": "tvätt", "count": 32791, "field_id": 8, "translation": "dharka"}
+{"skill": "jakt", "count": 32673, "field_id": 8, "translation": "dhig"}
+{"skill": "marketing", "count": 32609, "field_id": 5, "translation": "mikrosft windows"}
+{"skill": "microsoft windows", "count": 32575, "field_id": 3, "translation": "iskaashigii"}
+{"skill": "integration", "count": 32432, "field_id": 3, "translation": "diiwaangelinta"}
+{"skill": "bokslut", "count": 32090, "field_id": 1, "translation": "xisaab"}
+{"skill": "avstämningar", "count": 32073, "field_id": 1, "translation": "xog-waayeel"}
+{"skill": "infrastruktur", "count": 31870, "field_id": 3, "translation": "miisaaniyad"}
+{"skill": "utvecklingsprojekt", "count": 31673, "field_id": 18, "translation": "hawlgashada horumarinta"}
+{"skill": "arbetsmiljöansvar", "count": 31617, "field_id": 20, "translation": "dhammaan mashaariicda"}
+{"skill": "fastigheter", "count": 31609, "field_id": 10, "translation": "xicmad caafimaad"}
+{"skill": "lärarexamen", "count": 31582, "field_id": 15, "translation": "guryaha"}
+{"skill": "it-system", "count": 31547, "field_id": 3, "translation": "shahaadada macallin"}
+{"skill": "kassa", "count": 31433, "field_id": 5, "translation": "nidaamka tiknoolajiyadda"}
+{"skill": "telefonrådgivning", "count": 31239, "field_id": 8, "translation": "xisaab"}
+{"skill": "styrning", "count": 31185, "field_id": 20, "translation": "telefoonka"}
+{"skill": "bemanningsföretag", "count": 30984, "field_id": 8, "translation": "qaabdhanaanta"}
+{"skill": "teamarbete", "count": 30978, "field_id": 8, "translation": "xafiiska shaqo"}
+{"skill": "verkstad", "count": 30836, "field_id": 10, "translation": "hawlgalka kooxaha"}
+{"skill": "kampanjer", "count": 30798, "field_id": 5, "translation": "warsame"}
+{"skill": "teknisk support", "count": 30554, "field_id": 5, "translation": "kampainyo"}
+{"skill": "äldreboende", "count": 30546, "field_id": 8, "translation": "taageerada farsamada"}
+{"skill": "digitalisering", "count": 30411, "field_id": 1, "translation": "go'aanku"}
+{"skill": "tillgänglighet", "count": 30387, "field_id": 5, "translation": "deegaanka sare"}
+{"skill": "bank", "count": 30171, "field_id": 1, "translation": "dijitaalka"}
+{"skill": "mjukvara", "count": 29976, "field_id": 3, "translation": "la heli kara"}
+{"skill": "leverantörsreskontra", "count": 29898, "field_id": 1, "translation": "banka"}
+{"skill": "systemutveckling", "count": 29886, "field_id": 3, "translation": "dhammaan warshadaha"}
+{"skill": "teknikintresse", "count": 29848, "field_id": 10, "translation": "deris-gaariddada dhiigga"}
+{"skill": "vägledning", "count": 29844, "field_id": 1, "translation": "horumaridda nidaamka"}
+{"skill": "lokalvård", "count": 29826, "field_id": 12, "translation": "dhagaha farsamooyinka"}
+{"skill": "hotell", "count": 29789, "field_id": 7, "translation": "hagidda"}
+{"skill": "lastning", "count": 29727, "field_id": 19, "translation": "hawlo deggan"}
+{"skill": "tyska", "count": 29703, "field_id": 5, "translation": "goobaha"}
+{"skill": "svetsning", "count": 29571, "field_id": 9, "translation": "dabool"}
+{"skill": "reception", "count": 29462, "field_id": 1, "translation": "jarmalka"}
+{"skill": "tester", "count": 29456, "field_id": 3, "translation": "takhtarka"}
+{"skill": "maskin", "count": 29430, "field_id": 18, "translation": "gudaha"}
+{"skill": "ritningar", "count": 28964, "field_id": 9, "translation": "mashruucah"}
+{"skill": "word", "count": 28939, "field_id": 1, "translation": "miisaanka ah"}
+{"skill": ".net", "count": 28851, "field_id": 3, "translation": ".net"}
+{"skill": "agile", "count": 28809, "field_id": 3, "translation": "nabadoon"}
+{"skill": "c-körkort", "count": 28762, "field_id": 19, "translation": "riixayaasha caddaanka"}
+{"skill": "offerter", "count": 28634, "field_id": 5, "translation": "qoraalka"}
+{"skill": "bokningar", "count": 28599, "field_id": 5, "translation": "SQL"}
+{"skill": "SQL", "count": 28450, "field_id": 3, "translation": "C++"}
+{"skill": "C++", "count": 28319, "field_id": 3, "translation": "shahaadka c-koolka"}
+{"skill": "provtagning", "count": 28208, "field_id": 8, "translation": "dhiirrigelinta"}
+{"skill": "ämneskunskaper", "count": 28156, "field_id": 15, "translation": "hirgelinta"}
+{"skill": "utredningsarbete", "count": 28124, "field_id": 1, "translation": "SQL"}
+{"skill": "mottagningsarbete", "count": 27955, "field_id": 8, "translation": "C++"}
+{"skill": "distribution", "count": 27774, "field_id": 19, "translation": "shaqaalaha"}
+{"skill": "utredningsarbete", "count": 28124, "field_id": 1, "translation": "fidsan"}
+{"skill": "mottagningsarbete", "count": 27955, "field_id": 8, "translation": "xidhiidhka"}
+{"skill": "distribution", "count": 27774, "field_id": 19, "translation": "distribusyo"}
+{"skill": "systemvana", "count": 27722, "field_id": 1, "translation": "adeegga"}
+{"skill": "siffror", "count": 27564, "field_id": 1, "translation": "tirada"}
+{"skill": "sport", "count": 27553, "field_id": 5, "translation": "cayaar"}
+{"skill": "hydraulik", "count": 27527, "field_id": 10, "translation": "hydraulics"}
+{"skill": "funktionshinder", "count": 27133, "field_id": 16, "translation": "iddir"}
+{"skill": "serviceyrke", "count": 26912, "field_id": 5, "translation": "shaqo adeeg"}
+{"skill": "dryck", "count": 26647, "field_id": 7, "translation": "macaan"}
+{"skill": "livsmedel", "count": 26635, "field_id": 5, "translation": "axad"}
+{"skill": "specialistkompetens", "count": 26617, "field_id": 8, "translation": "specialistta"}
+{"skill": "kanaler", "count": 26590, "field_id": 5, "translation": "tuyaat"}
+{"skill": "webbutveckling", "count": 26574, "field_id": 3, "translation": "shaqo webe ah"}
+{"skill": "sjukhus", "count": 26333, "field_id": 8, "translation": "dhexe"}
+{"skill": "beredskap", "count": 26300, "field_id": 15, "translation": "codka"}
+{"skill": "företagshälsovård", "count": 25866, "field_id": 8, "translation": "dhaqan dhaqaaq"}
+{"skill": "kvalitetssäkring", "count": 25764, "field_id": 1, "translation": "tasfiir"}
+{"skill": "vuxenutbildning", "count": 25719, "field_id": 15, "translation": "tacliinta vayaha"}
+{"skill": "traverskort", "count": 25545, "field_id": 9, "translation": "cardquud"}
+{"skill": "implementering", "count": 25464, "field_id": 3, "translation": "dhameystirid"}
+{"skill": "norska", "count": 25396, "field_id": 5, "translation": "norway"}
+{"skill": "brand", "count": 25273, "field_id": 1, "translation": "dhakhtar"}
+{"skill": "CAD", "count": 25255, "field_id": 18, "translation": "debido"}
+{"skill": "övervakning", "count": 25137, "field_id": 9, "translation": "shirka"}
+{"skill": "säkerhetsprövning", "count": 24888, "field_id": 1, "translation": "isku darsi"}
+{"skill": "grundskola", "count": 24864, "field_id": 15, "translation": "dadyowga"}
+{"skill": "kundreskontra", "count": 24826, "field_id": 1, "translation": "tirtir"}
+{"skill": "arbetsredskap", "count": 24712, "field_id": 5, "translation": "dafirsiga"}
+{"skill": "löpande bokföring", "count": 24683, "field_id": 1, "translation": "dhididitaanka"}
+{"skill": "posthantering", "count": 24605, "field_id": 1, "translation": "qalabkeenna shaqada"}
+{"skill": "arbetsverktyg", "count": 24295, "field_id": 5, "translation": "buxinta"}
+{"skill": "modersmål", "count": 24282, "field_id": 15, "translation": "bulshada"}
+{"skill": "läkemedel", "count": 24197, "field_id": 8, "translation": "laboratories"}
+{"skill": "projektering", "count": 24183, "field_id": 2, "translation": "XAGGA"}
+{"skill": "lönsamhet", "count": 24030, "field_id": 5, "translation": "kaararka"}
+{"skill": "microsoft azure", "count": 23908, "field_id": 3, "translation": "shaqaale sanad ah"}
+{"skill": "produktutveckling", "count": 23879, "field_id": 18, "translation": "shaqooyin boostiya"}
+{"skill": "tekniska lösningar", "count": 23868, "field_id": 3, "translation": "calaamadaha"}
+{"skill": "egenkontroll", "count": 23849, "field_id": 7, "translation": "doorasho"}
+{"skill": "helhetsansvar", "count": 23798, "field_id": 20, "translation": "masiixiweyn azure"}
+{"skill": "beteendevetenskap", "count": 23692, "field_id": 1, "translation": "daboolidda"}
+{"skill": "doktorsexamen", "count": 23678, "field_id": 15, "translation": "hufan"}
+{"skill": "kirurgi", "count": 23571, "field_id": 8, "translation": "inta riyada"}
+{"skill": "fakturahantering", "count": 23447, "field_id": 1, "translation": "ku dadaala"}
+{"skill": "hårdvara", "count": 23430, "field_id": 3, "translation": "mas'uuliyadda buuxda"}
+{"skill": "underhållsarbete", "count": 23325, "field_id": 10, "translation": "cilmiga nololeed"}
+{"skill": "beredning", "count": 23268, "field_id": 7, "translation": "Doktaar"}
+{"skill": "automotive", "count": 23210, "field_id": 18, "translation": "qalabka"}
+{"skill": "servicearbete", "count": 23008, "field_id": 10, "translation": "dabaqadda"}
+{"skill": "kundsupport", "count": 22994, "field_id": 5, "translation": "cunto"}
+{"skill": "trygghetsförsäkring", "count": 22990, "field_id": 5, "translation": "hardware"}
+{"skill": "bokföring", "count": 22898, "field_id": 1, "translation": "shuqullaamiinta"}
+{"skill": "arbetsgrupp", "count": 22856, "field_id": 8, "translation": "tayada"}
+{"skill": "säljteam", "count": 22834, "field_id": 5, "translation": "ayaa of relief"}
+{"skill": "kundsupport", "count": 22994, "field_id": 5, "translation": "taageeridda adeegga"}
+{"skill": "trygghetsförsäkring", "count": 22990, "field_id": 5, "translation": "calaamad dhaqaale"}
+{"skill": "bokföring", "count": 22898, "field_id": 1, "translation": "buuxinta buugaagga"}
+{"skill": "arbetsgrupp", "count": 22856, "field_id": 8, "translation": "koox gaadiid"}
+{"skill": "säljteam", "count": 22834, "field_id": 5, "translation": "kooxinta iibka"}
+{"skill": "telefonsamtal", "count": 22731, "field_id": 8, "translation": "wareegga telefoonka"}
+{"skill": "ärendehanteringssystem", "count": 22712, "field_id": 3, "translation": "nidaamka qorshaha"}
+{"skill": "värme", "count": 22434, "field_id": 10, "translation": "dhacdo"}
+{"skill": "packning", "count": 22423, "field_id": 19, "translation": "dabool"}
+{"skill": "film", "count": 22338, "field_id": 16, "translation": "filim"}
+{"skill": "linux", "count": 22326, "field_id": 3, "translation": "linux"}
+{"skill": "lossning", "count": 22305, "field_id": 19, "translation": "dabacsanaanta"}
+{"skill": "kemi", "count": 22051, "field_id": 18, "translation": "keemiyada"}
+{"skill": "it-support", "count": 22040, "field_id": 3, "translation": "taageeridda tiknoolajiyadda"}
+{"skill": "pedagogisk dokumentation", "count": 22016, "field_id": 15, "translation": "qoraalka waxbarasho"}
+{"skill": "back end", "count": 21987, "field_id": 3, "translation": "dhinaca hore"}
+{"skill": "däck", "count": 21897, "field_id": 9, "translation": "goobaha"}
+{"skill": "slutenvård", "count": 21893, "field_id": 8, "translation": "go'aanka dhameystiran"}
+{"skill": "rekryteringsföretag", "count": 21879, "field_id": 15, "translation": "shirkadaha doorasho"}
+{"skill": "genomförandeplaner", "count": 21879, "field_id": 16, "translation": "qorsheysyada soo saarida"}
+{"skill": "omvårdnadsarbete", "count": 21835, "field_id": 8, "translation": "shaqooyinkii degdegga ahaa"}
+{"skill": "branscherfarenhet", "count": 21804, "field_id": 5, "translation": "xirfadaha degdegga ahaa"}
+{"skill": "operation", "count": 21759, "field_id": 8, "translation": "qalab qoyan"}
+{"skill": "yrkesbevis", "count": 21602, "field_id": 2, "translation": "dhinaca hore"}
+{"skill": "inventering", "count": 21512, "field_id": 5, "translation": "adeegga iibka"}
+{"skill": "front end", "count": 21435, "field_id": 3, "translation": "tabcinta iibka"}
+{"skill": "orderhantering", "count": 21423, "field_id": 5, "translation": "feyiska"}
+{"skill": "säljutbildning", "count": 21189, "field_id": 5, "translation": "horumarinta maal-gelinta"}
+{"skill": "fysik", "count": 21139, "field_id": 15, "translation": "biyaha"}
+{"skill": "kunskapsutveckling", "count": 21136, "field_id": 15, "translation": "mas'uuliyadda natiijooyinka"}
+{"skill": "vatten", "count": 21017, "field_id": 2, "translation": "khaanada"}
+{"skill": "resultatansvar", "count": 20866, "field_id": 20, "translation": "daraasaduhu waxaa ka amar qaaday"}
+{"skill": "arkiv", "count": 20761, "field_id": 1, "translation": "kafiila"}
+{"skill": "förebyggande underhåll", "count": 20687, "field_id": 10, "translation": "kuwaariyadda"}
+{"skill": "cafeteria", "count": 20652, "field_id": 7, "translation": "monitor"}
+{"skill": "monitor", "count": 20639, "field_id": 5, "translation": "xisaabinta sanadlahaan"}
+{"skill": "årsredovisning", "count": 20576, "field_id": 1, "translation": "tacliinta maxalaanteed"}
+{"skill": "yrkeshögskoleutbildning", "count": 20212, "field_id": 1, "translation": "sharcigga adeega bulshada"}
+{"skill": "socialtjänstlagen", "count": 20174, "field_id": 16, "translation": "qaabdhismeedka"}
+{"skill": "sortiment", "count": 20147, "field_id": 5, "translation": "Diinta"}
+{"skill": "religion", "count": 19985, "field_id": 3, "translation": "nidaamka maamulka"}
+{"skill": "styrsystem", "count": 19923, "field_id": 10, "translation": "taageeridda macallimiinta"}
+{"skill": "lärarutbildning", "count": 19832, "field_id": 15, "translation": "dhaqaalo"}
+{"skill": "flöden", "count": 19830, "field_id": 1, "translation": "hantida dukaanka"}
+{"skill": "fastighet", "count": 19806, "field_id": 1, "translation": "hawada"}
+{"skill": "danska", "count": 19775, "field_id": 5, "translation": "keydsashoobixinta"}
+{"skill": "butiksarbete", "count": 19710, "field_id": 5, "translation": "shaqaalaadii adeega"}
+{"skill": "mätning", "count": 19570, "field_id": 9, "translation": "bedhiso"}
+{"skill": "databaser", "count": 19564, "field_id": 3, "translation": "databaser"}
+{"skill": "mässor", "count": 19530, "field_id": 5, "translation": "mässor"}
+{"skill": "offentlig förvaltning", "count": 19529, "field_id": 1, "translation": "dowladda dowladda"}
+{"skill": "arbetsrätt", "count": 19496, "field_id": 1, "translation": "sharciga shaqaalaha"}
+{"skill": "omvärldsbevakning", "count": 19492, "field_id": 1, "translation": "xiisaha xiriirka"}
+{"skill": "arbetsmetoder", "count": 19452, "field_id": 15, "translation": "hab nololeed"}
+{"skill": "fordonsbranschen", "count": 19272, "field_id": 10, "translation": "xarumaha gaadiidka"}
+{"skill": "reklamationer", "count": 19191, "field_id": 5, "translation": "dabacsanaya"}
+{"skill": "grundutbildning", "count": 19107, "field_id": 8, "translation": "waxbarashada hore"}
+{"skill": "vidareutveckling", "count": 19054, "field_id": 3, "translation": "horumarinta"}
+{"skill": "undersköterskeutbildning", "count": 19051, "field_id": 8, "translation": "daraasaad caafimaad leh"}
+{"skill": "hälsoarbete", "count": 19019, "field_id": 8, "translation": "hawlaha caafimaadka"}
+{"skill": "certifikat", "count": 19003, "field_id": 10, "translation": "shahaado"}
+{"skill": "hushållssysslor", "count": 19003, "field_id": 16, "translation": "shaqooyin dakhliga ah"}
+{"skill": "testning", "count": 18990, "field_id": 3, "translation": "baaritaan"}
+{"skill": "CSS", "count": 18975, "field_id": 3, "translation": "CSS"}
+{"skill": "inleveranser", "count": 18969, "field_id": 19, "translation": "isu-diyaarin"}
+{"skill": "office 365", "count": 18828, "field_id": 3, "translation": "office 365"}
+{"skill": "exponering", "count": 18726, "field_id": 5, "translation": "dabaaldega"}
+{"skill": "sortering", "count": 18700, "field_id": 19, "translation": "taxaddarinta"}
+{"skill": "yrkeshögskola", "count": 18677, "field_id": 1, "translation": "iskuulkayga caadiga ah"}
+{"skill": "körning", "count": 18666, "field_id": 19, "translation": "gaadhsiiyey"}
+{"skill": "vårdavdelning", "count": 18647, "field_id": 8, "translation": "budhka caafimaadka"}
+{"skill": "scrum", "count": 18587, "field_id": 3, "translation": "scrum"}
+{"skill": "handel", "count": 18546, "field_id": 5, "translation": "inta"}
+{"skill": "årsbokslut", "count": 18529, "field_id": 1, "translation": "aad-bixinta"}
+{"skill": "chefserfarenhet", "count": 18483, "field_id": 20, "translation": "xisaabinta waqtiga"}
+{"skill": "maskinteknik", "count": 18481, "field_id": 18, "translation": "cloud"}
+{"skill": "spanska", "count": 18445, "field_id": 15, "translation": "hantiwadaagga"}
+{"skill": "tidplaner", "count": 18439, "field_id": 2, "translation": "qaab"}
+{"skill": "cloud", "count": 18401, "field_id": 3, "translation": "react"}
+{"skill": "restaurangbranschen", "count": 18360, "field_id": 7, "translation": "caafimaadka fure"}
+{"skill": "instrument", "count": 18360, "field_id": 18, "translation": "fadhiyaasha horumarin"}
+{"skill": "react", "count": 18300, "field_id": 3, "translation": "nidaamka shaqo"}
+{"skill": "öppenvård", "count": 18299, "field_id": 8, "translation": "daryeelka dugsiyeedka"}
+{"skill": "utvecklingsfrågor", "count": 18259, "field_id": 20, "translation": "tababarka caadiga ah"}
+{"skill": "verksamhetssystem", "count": 18214, "field_id": 1, "translation": "shaqooyinka qalcada"}
+{"skill": "skolutveckling", "count": 18213, "field_id": 15, "translation": "git"}
+{"skill": "yrkesutbildning", "count": 18202, "field_id": 9, "translation": "cayayaal"}
+{"skill": "ekonomiarbete", "count": 18150, "field_id": 1, "translation": "nidaamka dhaqaalaha"}
+{"skill": "föreskrifter", "count": 18126, "field_id": 1, "translation": "teknolojiyadda iibgeynta"}
+{"skill": "receptionsarbete", "count": 18120, "field_id": 1, "translation": "weecasho"}
+{"skill": "fastighetsbranschen", "count": 18075, "field_id": 1, "translation": "powerpoint"}
+{"skill": "optimering", "count": 17794, "field_id": 18, "translation": "daraajiinta"}
+{"skill": "utleveranser", "count": 17762, "field_id": 19, "translation": "dalabka"}
+{"skill": "web", "count": 17610, "field_id": 3, "translation": "shabakada"}
+{"skill": "delegering", "count": 17557, "field_id": 8, "translation": "xaqiiqo"}
+{"skill": "kommunal verksamhet", "count": 17557, "field_id": 16, "translation": "hawlaha degaanka"}
+{"skill": "html", "count": 17535, "field_id": 3, "translation": "html"}
+{"skill": "ortopedi", "count": 17532, "field_id": 8, "translation": "tiiraanyo"}
+{"skill": "CRM", "count": 17465, "field_id": 5, "translation": "CRM"}
+{"skill": "mjukvaruutveckling", "count": 17455, "field_id": 3, "translation": "korantada bogga"}
+{"skill": "behandlingsarbete", "count": 17402, "field_id": 16, "translation": "shaqo ka sarreeya"}
+{"skill": "fritidsprogrammet", "count": 17338, "field_id": 16, "translation": "barnaamijka fursadaha"}
+{"skill": "kandidatexamen", "count": 17241, "field_id": 1, "translation": "shahaadada lisanska"}
+{"skill": "arabiska", "count": 17225, "field_id": 1, "translation": "carabiga"}
+{"skill": "försäljningserfarenhet", "count": 17220, "field_id": 5, "translation": "talaalka"}
+{"skill": "påklädning", "count": 17217, "field_id": 16, "translation": "cusboonaysiinta"}
+{"skill": "kalkylering", "count": 17172, "field_id": 18, "translation": "dabaasaad"}
+{"skill": "cosmic", "count": 17090, "field_id": 8, "translation": "cosmic"}
+{"skill": "månadsbokslut", "count": 17059, "field_id": 1, "translation": "balaadhinta bilaha"}
+{"skill": "examensbevis", "count": 16958, "field_id": 1, "translation": "shahaadka"}
+{"skill": "reservdelar", "count": 16910, "field_id": 10, "translation": "qalabka cad"}
+{"skill": "social dokumentation", "count": 16895, "field_id": 16, "translation": "qoraalka bulshada"}
+{"skill": "särskilt boende", "count": 16833, "field_id": 8, "translation": "guryaha gaarka ah"}
+{"skill": "geriatrik", "count": 16809, "field_id": 8, "translation": "cudurad"}
+{"skill": "arkitektur", "count": 16792, "field_id": 3, "translation": "arkitektoniki"}
+{"skill": "e-handel", "count": 16686, "field_id": 5, "translation": "hantida"}
+{"skill": "adobe photoshop", "count": 16662, "field_id": 5, "translation": "adobe photoshop"}
+{"skill": "budgetarbete", "count": 16647, "field_id": 1, "translation": "hantida maaliyadda"}
+{"skill": "hållbarhet", "count": 16634, "field_id": 1, "translation": "dumarka"}
+{"skill": "rengöring", "count": 16603, "field_id": 12, "translation": "qabashada"}
+{"skill": "driftsättning", "count": 16503, "field_id": 10, "translation": "dareenka"}
+{"skill": "teknikområden", "count": 16463, "field_id": 18, "translation": "qaabdhismeedka"}
+{"skill": "personaladministration", "count": 16439, "field_id": 1, "translation": "dhaqanka shaqaaleyaasha"}
+{"skill": "GDPR", "count": 16416, "field_id": 3, "translation": "GDPR"}
+{"skill": "datasystem", "count": 16276, "field_id": 1, "translation": "nidaamka macluumaadka"}
+{"skill": "PLC", "count": 16263, "field_id": 18, "translation": "PLC"}
+{"skill": "skollagen", "count": 16256, "field_id": 15, "translation": "xeerka iskuullada"}
+{"skill": "embedded", "count": 16171, "field_id": 3, "translation": "lasocda"}
+{"skill": "systemvetenskap", "count": 16157, "field_id": 3, "translation": "cilmiga nidaamka"}
+{"skill": "active directory", "count": 16142, "field_id": 3, "translation": "nidaamka active directory"}
+{"skill": "fortbildning", "count": 16067, "field_id": 8, "translation": "kitaabka hordhiga"}
+{"skill": "entreprenadjuridik", "count": 15997, "field_id": 2, "translation": "ict-ka"}
+{"skill": "information technology", "count": 15984, "field_id": 3, "translation": "xeerista ganacsiga"}
+{"skill": "larm", "count": 15962, "field_id": 10, "translation": "falanoqoriska"}
+{"skill": "ärendehantering", "count": 15939, "field_id": 1, "translation": "barnaamijyada"}
+{"skill": "it-branschen", "count": 15937, "field_id": 3, "translation": "dirtada"}
+{"skill": "affärsutveckling", "count": 15899, "field_id": 5, "translation": "shaqo xanaanada"}
+{"skill": "prognoser", "count": 15891, "field_id": 1, "translation": "trakiinta dhabarka ah"}
+{"skill": "tillverkningsindustrin", "count": 15788, "field_id": 9, "translation": "hantiwadaagga waxbarashada"}
+{"skill": "utvecklingssamtal", "count": 15767, "field_id": 15, "translation": "dib-u-dhiska"}
+{"skill": "kontinuerlig coachning", "count": 15749, "field_id": 1, "translation": "madaxbanaanidda dhexmaray"}
+{"skill": "verksamhetsansvar", "count": 15601, "field_id": 20, "translation": "dabeylidda hawlaha"}
+{"skill": "barn och ungdom", "count": 15594, "field_id": 8, "translation": "dhallinyarada iyo dhalinyarada"}
+{"skill": "tydliggörande pedagogik", "count": 15486, "field_id": 16, "translation": "tacliinta waxbarashada"}
+{"skill": "lönesättning", "count": 15473, "field_id": 20, "translation": "lacagta sarifka"}
+{"skill": "compliance", "count": 15450, "field_id": 1, "translation": "compilance"}
+{"skill": "leverantörsfakturor", "count": 15446, "field_id": 1, "translation": "lacagta barta"}
+{"skill": "uppsökande försäljning", "count": 15269, "field_id": 5, "translation": "dhigista dukaanka"}
+{"skill": "agresso", "count": 15222, "field_id": 1, "translation": "agresso"}
+{"skill": "behörigheter", "count": 15217, "field_id": 3, "translation": "dayactirka"}
+{"skill": "missbruk", "count": 15195, "field_id": 16, "translation": "madxafka"}
+{"skill": "universitetsexamen", "count": 15142, "field_id": 1, "translation": "shahaadda jaamacadda"}
+{"skill": "projektarbete", "count": 15133, "field_id": 1, "translation": "shaqo abuuridda"}
+{"skill": "barnomsorg", "count": 15120, "field_id": 15, "translation": "daryeelka carruurta"}
+{"skill": "skolledning", "count": 15092, "field_id": 15, "translation": "manaajimayaasha"}
+{"skill": "lärplattform", "count": 15065, "field_id": 15, "translation": "mashruuc"}
+{"skill": "varuplock", "count": 14989, "field_id": 5, "translation": "gargaar"}
+{"skill": "ce-körkort", "count": 14959, "field_id": 19, "translation": "lesenka CE"}
+{"skill": "CNC", "count": 14916, "field_id": 9, "translation": "CNC"}
+{"skill": "telefoni", "count": 14881, "field_id": 5, "translation": "telefoonnada"}
+{"skill": "allmänmedicin", "count": 14865, "field_id": 8, "translation": "caafimaadka guud"}
+{"skill": "angularjs", "count": 14824, "field_id": 3, "translation": "angularjs"}
+{"skill": "ordrar", "count": 14793, "field_id": 19, "translation": "sharafeed"}
+{"skill": "customer service", "count": 14789, "field_id": 5, "translation": "adeeggan adeegyada iyo adeegyada"}
+{"skill": "telekommunikation", "count": 14783, "field_id": 5, "translation": "lacagta"}
+{"skill": "friskvård", "count": 14749, "field_id": 16, "translation": "fankaaga"}
+{"skill": "tillagning", "count": 14748, "field_id": 7, "translation": "fitoda"}
+{"skill": "påfyllning", "count": 14723, "field_id": 5, "translation": "ciidamadeedka"}
+{"skill": "lastbilar", "count": 14718, "field_id": 10, "translation": "gargaarka"}
+{"skill": "läxhjälp", "count": 14697, "field_id": 12, "translation": "lunsanida"}
+{"skill": "mode", "count": 14603, "field_id": 5, "translation": "laambadaha"}
+{"skill": "telefonförsäljning", "count": 14540, "field_id": 5, "translation": "ka caawinta dugsiga"}
+{"skill": "nyheter", "count": 14540, "field_id": 5, "translation": "qaababka"}
+{"skill": "à la carte", "count": 14532, "field_id": 7, "translation": "amazone web services"}
+{"skill": "ledarskapsutbildning", "count": 14531, "field_id": 20, "translation": "faransiis"}
+{"skill": "TV", "count": 13987, "field_id": 5, "translation": "TV"}
+{"skill": "inredning", "count": 13874, "field_id": 5, "translation": "inredning"}
+{"skill": "detaljhandel", "count": 13853, "field_id": 5, "translation": "detaljhandel"}
+{"skill": "fordonsindustrin", "count": 13806, "field_id": 18, "translation": "fordonsindustrin"}
+{"skill": "demens", "count": 13765, "field_id": 8, "translation": "demens"}
+{"skill": "samhällsbyggnad", "count": 13754, "field_id": 2, "translation": "samhällsbyggnad"}
+{"skill": "civilingenjörsexamen", "count": 13684, "field_id": 18, "translation": "civilingenjörsexamen"}
+{"skill": "autocad", "count": 13658, "field_id": 18, "translation": "autocad"}
+{"skill": "uthyrning", "count": 13654, "field_id": 18, "translation": "uthyrning"}
+{"skill": "privatkunder", "count": 13564, "field_id": 5, "translation": "privatkunder"}
+{"skill": "kundhantering", "count": 13562, "field_id": 5, "translation": "kundhantering"}
+{"skill": "medicinering", "count": 13554, "field_id": 8, "translation": "medicinering"}
+{"skill": "mätteknik", "count": 13516, "field_id": 9, "translation": "mätteknik"}
+{"skill": "elkraft", "count": 13420, "field_id": 18, "translation": "elkraft"}
+{"skill": "lönehantering", "count": 13403, "field_id": 1, "translation": "lönehantering"}
+{"skill": "diabetes", "count": 13401, "field_id": 8, "translation": "diabetes"}
+{"skill": "elevhälsa", "count": 13387, "field_id": 15, "translation": "elevhälsa"}
+{"skill": "kundansvar", "count": 13350, "field_id": 5, "translation": "kundansvar"}
+{"skill": "datavetenskap", "count": 13310, "field_id": 3, "translation": "datavetenskap"}
+{"skill": "renhållning", "count": 13244, "field_id": 7, "translation": "renhållning"}
+{"skill": "förskollärarexamen", "count": 13243, "field_id": 15, "translation": "förskollärarexamen"}
+{"skill": "lagarbete", "count": 13229, "field_id": 5, "translation": "lagarbete"}
+{"skill": "client", "count": 13174, "field_id": 3, "translation": "klient"}
+{"skill": "sjukvårdsinsatser", "count": 13170, "field_id": 8, "translation": "sjukvårdsinsatser"}
+{"skill": "förhandling", "count": 13170, "field_id": 5, "translation": "förhandling"}
+{"skill": "microsoft access", "count": 13147, "field_id": 3, "translation": "microsoft access"}
+{"skill": "internet", "count": 13116, "field_id": 3, "translation": "internet"}
+{"skill": "intensivvård", "count": 13066, "field_id": 8, "translation": "intensivvård"}
+{"skill": "tekniska kunskaper", "count": 13054, "field_id": 10, "translation": "tekniska kunskaper"}
+{"skill": "beslutsunderlag", "count": 13033, "field_id": 1, "translation": "beslutsunderlag"}
+{"skill": "UX", "count": 13000, "field_id": 3, "translation": "UX"}
+{"skill": "läsa ritningar", "count": 12959, "field_id": 9, "translation": "läsa ritningar"}
+{"skill": "sql-server", "count": 12956, "field_id": 3, "translation": "sql-server"}
+{"skill": "processindustri", "count": 12919, "field_id": 9, "translation": "processindustri"}
+{"skill": "ingenjörsutbildning", "count": 12897, "field_id": 18, "translation": "ingenjörsutbildning"}
+{"skill": "introduktionsprogram", "count": 12889, "field_id": 8, "translation": "introduktionsprogram"}
+{"skill": "ekonomifrågor", "count": 12885, "field_id": 20, "translation": "ekonomifrågor"}
+{"skill": "ekonomiskt ansvar", "count": 12871, "field_id": 20, "translation": "ekonomiskt ansvar"}
+{"skill": "avklädning", "count": 12835, "field_id": 16, "translation": "avklädning"}
+{"skill": "rekryteringssystem", "count": 12812, "field_id": 15, "translation": "rekryteringssystem"}
+{"skill": "behovsanalys", "count": 12785, "field_id": 5, "translation": "behovsanalys"}
+{"skill": "forskningsprojekt", "count": 12752, "field_id": 15, "translation": "forskningsprojekt"}
+{"skill": "reglerteknik", "count": 12724, "field_id": 10, "translation": "reglerteknik"}
+{"skill": "melior", "count": 12696, "field_id": 8, "translation": "melior"}
+{"skill": "snickeri", "count": 12677, "field_id": 2, "translation": "snickeri"}
+{"skill": "samhällsvetenskap", "count": 12637, "field_id": 1, "translation": "samhällsvetenskap"}
+{"skill": "tandvård", "count": 12625, "field_id": 8, "translation": "tandvård"}
+{"skill": "ekonomisk uppföljning", "count": 12598, "field_id": 1, "translation": "ekonomisk uppföljning"}
+{"skill": "tunga fordon", "count": 12566, "field_id": 10, "translation": "tunga fordon"}
+{"skill": "verifiering", "count": 12533, "field_id": 18, "translation": "verifiering"}
+{"skill": "embedded system", "count": 12522, "field_id": 3, "translation": "nabadda meeshan"}
+{"skill": "psykiatrin", "count": 12522, "field_id": 8, "translation": "psykiatri"}
+{"skill": "riskanalys", "count": 12521, "field_id": 18, "translation": "analyska"}
+{"skill": "skinn", "count": 12508, "field_id": 16, "translation": "cuud"}
+{"skill": "gymnasieskola", "count": 12461, "field_id": 15, "translation": "dugsiga sare"}
+{"skill": "outlook", "count": 12431, "field_id": 1, "translation": "Outlook"}
+{"skill": "kravställning", "count": 12414, "field_id": 3, "translation": "Talada ku saabsan"}
+{"skill": "pedagogisk verksamhet", "count": 12405, "field_id": 15, "translation": "hawlaha waxbarasho"}
+{"skill": "good manufacturing practice", "count": 12383, "field_id": 9, "translation": "hawlaha sameeystaya"}
+{"skill": "prospektering", "count": 12373, "field_id": 5, "translation": "Saameynta wax soosaaraha"}
+{"skill": "fastighetsskötsel", "count": 12310, "field_id": 10, "translation": "ku socodsiinta"}
+{"skill": "abonnemang", "count": 12304, "field_id": 5, "translation": "hawlaha guryaha"}
+{"skill": "palliativ vård", "count": 12302, "field_id": 8, "translation": "daynta"}
+{"skill": "REST", "count": 12297, "field_id": 3, "translation": "REST"}
+{"skill": "adobe indesign", "count": 12237, "field_id": 1, "translation": "adobe indesign"}
+{"skill": "släp", "count": 12222, "field_id": 19, "translation": "cad"}
+{"skill": "habilitering", "count": 12190, "field_id": 8, "translation": "habeebinta"}
+{"skill": "miljöfrågor", "count": 12188, "field_id": 14, "translation": "arrimaha dabiiciga ah"}
+{"skill": "service och underhåll", "count": 12155, "field_id": 10, "translation": "adeegsadaha iyo daryeelka"}
+{"skill": "patientsäkerhet", "count": 12136, "field_id": 8, "translation": "nabadgelyada macdanta"}
+{"skill": "administrativt stöd", "count": 12120, "field_id": 1, "translation": "taageero xisaabaadka"}
+{"skill": "kundvård", "count": 12114, "field_id": 5, "translation": "daryeelka macdanta"}
+{"skill": "telefonintervju", "count": 12107, "field_id": 5, "translation": "wada telefonka"}
+{"skill": "reflektion", "count": 12105, "field_id": 15, "translation": "afarta sano"}
+{"skill": "riskbedömningar", "count": 12095, "field_id": 8, "translation": "qalabkaada"}
+{"skill": "dans", "count": 12075, "field_id": 15, "translation": "qorshaha"}
+{"skill": "bestämmelser", "count": 12072, "field_id": 1, "translation": "biyoloji"}
+{"skill": "beräkningar", "count": 12047, "field_id": 18, "translation": "darmadaha"}
+{"skill": "biologi", "count": 12038, "field_id": 15, "translation": "baaritaanada"}
+{"skill": "möbler", "count": 11979, "field_id": 19, "translation": "gaadho"}
+{"skill": "personbilar", "count": 11969, "field_id": 10, "translation": "abdilada"}
+{"skill": "bevakning", "count": 11952, "field_id": 1, "translation": "hubiso caddaymoshaha cusub"}
+{"skill": "nykundsbearbetning", "count": 11880, "field_id": 5, "translation": "naadhiga"}
+{"skill": "pneumatik", "count": 11859, "field_id": 10, "translation": "dambiyada"}
+{"skill": "akutmottagning", "count": 11828, "field_id": 8, "translation": "jinayaal"}
+{"skill": "mobil", "count": 11796, "field_id": 8, "translation": "suuqa soo saara"}
+{"skill": "effektivisering", "count": 11788, "field_id": 1, "translation": "shaaha laabtaaan"}
+{"skill": "yrkesvägledning", "count": 11760, "field_id": 1, "translation": "lixdin"}
+{"skill": "epilepsi", "count": 11750, "field_id": 16, "translation": "sii kor"}
+{"skill": "artificial intelligence", "count": 11746, "field_id": 3, "translation": "fursadaha shaqo"}
+{"skill": "sjuksköterskeexamen", "count": 11732, "field_id": 8, "translation": "guud ahaan"}
+{"skill": "socionomutbildning", "count": 11719, "field_id": 16, "translation": "socdaal caafimaad"}
+{"skill": "försäljningsarbete", "count": 11686, "field_id": 5, "translation": "diyaarinta xuquuqda"}
+{"skill": "bokslutsarbete", "count": 11658, "field_id": 1, "translation": "dareemidda fikradaha"}
+{"skill": "sharepoint", "count": 11396, "field_id": 3, "translation": "sharepoint"}
+{"skill": "it-säkerhet", "count": 11375, "field_id": 3, "translation": "amniga IT"}
+{"skill": "API", "count": 11349, "field_id": 3, "translation": "API"}
+{"skill": "huvudansvar", "count": 11339, "field_id": 1, "translation": "mas'uuliyadda madaxa"}
+{"skill": "diarieföring", "count": 11309, "field_id": 1, "translation": "qoraalka"}
+{"skill": "byggprojekt", "count": 11248, "field_id": 2, "translation": "dhammaadka qaybta"}
+{"skill": "spel", "count": 11236, "field_id": 5, "translation": "ciyaaryahan"}
+{"skill": "informationssäkerhet", "count": 11228, "field_id": 3, "translation": "amniga macluumaadka"}
+{"skill": "processindustrin", "count": 11197, "field_id": 18, "translation": "nidaamyada habraaca"}
+{"skill": "datateknik", "count": 11128, "field_id": 3, "translation": "sayniska"}
+{"skill": "android", "count": 11094, "field_id": 3, "translation": "android"}
+{"skill": "kriminalvården", "count": 11052, "field_id": 17, "translation": "xabsi"}
+{"skill": "elinstallationer", "count": 11052, "field_id": 10, "translation": "dhisidda boolis"}
+{"skill": "b2b-försäljning", "count": 11029, "field_id": 5, "translation": "iidoosha bulshada b2b"}
+{"skill": "it-miljö", "count": 11019, "field_id": 3, "translation": "cilmiga IT"}
+{"skill": "dokumenthantering", "count": 10977, "field_id": 1, "translation": "dejinta dhammaanidda"}
+{"skill": "video", "count": 10929, "field_id": 3, "translation": "faylka video"}
+{"skill": "crm-system", "count": 10929, "field_id": 5, "translation": "nidaamka CRM"}
+{"skill": "färg", "count": 10884, "field_id": 5, "translation": "midab"}
+{"skill": "medarbetarsamtal", "count": 10833, "field_id": 20, "translation": "falcelin haweenka shaqaalaha"}
+{"skill": "trädgård", "count": 10810, "field_id": 13, "translation": "geedaha"}
+{"skill": "hjullastare", "count": 10803, "field_id": 2, "translation": "garbo"}
+{"skill": "energibranschen", "count": 10792, "field_id": 18, "translation": "sektariga cuntada"}
+{"skill": "luftreningssystem", "count": 10690, "field_id": 5, "translation": "nidaamka saxda ah ee hawada"}
+{"skill": "kravhantering", "count": 10684, "field_id": 3, "translation": "daryeel tirinta"}
+{"skill": "rekryteringsverktyg", "count": 10669, "field_id": 15, "translation": "qalabka reerkrutiga"}
+{"skill": "magisterexamen", "count": 10632, "field_id": 15, "translation": "shahaado magistareed"}
+{"skill": "motiverande samtal", "count": 10602, "field_id": 16, "translation": "falcelin cid gaar ah u adeega"}
+{"skill": "sanering", "count": 10599, "field_id": 5, "translation": "nadiifinta"}
+{"skill": "hr-området", "count": 10591, "field_id": 1, "translation": "goorasho"}
+{"skill": "utbetalningar", "count": 10586, "field_id": 1, "translation": "xannuunka HR-ka"}
+{"skill": "hr-arbete", "count": 10545, "field_id": 1, "translation": "lacagta"}
+{"skill": "produktionsteknik", "count": 10544, "field_id": 18, "translation": "shaqooyinka HR-ka"}
+{"skill": "socialpsykiatri", "count": 10541, "field_id": 16, "translation": "saynta wax soo saarka"}
+{"skill": "it-vana", "count": 10535, "field_id": 1, "translation": "maskaxda cuntada"}
+{"skill": "deployment", "count": 10492, "field_id": 3, "translation": "cilmiga nadiifinta"}
+{"skill": "åtgärdsprogram", "count": 10416, "field_id": 15, "translation": "aadanaha cashuuraadka"}
+{"skill": "utvecklingsprocesser", "count": 10413, "field_id": 3, "translation": "kontorada"}
+{"skill": "validering", "count": 10413, "field_id": 18, "translation": "shaqo kale"}
+{"skill": "hus", "count": 10392, "field_id": 2, "translation": "nidaamka macluumaadka ee xeographigga"}
+{"skill": "tekniska frågor", "count": 10390, "field_id": 5, "translation": "guriga loogu talagalay"}
+{"skill": "säkerhetsarbete", "count": 10388, "field_id": 17, "translation": "hudheel"}
+{"skill": "kontorsmaterial", "count": 10359, "field_id": 1, "translation": "xisaabinta"}
+{"skill": "extraarbete", "count": 10347, "field_id": 5, "translation": "microsoft exchange"}
+{"skill": "geografiska informationssystem", "count": 10311, "field_id": 18, "translation": "xidhiidhka adeegga"}
+{"skill": "revision", "count": 10258, "field_id": 1, "translation": "kala dhexeysa"}
+{"skill": "utbildningsprogram", "count": 10243, "field_id": 5, "translation": "dugsiyo"}
+{"skill": "ERP", "count": 10178, "field_id": 1, "translation": "ERP"}
+{"skill": "kemikalier", "count": 10172, "field_id": 5, "translation": "keemiko"}
+{"skill": "barns lärande", "count": 10160, "field_id": 15, "translation": "barashada carruurta"}
+{"skill": "mission", "count": 10136, "field_id": 18, "translation": "jubbo"}
+{"skill": "neurologi", "count": 10129, "field_id": 8, "translation": "neurologi"}
+{"skill": "teckenspråk", "count": 10089, "field_id": 16, "translation": "lahjadda"}
+{"skill": "fiber", "count": 10073, "field_id": 10, "translation": "fiber"}
+{"skill": "kontrakt", "count": 10051, "field_id": 5, "translation": "heshiis"}
+{"skill": "kontering", "count": 10019, "field_id": 1, "translation": "xisaabaadinta"}
+{"skill": "omvårdnadsutbildning", "count": 9994, "field_id": 8, "translation": "barashada daryeelka"}
+{"skill": "reparationsarbeten", "count": 9954, "field_id": 10, "translation": "hawlaha dibadda"}
+{"skill": "script", "count": 9946, "field_id": 3, "translation": "script"}
+{"skill": "kompetensförsörjning", "count": 9890, "field_id": 1, "translation": "siyaasaddegaanka"}
+{"skill": "fotboll", "count": 9877, "field_id": 16, "translation": "kubadda cagta"}
+{"skill": "analysarbete", "count": 9874, "field_id": 1, "translation": "hawl qaabdhismeedka"}
+{"skill": "arbetsprocesser", "count": 9870, "field_id": 1, "translation": "talaalka waxba kala soocaya"}
+{"skill": "förändringsledning", "count": 9865, "field_id": 20, "translation": "daeemistaab"}
+{"skill": "kundärenden", "count": 9861, "field_id": 5, "translation": "qarsoodinta"}
+{"skill": "byggnation", "count": 9853, "field_id": 2, "translation": "bannaanka kooxda"}
+{"skill": "programvara", "count": 9755, "field_id": 3, "translation": "koronto"}
+{"skill": "certifieringar", "count": 9748, "field_id": 3, "translation": "dib u eeginta"}
+{"skill": "telefonvana", "count": 9745, "field_id": 5, "translation": "barasha injineerna"}
+{"skill": "deklaration", "count": 9744, "field_id": 1, "translation": "seerfarka windhoos"}
+{"skill": "civilingenjörsutbildning", "count": 9742, "field_id": 18, "translation": "barashada daryeelka"}
+{"skill": "windows server", "count": 9733, "field_id": 3, "translation": "barashada cilmi nafaq qoran"}
+{"skill": "vårdutbildning", "count": 9714, "field_id": 16, "translation": "diiwaangelinta"}
+{"skill": "forskarutbildning", "count": 9707, "field_id": 15, "translation": "xarumaha dibadda"}
+{"skill": "förskrivning", "count": 9687, "field_id": 8, "translation": "ciyaartoyga"}
+{"skill": "remisshantering", "count": 9670, "field_id": 1, "translation": "qorsheyaal hawleed"}
+{"skill": "gymnastik", "count": 9650, "field_id": 15, "translation": "horumarinta hawlaha"}
+{"skill": "handlingsplaner", "count": 9644, "field_id": 16, "translation": "qalqallin"}
+{"skill": "processutveckling", "count": 9619, "field_id": 1, "translation": "iwn squad"}
+{"skill": "uppackning", "count": 9606, "field_id": 5, "translation": "ganacsiga"}
+{"skill": "anläggningsbranschen", "count": 9583, "field_id": 2, "translation": "qorsheyaasha maaliyadda"}
+{"skill": "näringsliv", "count": 9569, "field_id": 1, "translation": "allergi"}
+{"skill": "budgetering", "count": 9554, "field_id": 20, "translation": "dhibaatada baahiyaha"}
+{"skill": "förskollärarlegitimation", "count": 9531, "field_id": 15, "translation": "guddiga talaalka"}
+{"skill": "ekonomiområdet", "count": 9527, "field_id": 1, "translation": "kooxda horumarka"}
+{"skill": "fakturafrågor", "count": 9515, "field_id": 5, "translation": "dhibaatada neuropsykiatriska"}
+{"skill": "anestesi", "count": 9492, "field_id": 8, "translation": "cilmi nafaqda"}
+{"skill": "node", "count": 9491, "field_id": 3, "translation": "bixinta"}
+{"skill": "verkstadsarbete", "count": 9321, "field_id": 9, "translation": "hawlgal maaliyadeed"}
+{"skill": "förstudier", "count": 9311, "field_id": 18, "translation": "hawlaha hore"}
+{"skill": "samhällsfrågor", "count": 9304, "field_id": 1, "translation": "arrimaha bulshada"}
+{"skill": "kollektivtrafik", "count": 9299, "field_id": 16, "translation": "gaadhi-joojinta"}
+{"skill": "automatisering", "count": 9263, "field_id": 3, "translation": "kaa'ida dhaqaale"}
+{"skill": "inbetalningar", "count": 9261, "field_id": 1, "translation": "lacag-dhigasho"}
+{"skill": "rekryteringsbranschen", "count": 9251, "field_id": 5, "translation": "dhaqaaqa doorashada"}
+{"skill": "utbildningsförvaltningen", "count": 9247, "field_id": 15, "translation": "maamulka tababarka"}
+{"skill": "mekatronik", "count": 9219, "field_id": 18, "translation": "mikatroonikada"}
+{"skill": "teknisk fysik", "count": 9215, "field_id": 18, "translation": "fiska-tacliinta"}
+{"skill": "försäljningsprocessen", "count": 9210, "field_id": 5, "translation": "habka iibinta"}
+{"skill": "hantverk", "count": 9205, "field_id": 9, "translation": "dhaqaale"}
+{"skill": "stål", "count": 9187, "field_id": 5, "translation": "dharka"}
+{"skill": "uppgraderingar", "count": 9168, "field_id": 10, "translation": "cuskunaanshaha"}
+{"skill": "matlab", "count": 9162, "field_id": 3, "translation": "matlab"}
+{"skill": "gräsklippning", "count": 9154, "field_id": 13, "translation": "dhagaha biyaha"}
+{"skill": "ensamarbete", "count": 9150, "field_id": 16, "translation": "iskaashi"}
+{"skill": "grundsärskolan", "count": 9148, "field_id": 15, "translation": "dugsiga hoose"}
+{"skill": "ekonomiområdet", "count": 9140, "field_id": 1, "translation": "dhaqaalaha"}
+{"skill": "typescript", "count": 9133, "field_id": 3, "translation": "typescript"}
+{"skill": "barnskötarutbildning", "count": 9122, "field_id": 15, "translation": "tababarka carruurta"}
+{"skill": "B2C", "count": 9114, "field_id": 5, "translation": "B2C"}
+{"skill": "erfarenhet av barn", "count": 9098, "field_id": 16, "translation": "tallaabo dhalinaysa carruurta"}
+{"skill": "SEO", "count": 9095, "field_id": 5, "translation": "SEO"}
+{"skill": "annonsering", "count": 9037, "field_id": 5, "translation": "ilaa dhalasho"}
+{"skill": "uppbyggnad", "count": 9037, "field_id": 18, "translation": "dharka dajinta"}

@@ -178,17 +178,21 @@
   }
 
 
-#loading-container {
+  #loading-container {
+    text-align: center;  /* not necessary with flexbox alignment, unless you have inline elements inside */
     margin-top: 25vh;
-    width: 270px;
-    display: flex;
+    width: 100%;
+    display: none;  /* Changed to flex to see the content */
     flex-direction: column;
     height: 176px;
-    display: none;
+    justify-content: center;  /* Centers children vertically in the container */
+    align-items: center;     /* Centers children horizontally in the container */
 }
 
 .wave-container {
     display: flex;
+    width: 270px;
+    justify-content: center;  /* Centers the wave divs inside the wave-container horizontally */
 }
 
 .wave {
@@ -201,7 +205,6 @@
     transform: scaleY(0.1);
     margin-top: 0;
     margin-bottom: 0;
-
 }
 
 .wave:nth-child(2) {

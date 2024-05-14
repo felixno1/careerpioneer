@@ -18,7 +18,7 @@
     </div>
     <div class="main-window">
         <div class="redirect-container">
-            <h2>Vad behöver du hjälp med?</h2>
+            <h2>{{ translations['what_do_you_need_help_with'] }}</h2>
             <form class="redirect" action="{{ url_for('guidance') }}"><button>
                 <img class="redirect-icon" src="{{ url_for('static', filename='/assets/guidance.svg') }}">
                 {{ translations['guidance'] }}

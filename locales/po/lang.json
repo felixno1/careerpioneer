@@ -1,8 +1,33 @@
 {
-    "title": "Kompas zawodowy",
-    "welcome": "Witaj"
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "Witaj",
+    "what_do_you_need_help_with": "Czym możemy ci pomóc?",
+    "guidance": "Ogólne wskazówki dotyczące szwedzkiego rynku pracy",
+    "job_finder": "Znajdź pracę na podstawie swoich kompetencji",
+    "tell_me_more": "Powiedz więcej",
+    "elaborate": "Opowiedz więcej o",
+    "ask_ai": "Zapytaj AI...",
+    "what_skills": "Jakie masz kompetencje?",
+    "search_job": "Szukaj pracy!",
+    "ai_loading": "AI generuje zawody...",
+    "recommended_jobs": "Polecane prace",
+    "n_of_ads_1": "Obecnie istnieje",
+    "n_of_ads_2": "ogłoszeń dla tego zawodu",
+    "show_ads":  "Pokaż reklamy",
+    "terminology": {
+        "header":  "Wspólna terminologia",
+        "content" : [
+
+        ]
+    },
+    "legal": {
+        "header": "Prawo i regulacje",
+        "content" : [
+        
+        ]
+    }
 }
-
-
 
 

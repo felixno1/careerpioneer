@@ -1,0 +1,675 @@
+{"skill": "försäljning", "count": 549402, "field_id": 5, "translation": "vânzare"}
+{"skill": "arbetslivserfarenhet", "count": 364881, "field_id": 1, "translation": "experiență de muncă"}
+{"skill": "barn", "count": 350870, "field_id": 15, "translation": "copii"}
+{"skill": "datorvana", "count": 309339, "field_id": 8, "translation": "cunoștințe IT"}
+{"skill": "sjukvård", "count": 309193, "field_id": 8, "translation": "asistență medicală"}
+{"skill": "microsoft office", "count": 262672, "field_id": 1, "translation": "Microsoft Office"}
+{"skill": "teknik", "count": 255631, "field_id": 3, "translation": "tehnologie"}
+{"skill": "ekonomi", "count": 253956, "field_id": 1, "translation": "economie"}
+{"skill": "kommunikation", "count": 243532, "field_id": 5, "translation": "comunicare"}
+{"skill": "dokumentation", "count": 222709, "field_id": 8, "translation": "documentație"}
+{"skill": "administration", "count": 222073, "field_id": 1, "translation": "administrare"}
+{"skill": "undervisning", "count": 214354, "field_id": 15, "translation": "predare"}
+{"skill": "miljö", "count": 203774, "field_id": 1, "translation": "mediu înconjurător"}
+{"skill": "högskoleutbildning", "count": 202811, "field_id": 1, "translation": "studiile universitare"}
+{"skill": "gymnasieutbildning", "count": 194297, "field_id": 1, "translation": "studii liceale"}
+{"skill": "ledarskap", "count": 186367, "field_id": 20, "translation": "conducere"}
+{"skill": "data", "count": 165026, "field_id": 3, "translation": "date"}
+{"skill": "truckkort", "count": 156465, "field_id": 19, "translation": "permis de conducere pentru vehicule de logistică"}
+{"skill": "rekrytering", "count": 147953, "field_id": 1, "translation": "recrutare"}
+{"skill": "excel", "count": 142120, "field_id": 1, "translation": "Excel"}
+{"skill": "administrativa uppgifter", "count": 139421, "field_id": 1, "translation": "activități administrative"}
+{"skill": "energi", "count": 132339, "field_id": 5, "translation": "energie"}
+{"skill": "förskola", "count": 130722, "field_id": 15, "translation": "grădiniță"}
+{"skill": "eftergymnasial utbildning", "count": 128164, "field_id": 1, "translation": "studii postliceale"}
+{"skill": "lager", "count": 126180, "field_id": 19, "translation": "depozit"}
+{"skill": "kundservice", "count": 125861, "field_id": 5, "translation": "servicii pentru clienți"}
+{"skill": "omsorg", "count": 121949, "field_id": 16, "translation": "îngrijire"}
+{"skill": "el", "count": 121639, "field_id": 10, "translation": "electricitate"}
+{"skill": "ungdomar", "count": 120337, "field_id": 16, "translation": "tineri"}
+{"skill": "utvecklingsarbete", "count": 119532, "field_id": 8, "translation": "dezvoltare"}
+{"skill": "material", "count": 119378, "field_id": 9, "translation": "materiale"}
+{"skill": "design", "count": 116389, "field_id": 3, "translation": "design"}
+{"skill": "arbetsmiljö", "count": 115290, "field_id": 20, "translation": "sănătate și securitate în muncă"}
+{"skill": "inköp", "count": 112755, "field_id": 5, "translation": "achiziții"}
+{"skill": "mat", "count": 112742, "field_id": 7, "translation": "alimente"}
+{"skill": "personalansvar", "count": 108580, "field_id": 20, "translation": "responsabilitate pentru personal"}
+{"skill": "handledning", "count": 105203, "field_id": 8, "translation": "instruire"}
+{"skill": "industri", "count": 100013, "field_id": 9, "translation": "industrie"}
+{"skill": "leverantörer", "count": 98028, "field_id": 5, "translation": "furnizori"}
+{"skill": "styrdokument", "count": 97249, "field_id": 15, "translation": "documente directive"}
+{"skill": "hälsa", "count": 96522, "field_id": 8, "translation": "sănătate"}
+{"skill": "budget", "count": 94999, "field_id": 20, "translation": "buget"}
+{"skill": "reparation", "count": 94535, "field_id": 10, "translation": "reparații"}
+{"skill": "projektledning", "count": 93753, "field_id": 18, "translation": "gestiune de proiect"}
+{"skill": "felsökning", "count": 91975, "field_id": 10, "translation": "depanare"}
+{"skill": "butik", "count": 90491, "field_id": 5, "translation": "magazin"}
+{"skill": "problemlösning", "count": 90224, "field_id": 10, "translation": "rezolvarea problemelor"}
+{"skill": "säkerhet", "count": 89660, "field_id": 5, "translation": "siguranță"}
+{"skill": "logistik", "count": 89449, "field_id": 19, "translation": "logistică"}
+{"skill": "forskning", "count": 87817, "field_id": 15, "translation": "cercetare"}
+{"skill": "städning", "count": 85282, "field_id": 12, "translation": "curăţenie"}
+{"skill": "drifting", "count": 83980, "field_id": 3, "translation": "derapaj"}
+{"skill": "kundrelationer", "count": 81316, "field_id": 5, "translation": "relaţii cu clienţii"}
+{"skill": "analys", "count": 80201, "field_id": 1, "translation": "analiză"}
+{"skill": "behandling", "count": 78844, "field_id": 8, "translation": "tratament"}
+{"skill": "god fysik", "count": 78206, "field_id": 19, "translation": "formă fizică bună"}
+{"skill": "redovisning", "count": 77070, "field_id": 1, "translation": "contabilitate"}
+{"skill": "rådgivning", "count": 76565, "field_id": 5, "translation": "consultanţă"}
+{"skill": "lärarlegitimation", "count": 73772, "field_id": 15, "translation": "legitimaţie de profesor"}
+{"skill": "coachning", "count": 73610, "field_id": 5, "translation": "coaching"}
+{"skill": "matlagning", "count": 73300, "field_id": 16, "translation": "gătit"}
+{"skill": "montering", "count": 72600, "field_id": 9, "translation": "asamblare"}
+{"skill": "programmering", "count": 71778, "field_id": 3, "translation": "programare"}
+{"skill": "beställningar", "count": 71531, "field_id": 5, "translation": "comenzi"}
+{"skill": "funktionsnedsättning", "count": 71521, "field_id": 16, "translation": "dizabilitate"}
+{"skill": "fordon", "count": 69527, "field_id": 10, "translation": "vehicul"}
+{"skill": "försäkring", "count": 69049, "field_id": 1, "translation": "asigurare"}
+{"skill": "transport", "count": 68987, "field_id": 19, "translation": "transport"}
+{"skill": "förbättringsarbete", "count": 68935, "field_id": 8, "translation": "munca de îmbunătăţire"}
+{"skill": "rör", "count": 68923, "field_id": 1, "translation": "țevi"}
+{"skill": "psykiatri", "count": 68779, "field_id": 8, "translation": "psihiatrie"}
+{"skill": "rapportering", "count": 66231, "field_id": 1, "translation": "raportare"}
+{"skill": "restaurang", "count": 65975, "field_id": 7, "translation": "restaurant"}
+{"skill": "bilen", "count": 65831, "field_id": 9, "translation": "maşină"}
+{"skill": "myndigheter", "count": 65752, "field_id": 1, "translation": "autorități"}
+{"skill": "installation", "count": 64737, "field_id": 10, "translation": "instalare"}
+{"skill": "affärssystem", "count": 62823, "field_id": 5, "translation": "sistem de afaceri"}
+{"skill": "marknadsföring", "count": 62734, "field_id": 5, "translation": "marketing"}
+{"skill": "träning", "count": 60413, "field_id": 16, "translation": "antrenament"}
+{"skill": "matematik", "count": 60004, "field_id": 15, "translation": "matematică"}
+{"skill": "hälsovård", "count": 59683, "field_id": 8, "translation": "îngrijire medicală"}
+{"skill": "primärvård", "count": 59620, "field_id": 8, "translation": "primară"}
+{"skill": "kompetensutveckling", "count": 58441, "field_id": 8, "translation": "dezvoltare de competențe"}
+{"skill": "automation", "count": 58030, "field_id": 18, "translation": "automatizare"}
+{"skill": "äldreomsorg", "count": 57310, "field_id": 8, "translation": "îngrijire a persoanelor în vârstă"}
+{"skill": "upphandling", "count": 56947, "field_id": 5, "translation": "achiziții"}
+{"skill": "innovation", "count": 56480, "field_id": 3, "translation": "inovare"}
+{"skill": "kundtjänst", "count": 54763, "field_id": 5, "translation": "servicii clienți"}
+{"skill": "it-kunskaper", "count": 50507, "field_id": 15, "translation": "cunoştinţe IT"}
+{"skill": "förändringsarbete", "count": 50454, "field_id": 20, "translation": "lucru de schimbare"}
+{"skill": "mekanik", "count": 50425, "field_id": 10, "translation": "mecanică"}
+{"skill": "feedback", "count": 49643, "field_id": 5, "translation": "feedback"}
+{"skill": "mottagning", "count": 49421, "field_id": 8, "translation": "recepție"}
+{"skill": "specialistutbildning", "count": 46904, "field_id": 8, "translation": "formare de specialitate"}
+{"skill": "hemsjukvård", "count": 46891, "field_id": 8, "translation": "servicii medicale la domiciliu"}
+{"skill": "datorkunskaper", "count": 46488, "field_id": 8, "translation": "cunoştinţe de calculator"}
+{"skill": "fakturering", "count": 45065, "field_id": 1, "translation": "facturare"}
+{"skill": "handläggning", "count": 44716, "field_id": 1, "translation": "procesare"}
+{"skill": "kvalitetsarbete", "count": 44128, "field_id": 20, "translation": "muncă de calitate"}
+{"skill": "registrering", "count": 43629, "field_id": 1, "translation": "înregistrare"}
+{"skill": "kök", "count": 43335, "field_id": 7, "translation": "bucătărie"}
+{"skill": "event", "count": 43204, "field_id": 5, "translation": "eveniment"}
+{"skill": "registerkontroll", "count": 43151, "field_id": 8, "translation": "controlul înscrierii"}
+{"skill": "verksamhetsutveckling", "count": 42471, "field_id": 20, "translation": "dezvoltarea activității"}
+{"skill": "budgetansvar", "count": 41953, "field_id": 20, "translation": "responsabilitatea bugetară"}
+{"skill": "hemtjänst", "count": 41581, "field_id": 8, "translation": "asistență la domiciliu"}
+{"skill": "kassaarbete", "count": 41452, "field_id": 5, "translation": "munca la casă de marcat"}
+{"skill": "finska", "count": 40861, "field_id": 5, "translation": "finlandeză"}
+{"skill": "tunga lyft", "count": 40824, "field_id": 19, "translation": "ridicarea greutăților"}
+{"skill": "java", "count": 40626, "field_id": 3, "translation": "java"}
+{"skill": "schemaläggning", "count": 40507, "field_id": 20, "translation": "programarea sarcinilor"}
+{"skill": "arbetsledning", "count": 40365, "field_id": 20, "translation": "managementul muncii"}
+{"skill": "pedagogik", "count": 40289, "field_id": 1, "translation": "pedagogie"}
+{"skill": "teknisk utbildning", "count": 40155, "field_id": 10, "translation": "formare tehnică"}
+{"skill": "akutsjukvård", "count": 39964, "field_id": 8, "translation": "asistență medicală de urgență"}
+{"skill": "merförsäljning", "count": 39797, "field_id": 5, "translation": "vânzare suplimentară"}
+{"skill": "byggbranschen", "count": 39544, "field_id": 2, "translation": "industria construcțiilor"}
+{"skill": "rehabilitering", "count": 39539, "field_id": 8, "translation": "reabilitare"}
+{"skill": "fritidshem", "count": 39389, "field_id": 15, "translation": "casă de vacanță"}
+{"skill": "journalsystem", "count": 39226, "field_id": 8, "translation": "sistem de evidență medicală"}
+{"skill": "organisationer", "count": 39221, "field_id": 1, "translation": "organizații"}
+{"skill": "konstruktion", "count": 38350, "field_id": 18, "translation": "construcție"}
+{"skill": "samordning", "count": 37997, "field_id": 1, "translation": "coordonare"}
+{"skill": "varumärken", "count": 37995, "field_id": 5, "translation": "mărci"}
+{"skill": "tillverkning", "count": 37983, "field_id": 9, "translation": "fabricație"}
+{"skill": "verksamhetsområden", "count": 37884, "field_id": 20, "translation": "domenii de activitate"}
+{"skill": "regelverk", "count": 37824, "field_id": 1, "translation": "reglementări"}
+{"skill": "socialtjänst", "count": 37680, "field_id": 16, "translation": "servicii sociale"}
+{"skill": "media", "count": 37628, "field_id": 5, "translation": "media"}
+{"skill": "idrott", "count": 37447, "field_id": 15, "translation": "sport"}
+{"skill": "juridik", "count": 37250, "field_id": 1, "translation": "drept"}
+{"skill": "performance", "count": 36943, "field_id": 3, "translation": "performanță"}
+{"skill": "statistik", "count": 36708, "field_id": 1, "translation": "statistică"}
+{"skill": "utredning", "count": 36698, "field_id": 8, "translation": "investigare"}
+{"skill": "research", "count": 35333, "field_id": 3, "translation": "cercetare"}
+{"skill": "socialt arbete", "count": 35236, "field_id": 16, "translation": "asistență socială"}
+{"skill": "python", "count": 35104, "field_id": 3, "translation": "python"}
+{"skill": "servering", "count": 34847, "field_id": 7, "translation": "servire"}
+{"skill": "barnpassning", "count": 34679, "field_id": 12, "translation": "supravegherea copiilor"}
+{"skill": "javascript", "count": 34666, "field_id": 3, "translation": "javascript"}
+{"skill": "konsultuppdrag", "count": 34659, "field_id": 1, "translation": "misiuni de consultanță"}
+{"skill": "C#", "count": 34495, "field_id": 3, "translation": "C#"}
+{"skill": "rekryteringstjänster", "count": 34461, "field_id": 8, "translation": "servicii de recrutare"}
+{"skill": "lag", "count": 34403, "field_id": 9, "translation": "lege"}
+{"skill": "autism", "count": 34191, "field_id": 16, "translation": "autism"}
+{"skill": "universitetsutbildning", "count": 34025, "field_id": 1, "translation": "educație universitară"}
+{"skill": "personlig hygien", "count": 33602, "field_id": 16, "translation": "igienă personală"}
+{"skill": "datorer", "count": 33600, "field_id": 3, "translation": "computere"}
+{"skill": "arbetsliv", "count": 33563, "field_id": 5, "translation": "muncă în echipă"}
+{"skill": "svenska som andraspråk", "count": 32984, "field_id": 15, "translation": "limba suedeză ca limbă secundară"}
+{"skill": "tvätt", "count": 32791, "field_id": 8, "translation": "spălare"}
+{"skill": "jakt", "count": 32673, "field_id": 8, "translation": "vânătoare"}
+{"skill": "marketing", "count": 32609, "field_id": 5, "translation": "marketing"}
+{"skill": "microsoft windows", "count": 32575, "field_id": 3, "translation": "microsoft windows"}
+{"skill": "integration", "count": 32432, "field_id": 3, "translation": "integrare"}
+{"skill": "bokslut", "count": 32090, "field_id": 1, "translation": "bilanț"}
+{"skill": "avstämningar", "count": 32073, "field_id": 1, "translation": "concilieri"}
+{"skill": "infrastruktur", "count": 31870, "field_id": 3, "translation": "infrastructură"}
+{"skill": "utvecklingsprojekt", "count": 31673, "field_id": 18, "translation": "proiecte de dezvoltare"}
+{"skill": "arbetsmiljöansvar", "count": 31617, "field_id": 20, "translation": "responsabilitatea mediului de muncă"}
+{"skill": "fastigheter", "count": 31609, "field_id": 10, "translation": "proprietăți"}
+{"skill": "lärarexamen", "count": 31582, "field_id": 15, "translation": "examen de profesor"}
+{"skill": "it-system", "count": 31547, "field_id": 3, "translation": "sisteme IT"}
+{"skill": "kassa", "count": 31433, "field_id": 5, "translation": "casier"}
+{"skill": "telefonrådgivning", "count": 31239, "field_id": 8, "translation": "consultanță telefonică"}
+{"skill": "styrning", "count": 31185, "field_id": 20, "translation": "gestiune"}
+{"skill": "bemanningsföretag", "count": 30984, "field_id": 8, "translation": "agenție de recrutare"}
+{"skill": "teamarbete", "count": 30978, "field_id": 8, "translation": "munca în echipă"}
+{"skill": "verkstad", "count": 30836, "field_id": 10, "translation": "atelier"}
+{"skill": "kampanjer", "count": 30798, "field_id": 5, "translation": "campanii"}
+{"skill": "teknisk support", "count": 30554, "field_id": 5, "translation": "suport tehnic"}
+{"skill": "äldreboende", "count": 30546, "field_id": 8, "translation": "centru pentru vârstnici"}
+{"skill": "digitalisering", "count": 30411, "field_id": 1, "translation": "digitalizare"}
+{"skill": "tillgänglighet", "count": 30387, "field_id": 5, "translation": "disponibilitate"}
+{"skill": "bank", "count": 30171, "field_id": 1, "translation": "bancă"}
+{"skill": "mjukvara", "count": 29976, "field_id": 3, "translation": "software"}
+{"skill": "leverantörsreskontra", "count": 29898, "field_id": 1, "translation": "registrul furnizorilor"}
+{"skill": "systemutveckling", "count": 29886, "field_id": 3, "translation": "dezvoltare de sisteme"}
+{"skill": "teknikintresse", "count": 29848, "field_id": 10, "translation": "interes pentru tehnologie"}
+{"skill": "vägledning", "count": 29844, "field_id": 1, "translation": "ghidare"}
+{"skill": "lokalvård", "count": 29826, "field_id": 12, "translation": "întreținere locală"}
+{"skill": "hotell", "count": 29789, "field_id": 7, "translation": "hotel"}
+{"skill": "lastning", "count": 29727, "field_id": 19, "translation": "încărcare"}
+{"skill": "tyska", "count": 29703, "field_id": 5, "translation": "germană"}
+{"skill": "svetsning", "count": 29571, "field_id": 9, "translation": "sudură"}
+{"skill": "reception", "count": 29462, "field_id": 1, "translation": "recepție"}
+{"skill": "tester", "count": 29456, "field_id": 3, "translation": "teste"}
+{"skill": "maskin", "count": 29430, "field_id": 18, "translation": "mașină"}
+{"skill": "ritningar", "count": 28964, "field_id": 9, "translation": "desene tehnice"}
+{"skill": "word", "count": 28939, "field_id": 1, "translation": "cuvânt"}
+{"skill": ".net", "count": 28851, "field_id": 3, "translation": ".net"}
+{"skill": "agile", "count": 28809, "field_id": 3, "translation": "agil"}
+{"skill": "c-körkort", "count": 28762, "field_id": 19, "translation": "permis de conducere categoria C"}
+{"skill": "offerter", "count": 28634, "field_id": 5, "translation": "oferte"}
+{"skill": "bokningar", "count": 28599, "field_id": 5, "translation": "rezervări"}
+{"skill": "SQL", "count": 28450, "field_id": 3, "translation": "SQL"}
+{"skill": "C++", "count": 28319, "field_id": 3, "translation": "C++"}
+{"skill": "provtagning", "count": 28208, "field_id": 8, "translation": "prelevare de probe"}
+{"skill": "ämneskunskaper", "count": 28156, "field_id": 15, "translation": "cunoștințe de specialitate"}
+{"skill": "utredningsarbete", "count": 28124, "field_id": 1, "translation": "investigații"}
+{"skill": "mottagningsarbete", "count": 27955, "field_id": 8, "translation": "recepție"}
+{"skill": "distribution", "count": 27774, "field_id": 19, "translation": "distribuție"}
+{"skill": "systemvana", "count": 27722, "field_id": 1, "translation": "cunoștințe de sistem"}
+{"skill": "siffror", "count": 27564, "field_id": 1, "translation": "cifre"}
+{"skill": "sport", "count": 27553, "field_id": 5, "translation": "sport"}
+{"skill": "hydraulik", "count": 27527, "field_id": 10, "translation": "hidraulică"}
+{"skill": "funktionshinder", "count": 27133, "field_id": 16, "translation": "handicap"}
+{"skill": "serviceyrke", "count": 26912, "field_id": 5, "translation": "servicii"}
+{"skill": "dryck", "count": 26647, "field_id": 7, "translation": "băutură"}
+{"skill": "livsmedel", "count": 26635, "field_id": 5, "translation": "alimente"}
+{"skill": "specialistkompetens", "count": 26617, "field_id": 8, "translation": "competență specializată"}
+{"skill": "kanaler", "count": 26590, "field_id": 5, "translation": "canale"}
+{"skill": "webbutveckling", "count": 26574, "field_id": 3, "translation": "dezvoltare web"}
+{"skill": "sjukhus", "count": 26333, "field_id": 8, "translation": "spital"}
+{"skill": "beredskap", "count": 26300, "field_id": 15, "translation": "pregătire"}
+{"skill": "företagshälsovård", "count": 25866, "field_id": 8, "translation": "servicii de sănătate la locul de muncă"}
+{"skill": "kvalitetssäkring", "count": 25764, "field_id": 1, "translation": "asigurarea calității"}
+{"skill": "vuxenutbildning", "count": 25719, "field_id": 15, "translation": "educație pentru adulți"}
+{"skill": "traverskort", "count": 25545, "field_id": 9, "translation": "card de traversă"}
+{"skill": "implementering", "count": 25464, "field_id": 3, "translation": "implementare"}
+{"skill": "norska", "count": 25396, "field_id": 5, "translation": "norvegiană"}
+{"skill": "brand", "count": 25273, "field_id": 1, "translation": "incendiu"}
+{"skill": "CAD", "count": 25255, "field_id": 18, "translation": "CAD"}
+{"skill": "övervakning", "count": 25137, "field_id": 9, "translation": "monitorizare"}
+{"skill": "säkerhetsprövning", "count": 24888, "field_id": 1, "translation": "verificare de securitate"}
+{"skill": "grundskola", "count": 24864, "field_id": 15, "translation": "școală primară"}
+{"skill": "kundreskontra", "count": 24826, "field_id": 1, "translation": "cont client"}
+{"skill": "arbetsredskap", "count": 24712, "field_id": 5, "translation": "instrumente de lucru"}
+{"skill": "löpande bokföring", "count": 24683, "field_id": 1, "translation": "contabilitate curentă"}
+{"skill": "posthantering", "count": 24605, "field_id": 1, "translation": "gestionarea corespondenței"}
+{"skill": "arbetsverktyg", "count": 24295, "field_id": 5, "translation": "instrumente de muncă"}
+{"skill": "modersmål", "count": 24282, "field_id": 15, "translation": "limbă maternă"}
+{"skill": "läkemedel", "count": 24197, "field_id": 8, "translation": "medicamente"}
+{"skill": "projektering", "count": 24183, "field_id": 2, "translation": "proiectare"}
+{"skill": "lönsamhet", "count": 24030, "field_id": 5, "translation": "rentabilitate"}
+{"skill": "microsoft azure", "count": 23908, "field_id": 3, "translation": "microsoft azure"}
+{"skill": "produktutveckling", "count": 23879, "field_id": 18, "translation": "dezvoltare de produs"}
+{"skill": "tekniska lösningar", "count": 23868, "field_id": 3, "translation": "soluții tehnice"}
+{"skill": "egenkontroll", "count": 23849, "field_id": 7, "translation": "autocontrol"}
+{"skill": "helhetsansvar", "count": 23798, "field_id": 20, "translation": "responsabilitate generală"}
+{"skill": "beteendevetenskap", "count": 23692, "field_id": 1, "translation": "științe comportamentale"}
+{"skill": "doktorsexamen", "count": 23678, "field_id": 15, "translation": "doctorat"}
+{"skill": "kirurgi", "count": 23571, "field_id": 8, "translation": "chirurgie"}
+{"skill": "fakturahantering", "count": 23447, "field_id": 1, "translation": "gestionarea facturilor"}
+{"skill": "hårdvara", "count": 23430, "field_id": 3, "translation": "hardware"}
+{"skill": "underhållsarbete", "count": 23325, "field_id": 10, "translation": "lucrări de întreținere"}
+{"skill": "beredning", "count": 23268, "field_id": 7, "translation": "preparare"}
+{"skill": "automotive", "count": 23210, "field_id": 18, "translation": "automobilistic"}
+{"skill": "servicearbete", "count": 23008, "field_id": 10, "translation": "servicii"}
+{"skill": "kundsupport", "count": 22994, "field_id": 5, "translation": "asistență pentru clienți"}
+{"skill": "trygghetsförsäkring", "count": 22990, "field_id": 5, "translation": "asigurare de securitate"}
+{"skill": "bokföring", "count": 22898, "field_id": 1, "translation": "contabilitate"}
+{"skill": "arbetsgrupp", "count": 22856, "field_id": 8, "translation": "echipa de lucru"}
+{"skill": "säljteam", "count": 22834, "field_id": 5, "translation": "echipa de vânzări"}
+{"skill": "telefonsamtal", "count": 22731, "field_id": 8, "translation": "apel telefonic"}
+{"skill": "ärendehanteringssystem", "count": 22712, "field_id": 3, "translation": "sistem de gestionare a cazurilor"}
+{"skill": "värme", "count": 22434, "field_id": 10, "translation": "căldură"}
+{"skill": "packning", "count": 22423, "field_id": 19, "translation": "ambalare"}
+{"skill": "film", "count": 22338, "field_id": 16, "translation": "film"}
+{"skill": "linux", "count": 22326, "field_id": 3, "translation": "Linux"}
+{"skill": "lossning", "count": 22305, "field_id": 19, "translation": "descărcare"}
+{"skill": "kemi", "count": 22051, "field_id": 18, "translation": "chimie"}
+{"skill": "it-support", "count": 22040, "field_id": 3, "translation": "suport IT"}
+{"skill": "pedagogisk dokumentation", "count": 22016, "field_id": 15, "translation": "documentație pedagogică"}
+{"skill": "back end", "count": 21987, "field_id": 3, "translation": "back end"}
+{"skill": "däck", "count": 21897, "field_id": 9, "translation": "anvelope"}
+{"skill": "slutenvård", "count": 21893, "field_id": 8, "translation": "îngrijire medicală continuă"}
+{"skill": "rekryteringsföretag", "count": 21879, "field_id": 15, "translation": "agenție de recrutare"}
+{"skill": "genomförandeplaner", "count": 21879, "field_id": 16, "translation": "planuri de implementare"}
+{"skill": "omvårdnadsarbete", "count": 21835, "field_id": 8, "translation": "muncă de îngrijire"}
+{"skill": "branscherfarenhet", "count": 21804, "field_id": 5, "translation": "experiență în domeniu"}
+{"skill": "operation", "count": 21759, "field_id": 8, "translation": "operație"}
+{"skill": "yrkesbevis", "count": 21602, "field_id": 2, "translation": "certificat profesional"}
+{"skill": "inventering", "count": 21512, "field_id": 5, "translation": "inventariere"}
+{"skill": "front end", "count": 21435, "field_id": 3, "translation": "front end"}
+{"skill": "orderhantering", "count": 21423, "field_id": 5, "translation": "procesare de comenzi"}
+{"skill": "säljutbildning", "count": 21189, "field_id": 5, "translation": "formare în vânzări"}
+{"skill": "fysik", "count": 21139, "field_id": 15, "translation": "fizică"}
+{"skill": "kunskapsutveckling", "count": 21136, "field_id": 15, "translation": "dezvoltare a cunoștințelor"}
+{"skill": "vatten", "count": 21017, "field_id": 2, "translation": "apă"}
+{"skill": "resultatansvar", "count": 20866, "field_id": 20, "translation": "responsabilitate pentru rezultate"}
+{"skill": "arkiv", "count": 20761, "field_id": 1, "translation": "arhivă"}
+{"skill": "förebyggande underhåll", "count": 20687, "field_id": 10, "translation": "întreținere preventivă"}
+{"skill": "cafeteria", "count": 20652, "field_id": 7, "translation": "cafenea"}
+{"skill": "monitor", "count": 20639, "field_id": 5, "translation": "monitor"}
+{"skill": "årsredovisning", "count": 20576, "field_id": 1, "translation": "bilanț anual"}
+{"skill": "yrkeshögskoleutbildning", "count": 20212, "field_id": 1, "translation": "școală profesională superioară"}
+{"skill": "socialtjänstlagen", "count": 20174, "field_id": 16, "translation": "legea serviciilor sociale"}
+{"skill": "sortiment", "count": 20147, "field_id": 5, "translation": "sortiment"}
+{"skill": "religion", "count": 19985, "field_id": 3, "translation": "religie"}
+{"skill": "styrsystem", "count": 19923, "field_id": 10, "translation": "sistem de control"}
+{"skill": "lärarutbildning", "count": 19832, "field_id": 15, "translation": "educatie pentru invatatori"}
+{"skill": "flöden", "count": 19830, "field_id": 1, "translation": "fluxuri"}
+{"skill": "fastighet", "count": 19806, "field_id": 1, "translation": "proprietate"}
+{"skill": "danska", "count": 19775, "field_id": 5, "translation": "limba daneza"}
+{"skill": "butiksarbete", "count": 19710, "field_id": 5, "translation": "muncă în magazin"}
+{"skill": "ventilation", "count": 19665, "field_id": 10, "translation": "ventilație"}
+{"skill": "kvalitetskontroll", "count": 19661, "field_id": 9, "translation": "control de calitate"}
+{"skill": "servicebranschen", "count": 19646, "field_id": 5, "translation": "industria serviciilor"}
+{"skill": "mätning", "count": 19570, "field_id": 9, "translation": "măsurare"}
+{"skill": "databaser", "count": 19564, "field_id": 3, "translation": "baze de date"}
+{"skill": "mässor", "count": 19530, "field_id": 5, "translation": "târguri"}
+{"skill": "offentlig förvaltning", "count": 19529, "field_id": 1, "translation": "administrație publică"}
+{"skill": "arbetsrätt", "count": 19496, "field_id": 1, "translation": "dreptul muncii"}
+{"skill": "omvärldsbevakning", "count": 19492, "field_id": 1, "translation": "monitorizare mediatică"}
+{"skill": "arbetsmetoder", "count": 19452, "field_id": 15, "translation": "metode de lucru"}
+{"skill": "fordonsbranschen", "count": 19272, "field_id": 10, "translation": "industria auto"}
+{"skill": "reklamationer", "count": 19191, "field_id": 5, "translation": "reclamații"}
+{"skill": "grundutbildning", "count": 19107, "field_id": 8, "translation": "formare de bază"}
+{"skill": "vidareutveckling", "count": 19054, "field_id": 3, "translation": "dezvoltare ulterioară"}
+{"skill": "undersköterskeutbildning", "count": 19051, "field_id": 8, "translation": "formare pentru îngrijirea persoanelor"}
+{"skill": "hälsoarbete", "count": 19019, "field_id": 8, "translation": "muncă în domeniul sănătății"}
+{"skill": "certifikat", "count": 19003, "field_id": 10, "translation": "certificat"}
+{"skill": "hushållssysslor", "count": 19003, "field_id": 16, "translation": "treburi casnice"}
+{"skill": "testning", "count": 18990, "field_id": 3, "translation": "testare"}
+{"skill": "CSS", "count": 18975, "field_id": 3, "translation": "CSS"}
+{"skill": "inleveranser", "count": 18969, "field_id": 19, "translation": "livrări"}
+{"skill": "office 365", "count": 18828, "field_id": 3, "translation": "office 365"}
+{"skill": "exponering", "count": 18726, "field_id": 5, "translation": "expunere"}
+{"skill": "sortering", "count": 18700, "field_id": 19, "translation": "sortare"}
+{"skill": "yrkeshögskola", "count": 18677, "field_id": 1, "translation": "universitatea de arte și meserii"}
+{"skill": "körning", "count": 18666, "field_id": 19, "translation": "conducere"}
+{"skill": "vårdavdelning", "count": 18647, "field_id": 8, "translation": "departament medical"}
+{"skill": "scrum", "count": 18587, "field_id": 3, "translation": "scrum"}
+{"skill": "handel", "count": 18546, "field_id": 5, "translation": "comerț"}
+{"skill": "årsbokslut", "count": 18529, "field_id": 1, "translation": "balanță anuală"}
+{"skill": "chefserfarenhet", "count": 18483, "field_id": 20, "translation": "experiență managerială"}
+{"skill": "maskinteknik", "count": 18481, "field_id": 18, "translation": "inginerie mecanică"}
+{"skill": "spanska", "count": 18445, "field_id": 15, "translation": "spaniolă"}
+{"skill": "tidplaner", "count": 18439, "field_id": 2, "translation": "planuri de lucru"}
+{"skill": "cloud", "count": 18401, "field_id": 3, "translation": "cloud"}
+{"skill": "restaurangbranschen", "count": 18360, "field_id": 7, "translation": "industria restaurantelor"}
+{"skill": "instrument", "count": 18360, "field_id": 18, "translation": "instrument"}
+{"skill": "react", "count": 18300, "field_id": 3, "translation": "react"}
+{"skill": "öppenvård", "count": 18299, "field_id": 8, "translation": "tratament ambulatoriu"}
+{"skill": "utvecklingsfrågor", "count": 18259, "field_id": 20, "translation": "chestiuni de dezvoltare"}
+{"skill": "verksamhetssystem", "count": 18214, "field_id": 1, "translation": "sisteme operaționale"}
+{"skill": "skolutveckling", "count": 18213, "field_id": 15, "translation": "dezvoltarea școlară"}
+{"skill": "yrkesutbildning", "count": 18202, "field_id": 9, "translation": "instruire profesională"}
+{"skill": "ekonomiarbete", "count": 18150, "field_id": 1, "translation": "muncă economică"}
+{"skill": "föreskrifter", "count": 18126, "field_id": 1, "translation": "prescripții"}
+{"skill": "receptionsarbete", "count": 18120, "field_id": 1, "translation": "muncă la recepție"}
+{"skill": "fastighetsbranschen", "count": 18075, "field_id": 1, "translation": "industria imobiliară"}
+{"skill": "git", "count": 18074, "field_id": 3, "translation": "git"}
+{"skill": "djur", "count": 18031, "field_id": 16, "translation": "animale"}
+{"skill": "ekonomissystem", "count": 18014, "field_id": 1, "translation": "sisteme economice"}
+{"skill": "säljteknik", "count": 17946, "field_id": 5, "translation": "tehnică de vânzare"}
+{"skill": "svets", "count": 17832, "field_id": 9, "translation": "sudură"}
+{"skill": "powerpoint", "count": 17807, "field_id": 1, "translation": "powerpoint"}
+{"skill": "optimering", "count": 17794, "field_id": 18, "translation": "optimizare"}
+{"skill": "utleveranser", "count": 17762, "field_id": 19, "translation": "livrări"}
+{"skill": "web", "count": 17610, "field_id": 3, "translation": "web"}
+{"skill": "delegering", "count": 17557, "field_id": 8, "translation": "delegare"}
+{"skill": "kommunal verksamhet", "count": 17557, "field_id": 16, "translation": "activitate municipală"}
+{"skill": "html", "count": 17535, "field_id": 3, "translation": "html"}
+{"skill": "ortopedi", "count": 17532, "field_id": 8, "translation": "ortopedie"}
+{"skill": "CRM", "count": 17465, "field_id": 5, "translation": "CRM"}
+{"skill": "mjukvaruutveckling", "count": 17455, "field_id": 3, "translation": "dezvoltare software"}
+{"skill": "behandlingsarbete", "count": 17402, "field_id": 16, "translation": "muncă terapeutică"}
+{"skill": "fritidsprogrammet", "count": 17338, "field_id": 16, "translation": "program de recreere"}
+{"skill": "kandidatexamen", "count": 17241, "field_id": 1, "translation": "licență"}
+{"skill": "arabiska", "count": 17225, "field_id": 1, "translation": "arabă"}
+{"skill": "försäljningserfarenhet", "count": 17220, "field_id": 5, "translation": "experiență în vânzări"}
+{"skill": "påklädning", "count": 17217, "field_id": 16, "translation": "îmbrăcare"}
+{"skill": "kalkylering", "count": 17172, "field_id": 18, "translation": "calcul"}
+{"skill": "cosmic", "count": 17090, "field_id": 8, "translation": "cosmic"}
+{"skill": "månadsbokslut", "count": 17059, "field_id": 1, "translation": "închidere lunară"}
+{"skill": "examensbevis", "count": 16958, "field_id": 1, "translation": "diplomă"}
+{"skill": "reservdelar", "count": 16910, "field_id": 10, "translation": "piese de schimb"}
+{"skill": "social dokumentation", "count": 16895, "field_id": 16, "translation": "documentare socială"}
+{"skill": "särskilt boende", "count": 16833, "field_id": 8, "translation": "locuință specială"}
+{"skill": "geriatrik", "count": 16809, "field_id": 8, "translation": "geriatrie"}
+{"skill": "arkitektur", "count": 16792, "field_id": 3, "translation": "arhitectură"}
+{"skill": "e-handel", "count": 16686, "field_id": 5, "translation": "comerț electronic"}
+{"skill": "adobe photoshop", "count": 16662, "field_id": 5, "translation": "adobe photoshop"}
+{"skill": "budgetarbete", "count": 16647, "field_id": 1, "translation": "activități bugetare"}
+{"skill": "hållbarhet", "count": 16634, "field_id": 1, "translation": "sustenabilitate"}
+{"skill": "rengöring", "count": 16603, "field_id": 12, "translation": "curățenie"}
+{"skill": "driftsättning", "count": 16503, "field_id": 10, "translation": "implementare"}
+{"skill": "teknikområden", "count": 16463, "field_id": 18, "translation": "domenii tehnice"}
+{"skill": "personaladministration", "count": 16439, "field_id": 1, "translation": "administrație de personal"}
+{"skill": "GDPR", "count": 16416, "field_id": 3, "translation": "GDPR"}
+{"skill": "datasystem", "count": 16276, "field_id": 1, "translation": "sisteme de date"}
+{"skill": "PLC", "count": 16263, "field_id": 18, "translation": "PLC"}
+{"skill": "skollagen", "count": 16256, "field_id": 15, "translation": "legea școlară"}
+{"skill": "embedded", "count": 16171, "field_id": 3, "translation": "înglobat"}
+{"skill": "systemvetenskap", "count": 16157, "field_id": 3, "translation": "știință a sistemelor"}
+{"skill": "active directory", "count": 16142, "field_id": 3, "translation": "director activ"}
+{"skill": "fortbildning", "count": 16067, "field_id": 8, "translation": "formare continuă"}
+{"skill": "entreprenadjuridik", "count": 15997, "field_id": 2, "translation": "juridică de contractare"}
+{"skill": "information technology", "count": 15984, "field_id": 3, "translation": "tehnologia informației"}
+{"skill": "larm", "count": 15962, "field_id": 10, "translation": "alarma"}
+{"skill": "ärendehantering", "count": 15939, "field_id": 1, "translation": "gestionare a cererilor"}
+{"skill": "it-branschen", "count": 15937, "field_id": 3, "translation": "industria IT"}
+{"skill": "affärsutveckling", "count": 15899, "field_id": 5, "translation": "dezvoltare de afaceri"}
+{"skill": "prognoser", "count": 15891, "field_id": 1, "translation": "prognoze"}
+{"skill": "storkök", "count": 15834, "field_id": 7, "translation": "bucătărie industrială"}
+{"skill": "omsorgsarbete", "count": 15812, "field_id": 8, "translation": "muncă de îngrijire"}
+{"skill": "motviktstruck", "count": 15799, "field_id": 19, "translation": "stivuitor cu contragreutate"}
+{"skill": "tillverkningsindustrin", "count": 15788, "field_id": 9, "translation": "industria de fabricație"}
+{"skill": "utvecklingssamtal", "count": 15767, "field_id": 15, "translation": "discuții de dezvoltare"}
+{"skill": "kontinuerlig coachning", "count": 15749, "field_id": 1, "translation": "mentoring continuu"}
+{"skill": "verksamhetsansvar", "count": 15601, "field_id": 20, "translation": "responsabilitate operațională"}
+{"skill": "barn och ungdom", "count": 15594, "field_id": 8, "translation": "copii și tineri"}
+{"skill": "tydliggörande pedagogik", "count": 15486, "field_id": 16, "translation": "pedagogie clarificatoare"}
+{"skill": "lönesättning", "count": 15473, "field_id": 20, "translation": "salariere"}
+{"skill": "compliance", "count": 15450, "field_id": 1, "translation": "conformitate"}
+{"skill": "leverantörsfakturor", "count": 15446, "field_id": 1, "translation": "facturi de la furnizori"}
+{"skill": "uppsökande försäljning", "count": 15269, "field_id": 5, "translation": "vânzare directă"}
+{"skill": "agresso", "count": 15222, "field_id": 1, "translation": "Agresso"}
+{"skill": "behörigheter", "count": 15217, "field_id": 3, "translation": "permise"}
+{"skill": "missbruk", "count": 15195, "field_id": 16, "translation": "abuz"}
+{"skill": "universitetsexamen", "count": 15142, "field_id": 1, "translation": "diplomă universitară"}
+{"skill": "projektarbete", "count": 15133, "field_id": 1, "translation": "proiect de lucru"}
+{"skill": "barnomsorg", "count": 15120, "field_id": 15, "translation": "îngrijirea copiilor"}
+{"skill": "skolledning", "count": 15092, "field_id": 15, "translation": "conducere școlară"}
+{"skill": "lärplattform", "count": 15065, "field_id": 15, "translation": "platformă de învățare"}
+{"skill": "varuplock", "count": 14989, "field_id": 5, "translation": "selectare de produse"}
+{"skill": "ce-körkort", "count": 14959, "field_id": 19, "translation": "permis de conducere CE"}
+{"skill": "CNC", "count": 14916, "field_id": 9, "translation": "CNC"}
+{"skill": "telefoni", "count": 14881, "field_id": 5, "translation": "telefonie"}
+{"skill": "allmänmedicin", "count": 14865, "field_id": 8, "translation": "medicină generală"}
+{"skill": "angularjs", "count": 14824, "field_id": 3, "translation": "AngularJS"}
+{"skill": "ordrar", "count": 14793, "field_id": 19, "translation": "comenzi"}
+{"skill": "customer service", "count": 14789, "field_id": 5, "translation": "serviciu pentru clienți"}
+{"skill": "telekommunikation", "count": 14783, "field_id": 5, "translation": "telecomunicații"}
+{"skill": "friskvård", "count": 14749, "field_id": 16, "translation": "activități de sănătate"}
+{"skill": "tillagning", "count": 14748, "field_id": 7, "translation": "gătit"}
+{"skill": "påfyllning", "count": 14723, "field_id": 5, "translation": "reumplere"}
+{"skill": "lastbilar", "count": 14718, "field_id": 10, "translation": "camioane"}
+{"skill": "läxhjälp", "count": 14697, "field_id": 12, "translation": "ajutor la teme"}
+{"skill": "mode", "count": 14603, "field_id": 5, "translation": "modă"}
+{"skill": "telefonförsäljning", "count": 14540, "field_id": 5, "translation": "vânzare prin telefon"}
+{"skill": "nyheter", "count": 14540, "field_id": 5, "translation": "știri"}
+{"skill": "à la carte", "count": 14532, "field_id": 7, "translation": "à la carte"}
+{"skill": "ledarskapsutbildning", "count": 14531, "field_id": 20, "translation": "formare în leadership"}
+{"skill": "samiska", "count": 14531, "field_id": 15, "translation": "sami"}
+{"skill": "läkemedelshantering", "count": 14529, "field_id": 8, "translation": "gestionarea medicamentelor"}
+{"skill": "sjuksköterskeuppgifter", "count": 14426, "field_id": 8, "translation": "activități de asistent medical"}
+{"skill": "specialkost", "count": 14407, "field_id": 7, "translation": "dietă specială"}
+{"skill": "kassavana", "count": 14339, "field_id": 5, "translation": "experiență în casă de marcat"}
+{"skill": "löneadministration", "count": 14317, "field_id": 1, "translation": "administrare salarii"}
+{"skill": "mötesbokning", "count": 14267, "field_id": 5, "translation": "programare întâlniri"}
+{"skill": "utvecklingsstörning", "count": 14212, "field_id": 16, "translation": "întârziere în dezvoltare"}
+{"skill": "kontaktuppgifter", "count": 14145, "field_id": 9, "translation": "informații de contact"}
+{"skill": "barn & fritid", "count": 14079, "field_id": 15, "translation": "copii & timp liber"}
+{"skill": "produktkunskap", "count": 14063, "field_id": 5, "translation": "cunoștințe despre produs"}
+{"skill": "amazon web services", "count": 13995, "field_id": 3, "translation": "servicii web Amazon"}
+{"skill": "franska", "count": 13990, "field_id": 15, "translation": "franceză"}
+{"skill": "TV", "count": 13987, "field_id": 5, "translation": "TV"}
+{"skill": "inredning", "count": 13874, "field_id": 5, "translation": "design interior"}
+{"skill": "detaljhandel", "count": 13853, "field_id": 5, "translation": "comerț cu amănuntul"}
+{"skill": "fordonsindustrin", "count": 13806, "field_id": 18, "translation": "industria auto"}
+{"skill": "demens", "count": 13765, "field_id": 8, "translation": "demență"}
+{"skill": "samhällsbyggnad", "count": 13754, "field_id": 2, "translation": "dezvoltare urbană"}
+{"skill": "civilingenjörsexamen", "count": 13684, "field_id": 18, "translation": "licență în inginerie civilă"}
+{"skill": "autocad", "count": 13658, "field_id": 18, "translation": "autocad"}
+{"skill": "uthyrning", "count": 13654, "field_id": 18, "translation": "închiriere"}
+{"skill": "privatkunder", "count": 13564, "field_id": 5, "translation": "cliemți privați"}
+{"skill": "kundhantering", "count": 13562, "field_id": 5, "translation": "gestionarea clienților"}
+{"skill": "medicinering", "count": 13554, "field_id": 8, "translation": "medicație"}
+{"skill": "mätteknik", "count": 13516, "field_id": 9, "translation": "metrologie"}
+{"skill": "elkraft", "count": 13420, "field_id": 18, "translation": "energie electrică"}
+{"skill": "lönehantering", "count": 13403, "field_id": 1, "translation": "gestionarea salariilor"}
+{"skill": "diabetes", "count": 13401, "field_id": 8, "translation": "diabet"}
+{"skill": "elevhälsa", "count": 13387, "field_id": 15, "translation": "sănătatea elevilor"}
+{"skill": "kundansvar", "count": 13350, "field_id": 5, "translation": "responsabilitatea față de clienți"}
+{"skill": "datavetenskap", "count": 13310, "field_id": 3, "translation": "știința calculatoarelor"}
+{"skill": "renhållning", "count": 13244, "field_id": 7, "translation": "salubritate"}
+{"skill": "förskollärarexamen", "count": 13243, "field_id": 15, "translation": "licență în predare în grădiniță"}
+{"skill": "lagarbete", "count": 13229, "field_id": 5, "translation": "munca în echipă"}
+{"skill": "client", "count": 13174, "field_id": 3, "translation": "client"}
+{"skill": "sjukvårdsinsatser", "count": 13170, "field_id": 8, "translation": "servicii medicale"}
+{"skill": "förhandling", "count": 13170, "field_id": 5, "translation": "negociere"}
+{"skill": "microsoft access", "count": 13147, "field_id": 3, "translation": "microsoft access"}
+{"skill": "internet", "count": 13116, "field_id": 3, "translation": "internet"}
+{"skill": "intensivvård", "count": 13066, "field_id": 8, "translation": "terapie intensivă"}
+{"skill": "tekniska kunskaper", "count": 13054, "field_id": 10, "translation": "competențe tehnice"}
+{"skill": "beslutsunderlag", "count": 13033, "field_id": 1, "translation": "documentație de decizie"}
+{"skill": "UX", "count": 13000, "field_id": 3, "translation": "UX"}
+{"skill": "läsa ritningar", "count": 12959, "field_id": 9, "translation": "citirea planurilor"}
+{"skill": "sql-server", "count": 12956, "field_id": 3, "translation": "sql-server"}
+{"skill": "processindustri", "count": 12919, "field_id": 9, "translation": "industria proceselor"}
+{"skill": "ingenjörsutbildning", "count": 12897, "field_id": 18, "translation": "educație de inginer"}
+{"skill": "introduktionsprogram", "count": 12889, "field_id": 8, "translation": "program de introducere"}
+{"skill": "ekonomifrågor", "count": 12885, "field_id": 20, "translation": "aspecte economice"}
+{"skill": "ekonomiskt ansvar", "count": 12871, "field_id": 20, "translation": "responsabilitate financiară"}
+{"skill": "avklädning", "count": 12835, "field_id": 16, "translation": "dezbrăcarea"}
+{"skill": "rekryteringssystem", "count": 12812, "field_id": 15, "translation": "sistem de recrutare"}
+{"skill": "behovsanalys", "count": 12785, "field_id": 5, "translation": "analiză de nevoi"}
+{"skill": "forskningsprojekt", "count": 12752, "field_id": 15, "translation": "proiecte de cercetare"}
+{"skill": "reglerteknik", "count": 12724, "field_id": 10, "translation": "inginerie de reglaj"}
+{"skill": "melior", "count": 12696, "field_id": 8, "translation": "ameliorare"}
+{"skill": "snickeri", "count": 12677, "field_id": 2, "translation": "tâmplărie"}
+{"skill": "samhällsvetenskap", "count": 12637, "field_id": 1, "translation": "științe socio-umane"}
+{"skill": "tandvård", "count": 12625, "field_id": 8, "translation": "stomatologie"}
+{"skill": "ekonomisk uppföljning", "count": 12598, "field_id": 1, "translation": "monitorizare economică"}
+{"skill": "tunga fordon", "count": 12566, "field_id": 10, "translation": "vehicule grele"}
+{"skill": "verifiering", "count": 12533, "field_id": 18, "translation": "verificare"}
+{"skill": "embedded system", "count": 12522, "field_id": 3, "translation": "sistem înglobat"}
+{"skill": "psykiatrin", "count": 12522, "field_id": 8, "translation": "psihiatrie"}
+{"skill": "riskanalys", "count": 12521, "field_id": 18, "translation": "analiză de risc"}
+{"skill": "skinn", "count": 12508, "field_id": 16, "translation": "piele"}
+{"skill": "gymnasieskola", "count": 12461, "field_id": 15, "translation": "liceu"}
+{"skill": "outlook", "count": 12431, "field_id": 1, "translation": "outlook"}
+{"skill": "kravställning", "count": 12414, "field_id": 3, "translation": "specificarea cerinţelor"}
+{"skill": "pedagogisk verksamhet", "count": 12405, "field_id": 15, "translation": "activitate pedagogică"}
+{"skill": "good manufacturing practice", "count": 12383, "field_id": 9, "translation": "bună practică de fabricaţie"}
+{"skill": "prospektering", "count": 12373, "field_id": 5, "translation": "prospecţiune"}
+{"skill": "fastighetsskötsel", "count": 12310, "field_id": 10, "translation": "întreţinere a proprietăţilor"}
+{"skill": "abonnemang", "count": 12304, "field_id": 5, "translation": "abonament"}
+{"skill": "palliativ vård", "count": 12302, "field_id": 8, "translation": "îngrijire paliativă"}
+{"skill": "REST", "count": 12297, "field_id": 3, "translation": "REST"}
+{"skill": "adobe indesign", "count": 12237, "field_id": 1, "translation": "adobe indesign"}
+{"skill": "släp", "count": 12222, "field_id": 19, "translation": "remorcă"}
+{"skill": "habilitering", "count": 12190, "field_id": 8, "translation": "reabilitare"}
+{"skill": "miljöfrågor", "count": 12188, "field_id": 14, "translation": "probleme de mediu"}
+{"skill": "service och underhåll", "count": 12155, "field_id": 10, "translation": "serviciu şi mentenanţă"}
+{"skill": "patientsäkerhet", "count": 12136, "field_id": 8, "translation": "siguranța pacientului"}
+{"skill": "administrativt stöd", "count": 12120, "field_id": 1, "translation": "asistenţă administrativă"}
+{"skill": "kundvård", "count": 12114, "field_id": 5, "translation": "relaţii cu clienţii"}
+{"skill": "telefonintervju", "count": 12107, "field_id": 5, "translation": "interviu telefonic"}
+{"skill": "reflektion", "count": 12105, "field_id": 15, "translation": "reflecţie"}
+{"skill": "riskbedömningar", "count": 12095, "field_id": 8, "translation": "evaluări de risc"}
+{"skill": "dans", "count": 12075, "field_id": 15, "translation": "dans"}
+{"skill": "bestämmelser", "count": 12072, "field_id": 1, "translation": "reglementări"}
+{"skill": "beräkningar", "count": 12047, "field_id": 18, "translation": "calcul"}
+{"skill": "biologi", "count": 12038, "field_id": 15, "translation": "biologie"}
+{"skill": "möbler", "count": 11979, "field_id": 19, "translation": "mobilier"}
+{"skill": "personbilar", "count": 11969, "field_id": 10, "translation": "autoturisme"}
+{"skill": "bevakning", "count": 11952, "field_id": 1, "translation": "supraveghere"}
+{"skill": "nykundsbearbetning", "count": 11880, "field_id": 5, "translation": "abordare de clienți noi"}
+{"skill": "pneumatik", "count": 11859, "field_id": 10, "translation": "pneumatică"}
+{"skill": "akutmottagning", "count": 11828, "field_id": 8, "translation": "serviciu de urgenţă"}
+{"skill": "mobil", "count": 11796, "field_id": 8, "translation": "mobil"}
+{"skill": "effektivisering", "count": 11788, "field_id": 1, "translation": "eficientizare"}
+{"skill": "yrkesvägledning", "count": 11760, "field_id": 1, "translation": "orientare profesională"}
+{"skill": "epilepsi", "count": 11750, "field_id": 16, "translation": "epilepsie"}
+{"skill": "artificial intelligence", "count": 11746, "field_id": 3, "translation": "inteligenţă artificială"}
+{"skill": "sjuksköterskeexamen", "count": 11732, "field_id": 8, "translation": "examen de asistent medical"}
+{"skill": "socionomutbildning", "count": 11719, "field_id": 16, "translation": "studii de asistent social"}
+{"skill": "försäljningsarbete", "count": 11686, "field_id": 5, "translation": "muncă de vânzare"}
+{"skill": "bokslutsarbete", "count": 11658, "field_id": 1, "translation": "activitate de închidere a exerciţiului financiar"}
+{"skill": "paketering", "count": 11600, "field_id": 19, "translation": "ambalare"}
+{"skill": "metodutveckling", "count": 11593, "field_id": 18, "translation": "dezvoltare metodologică"}
+{"skill": "frukost", "count": 11592, "field_id": 7, "translation": "mic dejun"}
+{"skill": "intellektuell funktionsnedsättning", "count": 11592, "field_id": 16, "translation": "handicap intelectual"}
+{"skill": "studievägledning", "count": 11583, "field_id": 1, "translation": "consiliere în studii"}
+{"skill": "vårdplanering", "count": 11575, "field_id": 8, "translation": "planificare a îngrijirii"}
+{"skill": "sharepoint", "count": 11396, "field_id": 3, "translation": "sharepoint"}
+{"skill": "it-säkerhet", "count": 11375, "field_id": 3, "translation": "securitate IT"}
+{"skill": "API", "count": 11349, "field_id": 3, "translation": "API"}
+{"skill": "huvudansvar", "count": 11339, "field_id": 1, "translation": "responsabilitate principală"}
+{"skill": "diarieföring", "count": 11309, "field_id": 1, "translation": "înregistrarea documentelor"}
+{"skill": "byggprojekt", "count": 11248, "field_id": 2, "translation": "proiecte de construcție"}
+{"skill": "spel", "count": 11236, "field_id": 5, "translation": "jocuri"}
+{"skill": "informationssäkerhet", "count": 11228, "field_id": 3, "translation": "securitatea informațiilor"}
+{"skill": "processindustrin", "count": 11197, "field_id": 18, "translation": "industria de proces"}
+{"skill": "datateknik", "count": 11128, "field_id": 3, "translation": "tehnologie informațională"}
+{"skill": "android", "count": 11094, "field_id": 3, "translation": "Android"}
+{"skill": "kriminalvården", "count": 11052, "field_id": 17, "translation": "sistemul penal"}
+{"skill": "elinstallationer", "count": 11052, "field_id": 10, "translation": "instalații electrice"}
+{"skill": "b2b-försäljning", "count": 11029, "field_id": 5, "translation": "vânzări B2B"}
+{"skill": "it-miljö", "count": 11019, "field_id": 3, "translation": "mediul IT"}
+{"skill": "dokumenthantering", "count": 10977, "field_id": 1, "translation": "gestionarea documentelor"}
+{"skill": "video", "count": 10929, "field_id": 3, "translation": "video"}
+{"skill": "crm-system", "count": 10929, "field_id": 5, "translation": "sistem CRM"}
+{"skill": "färg", "count": 10884, "field_id": 5, "translation": "culoare"}
+{"skill": "medarbetarsamtal", "count": 10833, "field_id": 20, "translation": "discuții cu angajații"}
+{"skill": "trädgård", "count": 10810, "field_id": 13, "translation": "grădină"}
+{"skill": "hjullastare", "count": 10803, "field_id": 2, "translation": "încărcător frontal"}
+{"skill": "energibranschen", "count": 10792, "field_id": 18, "translation": "industria energetică"}
+{"skill": "luftreningssystem", "count": 10690, "field_id": 5, "translation": "sisteme de purificare a aerului"}
+{"skill": "kravhantering", "count": 10684, "field_id": 3, "translation": "gestionarea cerințelor"}
+{"skill": "rekryteringsverktyg", "count": 10669, "field_id": 15, "translation": "instrumente de recrutare"}
+{"skill": "magisterexamen", "count": 10632, "field_id": 15, "translation": "masterat"}
+{"skill": "motiverande samtal", "count": 10602, "field_id": 16, "translation": "conversații motivate"}
+{"skill": "sanering", "count": 10599, "field_id": 5, "translation": "decontaminare"}
+{"skill": "hr-området", "count": 10591, "field_id": 1, "translation": "domeniul resurselor umane"}
+{"skill": "utbetalningar", "count": 10586, "field_id": 1, "translation": "plăți"}
+{"skill": "hr-arbete", "count": 10545, "field_id": 1, "translation": "munca în resurse umane"}
+{"skill": "produktionsteknik", "count": 10544, "field_id": 18, "translation": "tehnologia de producție"}
+{"skill": "socialpsykiatri", "count": 10541, "field_id": 16, "translation": "psihatrie socială"}
+{"skill": "it-vana", "count": 10535, "field_id": 1, "translation": "cunoștințe de IT"}
+{"skill": "deployment", "count": 10492, "field_id": 3, "translation": "implementare"}
+{"skill": "åtgärdsprogram", "count": 10416, "field_id": 15, "translation": "program de măsuri"}
+{"skill": "utvecklingsprocesser", "count": 10413, "field_id": 3, "translation": "procese de dezvoltare"}
+{"skill": "validering", "count": 10413, "field_id": 18, "translation": "validare"}
+{"skill": "hus", "count": 10392, "field_id": 2, "translation": "casă"}
+{"skill": "tekniska frågor", "count": 10390, "field_id": 5, "translation": "întrebări tehnice"}
+{"skill": "säkerhetsarbete", "count": 10388, "field_id": 17, "translation": "muncă de securitate"}
+{"skill": "kontorsmaterial", "count": 10359, "field_id": 1, "translation": "materiale de birou"}
+{"skill": "extraarbete", "count": 10347, "field_id": 5, "translation": "muncă suplimentară"}
+{"skill": "geografiska informationssystem", "count": 10311, "field_id": 18, "translation": "sisteme de informații geografice"}
+{"skill": "hemstädning", "count": 10298, "field_id": 12, "translation": "curățenie la domiciliu"}
+{"skill": "manualer", "count": 10284, "field_id": 10, "translation": "manuale"}
+{"skill": "ekonomistyrning", "count": 10281, "field_id": 1, "translation": "control financiar"}
+{"skill": "microsoft exchange", "count": 10270, "field_id": 3, "translation": "Microsoft Exchange"}
+{"skill": "servicedesk", "count": 10263, "field_id": 3, "translation": "servicedesk"}
+{"skill": "revision", "count": 10258, "field_id": 1, "translation": "revizuire"}
+{"skill": "utbildningsprogram", "count": 10243, "field_id": 5, "translation": "program de formare"}
+{"skill": "ERP", "count": 10178, "field_id": 1, "translation": "ERP"}
+{"skill": "kemikalier", "count": 10172, "field_id": 5, "translation": "produse chimice"}
+{"skill": "barns lärande", "count": 10160, "field_id": 15, "translation": "învățarea copiilor"}
+{"skill": "mission", "count": 10136, "field_id": 18, "translation": "misiune"}
+{"skill": "neurologi", "count": 10129, "field_id": 8, "translation": "neurologie"}
+{"skill": "teckenspråk", "count": 10089, "field_id": 16, "translation": "limbaj de semne"}
+{"skill": "fiber", "count": 10073, "field_id": 10, "translation": "fibră"}
+{"skill": "kontrakt", "count": 10051, "field_id": 5, "translation": "contract"}
+{"skill": "kontering", "count": 10019, "field_id": 1, "translation": "contabilitate"}
+{"skill": "omvårdnadsutbildning", "count": 9994, "field_id": 8, "translation": "formare în îngrijire"}
+{"skill": "reparationsarbeten", "count": 9954, "field_id": 10, "translation": "lucrări de reparații"}
+{"skill": "script", "count": 9946, "field_id": 3, "translation": "script"}
+{"skill": "kompetensförsörjning", "count": 9890, "field_id": 1, "translation": "sursă de competențe"}
+{"skill": "fotboll", "count": 9877, "field_id": 16, "translation": "fotbal"}
+{"skill": "analysarbete", "count": 9874, "field_id": 1, "translation": "analiză de muncă"}
+{"skill": "arbetsprocesser", "count": 9870, "field_id": 1, "translation": "procese de muncă"}
+{"skill": "förändringsledning", "count": 9865, "field_id": 20, "translation": "managementul schimbării"}
+{"skill": "kundärenden", "count": 9861, "field_id": 5, "translation": "solicitanți de servicii"}
+{"skill": "byggnation", "count": 9853, "field_id": 2, "translation": "construcție"}
+{"skill": "programvara", "count": 9755, "field_id": 3, "translation": "software"}
+{"skill": "certifieringar", "count": 9748, "field_id": 3, "translation": "certificări"}
+{"skill": "telefonvana", "count": 9745, "field_id": 5, "translation": "experiență în utilizarea telefonului"}
+{"skill": "deklaration", "count": 9744, "field_id": 1, "translation": "declarație"}
+{"skill": "civilingenjörsutbildning", "count": 9742, "field_id": 18, "translation": "inginerie civilă"}
+{"skill": "windows server", "count": 9733, "field_id": 3, "translation": "server Windows"}
+{"skill": "vårdutbildning", "count": 9714, "field_id": 16, "translation": "instruire în îngrijire"}
+{"skill": "forskarutbildning", "count": 9707, "field_id": 15, "translation": "instruire doctorală"}
+{"skill": "förskrivning", "count": 9687, "field_id": 8, "translation": "prescripție"}
+{"skill": "remisshantering", "count": 9670, "field_id": 1, "translation": "gestionarea referințelor"}
+{"skill": "gymnastik", "count": 9650, "field_id": 15, "translation": "gimnastică"}
+{"skill": "handlingsplaner", "count": 9644, "field_id": 16, "translation": "planuri de acțiune"}
+{"skill": "processutveckling", "count": 9619, "field_id": 1, "translation": "dezvoltare de procese"}
+{"skill": "uppackning", "count": 9606, "field_id": 5, "translation": "desfășurare"}
+{"skill": "anläggningsbranschen", "count": 9583, "field_id": 2, "translation": "industria construcțiilor"}
+{"skill": "näringsliv", "count": 9569, "field_id": 1, "translation": "mediul de afaceri"}
+{"skill": "budgetering", "count": 9554, "field_id": 20, "translation": "bugetare"}
+{"skill": "förskollärarlegitimation", "count": 9531, "field_id": 15, "translation": "licență de învățământ preșcolar"}
+{"skill": "ekonomiområdet", "count": 9527, "field_id": 1, "translation": "domeniul economic"}
+{"skill": "fakturafrågor", "count": 9515, "field_id": 5, "translation": "aspecte legate de facturare"}
+{"skill": "anestesi", "count": 9492, "field_id": 8, "translation": "anestezie"}
+{"skill": "node", "count": 9491, "field_id": 3, "translation": "nod"}
+{"skill": "docker", "count": 9466, "field_id": 3, "translation": "docker"}
+{"skill": "allergi", "count": 9460, "field_id": 16, "translation": "alergie"}
+{"skill": "prognosarbete", "count": 9454, "field_id": 1, "translation": "munca de prognoză"}
+{"skill": "utvecklingsteam", "count": 9454, "field_id": 3, "translation": "echipa de dezvoltare"}
+{"skill": "neuropsykiatriska funktionsnedsättningar", "count": 9406, "field_id": 16, "translation": "tulburări neuropsihiatrice"}
+{"skill": "naturvetenskap", "count": 9340, "field_id": 15, "translation": "știință naturală"}
+{"skill": "verkstadsarbete", "count": 9321, "field_id": 9, "translation": "muncă de atelier"}
+{"skill": "förstudier", "count": 9311, "field_id": 18, "translation": "studii preliminare"}
+{"skill": "samhällsfrågor", "count": 9304, "field_id": 1, "translation": "probleme sociale"}
+{"skill": "kollektivtrafik", "count": 9299, "field_id": 16, "translation": "transport în comun"}
+{"skill": "automatisering", "count": 9263, "field_id": 3, "translation": "automatizare"}
+{"skill": "inbetalningar", "count": 9261, "field_id": 1, "translation": "plăţi"}
+{"skill": "rekryteringsbranschen", "count": 9251, "field_id": 5, "translation": "industria recrutării"}
+{"skill": "utbildningsförvaltningen", "count": 9247, "field_id": 15, "translation": "administrația educațională"}
+{"skill": "mekatronik", "count": 9219, "field_id": 18, "translation": "mecatronică"}
+{"skill": "teknisk fysik", "count": 9215, "field_id": 18, "translation": "fizică tehnică"}
+{"skill": "försäljningsprocessen", "count": 9210, "field_id": 5, "translation": "procesul de vânzare"}
+{"skill": "hantverk", "count": 9205, "field_id": 9, "translation": "meserie"}
+{"skill": "stål", "count": 9187, "field_id": 5, "translation": "oțel"}
+{"skill": "uppgraderingar", "count": 9168, "field_id": 10, "translation": "upgrade-uri"}
+{"skill": "matlab", "count": 9162, "field_id": 3, "translation": "matlab"}
+{"skill": "gräsklippning", "count": 9154, "field_id": 13, "translation": "cositul ierbii"}
+{"skill": "ensamarbete", "count": 9150, "field_id": 16, "translation": "Lucru în echipă"}
+{"skill": "grundsärskolan", "count": 9148, "field_id": 15, "translation": "școala de bază specială"}
+{"skill": "ekonomiområdet", "count": 9140, "field_id": 1, "translation": "domeniul economic"}
+{"skill": "typescript", "count": 9133, "field_id": 3, "translation": "typescript"}
+{"skill": "barnskötarutbildning", "count": 9122, "field_id": 15, "translation": "formare de îngrijire a copiilor"}
+{"skill": "B2C", "count": 9114, "field_id": 5, "translation": "B2C"}
+{"skill": "erfarenhet av barn", "count": 9098, "field_id": 16, "translation": "experiență cu copiii"}
+{"skill": "SEO", "count": 9095, "field_id": 5, "translation": "SEO"}
+{"skill": "annonsering", "count": 9037, "field_id": 5, "translation": "publicitate"}
+{"skill": "uppbyggnad", "count": 9037, "field_id": 18, "translation": "crearea"}
+{"skill": "digital marknadsföring", "count": 9016, "field_id": 5, "translation": "marketing digital"}

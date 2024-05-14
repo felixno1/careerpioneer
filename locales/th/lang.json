@@ -1,5 +1,33 @@
 {
-    "title": "ทิศทางอาชีพ",
-    "welcome": "ยินดีต้อนรับ"
+    "title-left": "CAREER",
+    "title-right": "PIONEER",
+    "careerpioneer": "CareerPioneer",
+    "welcome": "ยินดีต้อนรับ",
+    "what_do_you_need_help_with": "คุณต้องการความช่วยเหลืออะไร?",
+    "guidance": "คำแนะนำทั่วไปเกี่ยวกับตลาดแรงงานของสวีเดน",
+    "job_finder": "ค้นหางานตามความสามารถของคุณ",
+    "tell_me_more": "บอกฉันเพิ่มเติม",
+    "elaborate": "อธิบายเพิ่มเติมเกี่ยวกับ",
+    "ask_ai": "ถาม AI...",
+    "what_skills": "คุณมีทักษะอะไรบ้าง?",
+    "search_job": "ค้นหางาน!",
+    "ai_loading": "AI กำลังค้นหาอาชีพ...",
+    "recommended_jobs": "งานที่แนะนำ",
+    "n_of_ads_1": "ขณะนี้มี",
+    "n_of_ads_2": "โฆษณาสำหรับงานนี้",
+    "show_ads": "แสดงโฆษณา",
+    "terminology": {
+        "header": "คำศัพท์ทั่วไป",
+        "content" : [
+
+        ]
+    },
+    "legal": {
+        "header": "กฎหมายและระเบียบ",
+        "content" : [
+        
+        ]
+    }
 }
+
 
