@@ -13,7 +13,6 @@ class Session:
     skills = []
 
 languages = [
-    {"name":"Swedish","code": "se"},
     {"name":"English","code": "en"},
     {"name":"Afrikaans","code": "af"},
     {"name":"Arabic (عربي)","code": "ar"},
@@ -30,18 +29,19 @@ languages = [
     {"name":"Somali (Soomaali)","code": "so"},
     {"name":"Thai (ไทย)","code": "th"},
     {"name":"Turkish (Türkçe)","code": "tu"},
-    {"name":"Yiddish (ייִדיש)","code": "yi"}
+    {"name":"Yiddish (ייִדיש)","code": "yi"},
+    {"name":"Swedish","code": "se"}
 ]
 
 
 def handle_cookie(request, endpoint_name):
-    selected_language_code = request.form.get('language', 'se')
+    selected_language_code = request.form.get('language', 'en')
     response = make_response(redirect(url_for(endpoint_name)))
     response.set_cookie('preferred_language', selected_language_code, max_age=60*60*24*30)
     return response
 
 def get_lang():
-    preferred_language_code = request.cookies.get('preferred_language', 'se')
+    preferred_language_code = request.cookies.get('preferred_language', 'en')
     with open(f'locales/{preferred_language_code}/lang.json', 'r') as file:
         translations = json.load(file)
     return next((lang for lang in languages if lang['code'] == preferred_language_code), None), preferred_language_code, translations
@@ -59,7 +59,7 @@ def index():
     if request.method == 'POST':
         return handle_cookie(request, 'index')
     else:
-        preferred_language, preferred_language_code, translations = get_lang()
+        preferred_language, _, translations = get_lang()
         return render_template('index.html', languages=languages, preferred_language=preferred_language, translations=translations)
 
 @app.route('/guidance', methods=['GET', 'POST'])
@@ -67,7 +67,7 @@ def guidance():
     if request.method == 'POST':
         return handle_cookie(request, 'guidance')
     else:
-        preferred_language, preferred_language_code, translations = get_lang()
+        preferred_language, _, translations = get_lang()
         return render_template('guidance.html', languages=languages, preferred_language=preferred_language, translations=translations, chat_logs=Session.chat_logs)
 
 @app.route('/careersearch', methods=['GET', 'POST'])
