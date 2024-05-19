@@ -1,5 +1,5 @@
 import json
-from flask import Flask, render_template, request, make_response, redirect, url_for, jsonify
+from flask import Flask, render_template, request, make_response, redirect, url_for, jsonify, session
 from src.skills import load_skills, weighted_shuffle
 from src.CareerPioneer import predict_jobs
 from src.gpt import chat, explain
@@ -7,10 +7,8 @@ from src.jobsearch import search_number_of_hits
 
 app = Flask(__name__)
 
-class Session:
-    recommendations = {}
-    chat_logs = []
-    skills = []
+# TODO: Read from a secure enviromnet variable
+app.secret_key = 'BAD_SECRET_KEY'
 
 languages = [
     {"name":"English","code": "en"},
@@ -46,6 +44,7 @@ def get_lang():
         translations = json.load(file, )
     return next((lang for lang in languages if lang['code'] == preferred_language_code), None), preferred_language_code, translations
 
+
 def translate_job(jsonl_file):
     data_dict = {}
     with open(jsonl_file, 'r', encoding='utf-8') as f:
@@ -67,8 +66,9 @@ def guidance():
     if request.method == 'POST':
         return handle_cookie(request, 'guidance')
     else:
+        chat_logs = session.get("chat_logs", default=[])
         preferred_language, _, translations = get_lang()
-        return render_template('guidance.html', languages=languages, preferred_language=preferred_language, translations=translations, chat_logs=Session.chat_logs)
+        return render_template('guidance.html', languages=languages, preferred_language=preferred_language, translations=translations, chat_logs=chat_logs)
 
 @app.route('/careersearch', methods=['GET', 'POST'])
 def careersearch():
@@ -76,8 +76,8 @@ def careersearch():
         return handle_cookie(request, 'careersearch')
     else:
         preferred_language, preferred_language_code, translations = get_lang()
-        Session.skills = load_skills(preferred_language_code)
-        shuffled_skills = weighted_shuffle(Session.skills)
+        session["skills"] = load_skills(preferred_language_code)
+        shuffled_skills = weighted_shuffle(session["skills"])
         return render_template('careersearch/start.html', languages=languages, preferred_language=preferred_language, translations=translations, skills=shuffled_skills)
 
 @app.route('/show-recommendations', methods=['GET', 'POST'])
@@ -86,8 +86,8 @@ def show_recommendations():
         return handle_cookie(request, 'careersearch')
     else:
         preferred_language, preferred_language_code, translations = get_lang()
-        recommendations = Session.recommendations
-        jobs = translate_job(f'locales/{preferred_language_code}/jobs.jsonl') if Session.recommendations else {}
+        recommendations = session.get("recommendations", default={})
+        jobs = translate_job(f'locales/{preferred_language_code}/jobs.jsonl') if session.recommendations else {}
         for job in recommendations:
             ads = search_number_of_hits(job['title'])
             job['ads'] = int(ads)
@@ -100,21 +100,25 @@ def show_recommendations():
 @app.route('/send-message', methods=['POST'])
 def send_message():
     data = request.get_json()
-    Session.chat_logs.append(data)
-    Session.chat_logs.append({'gpt': chat(data, Session.chat_logs)})
-    return jsonify(Session.chat_logs)
+    chat_logs = session.get("chat_logs", default=[])
+    chat_logs.append(data)
+    chat_logs.append({'gpt': chat(data, session.chat_logs)})
+    session.modified = True
+    return jsonify(chat_logs)
 
 @app.route('/explain', methods=['POST'])
 def elaborate():
     data = request.get_json()
     prompt = f"{data.get('elaborate')} {data.get('title')}"
-    Session.chat_logs.append({'user': prompt})
-    Session.chat_logs.append({'gpt': explain(data.get('description'), prompt)})
-    return jsonify(Session.chat_logs)
+    chat_logs = session.get("chat_logs", default=[])
+    chat_logs.append({'user': prompt})
+    chat_logs.append({'gpt': explain(data.get('description'), prompt)})
+    session.modified = True
+    return jsonify(chat_logs)
 
 @app.route('/update-skills', methods=['POST'])
 def update_skills():
-    Session.recommendations = predict_jobs(request.json, 5)
+    session["recommendations"] = predict_jobs(request.json, 5)
     return redirect(url_for('show_recommendations'))
 
 if __name__ == '__main__':
