@@ -42,8 +42,8 @@ def handle_cookie(request, endpoint_name):
 
 def get_lang():
     preferred_language_code = request.cookies.get('preferred_language', 'en')
-    with open(f'locales/{preferred_language_code}/lang.json', 'r') as file:
-        translations = json.load(file)
+    with open(f'locales/{preferred_language_code}/lang.json', 'r', encoding='utf-8' ) as file:
+        translations = json.load(file, )
     return next((lang for lang in languages if lang['code'] == preferred_language_code), None), preferred_language_code, translations
 
 def translate_job(jsonl_file):
