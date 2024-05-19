@@ -31,15 +31,8 @@ languages = [
     {"name":"Swedish","code": "se"}
 ]
 
-
-def handle_cookie(request, endpoint_name):
-    selected_language_code = request.form.get('language', 'en')
-    response = make_response(redirect(url_for(endpoint_name)))
-    response.set_cookie('preferred_language', selected_language_code, max_age=60*60*24*30)
-    return response
-
 def get_lang():
-    preferred_language_code = request.cookies.get('preferred_language', 'en')
+    preferred_language_code = session.get('preferred_language', 'en')
     with open(f'locales/{preferred_language_code}/lang.json', 'r', encoding='utf-8' ) as file:
         translations = json.load(file, )
     return next((lang for lang in languages if lang['code'] == preferred_language_code), None), preferred_language_code, translations
@@ -53,49 +46,44 @@ def translate_job(jsonl_file):
             data_dict[json_data['job']] = json_data['translation']
     return data_dict
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET'])
 def index():
-    if request.method == 'POST':
-        return handle_cookie(request, 'index')
-    else:
-        preferred_language, _, translations = get_lang()
-        return render_template('index.html', languages=languages, preferred_language=preferred_language, translations=translations)
+    preferred_language, _, translations = get_lang()
+    return render_template('index.html', languages=languages, preferred_language=preferred_language, translations=translations)
 
-@app.route('/guidance', methods=['GET', 'POST'])
+@app.route('/set-lang', methods=['POST'])
+def setLang():
+    selected_language_code = request.form.get('language', 'en')
+    session["preferred_language"] = selected_language_code
+    return_page = request.args.get('return_page')
+    return make_response(redirect(url_for(return_page)))
+
+@app.route('/guidance', methods=['GET'])
 def guidance():
-    if request.method == 'POST':
-        return handle_cookie(request, 'guidance')
-    else:
-        chat_logs = session.get("chat_logs", default=[])
-        preferred_language, _, translations = get_lang()
-        return render_template('guidance.html', languages=languages, preferred_language=preferred_language, translations=translations, chat_logs=chat_logs)
+    chat_logs = session.get("chat_logs", default=[])
+    preferred_language, _, translations = get_lang()
+    return render_template('guidance.html', languages=languages, preferred_language=preferred_language, translations=translations, chat_logs=chat_logs)
 
-@app.route('/careersearch', methods=['GET', 'POST'])
+@app.route('/careersearch', methods=['GET'])
 def careersearch():
-    if request.method == 'POST':
-        return handle_cookie(request, 'careersearch')
-    else:
-        preferred_language, preferred_language_code, translations = get_lang()
-        session["skills"] = load_skills(preferred_language_code)
-        shuffled_skills = weighted_shuffle(session["skills"])
-        return render_template('careersearch/start.html', languages=languages, preferred_language=preferred_language, translations=translations, skills=shuffled_skills)
+    preferred_language, preferred_language_code, translations = get_lang()
+    session["skills"] = load_skills(preferred_language_code)
+    shuffled_skills = weighted_shuffle(session["skills"])
+    return render_template('careersearch/start.html', languages=languages, preferred_language=preferred_language, translations=translations, skills=shuffled_skills)
 
-@app.route('/show-recommendations', methods=['GET', 'POST'])
+@app.route('/show-recommendations', methods=['GET'])
 def show_recommendations():
-    if request.method == 'POST':
-        return handle_cookie(request, 'careersearch')
+    preferred_language, preferred_language_code, translations = get_lang()
+    recommendations = session.get("recommendations", default={})
+    jobs = translate_job(f'locales/{preferred_language_code}/jobs.jsonl') if session.recommendations else {}
+    for job in recommendations:
+        ads = search_number_of_hits(job['title'])
+        job['ads'] = int(ads)
+        job['translation'] = jobs.get(job['title'], job['title'])
+    if recommendations:
+        return render_template('careersearch/recommendations.html', languages=languages, preferred_language=preferred_language, translations=translations, recommendations=recommendations)
     else:
-        preferred_language, preferred_language_code, translations = get_lang()
-        recommendations = session.get("recommendations", default={})
-        jobs = translate_job(f'locales/{preferred_language_code}/jobs.jsonl') if session.recommendations else {}
-        for job in recommendations:
-            ads = search_number_of_hits(job['title'])
-            job['ads'] = int(ads)
-            job['translation'] = jobs.get(job['title'], job['title'])
-        if recommendations:
-            return render_template('careersearch/recommendations.html', languages=languages, preferred_language=preferred_language, translations=translations, recommendations=recommendations)
-        else:
-            return "No recommendations available"
+        return "No recommendations available"
 
 @app.route('/send-message', methods=['POST'])
 def send_message():
