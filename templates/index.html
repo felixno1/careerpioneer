@@ -32,7 +32,7 @@
         </div>
     </div>
     <div id="lang-bar">
-        <form class="lang-container" action="/" method="post">
+        <form class="lang-container" action="/set-lang?return_page=index" method="post">
             {% for lang in languages %}
             <button class="lang-btn" type="button" name="language" value="{{ lang['code'] }}">
                 <div class="lang-bg">
