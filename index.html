@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/static/css/styles.css">
-    <link rel="stylesheet" href="/static/css/guidance.css">
-    <link rel="stylesheet" href="/static/css/chat.css">
+    <link rel="stylesheet" href="./static/css/styles.css">
+    <link rel="stylesheet" href="./static/css/guidance.css">
+    <link rel="stylesheet" href="./static/css/chat.css">
     <cookie class="lang-cookie"style="display: none;"></cookie>
     <title>Document</title>
 </head>
 <body>
     <header>
-        <button id="logo" onclick="redirect('/')"><h1>CAREERPIONEER</h1></button>
+        <button id="logo" onclick="redirect('./')"><h1>CAREERPIONEER</h1></button>
         <button id="lang-picker">
-            <img id="lang-icon" src="assets/lang.svg">
+            <img id="lang-icon" src="./assets/lang.svg">
         </button>
     </header>
     <div id="main-container">
@@ -22,7 +22,7 @@
                 <button class="header-button active" data-type="text" data="terminology/header" connection="terminology-box"></button>
                 <button class="header-button" data-type="text" data="legal/header" connection="legal-box"></button>
                 <button class="header-button" data-type="text" data="links/header" connection="links-box"></button>
-                <button id="job-finder" data-type="text" data="job-finder" onclick="redirect('/job-finder.html')"></button>
+                <button id="job-finder" data-type="text" data="job-finder" onclick="redirect('./job-finder.html')"></button>
             </div>
             <div class="content-box active" connection="terminology-box">
                 <div class="content-item" data-type="forloop" data="terminology/content" connection="content">
@@ -55,7 +55,7 @@
                     <div id="input-area">
                         <textarea id="input-box"></textarea>
                         <button id="send-btn">
-                            <img id="send-icon" src="assets/send.svg">
+                            <img id="send-icon" src="./assets/send.svg">
                         </button>
                     </div>
             </div>
@@ -128,13 +128,13 @@
         <button id="confirm-lang">OK</button>
     </div>
 
-    <script src="/static/js/json_jsonl.js"></script>
+    <script src="./static/js/json_jsonl.js"></script>
 
-    <script src="/static/js/lang.js"></script>
-    <script src="/static/js/cookies.js"></script>
-    <script src="/static/js/json_handler.js"></script>
-    <script src="/static/js/class_handler.js"></script>
-    <script src="/static/js/chat.js"></script>
-    <script src="/static/js/redirect.js"></script>
+    <script src="./static/js/lang.js"></script>
+    <script src="./static/js/cookies.js"></script>
+    <script src="./static/js/json_handler.js"></script>
+    <script src="./static/js/class_handler.js"></script>
+    <script src="./static/js/chat.js"></script>
+    <script src="./static/js/redirect.js"></script>
 </body>
 </html>
