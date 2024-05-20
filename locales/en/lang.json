@@ -3,31 +3,118 @@
     "title-right": "PIONEER",
     "careerpioneer": "CareerPioneer",
     "welcome": "Welcome",
-    "what_do_you_need_help_with": "What do you need help with?",
+    "what-do-you-need-help-with": "What do you need help with?",
     "guidance": "General guidance about the Swedish labour market",
-    "job_finder": "Find a profession based on your skills",
-    "tell_me_more": "Tell me more",
+    "job-finder": "Find a profession based on your skills",
+    "tell-me-more": "Tell me more",
     "elaborate": "Tell me more about",
-    "ask_ai": "Ask AI...",
-    "what_skills": "What skills do you have?",
-    "search_job": "Find jobs!",
-    "ai_loading": "AI is generating professions...",
-    "recommended_jobs": "Recommended professions",
-    "n_of_ads_1": "There are currently",
-    "n_of_ads_2": "ads for the profession",
-    "show_ads": "Show ads",
+    "ask-ai": "Ask AI...",
+    "what-skills": "What skills do you have?",
+    "search-job": "Find jobs!",
+    "ai-loading": "AI is generating professions...",
+    "recommended-jobs": "Recommended professions",
+    "ads": "active ads",
+    "show-ads": "Show ads",
     "terminology": {
-        "header": "Common terminology",
+        "header": "Common Terms",
         "content" : [
+        {
+        "title": "Collective Agreement",
+        "description": "A collective agreement in Sweden is an agreement made between employers and groups of employees, often through a labor union. This agreement determines things like how much you should get paid, how many hours you can work, and what benefits you have such as vacation. Having a collective agreement means that both employers and employees have agreed on the terms of employment, making the work environment more stable and secure. If a workplace has a collective agreement, employees can feel more secure because they know what to expect in terms of salary and other working conditions. Collective agreements also help to avoid conflicts at work, as they contain rules for resolving issues."
+        },
+        {
+        "title": "Parental Leave",
+        "description": "Parental leave in Sweden is a period when parents can take time off from work to take care of their child. This system is designed to allow parents to spend time with their children without losing their income. When you are on parental leave, you receive money from the state, called parental allowance. You can be absent from work from the birth of the child and continue to do so until the child is about 1.5 years old. In total, you are entitled to 480 days of parental leave for each child, and these days can be shared between the parents. The system is flexible, which means you can choose how to take these days off. For example, you can be completely absent for a period or work fewer hours per day. Parental leave in Sweden is a way to support families so that both mothers and fathers can take care of their children while feeling economically secure."
+        },
+        {
+        "title": "Holiday Pay",
+        "description": "Holiday pay in Sweden is the compensation you receive when you take vacation. If you haven't earned full vacation days, you can receive holiday pay in cash instead. If you leave a job before taking all the vacation days you are entitled to, you should also receive holiday pay for the days you haven't taken."
+        },
+        {
+        "title": "Full-time",
+        "description": "A full-time position in Sweden typically corresponds to a 40-hour workweek. Working full-time means that you are employed for the full number of hours per week as defined by the employer."
+        },
 
-        ]
-    },
-    "legal": {
-        "header": "Laws & Regulations",
-        "content" : [
-        
-        ]
-    }
+        {
+            "title": "Part-time",
+            "description": "A part-time position means that you work less than the full workweek. This can vary depending on the workplace and the type of work. Part-time work can be a flexible option for those who wish to balance work with other commitments such as studies or family."
+        },
+        {
+            "title": "Probationary Period",
+            "description": "A probationary period is an initial form of employment where the employer and the employee have an opportunity to evaluate the employment relationship before it transitions into a permanent position. In Sweden, a probationary period can last up to six months according to Swedish law and can be terminated with shorter notice."
+        },
+        {
+            "title": "Trade Unions",
+            "description": "Trade unions, or labor unions, are organizations that represent the interests of employees in the workplace. They negotiate wages and working conditions, provide support and advice to members, and work towards better working conditions."
+        },
+        {
+            "title": "Notice Period/Regulations",
+            "description": "The notice period is the time that must pass from when an employment is terminated until it ceases. The length of the notice period may vary depending on what is specified in the collective agreement or employment contract and often varies depending on the length of employment."
+        },     {
+            "title": "Unemployment Insurance Fund (A-kassa)",
+            "description": "The A-kassa, or unemployment insurance fund, is an insurance that provides financial support to employees who become unemployed. To receive benefits from the A-kassa, you must meet certain conditions regarding previous work and membership in an unemployment insurance fund."
+        },
+        {
+            "title": "Health Promotion Grant/Benefits",
+            "description": "Health promotion grant is a tax-free benefit that many employers in Sweden offer their employees. It is intended for activities that promote health and prevent diseases. Other common benefits may include occupational pension, insurance, and flexible working hours."
+        },
+        {
+            "title": "Employment Contract",
+            "description": "An employment contract is a legally binding document between an employer and an employee that specifies the terms of employment, including role, salary, benefits, and working conditions."
+        },
+        {
+            "title": "HR (Human Resources)",
+            "description": "HR, or human resources department, handles matters related to personnel within an organization. This includes recruitment, training, conflict resolution, and ensuring that the company's policies and laws are followed."
+        },
+        {
+            "title": "Overtime/Flex/Comp Time",
+            "description": "Overtime is the hours you work beyond your regular working hours and for which extra compensation is often paid. Flex refers to flexible working hours where you can influence your work schedule. Comp, or compensatory time, is time off you receive as compensation for working overtime."
+        }            
+    ]
+},
+"legal": {
+    "header": "Laws & Regulations",
+    "content" : [
+        {
+           "title": "Work Environment Act",
+           "description": "The Work Environment Act in Sweden regulates the work environment and aims to prevent illness and accidents in the workplace. Employers are responsible for complying with the requirements of the law, including creating a work environment policy, following regulations, and providing training. Employees have the right to participation and influence through safety representatives and work environment committees. Overall, the law aims to protect both employees and employers and promote a safe workplace."
+        },
+        {
+           "title": "Working Hours Act",
+           "description": "The Working Hours Act regulates the rights and obligations of employers and employees regarding working hours and rest periods in Sweden. The law establishes, among other things, how many hours an employee may work per day and week, what rights apply to breaks and rest periods, and how overtime work and leave should be handled. The aim is to protect employees from overwork and ensure a balance between work and leisure."
+        },
+        {
+           "title": "Employment Protection Act",
+           "description": "The Employment Protection Act is a law that regulates the rights and obligations of employers and employees in employment. The law establishes, among other things, rules for termination of employment, notice of termination, and regulations regarding the form and duration of employment. The purpose of the Employment Protection Act is to protect employees from arbitrary and unfair dismissals and to promote security and stability in the labor market."
+        },    {
+            "title": "Discrimination Act",
+            "description": "The Discrimination Act aims to prevent and combat discrimination in society. It prohibits discrimination based on gender, gender identity or expression, ethnic origin, religion or other belief, disability, sexual orientation, and age. The law applies in many areas, including employment, education, and public services. Its purpose is to ensure equal rights and opportunities for all people and to promote a society free from discrimination."
+         },
+         {
+            "title": "Co-Determination in the Workplace Act",
+            "description": "The Co-Determination in the Workplace Act is a law that regulates the relationship between employers and employees by giving employees co-determination rights in various issues concerning the workplace, provided that the workplace has a collective agreement. The law establishes rules for union organization and negotiations between employers and labor unions. The purpose of this law is to promote good cooperation between employers and employees and to ensure the influence and participation of employees in the workplace."
+         },
+         {
+             "title": "Wage Guarantee Act",
+              "description": "The Wage Guarantee Act is a law that comes into effect in the event of an employer's bankruptcy or liquidation. The purpose of the law is to ensure that employees receive their wage claims and other financial claims despite the employer's insolvency. According to the law, employees are to be compensated from a state wage guarantee fund for unpaid wages, holiday pay, and other financial claims stemming from the employment. This helps protect employees from financial loss in the event of employer bankruptcy."
+        }
+    ]
+},
+"links": {
+    "header": "Links & Resources",
+    "content" : [
+        {
+            "title": "Assessment of Foreign Education",
+            "link": "https://www.uhr.se/bedomning-av-utlandsk-utbildning/"
+        },
+        {
+            "title": "Learn Swedish",
+            "link": "https://www.informationsverige.se/sv/jag-ar-asylsokande/lar-dig-svenska.html"
+        },
+        {
+            "title": "More about the Swedish Labor Market",
+            "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+        }
+    ]
 }
-
-
+}

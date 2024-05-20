@@ -3,31 +3,121 @@
     "title-right": "PIONEER",
     "careerpioneer": "CareerPioneer",
     "welcome": "Bienvenue",
-    "what_do_you_need_help_with": "De quoi avez-vous besoin d'aide ?",
+    "what-do-you-need-help-with": "De quoi avez-vous besoin d'aide ?",
     "guidance": "Orientation générale concernant le marché du travail suédois",
-    "job_finder": "Trouvez un emploi basé sur vos compétences",
-    "tell_me_more": "Dites-en plus",
+    "job-finder": "Trouvez un emploi basé sur vos compétences",
+    "tell-me-more": "Dites-en plus",
     "elaborate": "Dites-en plus sur",
-    "ask_ai": "Demander à l'IA...",
-    "what_skills": "Quelles compétences possédez-vous ?",
-    "search_job": "Trouver des emplois !",
-    "ai_loading": "L'IA génère des professions...",
-    "recommended_jobs": "Emplois recommandés",
-    "n_of_ads_1": "Il y a actuellement",
-    "n_of_ads_2": "annonces pour la profession",
-    "show_ads": "Afficher les annonces",
+    "ask-ai": "Demander à l'IA...",
+    "what-skills": "Quelles compétences possédez-vous ?",
+    "search-job": "Trouver des emplois !",
+    "ai-loading": "L'IA génère des professions...",
+    "recommended-jobs": "Emplois recommandés",
+    "ads": "publicités",
+    "show-ads": "Afficher les annonces",
     "terminology": {
         "header": "Terminologie commune",
-        "content" : [
+        "content" : [            
+        {
+            "title": "Accord collectif",
+            "description": "Un accord collectif en Suède est un accord conclu entre les employeurs et des groupes de salariés, le plus souvent par le biais d'un syndicat. Cet accord détermine des éléments tels que le salaire, le nombre d'heures de travail autorisé et les avantages tels que les congés payés.Avoir un accord collectif signifie que les employeurs et les salariés ont convenu des conditions de travail, ce qui rend l'environnement professionnel plus stable et sécurisé. Si un lieu de travail a un accord collectif, les salariés peuvent se sentir plus en sécurité car ils savent à quoi s'attendre en termes de salaire et d'autres conditions de travail.Les accords collectifs aident également à éviter les conflits au travail, car ils contiennent des règles sur la manière de résoudre les problèmes."
+        },
+        {
+            "title": "Congé parental",
+            "description": "Le congé parental en Suède est une période pendant laquelle les parents peuvent s'absenter du travail pour s'occuper de leur enfant. Ce système vise à permettre aux parents de passer du temps avec leur enfant sans perdre leur revenu. Lorsque vous êtes en congé parental, vous recevez de l'argent de l'État, appelé allocation parentale. Vous pouvez prendre un congé du travail dès la naissance de l'enfant et continuer jusqu'à ce qu'il ait environ 1,5 an. Au total, vous avez droit à 480 jours de congé parental par enfant, et ces jours peuvent être partagés entre les parents.Le système est flexible, ce qui signifie que vous pouvez choisir comment utiliser ces jours. Par exemple, vous pouvez être totalement en congé pendant une période ou travailler moins d'heures par jour.Le congé parental en Suède est un moyen de soutenir les familles afin que les deux parents puissent s'occuper de leurs enfants tout en ayant une sécurité financière."
+        },
+        {
+            "title": "Indemnité de congés payés",
+            "description": "L'indemnité de congés payés en Suède est la compensation que vous recevez lorsque vous prenez des vacances. Si vous n'avez pas eu le temps d'accumuler un congé complet, vous pouvez recevoir une indemnité de congés payés en argent à la place. Si vous quittez un emploi avant d'avoir pris tous vos congés auxquels vous avez droit, vous devez également recevoir une indemnité de congés payés pour les jours non pris."
+        },
+        {
+            "title": "Temps plein",
+            "description": "En Suède, un emploi à temps plein correspond généralement à une semaine de travail de 40 heures. Travailler à temps plein signifie être employé pour le nombre total d'heures de travail par semaine tel que défini par l'employeur."
+        },
+        {
+            "title": "Temps partiel",
+            "description": "EUn emploi à temps partiel signifie que vous travaillez moins que la semaine de travail complète. Cela peut varier selon le lieu de travail et le type de travail. Le travail à temps partiel peut être une option flexible pour ceux qui souhaitent équilibrer leur vie professionnelle avec d'autres engagements tels que les études ou la famille."
+        },
+        {
+            "title": "Période d'essai",
+            "description": "La période d'essai est une forme initiale d'emploi où l'employeur et le salarié ont l'occasion d'évaluer la relation de travail avant qu'elle ne devienne un emploi permanent. Selon la loi suédoise, une période d'essai peut durer jusqu'à six mois et peut être résiliée avec un préavis plus court."
+        },
+        {
+            "title": "Syndicats",
+            "description": "Les syndicats, ou organisations syndicales, sont des organismes qui représentent les intérêts des travailleurs sur le lieu de travail. Ils négocient les salaires et les conditions de travail, offrent un soutien et des conseils aux membres et œuvrent pour de meilleures conditions de travail."
+        },
+        {
+            "title": "Période/de préavis de résiliation",
+            "description": "Le préavis est la période qui doit s'écouler entre la notification d'un licenciement et la fin de l'emploi. La durée du préavis peut varier en fonction de ce qui est stipulé dans la convention collective ou le contrat de travail et dépend souvent de la durée de l'emploi."
+        },
+        {
+            "title": "Assurans de chômage",
+            "description": "L'assurance-chômage, ou caisse de chômage, est une assurance qui fournit un soutien financier aux travailleurs devenus chômeurs. Pour recevoir une indemnité de l'assurance-chômage, vous devez remplir certaines conditions concernant votre emploi précédent et votre adhésion à une caisse de chômage."
+        },
+        {
+            "title": "Allocation/Bénéfices de bien-être",
+            "description": "L'allocation de bien-être est un avantage exempt d'impôt que de nombreux employeurs en Suède offrent à leurs employés. Il est destiné à des activités qui favorisent la santé et préviennent les maladies. D'autres avantages courants peuvent inclure la pension professionnelle, les assurances et les horaires de travail flexibles."
+        },
+        {
+            "title": "Contrat de travail",
+            "description": "Un contrat de travail est un document juridiquement contraignant entre un employeur et un employé qui spécifie les conditions de l'emploi, y compris le rôle, le salaire, les avantages et les conditions de travail."
+        },
+        {
+            "title": "RH (Ressources Humaines)",
+            "description": "Les RH (Ressources Humaines), ou département du personnel, gèrent les questions liées au personnel au sein d'une organisation. Cela inclut le recrutement, la formation, la gestion des conflits et l'assurance que les politiques de l'entreprise et les lois sont respectées."
+        },
+        {
+            "title": "Heures supplémentaires/ Flexibilité/ Compensation",
+            "description": "Les heures supplémentaires sont les heures que vous travaillez en plus de vos heures de travail habituelles et pour lesquelles vous êtes souvent payé un supplément. La flexibilité implique des heures de travail flexibles où vous pouvez influencer vos heures de travail. Les heures compensatoires, ou heures de récupération, sont des heures de congé que vous obtenez en compensation du travail effectué en heures supplémentaires."
+        }
+     ]
 
-        ]
-    },
+        
+},
     "legal": {
         "header": "Lois & Règlements",
         "content" : [
-        
+            {
+                "title": "Loi sur la santé et la sécurité au travail",
+                "description": "La loi suédoise sur l'environnement de travail réglemente l'environnement de travail et vise à prévenir les maladies et les accidents sur le lieu de travail. L'employeur est responsable de respecter les exigences de la loi, y compris de créer une politique en matière de santé et de sécurité au travail, de respecter les règles et de fournir une formation. Les employés ont le droit de participer et d'influencer grâce aux délégués à la sécurité et aux comités de santé et de sécurité au travail. Dans l'ensemble, la loi vise à protéger à la fois les employés et les employeurs et à promouvoir un lieu de travail sûr."
+             },
+             {
+                "title": "Loi sur le temps de travail",
+                "description": "Loi sur le temps de travail réglemente les droits et les obligations des employeurs et des employés en matière d'horaires de travail et de temps de repos en Suède. La loi établit entre autres le nombre d'heures qu'un employé peut travailler par jour et par semaine, les droits relatifs aux pauses et au repos, ainsi que la gestion des heures supplémentaires et des congés. Son objectif est de protéger les travailleurs contre le surmenage et de garantir un équilibre entre travail et loisirs."
+             },
+             {
+                "title": "Loi sur la protection de l'emploi",
+                "description": "Loi sur la protection de l'emploi est une loi qui régule les droits et les obligations des employeurs et des employés lors de l'embauche. La loi établit notamment des règles pour la résiliation de l'emploi, les préavis de résiliation, et les règles concernant la forme et la durée de l'emploi. L'objectif de la loi sur la protection de l'emploi est de protéger les travailleurs contre les licenciements arbitraires et injustes, ainsi que de promouvoir la sécurité et la stabilité sur le marché du travail."
+             },
+             {
+                "title": "Loi sur la discrimination",
+                "description": "Loi sur la discrimination vise à prévenir et à lutter contre la discrimination dans la société. Elle interdit la discrimination fondée sur le sexe, l'identité de genre ou l'expression de genre, l'origine ethnique, la religion ou toute autre croyance, le handicap, l'orientation sexuelle et l'âge. La loi s'applique dans de nombreux domaines, notamment dans le domaine du travail, de l'éducation et des services publics. Son objectif est de garantir l'égalité des droits et des opportunités pour tous et de promouvoir une société sans discrimination."
+             },
+             {
+                "title": "Loi sur la co-détermination dans la vie professionnelle",
+                "description": "Loi sur la co-détermination dans la vie professionnelle est une loi qui régule la relation entre l'employeur et les employés en accordant aux employés un droit de co-décision sur diverses questions liées au lieu de travail, à condition que le lieu de travail ait une convention collective. La loi établit notamment des règles pour l'organisation syndicale et les négociations entre les employeurs et les syndicats. Le but de cette loi est de promouvoir une bonne coopération entre les employeurs et les employés, ainsi que de garantir l'influence et la participation des employés dans la vie professionnelle."
+             },
+             {
+                 "title": "Loi sur la garantie des salaires",
+                  "description": "La loi sur la garantie des salaires est une loi qui entre en vigueur en cas de faillite ou de liquidation de l'employeur. Le but de la loi est de garantir que les employés reçoivent leurs salaires et autres créances économiques malgré l'insolvabilité de l'employeur. Selon la loi, les employés doivent recevoir une compensation de la part d'un fonds de garantie salariale étatique pour les salaires impayés, les indemnités de congés payés et autres créances économiques découlant de l'emploi. Cela contribue à protéger les travailleurs contre les pertes financières en cas de faillite de l'employeur.."
+              }
+        ]
+    },
+    "links": {
+        "header": "Liens & ressources",
+        "content" : [
+            {
+                "title": "Évaluation de l'éducation étrangère",
+                "link": "https://www.uhr.se/bedomning-av-utlandsk-utbildning/"
+            },
+            {
+                "title": "Apprenez le suédois",
+                "link": "https://www.informationsverige.se/sv/jag-ar-asylsokande/lar-dig-svenska.html"
+            },
+            {
+                "title": "Plus d'informations sur le marché du travail suédois",
+                "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            }
         ]
     }
 }
-
-

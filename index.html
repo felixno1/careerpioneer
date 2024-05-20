@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="/static/css/guidance.css">
+    <link rel="stylesheet" href="/static/css/chat.css">
+    <cookie class="lang-cookie"style="display: none;"></cookie>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <button id="logo" onclick="redirect('/')"><h1>CAREERPIONEER</h1></button>
+        <button id="lang-picker">
+            <img id="lang-icon" src="assets/lang.svg">
+        </button>
+    </header>
+    <div id="main-container">
+        <div id="content-container">
+            <div class="content-title-box">
+                <button class="header-button active" data-type="text" data="terminology/header" connection="terminology-box"></button>
+                <button class="header-button" data-type="text" data="legal/header" connection="legal-box"></button>
+                <button class="header-button" data-type="text" data="links/header" connection="links-box"></button>
+                <button id="job-finder" data-type="text" data="job-finder" onclick="redirect('/job-finder.html')"></button>
+            </div>
+            <div class="content-box active" connection="terminology-box">
+                <div class="content-item" data-type="forloop" data="terminology/content" connection="content">
+                    <button class="content-button"item="title" connection="content"></button>
+                    <div class="description" item="description"></div>
+                    <button class="chat-elaborate">
+                        <div data-type="text" data="tell-me-more"></div>
+                    </button>
+                </div>
+            </div>
+            <div class="content-box" connection="legal-box">
+                <div class="content-item" data-type="forloop" data="legal/content" connection="content">
+                    <button class="content-button"item="title" connection="content"></button>
+                    <div class="description" item="description"></div>
+                    <button class="chat-elaborate">
+                        <div data-type="text" data="tell-me-more"></div>
+                    </button>
+                </div>
+            </div>
+            <div class="content-box" connection="links-box">
+                <div data-type="forloop" data="links/content">
+                    <button class="content-link" link="link"><div item="title"></div></button>
+                </div>
+            </div>
+            
+            <div id="chat-container">
+                    
+                    <div id="msg-box">
+                    </div>
+                    <div id="input-area">
+                        <textarea id="input-box"></textarea>
+                        <button id="send-btn">
+                            <img id="send-icon" src="assets/send.svg">
+                        </button>
+                    </div>
+            </div>
+        </div>
+        
+        <footer id="page-info">
+            <div id="misc-section">
+                <div>
+                    <b>CAREERPIONEER</b>
+                    <br>
+                    A simple web app designed to assist individuals from migrant backgrounds in effectively navigating the Swedish labor market
+                </div>
+            </div>
+            <div id=contact-section>
+                <div>
+                    <b>Development and design</b>
+                    <br>
+                    Felix Uusitalo
+                    <br>
+                    felixuusitalo@outlook.com
+                </div>
+
+                <div>
+                    <b>Design and debugging</b>
+                    <br>
+                    Emma Wallén
+                    <br>
+                    emma.lillebil@gmail.com
+                </div>
+
+                <div>
+                    <b>Translation and field studies</b>
+                    <br>
+                    Jonathan Petterson Sjöberg
+                    <br>
+                    jonathan.pettersson2002@gmail.com
+                </div>
+
+                <div>
+                    <b>Translation and field studies</b>
+                    <br>
+                    Jakob Bridner
+                    <br>
+                    jakobbridner99@gmail.com
+                </div>
+                
+                <div>
+                    <b>Research and analytics</b>
+                    <br>
+                    Felix Hedqvist Persson
+                    <br>
+                    felix.persson99@gmail.com
+                </div>
+
+                <div>
+                    <b>Documentation and reporting</b>
+                    <br>
+                    Måns Dahlvig
+                    <br>
+                    dahlvig.mans@gmail.com
+                </div>
+                
+            </div>
+            <div misc-section></div>
+        </footer>
+    </div>
+    
+    <div class="sidebar" id="lang-sidebar">
+        <div id="lang-list"></div>
+        <button id="confirm-lang">OK</button>
+    </div>
+
+    <script src="/static/js/json_jsonl.js"></script>
+
+    <script src="/static/js/lang.js"></script>
+    <script src="/static/js/cookies.js"></script>
+    <script src="/static/js/json_handler.js"></script>
+    <script src="/static/js/class_handler.js"></script>
+    <script src="/static/js/chat.js"></script>
+    <script src="/static/js/redirect.js"></script>
+</body>
+</html>

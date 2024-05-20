@@ -3,19 +3,18 @@
     "title-right": "PIONEER",
     "careerpioneer": "CareerPioneer",
     "welcome": "Välkommen",
-    "what_do_you_need_help_with": "Vad behöver du hjälp med?",
+    "what-do-you-need-help-with": "Vad behöver du hjälp med?",
     "guidance": "Allmän vägledning kring den svenska arbetsmarknaden",
-    "job_finder": "Hitta ett jobb baserat på dina kompetenser",
-    "tell_me_more": "Berätta mer",
+    "job-finder": "Hitta ett jobb baserat på dina kompetenser",
+    "tell-me-more": "Berätta mer",
     "elaborate": "Berätta mer om",
-    "ask_ai": "Fråga AI...",
-    "what_skills": "Vilka kompetenser har du?",
-    "search_job": "Hitta jobb!",
-    "ai_loading": "AI tar fram yrken...",
-    "recommended_jobs": "Rekommenderade jobb",
-    "n_of_ads_1": "Det finns just nu",
-    "n_of_ads_2": "annonser annonser för yrket",
-    "show_ads": "Visa annonser",
+    "ask-ai": "Fråga AI...",
+    "what-skills": "Välj minst 5 saker du är bra på",
+    "search-job": "Hitta jobb!",
+    "ai-loading": "AI tar fram yrken...",
+    "recommended-jobs": "Rekommenderade jobb",
+    "ads": "annonser",
+    "show-ads": "Visa annonser",
     "terminology": {
         "header": "Vanliga begrepp",
         "content" : [
@@ -100,6 +99,23 @@
                 "title": "Lönegarantilagen",
                  "description": "Lönegarantilagen är en lag som träder i kraft vid en arbetsgivares konkurs eller likvidation. Syftet med lagen är att säkerställa att anställda får ut sina lönefordringar och andra ekonomiska anspråk trots arbetsgivarens insolvens. Enligt lagen ska anställda ges ersättning från en statlig lönegarantifond för obetalda löner, semesterersättning, och andra ekonomiska fordringar som härstammar från anställningen. Detta bidrar till att skydda arbetstagare mot ekonomisk förlust vid arbetsgivarens konkurs."
              }
+        ]
+    },
+    "links": {
+        "header": "Länkar & resurser",
+        "content" : [
+            {
+                "title": "Bedömning av utländsk utbildning",
+                "link": "https://www.uhr.se/bedomning-av-utlandsk-utbildning/"
+            },
+            {
+                "title": "Lär dig svenska",
+                "link": "https://www.informationsverige.se/sv/jag-ar-asylsokande/lar-dig-svenska.html"
+            },
+            {
+                "title": "Mer om den svenska arbetsmarknaden",
+                "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            }
         ]
     }
 }

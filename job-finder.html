@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="/static/css/job_finder.css">
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <cookie class="lang-cookie"style="display: none;"></cookie>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <button id="logo" onclick="redirect('/')"><h1>CAREERPIONEER</h1></button>
+        <button id="home">
+        </button>
+        <button id="home-btn" onclick="redirect('/')">
+            <img id="home-icon" src="assets/home.svg">
+        </button>
+        <button id="lang-picker">
+            <img id="lang-icon" src="assets/lang.svg">
+        </button>
+    </header>
+    <div id="main-container">
+        <div id="ai-container">
+            <h2 data-type="text" data="what-skills"></h2>
+            <div id="skills-container">
+                <div id="refresh-container">
+                    <button id="refresh-btn">
+                        <img id="refresh-icon" src="assets/refresh.svg">
+                    </button>
+                </div>
+            </div>
+            <button id="search-btn" data-type="text" data="search-job"></button>
+            <div id="progress-bar"></div>
+            
+        </div>
+        <div id="loading-container">
+            <h1 data-type="text" data="ai-loading"></h1>
+            <div class="wave-container">
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+                <div class="wave"></div>
+            </div>
+        </div>
+        <div id="jobs-container">
+            <div id="results-container"></div>
+            <div id="ads-container"></div>
+        </div>
+
+        <footer id="page-info">
+            <div id="misc-section">
+                <div>
+                    <b>CAREERPIONEER</b>
+                    <br>
+                    A simple web app designed to assist individuals from migrant backgrounds in effectively navigating the Swedish labor market
+                </div>
+            </div>
+            <div id=contact-section>
+                <div>
+                    <b>Development and design</b>
+                    <br>
+                    Felix Uusitalo
+                    <br>
+                    felixuusitalo@outlook.com
+                </div>
+
+                <div>
+                    <b>Design and debugging</b>
+                    <br>
+                    Emma Wallén
+                    <br>
+                    emma.lillebil@gmail.com
+                </div>
+
+                <div>
+                    <b>Translation and field studies</b>
+                    <br>
+                    Jonathan Petterson Sjöberg
+                    <br>
+                    jonathan.pettersson2002@gmail.com
+                </div>
+
+                <div>
+                    <b>Translation and field studies</b>
+                    <br>
+                    Jakob Bridner
+                    <br>
+                    jakobbridner99@gmail.com
+                </div>
+                
+                <div>
+                    <b>Research and analytics</b>
+                    <br>
+                    Felix Hedqvist Persson
+                    <br>
+                    felix.persson99@gmail.com
+                </div>
+
+                <div>
+                    <b>Documentation and reporting</b>
+                    <br>
+                    Måns Dahlvig
+                    <br>
+                    dahlvig.mans@gmail.com
+                </div>
+                
+            </div>
+            <div misc-section></div>
+        </footer>
+    </div>
+    
+    <div class="sidebar" id="lang-sidebar">
+        <div id="lang-list"></div>
+        <button id="confirm-lang">OK</button>
+    </div>
+
+    <script src="/static/js/json_jsonl.js"></script>
+
+
+    <script src="/static/js/lang.js"></script>
+    <script src="/static/js/cookies.js"></script>
+    <script src="/static/js/json_handler.js"></script>
+    <script src="/static/js/class_handler.js"></script>
+    <script src="/static/js/redirect.js"></script>
+    <script src="/static/js/skill_handler.js"></script>
+    <script src="/static/js/careerpioneer.js"></script>
+    <script src="/static/js/jobsearch.js"></script>
+</body>
+</html>

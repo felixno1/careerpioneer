@@ -3,19 +3,18 @@
     "title-right": "PIONEER",
     "careerpioneer": "CareerPioneer",
     "welcome": "خوش آمدید",
-    "what_do_you_need_help_with": "به چه کمکی نیاز دارید؟",
+    "what-do-you-need-help-with": "به چه کمکی نیاز دارید؟",
     "guidance": "راهنمایی عمومی درباره بازار کار سوئد",
-    "job_finder": "شغل خود را بر اساس مهارت‌هایتان پیدا کنید",
-    "tell_me_more": "بیشتر بگویید",
+    "job-finder": "شغل خود را بر اساس مهارت‌هایتان پیدا کنید",
+    "tell-me-more": "بیشتر بگویید",
     "elaborate": "در مورد آن بیشتر توضیح دهید،",
-    "ask_ai": "از هوش مصنوعی بپرسید...",
-    "what_skills": "چه مهارت‌هایی دارید؟",
-    "search_job": "جستجوی شغل!",
-    "ai_loading": "هوش مصنوعی در حال تولید مشاغل است...",
-    "recommended_jobs": "شغل‌های توصیه شده",
-    "n_of_ads_1": "هم اکنون",
-    "n_of_ads_2": "آگهی برای این شغل وجود دارد",
-    "show_ads": "نمایش آگهی‌ها",
+    "ask-ai": "از هوش مصنوعی بپرسید...",
+    "what-skills": "چه مهارت‌هایی دارید؟",
+    "search-job": "جستجوی شغل!",
+    "ai-loading": "هوش مصنوعی در حال تولید مشاغل است...",
+    "recommended-jobs": "شغل‌های توصیه شده",
+    "ads": "تبلیغات",  
+    "show-ads": "نمایش آگهی‌ها",
     "terminology": {
         "header":  "اصطلاحات رایج",
         "content" : [            
@@ -104,7 +103,22 @@
           }
         
         ]
+    },
+    "links": {
+        "header": "پیوندها و منابع",
+        "content" : [
+            {
+                "title": "ارزیابی آموزش خارج از کشور",
+                "link": "https://www.uhr.se/bedomning-av-utlandsk-utbildning/"
+            },
+            {
+                "title": "یادگیری زبان سوئدی",
+                "link": "https://www.informationsverige.se/sv/jag-ar-asylsokande/lar-dig-svenska.html"
+            },
+            {
+                "title": "اطلاعات بیشتر درباره بازار کار سوئد",
+                "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            }
+        ]
     }
-}
-
-
+}    
