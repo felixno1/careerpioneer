@@ -1,0 +1,125 @@
+#chat-container {
+    height: 512px;
+}
+
+textarea {
+    resize: none;
+    border: none;
+    outline: none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+}
+
+#msg-box {
+    background-color: var(--30);
+    margin-top: 10px;
+    margin-inline: 10px;
+    height: calc(100% - 64px - 20px);
+    width: calc(100% - 20px);
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    overflow-y: scroll;
+}
+
+#input-area {
+    height: calc(64px);
+    width: calc(100% - 20px);
+    background-color: var(--30);
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-inline: 10px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+#input-box {
+    height: 100%;
+    width: calc(100% - 44px);
+    margin: 0px;
+}
+
+#send-btn {
+    background-color: var(--60);
+    width: 44px;
+    height: 44px;
+    margin: 0px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding: 0px;
+    cursor: pointer;
+}
+
+#send-icon {
+    width: 100%;
+    height: 100%;
+    transform: scale(55%);
+    transition: 0.1s;
+}
+
+#send-btn:hover #send-icon {
+    transform: scale(60%);
+}
+
+.msg {
+    max-width: 70%;
+    text-wrap: pretty;
+    word-wrap: break-word;
+    padding: 6px;
+    font-size: 12px;
+    animation: chat 0.2s ease-out;
+}
+
+.msg.user {
+    background-color: var(--10);
+    color: white;
+    align-self: flex-end;
+    margin-right: 10px;
+    margin-block: 4px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.msg.bot {
+    background-color: rgb(220, 220, 220);
+    color: black;
+    align-self: flex-start;
+    margin-left: 10px;
+    margin-block: 4px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+
+@keyframes chat {
+    0% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+
+#content-container.semitic #chat-container {
+    direction: ltr;
+}
+
+#content-container.semitic #input-area {
+    direction: rtl;
+}
+
+@media (min-width: 768px) {
+    #chat-container {
+
+        height: calc(100% - 128px);
+    }
+}

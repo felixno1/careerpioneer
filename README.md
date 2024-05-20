@@ -1,8 +1,7 @@
 
 # Career-pioneer - tig326-project-v2 
 
-The purpose of this tool is to act as a helping hand to approach and navigate on the Swedish Job market. 
-Especially if you are new in the country.
+The purpose of this tool is to act as a helping hand to approach and navigate the Swedish Job market, especially if you are new to the country.
 
 ## Description
 
@@ -15,8 +14,7 @@ The job ad data comes from jobtechdev ( https://data.jobtechdev.se/annonser/hist
 ## Getting Started
 
 ## Instructions
-[MacOS](instructions/mac.md) 
-• [Windows](instructions/win.md)
+
 
 ### Executing program
 
@@ -33,14 +31,14 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Authors
+### Authors
 
 Jakob Bridner:
 Felix Uusitalo:
 Felix Hedqvist Persson:
 Jonathan Pettersson Sjöberg:
 Måns Dahlvig:
-Emma Wallén <3
+Emma Wallén
 
 ## Version History
 

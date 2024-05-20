@@ -2,6 +2,8 @@
 .vscode
 lib/__pycache__
 virt
+flask/.env
+flask/virt
 src/__pycache__
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
