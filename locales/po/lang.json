@@ -19,12 +19,88 @@
     "terminology": {
         "header":  "Wspólna terminologia",
         "content" : [
+            {
+                "title": "Umowa zbiorowa",
+                "description": "Umowa zbiorowa w Szwecji to umowa zawierana między pracodawcą a grupami pracowników, zazwyczaj poprzez związek zawodowy. Umowa ta określa takie kwestie jak wysokość wynagrodzenia, liczba godzin pracy oraz świadczenia, takie jak urlop. Posiadanie umowy zbiorowej oznacza, że zarówno pracodawca, jak i pracownicy uzgodnili warunki pracy, co sprawia, że ​​środowisko pracy jest bardziej stabilne i bezpieczne. Jeśli miejsce pracy ma umowę zbiorową, pracownicy mogą czuć się bardziej bezpiecznie, ponieważ wiedzą, czego mogą się spodziewać jeśli chodzi o wynagrodzenie i inne warunki pracy. Umowy zbiorowe również pomagają unikać konfliktów w miejscu pracy, ponieważ zawierają zasady rozwiązywania problemów."
+            },
+            {
+                "title": "Urlop rodzicielski",
+                "description": "Urlop rodzicielski w Szwecji to czas, gdy rodzice mogą być zwolnieni z pracy, aby opiekować się swoim dzieckiem. Ten system ma na celu umożliwienie rodzicom spędzenia czasu z dziećmi, nie tracąc przy tym dochodu. Podczas urlopu rodzicielskiego otrzymujesz pieniądze od państwa, nazywane zasiłkiem rodzicielskim. Możesz być zwolniony z pracy od dnia narodzin dziecka i nadal być nim do około 1,5 roku życia dziecka. Ogółem przysługuje ci prawo do 480 dni urlopu rodzicielskiego na każde dziecko, a te dni można podzielić między rodziców. System jest elastyczny, co oznacza, że ​​możesz wybrać, jak chcesz wykorzystać te dni. Na przykład możesz być całkowicie na urlopie przez jakiś czas lub pracować krótsze godziny dziennie. Urlop rodzicielski w Szwecji jest sposobem na wsparcie rodzin, aby zarówno matki, jak i ojcowie mogli opiekować się swoimi dziećmi, jednocześnie czując się finansowo zabezpieczeni."
+            },
+            {
+                "title": "Odszkodowanie za urlop",
+                "description": "Odszkodowanie za urlop w Szwecji to rekompensata, którą otrzymujesz, gdy korzystasz z urlopu. Jeśli nie zdążyłeś/aś zgromadzić pełnego urlopu, możesz otrzymać odszkodowanie za urlop w postaci pieniędzy. Jeśli zakończysz zatrudnienie przed skorzystaniem z całego przysługującego Ci urlopu, również należy Ci się odszkodowanie za niewykorzystane dni urlopu."
+            },
+            {
+                "title": "Pełny etat",
+                "description": "Zatrudnienie na pełny etat w Szwecji zazwyczaj odpowiada tygodniowemu wymiarowi pracy wynoszącemu 40 godzin. Praca na pełny etat oznacza, że jesteś zatrudniony na pełny wymiar godzin pracy tygodniowo, określony przez pracodawcę."
+            },
+            {
+                "title": "pół etatu",
+                "description": "Praca na część etatu oznacza, że pracujesz mniej niż pełny tydzień pracy. To może się różnić w zależności od miejsca pracy i rodzaju pracy. Praca na część etatu może być elastyczną opcją dla tych, którzy chcą równoważyć życie zawodowe z innymi zobowiązaniami, takimi jak nauka czy rodzina."
+            },
+            {
+                "title": "Okres próbny",
+                "description": "Okres próbny to początkowa forma zatrudnienia, w której pracodawca i pracownik mają szansę ocenić warunki zatrudnienia przed przekształceniem go w stałe zatrudnienie. Okres próbny może trwać do sześciu miesięcy zgodnie z prawem szwedzkim i może być zakończony krótszym wypowiedzeniem."
+            },
+            {
+                "title": "Związki zawodowe",
+                "description": "Związki zawodowe, zwane także związkami zawodowymi, są organizacjami reprezentującymi interesy pracowników na miejscu pracy. Negocjują one płace i warunki pracy, oferują wsparcie i poradnictwo dla członków oraz pracują nad poprawą warunków pracy."
+            },
+            {
+                "title": "Okres wypowiedzenia/norma",
+                "description": "Okres wypowiedzenia to czas, który musi upłynąć od momentu wypowiedzenia umowy o pracę do jej zakończenia. Długość okresu wypowiedzenia może się różnić w zależności od tego, co jest określone w umowie zbiorowej lub indywidualnej umowie o pracę, i często zależy od długości stażu pracy."
+            },
+            {
+                "title": "Kasa Ubezpieczenia Bezrobotnych",
+                "description": "Kasa Ubezpieczenia Bezrobotnych, zwana także kasą dla bezrobotnych, to ubezpieczenie zapewniające wsparcie finansowe dla pracowników, którzy utracili pracę. Aby otrzymać świadczenie z kasy dla bezrobotnych, musisz spełnić określone warunki dotyczące poprzedniej pracy i członkostwa w kasie dla bezrobotnych."
+            },
+            {
+                "title": "Zasiłek na opiekę zdrowotną/Korzyści",
+                "description": "Zasiłek na rzecz zdrowia jest korzyścią podatkową, którą wielu pracodawców w Szwecji oferuje swoim pracownikom. Jest przeznaczony na działania promujące zdrowie i zapobiegające chorobom. Inne popularne korzyści mogą obejmować emeryturę służbową, ubezpieczenia i elastyczne godziny pracy."
+            },
+            {
+                "title": "Umowa o pracę",
+                "description": "Umowa o pracę jest prawnie wiążącym dokumentem między pracodawcą a pracownikiem, który określa warunki zatrudnienia, w tym rolę, wynagrodzenie, świadczenia oraz warunki pracy."
+            },
+            {
+                "title": "Zasoby Ludzkie (HR)",
+                "description": "Zasoby Ludzkie (HR), lub dział personalny, zajmuje się kwestiami związanymi z personelem w organizacji. Obejmuje to rekrutację, szkolenia, rozwiązywanie konfliktów oraz zapewnienie przestrzegania polityk i przepisów prawnych firmy."
+            },
+            {
+                "title": "Nadgodziny/Flex/Kompensacja",
+                "description": "Nadgodziny to godziny pracy poza regularnymi godzinami i często oznacza dodatkowe wynagrodzenie. Flex to elastyczny czas pracy, który umożliwia wpływ na harmonogram pracy. Komp, czyli czas kompensacyjny, to czas wolny, który otrzymujesz w zamian za nadgodziny."
+            }
 
         ]
     },
     "legal": {
         "header": "Prawo i regulacje",
         "content" : [
+            {
+                "title": "Ustawa o bezpieczeństwie i higienie pracy",
+                "description": "Arbetsmiljölagen w Szwecji reguluje środowisko pracy i ma na celu zapobieganie chorobom zawodowym oraz wypadkom przy pracy. Pracodawca ponosi odpowiedzialność za przestrzeganie wymagań ustawy, w tym tworzenie polityki bezpieczeństwa i higieny pracy, przestrzeganie przepisów oraz prowadzenie szkoleń. Pracownicy mają prawo do uczestnictwa i wpływu poprzez przedstawicieli ds. bezpieczeństwa oraz komitet ds. bezpieczeństwa i higieny pracy. Ogólnie rzecz biorąc, celem ustawy jest ochrona zarówno pracowników, jak i pracodawców oraz promowanie bezpiecznego miejsca pracy."
+             },
+             {
+                "title": "Ustawa o czasie pracy",
+                "description": "Ustawa o czasie pracy reguluje prawa i obowiązki pracodawców oraz pracowników dotyczące czasu pracy i okresów odpoczynku w Szwecji. Ustawa określa między innymi, ile godzin może pracować pracownik dziennie i tygodniowo, jakie prawa przysługują w przypadku przerw i czasu wolnego oraz jak należy zarządzać pracą w nadgodzinach i urlopem. Celem jest ochrona pracowników przed nadmiernym obciążeniem pracą i zapewnienie równowagi między pracą a czasem wolnym."
+             },
+             {
+                "title": "Ustawa o ochronie zatrudnienia",
+                "description": "Ustawa o ochronie zatrudnienia reguluje prawa i obowiązki pracodawców oraz pracowników w zakresie zatrudnienia. Określa ona między innymi zasady dotyczące rozwiązania umowy o pracę, wymagane powiadomienie przy zwolnieniu oraz reguły dotyczące formy i czasu trwania zatrudnienia. Celem ustawy o ochronie zatrudnienia jest ochrona pracowników przed arbitralnymi i niesprawiedliwymi zwolnieniami oraz promowanie bezpieczeństwa i stabilności na rynku pracy."
+             },
+             {
+                "title": "Ustawa o dyskryminacji",
+                "description": "Ustawa o dyskryminacji ma na celu zapobieganie i zwalczanie dyskryminacji w społeczeństwie. Zakazuje ona dyskryminacji ze względu na płeć, tożsamość płciową lub wyrażanie płci, przynależność etniczną, religię lub inną przekonanie religijne, niepełnosprawność, orientację seksualną oraz wiek. \nPrzepisy ustawy obejmują wiele obszarów, w tym życie zawodowe, edukację i usługi publiczne. Jej celem jest zapewnienie równych praw i możliwości dla wszystkich ludzi oraz promowanie społeczeństwa wolnego od dyskryminacji."
+             },
+             {
+                "title": "Ustawa o współdecydowaniu w życiu zawodowym",
+                "description": "Ustawa o współdecydowaniu w życiu zawodowym to prawo regulujące relacje między pracodawcą a pracownikiem, poprzez nadanie pracownikom prawa do współdecydowania w różnych kwestiach dotyczących miejsca pracy, o ile miejsce pracy ma zawarte porozumienie zbiorowe. Ustawa określa między innymi zasady dotyczące organizacji związkowej oraz negocjacji między pracodawcą a związkami zawodowymi. \nCelem tej ustawy jest promowanie dobrej współpracy między pracodawcą a pracownikami oraz zapewnienie pracownikom wpływu i udziału w życiu zawodowym.."
+             },
+             {
+                 "title": "ustawa o gwarancjach wynagrodzeń",
+                  "description": "ustawa o gwarancjach wynagrodzeń, jest ustawą, która wchodzi w życie w przypadku upadłości lub likwidacji pracodawcy. Jej celem jest zapewnienie, że pracownicy otrzymają swoje wynagrodzenia i inne roszczenia finansowe mimo niewypłacalności pracodawcy. Zgodnie z ustawą, pracownicy mają prawo do otrzymania rekompensaty z państwowego funduszu gwarancji wynagrodzeń za niezapłacone pensje, świadczenia urlopowe i inne roszczenia finansowe związane z zatrudnieniem. To pomaga chronić pracowników przed stratami finansowymi w przypadku upadłości pracodawcy."
+              }
         
         ]
     }
