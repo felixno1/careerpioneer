@@ -24,8 +24,7 @@ def explain_endpoint():
     data = request.json
     prompt = data.get('prompt')
     explanation = data.get('explanation')
-    word = data.get('word')
-    response = explain(f'{prompt}, {word}', explanation)
+    response = explain(prompt, explanation)
     return add_cors_headers(jsonify({'response': response}))
 
 if __name__ == '__main__':
