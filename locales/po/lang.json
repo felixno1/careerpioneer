@@ -8,7 +8,7 @@
     "job-finder": "Znajdź pracę na podstawie swoich kompetencji",
     "tell-me-more": "Powiedz więcej",
     "elaborate": "Opowiedz więcej o",
-    "ask-ai": "Zapytaj AI...",
+    "ask-ai": "Witaj w CareerPioneer! Nie krępuj się przeglądać i śmiało zadawaj mi pytania.",
     "what-skills": "Jakie masz kompetencje?",
     "search-job": "Szukaj pracy!",
     "ai-loading": "AI generuje zawody...",
@@ -117,6 +117,10 @@
             {
                 "title": "Więcej informacji o szwedzkim rynku pracy",
                 "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            },
+            {
+                "title": "Złóż wniosek o szwedzką licencję",
+                "link": "https://legitimation.socialstyrelsen.se/legitimation/"
             }
         ]
     }

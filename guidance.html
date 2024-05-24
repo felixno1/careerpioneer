@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./static/css/styles.css">
-    <link rel="stylesheet" href="./static/css/index.css">
+    <link rel="stylesheet" href="./static/css/guidance.css">
+    <link rel="stylesheet" href="./static/css/chat.css">
     <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href=".assets/favicon/favicon-16x16.png">
@@ -15,22 +16,58 @@
 <body>
     <header>
         <button id="logo" onclick="redirect('./')"><h1>CAREERPIONEER</h1></button>
+        <button id="home-btn" onclick="redirect('./')">
+            <img id="home-icon" src="./assets/home.svg">
+        </button>
         <button id="lang-picker">
             <img id="lang-icon" src="./assets/lang.svg">
         </button>
     </header>
     <div id="main-container">
-        <div id="idgaf-container">
-            <h2 data-type="text" data="what-do-you-need-help-with"></h2>
-            <div id="redirect-container">
-                <div class="redirect-btn" onclick="redirect('./guidance.html')">
-                    <div class="redirect-text" data-type="text" data="guidance"></div>
-                </div>
-                <div class="redirect-btn" onclick="redirect('./job-finder.html')">
-                    <div class="redirect-text" data-type="text" data="job-finder"></div>
+        <div id="content-container">
+            <div class="content-title-box">
+                <button class="header-button active" data-type="text" data="terminology/header" connection="terminology-box"></button>
+                <button class="header-button" data-type="text" data="legal/header" connection="legal-box"></button>
+                <button class="header-button" data-type="text" data="links/header" connection="links-box"></button>
+                <button id="job-finder" data-type="text" data="job-finder" onclick="redirect('./job-finder.html')"></button>
+            </div>
+            <div class="content-box active" connection="terminology-box">
+                <div class="content-item" data-type="forloop" data="terminology/content" connection="content">
+                    <button class="content-button"item="title" connection="content"></button>
+                    <div class="description" item="description"></div>
+                    <button class="chat-elaborate">
+                        <div data-type="text" data="tell-me-more"></div>
+                    </button>
                 </div>
             </div>
+            <div class="content-box" connection="legal-box">
+                <div class="content-item" data-type="forloop" data="legal/content" connection="content">
+                    <button class="content-button"item="title" connection="content"></button>
+                    <div class="description" item="description"></div>
+                    <button class="chat-elaborate">
+                        <div data-type="text" data="tell-me-more"></div>
+                    </button>
+                </div>
+            </div>
+            <div class="content-box" connection="links-box">
+                <div data-type="forloop" data="links/content">
+                    <button class="content-link" link="link"><div item="title"></div></button>
+                </div>
+            </div>
+            
+            <div id="chat-container">
+                    <div id="msg-box">
+                    <div class="bot msg" data-type="text" data="ask-ai"></div>
+                    </div>
+                    <div id="input-area">
+                        <textarea id="input-box" placeholder="..."></textarea>
+                        <button id="send-btn">
+                            <img id="send-icon" src="./assets/send.svg">
+                        </button>
+                    </div>
+            </div>
         </div>
+        
         <footer id="page-info">
             <div id="misc-section">
                 <div>

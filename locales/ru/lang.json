@@ -8,7 +8,7 @@
     "job-finder": "Найти работу, соответствующую вашим навыкам",
     "tell-me-more": "Расскажите подробнее",
     "elaborate": "Расскажите подробнее о",
-    "ask-ai": "Спросить у ИИ...",
+    "ask-ai": "Добро пожаловать на CareerPioneer! Не стесняйтесь исследовать и задавать мне вопросы.",
     "what-skills": "Какие у вас навыки?",
     "search-job": "Искать работу!",
     "ai-loading": "ИИ подбирает профессии...",
@@ -117,6 +117,10 @@
             {
                 "title": "Больше информации о шведском рынке труда",
                 "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            },
+            {
+                "title": "Подать заявление на шведскую лицензию",
+                "link": "https://legitimation.socialstyrelsen.se/legitimation/"
             }
         ]
     }
