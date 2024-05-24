@@ -25,6 +25,12 @@ textarea {
     overflow-y: scroll;
 }
 
+#msg-box h2 {
+    padding-left: 12px;
+    padding-top: 0;
+    margin-top: 12px;
+}
+
 #input-area {
     height: calc(64px);
     width: calc(100% - 20px);

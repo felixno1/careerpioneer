@@ -8,7 +8,7 @@
     "job-finder": "شغل خود را بر اساس مهارت‌هایتان پیدا کنید",
     "tell-me-more": "بیشتر بگویید",
     "elaborate": "در مورد آن بیشتر توضیح دهید،",
-    "ask-ai": "از هوش مصنوعی بپرسید...",
+    "ask-ai": "خوش آمدید به CareerPioneer! احساس راحت کنید و برای من سوال بپرسید.",
     "what-skills": "چه مهارت‌هایی دارید؟",
     "search-job": "جستجوی شغل!",
     "ai-loading": "هوش مصنوعی در حال تولید مشاغل است...",
@@ -118,6 +118,10 @@
             {
                 "title": "اطلاعات بیشتر درباره بازار کار سوئد",
                 "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            },
+            {
+                "title": "درخواست مجوز سوئدی برای کار در حوزه بهداشت",
+                "link": "https://legitimation.socialstyrelsen.se/legitimation/"
             }
         ]
     }

@@ -1,0 +1,49 @@
+#redirect-container {
+    display: flex;
+    width: 100%;
+    height: min-content;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.redirect-btn {
+    width: 420px;
+    height: 256px;
+    /*background-color: var(--30);*/
+    margin: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    box-shadow: 0 0 0 3px var(--10) inset;
+    color: var(--10);
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+.redirect-btn:hover {
+    background-color: var(--10);
+    color: white;
+    transform: scale(103%);
+}   
+
+.redirect-text {
+    text-align: center;
+    font-size: 24px;
+    padding: 24px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+#idgaf-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: calc(100% - 128px);
+}

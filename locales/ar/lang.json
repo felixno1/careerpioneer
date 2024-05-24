@@ -8,7 +8,7 @@
     "job-finder": "ابحث عن وظيفة بناءً على مهاراتك",
     "tell-me-more": "أخبرني أكثر",
     "elaborate": "يرجى تقديم المزيد من المعلومات،",
-    "ask-ai": "اسأل الذكاء الاصطناعي...",
+    "ask-ai": "مرحبًا بك في CareerPioneer! لا تتردد في تصفح الموقع ولا تتردد في طرح أي أسئلة.",
     "what-skills": "ما هي مهاراتك؟",
     "search-job": "ابحث عن وظيفة!",
     "ai-loading": "...الذكاء الاصطناعي يبحث عن وظائف",
@@ -115,6 +115,10 @@
             {
                 "title": "المزيد حول سوق العمل السويدية",
                 "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            },
+            {
+                "title": "البحث عن ترخيص سويدي للعمل في مجال الرعاية الصحية والصحة",
+                "link": "https://legitimation.socialstyrelsen.se/legitimation/"
             }
         ]
     }

@@ -136,6 +136,8 @@
 .content-link {
     cursor: pointer;
     transition: 0.1s;
+    background-color: rgba(0, 0, 0, 0);
+
 }
 
 .content-link:hover {
@@ -146,6 +148,8 @@
 .description {
     font-size: 12px;
     padding-block: 6px;
+    background-color: rgba(0, 0, 0, 0);
+
 }
 
 .content-item .description, .chat-elaborate {

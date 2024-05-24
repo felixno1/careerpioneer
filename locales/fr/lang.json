@@ -8,7 +8,7 @@
     "job-finder": "Trouvez un emploi basé sur vos compétences",
     "tell-me-more": "Dites-en plus",
     "elaborate": "Dites-en plus sur",
-    "ask-ai": "Demander à l'IA...",
+    "ask-ai": "Bienvenue sur CareerPioneer ! N'hésitez pas à naviguer et n'hésitez pas à me poser des questions.",
     "what-skills": "Quelles compétences possédez-vous ?",
     "search-job": "Trouver des emplois !",
     "ai-loading": "L'IA génère des professions...",
@@ -117,6 +117,10 @@
             {
                 "title": "Plus d'informations sur le marché du travail suédois",
                 "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            },
+            {
+                "title": "Recherche d'une licence suédoise pour travailler dans le domaine de la santé et des soins de santé",
+                "link": "https://legitimation.socialstyrelsen.se/legitimation/"
             }
         ]
     }

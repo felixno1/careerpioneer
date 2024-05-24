@@ -8,7 +8,7 @@
     "job-finder": "根据您的技能找到工作",
     "tell-me-more": "告诉我更多",
     "elaborate": "详细告诉我",
-    "ask-ai": "询问AI...",
+    "ask-ai": "欢迎来到CareerPioneer！随意浏览，不要犹豫向我提问。",
     "what-skills": "你有哪些技能？",
     "search-job": "找工作！",
     "ai-loading": "AI正在生成职业...",
@@ -117,6 +117,10 @@
             {
                 "title": "了解瑞典劳动力市场",
                 "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            },
+            {
+                "title": "在医疗保健领域寻求瑞典执照",
+                "link": "https://legitimation.socialstyrelsen.se/legitimation/"
             }
         ]
     }

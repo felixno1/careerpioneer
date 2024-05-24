@@ -45,6 +45,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function requestExplanation(message, explanation) {
+        console.log(explanation);
+        console.log(message);
         fetch('http://careerpioneer.pythonanywhere.com/explain', {
             method: 'POST',
             headers: {

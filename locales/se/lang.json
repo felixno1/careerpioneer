@@ -8,7 +8,7 @@
     "job-finder": "Hitta ett jobb baserat på dina kompetenser",
     "tell-me-more": "Berätta mer",
     "elaborate": "Berätta mer om",
-    "ask-ai": "Fråga AI...",
+    "ask-ai": "Välkommen till CareerPioneer! Ta en titt runt på sidan och tveka inte på att ställa mig några frågor.",
     "what-skills": "Välj minst 5 saker du är bra på",
     "search-job": "Hitta jobb!",
     "ai-loading": "AI tar fram yrken...",
@@ -115,6 +115,10 @@
             {
                 "title": "Mer om den svenska arbetsmarknaden",
                 "link": "https://www.informationsverige.se/en/om-sverige/att-forsorja-sig-och-utvecklas-i-sverige.html"
+            },
+            {
+                "title": "Söka svensk legitimation för arbete inom sjukvård",
+                "link": "https://legitimation.socialstyrelsen.se/legitimation/"
             }
         ]
     }
